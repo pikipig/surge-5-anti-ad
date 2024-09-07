@@ -1,0 +1,33 @@
+name: Update and Push Domainswild File
+
+on:
+  schedule:
+    # 每12小时运行一次
+    - cron: '0 */12 * * *'
+  workflow_dispatch: # 允许手动触发
+
+jobs:
+  update-file:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Download the latest domainswild.txt
+        run: |
+          curl -o domainswild.txt https://small.oisd.nl/domainswild
+
+      - name: Replace all *. with . in the file
+        run: |
+          sed -i 's/\*\./\./g' domainswild.txt
+
+      - name: Commit and push changes
+        uses: EndBug/add-and-commit@v5
+        with:
+          add: 'domainswild.txt'
+          author_name: Your Name
+          author_email: your-email@example.com
+          message: 'Auto-update domainswild.txt'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

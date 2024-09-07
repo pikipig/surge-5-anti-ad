@@ -16,7 +16,7 @@ jobs:
 
       - name: Download the latest domainswild.txt
         run: |
-          curl -o antiAD-set.txt https://small.oisd.nl/domainswild
+          curl -o antiAD-set.txt https://raw.githubusercontent.com/sjhgvr/oisd/main/domainswild_small.txt
 
       - name: Replace all *. with . in the file
         run: |

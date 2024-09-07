@@ -3,7 +3,7 @@ name: Update and Push Domainswild File
 on:
   schedule:
     # 每6小執行一次
-    - cron: '46 18 * * *'
+    - cron: '0 */6 * * *'
   workflow_dispatch: # 允许手動觸發
 
 jobs:

@@ -1,16 +1,17 @@
-name: Update Domainswild File
+name: Update and Upload Domainswild File
 
 on:
   schedule:
-    - cron: '46 1 * * *'  # 每天午夜（UTC时间）触发一次
-  workflow_dispatch:  # 允许手动触发
+    # 每12小时触发一次
+    - cron: '0 */12 * * *'
+  workflow_dispatch: # 允许手动触发
 
 jobs:
-  update-file:
+  release:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
+      - name: Checkout repository
         uses: actions/checkout@v2
 
       - name: Download the latest domainswild.txt
@@ -22,9 +23,16 @@ jobs:
           sed -i 's/\*\./\./g' domainswild.txt
 
       - name: Commit and push changes
+        uses: EndBug/add-and-commit@v5
+        with:
+          add: 'domainswild.txt'
+          author_name: Roy Li
+          author_email: me@dada.li
+          message: 'Auto update domainswild.txt'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Prepare files
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add domainswild.txt
-          git commit -m "Update domainswild.txt with latest version"
-          git push
+          mkdir -p ./rule-set
+          cp ./domainswild.txt ./rule-set/

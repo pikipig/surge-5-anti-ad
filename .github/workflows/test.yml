@@ -1,0 +1,30 @@
+name: Update Domainswild File
+
+on:
+  schedule:
+    - cron: '46 1 * * *'  # 每天午夜（UTC时间）触发一次
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  update-file:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Download the latest domainswild.txt
+        run: |
+          curl -o domainswild.txt https://small.oisd.nl/domainswild
+
+      - name: Replace all *. with . in the file
+        run: |
+          sed -i 's/\*\./\./g' domainswild.txt
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add domainswild.txt
+          git commit -m "Update domainswild.txt with latest version"
+          git push

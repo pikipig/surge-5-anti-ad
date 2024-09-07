@@ -16,11 +16,11 @@ jobs:
 
       - name: Download the latest domainswild.txt
         run: |
-          curl -o domainswild.txt https://small.oisd.nl/domainswild
+          curl -o antiAD-set.txt https://small.oisd.nl/domainswild
 
       - name: Replace all *. with . in the file
         run: |
-          sed -i 's/\*\./\./g' domainswild.txt
+          sed -i 's/\*\./\./g' antiAD-set.txt
 
       - name: Commit and push changes
         uses: EndBug/add-and-commit@v5

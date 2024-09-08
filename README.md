@@ -6,13 +6,17 @@
 使用 GitHub Actions 自動轉換 oisd small以及big 至 Surge 5 可使用 Domain set 格式 每6小時更新一次
 
 oisd small：https://small.oisd.nl/domainswild
+
 oisd big：https://big.oisd.nl/domainswild
+
 oisd nsfw：https://nsfw.oisd.nl/domainswild
 
 DOMAIN-SET-small：
 https://raw.githubusercontent.com/pikipig/surge-5-anti-ad/main/antiAD-set.txt
+
 DOMAIN-SET-big：
 https://raw.githubusercontent.com/pikipig/surge-5-anti-ad/main/antiAD-set-big.txt
+
 DOMAIN-SET-nsfw：
 https://raw.githubusercontent.com/pikipig/surge-5-anti-ad/main/antiAD-set-nsfw.txt
 

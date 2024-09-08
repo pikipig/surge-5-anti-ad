@@ -20,7 +20,7 @@ jobs:
           
       - name: Replace all *. with . in the file
         run: |
-          sed -i 's/\*\./\./g' antiAD-set.txt
+          sed -i 's/\*\./\./g' antiAD-set-small.txt
           
       - name: Download the latest oisd-big.txt
         run: |
@@ -42,7 +42,7 @@ jobs:
       - name: Commit and push changes
         uses: EndBug/add-and-commit@v5
         with:
-          add: 'antiAD-set.txt'
+          add: 'antiAD-set-small.txt'
           author_name: pikipig
           author_email: qaqa45194541@gmail.com
           message: 'Auto update'

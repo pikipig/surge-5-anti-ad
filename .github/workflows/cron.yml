@@ -27,7 +27,7 @@ jobs:
         with:
           add: 'antiAD-set.txt'
           author_name: pikipig
-          author_email: qaqa45194541@example.com
-          message: 'Auto-update antiAD-set.txt'
+          author_email: qaqa45194541@gmail.com
+          message: 'Auto update'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

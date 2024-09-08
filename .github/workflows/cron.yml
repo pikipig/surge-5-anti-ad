@@ -29,6 +29,15 @@ jobs:
       - name: Replace all *. with . in the file
         run: |
           sed -i 's/\*\./\./g' antiAD-set-big.txt
+          
+      - name: Download the latest oisd-nsfw.txt
+        run: |
+          curl -o antiAD-set-nsfw.txt https://raw.githubusercontent.com/sjhgvr/oisd/main/domainswild_nsfw.txt
+          
+      - name: Replace all *. with . in the file
+        run: |
+          sed -i 's/\*\./\./g' antiAD-set-nsfw.txt
+          
 
       - name: Commit and push changes
         uses: EndBug/add-and-commit@v5
@@ -48,4 +57,14 @@ jobs:
           author_email: qaqa45194541@gmail.com
           message: 'Auto update'
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
+          
+      - name: Commit and push changes
+        uses: EndBug/add-and-commit@v5
+        with:
+          add: 'antiAD-set-nsfw.txt'
+          author_name: pikipig
+          author_email: qaqa45194541@gmail.com
+          message: 'Auto update'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

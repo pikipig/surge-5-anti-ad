@@ -24,7 +24,7 @@ https://raw.githubusercontent.com/pikipig/surge-5-anti-ad/main/antiAD-set-nsfw.t
 DOMAIN-SET-small：
 ```
 [Rule]
-DOMAIN-SET,https://raw.githubusercontent.com/pikipig/surge-5-anti-ad/main/antiAD-set.txt,REJECT
+DOMAIN-SET,https://raw.githubusercontent.com/pikipig/surge-5-anti-ad/main/antiAD-set-smal,REJECT
 ```
 DOMAIN-SET-big：
 ```

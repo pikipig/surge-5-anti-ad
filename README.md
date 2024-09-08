@@ -1,4 +1,4 @@
-自動轉換oisd small 至surge 5 可使用domain set 格式 每6小時更新一次
+自動轉換oisd small至surge 5可使用domain set格式 每6小時更新一次
 
 oisd：https://oisd.nl/
 

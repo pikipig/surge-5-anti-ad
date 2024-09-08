@@ -9,7 +9,7 @@ oisd 官網：https://oisd.nl/
 
 ## 連結
 DOMAIN-SET-small：
-https://raw.githubusercontent.com/pikipig/surge-5-anti-ad/main/antiAD-set.txt
+https://raw.githubusercontent.com/pikipig/surge-5-anti-ad/main/antiAD-set-small.txt
 
 DOMAIN-SET-big：
 https://raw.githubusercontent.com/pikipig/surge-5-anti-ad/main/antiAD-set-big.txt

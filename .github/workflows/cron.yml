@@ -14,18 +14,26 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Download the latest domainswild.txt
+      - name: Download the latest oisd-small.txt
         run: |
           curl -o antiAD-set.txt https://raw.githubusercontent.com/sjhgvr/oisd/main/domainswild_small.txt
-
+          
       - name: Replace all *. with . in the file
         run: |
           sed -i 's/\*\./\./g' antiAD-set.txt
+          
+      - name: Download the latest oisd-big.txt
+        run: |
+          curl -o antiAD-set-big.txt https://raw.githubusercontent.com/sjhgvr/oisd/main/domainswild_big.txt
+          
+      - name: Replace all *. with . in the file
+        run: |
+          sed -i 's/\*\./\./g' antiAD-set-big.txt
 
       - name: Commit and push changes
         uses: EndBug/add-and-commit@v5
         with:
-          add: 'antiAD-set.txt'
+          add: 'antiAD-set.txt,antiAD-set-big.txt'
           author_name: pikipig
           author_email: qaqa45194541@gmail.com
           message: 'Auto update'

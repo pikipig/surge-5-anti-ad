@@ -33,9 +33,19 @@ jobs:
       - name: Commit and push changes
         uses: EndBug/add-and-commit@v5
         with:
-          add: 'antiAD-set.txt,antiAD-set-big.txt'
+          add: 'antiAD-set.txt'
           author_name: pikipig
           author_email: qaqa45194541@gmail.com
           message: 'Auto update'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Commit and push changes
+        uses: EndBug/add-and-commit@v5
+        with:
+          add: 'antiAD-set-big.txt'
+          author_name: pikipig
+          author_email: qaqa45194541@gmail.com
+          message: 'Auto update'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  

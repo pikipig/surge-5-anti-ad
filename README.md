@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/pikipig/surge-5-anti-ad/main/pic/surge.jpg" width="300"></img>
 </p>
 
-#關於
+# 簡介
 使用 GitHub Actions 自動轉換oisd small至surge 5可使用domain set格式 每6小時更新一次
 
 oisd：https://oisd.nl/

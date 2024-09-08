@@ -5,8 +5,16 @@
 # 簡介
 使用 GitHub Actions 自動轉換 oisd blocklist 至 Surge 5 可使用的 Domain set 格式，每3小時更新一次。
 
-oisd 官網：https://oisd.nl/
+oisd small
+Mainly focusses on blocking ads
 
+oisd big Note: oisd big 已包含 oisd small 規則，不建議同時使用。
+Blocks Ads, (Mobile) App Ads, Phishing, Malvertising, Malware, Spyware, Ransomware, CryptoJacking, Scam, ... Telemetry/Analytics/Tracking (Where not needed for proper functionality)
+
+oisd nsfw
+Blocks porn/shock/adult sites
+
+oisd 官網：https://oisd.nl/
 ## 連結
 DOMAIN-SET-small：
 https://raw.githubusercontent.com/pikipig/surge-5-anti-ad/main/antiAD-set-small.txt

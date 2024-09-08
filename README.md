@@ -3,7 +3,7 @@
 </p>
 
 # 簡介
-使用 GitHub Actions 自動轉換 oisd small以及big 至 Surge 5 可使用 Domain set 格式 每6小時更新一次
+使用 GitHub Actions 自動轉換 oisd blocklist 至 Surge 5 可使用的 Domain set 格式，每6小時更新一次。
 
 oisd 官網：https://oisd.nl/
 

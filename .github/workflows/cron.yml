@@ -1,68 +1,35 @@
-name: Update and Push Domainswild File
+name: Update and Push Domainswild Files
 
 on:
   schedule:
-    # 每3小時執行一次
     - cron: '0 */3 * * *'
-  workflow_dispatch: # 允許手動觸發
+  workflow_dispatch: 
 
 jobs:
-  update-file:
+  update-files:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Download the latest oisd-small.txt
+      - name: Download and process domain files
         run: |
-          curl -o antiAD-set-small.txt https://raw.githubusercontent.com/sjhgvr/oisd/main/domainswild_small.txt
-          
-      - name: Replace all *. with . in the file
-        run: |
-          sed -i 's/\*\./\./g' antiAD-set-small.txt
-          
-      - name: Download the latest oisd-big.txt
-        run: |
-          curl -o antiAD-set-big.txt https://raw.githubusercontent.com/sjhgvr/oisd/main/domainswild_big.txt
-          
-      - name: Replace all *. with . in the file
-        run: |
-          sed -i 's/\*\./\./g' antiAD-set-big.txt
-          
-      - name: Download the latest oisd-nsfw.txt
-        run: |
-          curl -o antiAD-set-nsfw.txt https://raw.githubusercontent.com/sjhgvr/oisd/main/domainswild_nsfw.txt
-          
-      - name: Replace all *. with . in the file
-        run: |
-          sed -i 's/\*\./\./g' antiAD-set-nsfw.txt
-          
+          declare -A files=(
+            ["antiAD-set-small.txt"]="https://raw.githubusercontent.com/sjhgvr/oisd/main/domainswild_small.txt"
+            ["antiAD-set-big.txt"]="https://raw.githubusercontent.com/sjhgvr/oisd/main/domainswild_big.txt"
+            ["antiAD-set-nsfw.txt"]="https://raw.githubusercontent.com/sjhgvr/oisd/main/domainswild_nsfw.txt"
+          )
+
+          for file in "${!files[@]}"; do
+            curl -o "$file" "${files[$file]}"
+            sed -i 's/\*\./\./g' "$file"
+          done
 
       - name: Commit and push changes
         uses: EndBug/add-and-commit@v5
         with:
-          add: 'antiAD-set-small.txt'
-          author_name: pikipig
-          author_email: qaqa45194541@gmail.com
-          message: 'Auto update'
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
-      - name: Commit and push changes
-        uses: EndBug/add-and-commit@v5
-        with:
-          add: 'antiAD-set-big.txt'
-          author_name: pikipig
-          author_email: qaqa45194541@gmail.com
-          message: 'Auto update'
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
-          
-      - name: Commit and push changes
-        uses: EndBug/add-and-commit@v5
-        with:
-          add: 'antiAD-set-nsfw.txt'
+          add: '*.txt'  
           author_name: pikipig
           author_email: qaqa45194541@gmail.com
           message: 'Auto update'

@@ -1,9 +1,9 @@
-# Version: 202409261806
+# Version: 202409262106
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 46232
-# Last modified: 2024-09-26T18:06:36+0000
+# Entries: 46220
+# Last modified: 2024-09-26T21:06:43+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -7818,7 +7818,6 @@
 .beacon.shazam.com
 .beacon.sina.com.cn
 .beacon.sojern.com
-.beacon.statful.com
 .beacon.toyota.co.jp
 .beacon.tws.toyota.jp
 .beacon.vertebrae-axis.com
@@ -15628,7 +15627,6 @@
 .dtscdn.com
 .dtscout.com
 .dtsedge.com
-.dtsuqeneaipu.com
 .dttrk.com
 .dtu2kitmpserg.cloudfront.net
 .dtv5loup63fac.cloudfront.net
@@ -16441,7 +16439,6 @@
 .emerald.aomg5bzv7.com
 .emeraldhecticteapot.com
 .emergedmassacre.com
-.emigrantblunder.com
 .emigrantmovements.com
 .emigreehurty.top
 .emigressetae.com
@@ -18838,7 +18835,6 @@
 .fuyviz.com
 .fuywsmvxhtg.com
 .fuzakumpaks.com
-.fuzinghummaul.com
 .fuzvjy.com
 .fuzzydinnerbedtime.com
 .fuzzyincline.com
@@ -22059,7 +22055,6 @@
 .impassabletitanicjunction.com
 .impatientliftdiploma.com
 .impatientlyastonishing.com
-.impavidcircean.com
 .impavidmarsian.com
 .impeccablewriter.com
 .impendingboisterousastray.com
@@ -22476,7 +22471,6 @@
 .insultingvaultinherited.com
 .insultoccupyamazed.com
 .insultresignation.com
-.insumber.com
 .inswebt.com
 .inswellbathes.com
 .intake-analytics.wikimedia.org
@@ -22798,7 +22792,6 @@
 .iteyi.xyz
 .itfarm.com
 .itgiblean.com
-.itheatmora.com
 .itheatmoran.com
 .ithoughtsustache.info
 .iththinleldedallov.info
@@ -23262,7 +23255,6 @@
 .jnhjpdayvpzj.com
 .jnlldyq.com
 .jnnjthg.com
-.jnpwkazdss.com
 .jnrgcwf.com
 .jnrtavp2x66u.com
 .jo.429men.com
@@ -24793,7 +24785,6 @@
 .limitlessascertain.com
 .limitsevent.com
 .limitssimultaneous.com
-.limnsbeamer.com
 .limoiditches.top
 .limone.iltrovatore.it
 .limoners.com
@@ -36795,7 +36786,6 @@
 .slowlythrobtreasurer.com
 .slowundergroundattentive.com
 .sltle.icu
-.sltracl.com
 .sltraffic.com
 .sluccju.com
 .sluggedunbeget.top
@@ -40738,7 +40728,6 @@
 .track.storm.mg
 .track.strife.com
 .track.sunmedia.tv
-.track.swaptrap.live
 .track.td3x.com
 .track.tenjin.com
 .track.tenjin.io
@@ -42789,7 +42778,6 @@
 .vbzrkme.xyz
 .vcdc.com
 .vcdn.subiz-cdn.com
-.vcdpuyl.com
 .vcjczwnc.xyz
 .vcmedia.com
 .vcngehm.com

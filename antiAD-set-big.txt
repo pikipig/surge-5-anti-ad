@@ -1,9 +1,9 @@
-# Version: 202410061606
+# Version: 202410062108
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 136966
-# Last modified: 2024-10-06T16:06:28+0000
+# Entries: 136964
+# Last modified: 2024-10-06T21:08:10+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -4009,6 +4009,7 @@
 .6ee3994103.cdb670d960.com
 .6eec76752e.adfaae31e2.com
 .6ef2279e3d.com
+.6efgcdcjr000.fun
 .6f257d3f47.b3ab84c0f7.com
 .6f752f73ce.com
 .6f7ad7ae07.142f8fb46a.com
@@ -19418,7 +19419,6 @@
 .b.smartnews.be
 .b.smartvideo.youku.com
 .b.sonorousporn.com
-.b.stop2asrertyasport3.com
 .b.stranamam.ru
 .b.thefile.me
 .b.tondaka.com
@@ -25948,6 +25948,7 @@
 .bwstatistics.sapoapps.vn
 .bwsvftq.cn
 .bwtcilgll.com
+.bwurserv.top
 .bwuwirv.cn
 .bx5.tubemaximum.com
 .bxacmsvmxb.com
@@ -62882,6 +62883,7 @@
 .immugendx.com
 .immunotec.fr
 .immureuvanite.com
+.imndl.icu
 .imnestled.com
 .imobuy.com
 .imonomy.com
@@ -74691,7 +74693,6 @@
 .lwrnikzjpp.com
 .lwrohd.xyz
 .lwtlock.cn
-.lwurserl.top
 .lwv-wbla.org
 .lwwlkj1.cn
 .lwxs99.cc
@@ -75952,7 +75953,6 @@
 .manggning.top
 .manggsnings.top
 .mangguo.info
-.mangiaine.com
 .manglamorganic.com
 .mangnimox.top
 .mangnindk.top
@@ -95445,7 +95445,6 @@
 .proarchiland.ru
 .probabilidades.net
 .probablebeeper.com
-.probablekl.site
 .probablepartner.com
 .probabletellsunexpected.com
 .probablyrespectivelyadhere.com
@@ -119393,7 +119392,6 @@
 .tkshopaj.com
 .tkshopax01.xyz
 .tkshopax1.com
-.tkshopbm.xyz
 .tkshopdd2.com
 .tkshopdy.icu
 .tktlert.kro.kr

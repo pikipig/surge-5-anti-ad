@@ -1,9 +1,9 @@
-# Version: 202410151806
+# Version: 202410152106
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 137209
-# Last modified: 2024-10-15T18:06:44+0000
+# Entries: 137187
+# Last modified: 2024-10-15T21:06:17+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -938,6 +938,7 @@
 .161.red-88-30-17.staticip.rima-tde.net
 .161.sub-70-208-63.myvzw.com
 .161.sub-75-222-238.myvzw.com
+.1614729201.rsc.cdn77.org
 .162.red-88-25-156.staticip.rima-tde.net
 .162.sub-75-201-193.myvzw.com
 .162.sub-75-215-192.myvzw.com
@@ -2118,6 +2119,7 @@
 .2qy.ru
 .2r6.cn
 .2rb5hh5t6.de
+.2rbda.icu
 .2re6rpip2.de
 .2rich4bitches.com
 .2rlgdkf7s.de
@@ -2841,7 +2843,6 @@
 .4b7140e260.com
 .4beast.com
 .4bed4d5afa.com
-.4bfx0u.com
 .4bqs.com
 .4buy.net
 .4c28d6.r.axf8.net
@@ -10595,7 +10596,6 @@
 .advanced-ip-scaer.com
 .advanced-ip-scaer.net
 .advanced-ip-scanel.com
-.advanced-ip-scanel.net
 .advanced-ip-scanerr.com
 .advanced-ip-scanerr.net
 .advanced-ip-scanir.com
@@ -11809,7 +11809,6 @@
 .ahuano.com
 .ahwczn.cn
 .ahxldgy.com
-.ahxtckisuy.com
 .ahylong.cn
 .ahyyqq.xyz
 .ahzhaosheng.com.cn
@@ -14096,11 +14095,11 @@
 .analyse.weather.com.cn
 .analysis-minolta.gl.at.ply.gg
 .analysis.120ask.com
-.analysis.afreecatv.com
 .analysis.aws.locondo.jp
 .analysis.fc2.com
 .analysis.fi
 .analysis.polarisoffice.com
+.analysis.sooplive.co.kr
 .analysis.vesync.com
 .analystbase.com
 .analystcase.com
@@ -19114,6 +19113,7 @@
 .awhauchoa.net
 .awhausaifoog.com
 .awhiledad.com
+.awhoupsou.com
 .awhub.com
 .awistats.com
 .awjjbslep.life
@@ -20301,7 +20301,6 @@
 .banque-actualisations.fr
 .banque-cic.fr
 .banque-populaire-cyberplus.salamaow.beget.tech
-.banque-populaire-passcyberplus-13-fevrier-2018.banquep344.beget.tech
 .banque-socredo.fr
 .banquedefrancedsp2.fr
 .banqueentreprise-bnpparibas.fr
@@ -20895,6 +20894,7 @@
 .bdcdncmn-gd.inter.71edge.com
 .bdcebeabc4.com
 .bdcelectricalservices.com
+.bdckqpofmclr.com
 .bdcm.kandianla.com
 .bdcode.2345.com
 .bdcode.qinglm.com
@@ -21126,7 +21126,6 @@
 .beautifulasaweath.info
 .beautifulbeneathgh.com
 .beautifulclothes.fr
-.beautifulhobbies.com
 .beautifullike.com
 .beautifullyinflux.com
 .beauty-mariagruber.de
@@ -22907,7 +22906,6 @@
 .biroads.com
 .birqmiowxfh.com
 .birth-bravery.com
-.birthcaker.cn
 .birthday3452.fun
 .birthdaybelief.com
 .birthdayinhale.com
@@ -22957,6 +22955,7 @@
 .bitc01n.net
 .bitc0im.com
 .bitc0in.ru
+.bitcasino365.b-cdn.net
 .bitcast-d.bitgravity.com
 .bitcoadz.io
 .bitcoin-alora-app.com
@@ -24395,7 +24394,6 @@
 .bouncezap.com
 .bouncingcombine.com
 .bouncy-collar.com
-.bouncyfront.com
 .bouncyproperty.com
 .boundarybusiness.com
 .boundaryconcentrateobscene.com
@@ -24461,6 +24459,7 @@
 .bowedrhymesnack.com
 .boweineng.cn
 .bowelslipperypraised.com
+.bowermisrule.com
 .bowerywill.com
 .bowgevyingly.com
 .bowie-cdn.fathomdns.com
@@ -32053,6 +32052,7 @@
 .collector.xhofficial.com
 .collector.xhwide1.com
 .collector1.afreecatv.com
+.collector1.sooplive.co.kr
 .collector1.xhamster.com
 .collector2c.zhihuishu.com
 .collector5.zipy.ai
@@ -32281,7 +32281,6 @@
 .commercialvalue.org
 .commercialvips.com
 .commeries.com
-.commindo-media-ressourcen.de
 .commisariat.fr
 .commiserateeffects.com
 .commiseratefiveinvitations.com
@@ -32325,7 +32324,6 @@
 .community-ebay-de-diskussionsforen-6ws.html-5.me
 .community-ebay-de-diskussionsforen.html-5.me
 .community-report.com
-.community-reported-details.com
 .communitycollegeofaleghenycounty.ukit.me
 .communityshelf.com
 .comodo.world
@@ -32652,7 +32650,6 @@
 .confirmationefficiency.com
 .confirmations-account-informations.artrangerart.com
 .confirmations-informations.fr
-.confirmationyoungsterpaw.com
 .confirmer-credit-agricole.fr
 .confirmexplore.com
 .conflicto-de-entrega.info
@@ -34566,7 +34563,6 @@
 .credit-suisse-uk.com
 .creditagricole-alpesprovence.fr
 .creditagricole-carte.fr
-.creditagricole-formulaire-remboursement.fr
 .creditagricole-pass.fr
 .creditagricole-service.fr
 .creditatlas.fr
@@ -34663,7 +34659,6 @@
 .crglpt.com
 .crhypto.com
 .cri-correosgo.buzz
-.cri-correosgo.top
 .criaenvio.com
 .criapediatria.com.br
 .cribasa.cl
@@ -38472,7 +38467,7 @@
 .delmarviato.com
 .delmonicositaliansteakhouse.com
 .delmovip.com
-.delog.afreecatv.com
+.delog.sooplive.co.kr
 .deloitte.122.2o7.net
 .delonuevomision.con-ip.com
 .deloo.de
@@ -38746,7 +38741,6 @@
 .derevya2sh8ka09.com
 .deridenowadays.com
 .deridetapestry.com
-.derilaglobal.social
 .derisiveflare.com
 .derisiveheartburnpasswords.com
 .derivativelined.com
@@ -40616,6 +40610,7 @@
 .dkrqyly.com
 .dkrxtdnlg.com
 .dkscord.com
+.dktad.com
 .dktr03lf4tq7h.cloudfront.net
 .dkupaw9ae63a8.cloudfront.net
 .dkvakldvnsv.com
@@ -44010,7 +44005,6 @@
 .efdilokulu.com
 .efdjelx.com
 .efebe8adb2.com
-.efecto7.com
 .efef322148.com
 .efemeride.ro
 .efemsvcdjuov.com
@@ -45602,6 +45596,7 @@
 .erosland.ca
 .erosyndc.com
 .erovation.com
+.erpabsjbxlb.com
 .erpahome.com
 .erpquipu.com
 .err.taobao.com
@@ -46360,8 +46355,8 @@
 .event.webcollage.net
 .event4free-mail.de
 .event4free.de
-.eventapi.afreecatv.com
 .eventapi.bookwalker.jp
+.eventapi.sooplive.co.kr
 .eventbarricadewife.com
 .eventbrite-com-default-rtdb.firebaseio.com
 .eventbrite.122.2o7.net
@@ -48262,7 +48257,6 @@
 .fashionablemall.com
 .fashionandhomestyle.com
 .fashionarea.store
-.fashiongiirl.com
 .fashiongul.com
 .fashionluxury.us
 .fashionmall4u.com
@@ -48339,7 +48333,6 @@
 .fastesteye.com
 .fastexportservice.com
 .fastfaceb00k.wapka.mobi
-.fastfads.com
 .fastflatbelly.com
 .fastframe.com.br
 .fastfreedownload.com
@@ -48709,6 +48702,7 @@
 .febvenom8.duckdns.org
 .fecebook.com
 .fecebook.com.br
+.fecguzhzeia.vip
 .fecjf.cn
 .fed-gmbh.de
 .fed-icc.org
@@ -52964,7 +52958,6 @@
 .gamersad.com
 .gamerscheatbook.com
 .gamersdon.com
-.gamersgiveaways.com
 .gamerspro.duckdns.org
 .gamerspro.net
 .gamersterritory.com
@@ -53498,6 +53491,7 @@
 .gdpr-api.sharethis.com
 .gdpr.api.bcdn.jp
 .gdpr.laxd.com
+.gdrcaguddyj.space
 .gdriveshop.com
 .gdskywings.com
 .gdsoq.com
@@ -54303,7 +54297,6 @@
 .ggoryo.com
 .ggpi.loyalty.hienphucuanhanloai.org
 .ggr.yxdown.com
-.ggrastyal.live
 .ggrfab.icu
 .ggs.myzaker.com
 .ggsaffiliates.com
@@ -54424,6 +54417,7 @@
 .gibbarwaiting.com
 .gibbywibbs.com
 .gibevay.ru
+.gibizosutchoakr.net
 .giboxdwwevu.com
 .gibsuncap.shop
 .gibthub.com
@@ -56550,7 +56544,6 @@
 .grazyfiles.com
 .grc-courier.mom
 .grc-courier.top
-.grc-couriers.mom
 .grc-couriersc.top
 .grc-courierse.top
 .grc-courierss.mom
@@ -58326,6 +58319,7 @@
 .hard.citysatins.com
 .hardabbuy.live
 .hardcorehacks.com
+.harderjuniormisty.com
 .hardissonmarineengines.com
 .hardkoalaland.tumblr.com
 .hardlads.com
@@ -59777,7 +59771,6 @@
 .hipnoticrec.biz
 .hipparenting.com
 .hippie-pets.com
-.hiprelief.live
 .hiprofitnetworks.com
 .hipub.hiwit.org
 .hipunaux.com
@@ -63049,9 +63042,7 @@
 .impossiblemove.com
 .imposterlost.com
 .impostersierraglands.com
-.imposto2nafonte.com.br
 .impostorconfused.com
-.impostorhazy.com
 .impostorjoketeaching.com
 .impostororchestraherbal.com
 .impotato.com
@@ -63365,7 +63356,6 @@
 .indiatouragency.com
 .indiboom.shop
 .indicaplanos.com.br
-.indicatemellowlotion.com
 .indictmentlucidityof.com
 .indictmentparliament.com
 .indie.ru
@@ -64068,7 +64058,6 @@
 .instagram-viperesport.4dq.com
 .instagram.astv.ru
 .instagram.com.account.login.security.yesil.xyz
-.instagram.demoloper.com
 .instagram.hop.ru
 .instagram.oauth.repl.co
 .instagram.quranicweb.com
@@ -65312,6 +65301,7 @@
 .iuqasw.xyz
 .iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
 .iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
+.iuresdo.top
 .iurl.us
 .iusacomlive.112.2o7.net
 .iusas.com
@@ -67492,7 +67482,6 @@
 .jwhsgsjy.weebly.com
 .jwia0.top
 .jwjdj.com
-.jwjxjuvrnkv.com
 .jwpooleinc.com
 .jwqj.net
 .jwsc.cn
@@ -68373,6 +68362,7 @@
 .kgyhxdh.com
 .kgymhc.com
 .kgymoc.xyz
+.kh-bkcvqxc.online
 .kh-mi-lk.de
 .kh.suno.vn
 .kh1.userjoy.com
@@ -71965,6 +71955,7 @@
 .likratoka.com
 .likss-updat-schb.demopage.co
 .liktufmruav.com
+.likutaencoil.shop
 .lilac-lane.com
 .lilacbeaten.com
 .lilacraftvn.com
@@ -75713,7 +75704,6 @@
 .mainbiz.or.kr
 .mainclc.com
 .mainclick.pl
-.mainctional.com
 .maincurrentlyattmails.weebly.com
 .maindiscount.su
 .mainecooncatsforsale.wixsite.com
@@ -80230,7 +80220,6 @@
 .mohamedsamy.net
 .mohandesbook.com
 .mohantoursandtravels.com
-.mohawatradingco.com
 .mohecm.com
 .mohiwhaileed.com
 .mohmoh002.ddns.net
@@ -80523,7 +80512,6 @@
 .monform.com
 .mongailrids.net
 .monglitch.monster
-.mongol-post.cfd
 .mongolianshipregistrar.com
 .mongoose.jasonlbeggs.com
 .mongoose.scrumgenius.com
@@ -81389,7 +81377,6 @@
 .mssbcprod.112.2o7.net
 .mssdk-sg.byteoversea.com
 .mssdk.bytedance.com
-.mssdk.zijieapi.com
 .mssecupdate.mooo.com
 .mssheng.com
 .mssmkj.com
@@ -82711,7 +82698,6 @@
 .nableemblems.com
 .nableriptide.com
 .nabolico.com
-.naccessibl.com
 .nachalinc.com
 .nachanyoung.com
 .nachbarschaft24.net
@@ -84995,7 +84981,6 @@
 .nk-shop.com
 .nkanyezikubheka.com
 .nkbkor.icu
-.nkbobsj.com
 .nkbpft.xyz
 .nkdgnsfsk.com
 .nkelyhz.cn
@@ -86155,7 +86140,6 @@
 .nwejuljibczi.com
 .nwemarkets.com
 .nwemnd.com
-.nwgrus.ru
 .nwhoxwpuj6.com
 .nwhvceb.cn
 .nwmnd.com
@@ -87236,7 +87220,6 @@
 .ojbknx.com
 .ojejku.5v.pl
 .ojhfyedvtgd.com
-.ojhgy.top
 .ojiang.com
 .ojkduzbm.com
 .ojlyfans.com
@@ -89372,6 +89355,7 @@
 .outlupdateinv.netlify.app
 .outmatchurgent.com
 .outmook.fr
+.outnidorinoom.com
 .outnumberconnatetomato.com
 .outnumberminded.com
 .outnumberpickyprofessor.com
@@ -90064,7 +90048,6 @@
 .pagosingdirect.com
 .pagospostpago.com
 .pagsalon.com
-.pagtvmcbfjafj.com
 .paguinebianche.it
 .pagunegialle.it
 .pahbasqibpih.com
@@ -102422,6 +102405,7 @@
 .rr.nu
 .rr03.com
 .rrcontadores.com
+.rrdhtqhgu.com
 .rreauksofthecom.xyz
 .rree.fr
 .rreis.yt
@@ -104108,7 +104092,6 @@
 .sandlord.com
 .sandmakingsilver.info
 .sandralenington.com
-.sandriqy.beget.tech
 .sandrofrance.fr
 .sandsoinsorts.com
 .sandsonair.com
@@ -105466,7 +105449,6 @@
 .secondquaver.com
 .secondunderminecalm.com
 .secoud.top
-.secpat.com
 .secpayleb-onc.fr
 .secpaylebo-nc.fr
 .secpaylebon-c.fr
@@ -110007,7 +109989,6 @@
 .smuc.cnnfootballclub.com
 .smucdn.com
 .smuggeralapa.com
-.smuggledistance.com
 .smugismanaxon.com
 .smugmugincflickrprodudction.112.2o7.net
 .smugturner.com
@@ -118825,7 +118806,6 @@
 .thirsty-solomon.13-67-133-60.plesk.page
 .thirstytwig.com
 .thirteenvolunteerpit.com
-.thirtvu13pn.top
 .thirtvu13pt.top
 .thirtvu13sb.top
 .thirty-good.lugg.com
@@ -121218,6 +121198,7 @@
 .tracker.iltrovatore.it
 .tracker.iplocation.net
 .tracker.jabama.com
+.tracker.jkplayers.com
 .tracker.jkstremum.xyz
 .tracker.joongang.co.kr
 .tracker.joost.com
@@ -123293,7 +123274,6 @@
 .twelveforever.net
 .twelvemissionjury.com
 .twelvethighpostal.com
-.twelvevb12pn.top
 .twelvevb12sb.top
 .twelvevt12pt.top
 .twentefoods.com
@@ -128109,7 +128089,6 @@
 .vivaciousbudget.pro
 .vivads.net
 .vivagame.net
-.vivahacks.com
 .vivaiaboutique.fr
 .vivaiaschaussures.fr
 .vivaimontina.com
@@ -129322,7 +129301,6 @@
 .warzon957.duckdns.org
 .warzone-meta.net
 .warzone.pw
-.warzone109983runnerhacker.duckdns.org
 .warzonez.linkpc.net
 .warzonlogs.duckdns.org
 .was-empfehlt-ihr.de
@@ -130547,7 +130525,6 @@
 .whatsapp-group18.4dq.com
 .whatsapp-grupnew20.justdied.com
 .whatsapp-mycs.com
-.whatsapp-qar.com
 .whatsapp-web.cn
 .whatsapp18.joins5.com
 .whatsapp18.workzs.com
@@ -131761,6 +131738,7 @@
 .wombalayah.com
 .wombat.buildrtech.com
 .wombierfloc.com
+.wombjingle.com
 .womenclick.ru
 .womenempowermentpakistan.com
 .womenhealth.aureliusconferences.com
@@ -132399,6 +132377,7 @@
 .wurlst.jointcontrol.shop
 .wurqaz.com
 .wuruigroup.com
+.wurunoax.com
 .wusameetings.tk
 .wussucko.com
 .wutaixian.shop
@@ -135030,7 +135009,6 @@
 .yinyuehu.cn
 .yipanhaocai.com
 .yiqifa.com
-.yiqiqgmy.cn
 .yishu.red
 .yistkechauk.org
 .yitongfang.com
@@ -135902,7 +135880,6 @@
 .yyevw.gulfhirings.com
 .yyh.htw.temporary.site
 .yyhqch.com
-.yyiodwdjfw.com
 .yyjutfcmnaps.com
 .yyjvimo.com
 .yykzdz.cloud
@@ -136162,6 +136139,7 @@
 .zavodacon.one
 .zavodacon.shop
 .zavodooo.ru
+.zavoxlquwb.com
 .zax01.com
 .zaxonoax.com
 .zay.hu

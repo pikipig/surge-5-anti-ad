@@ -1,9 +1,9 @@
-# Version: 202410211807
+# Version: 202410212107
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 46563
-# Last modified: 2024-10-21T18:07:26+0000
+# Entries: 46545
+# Last modified: 2024-10-21T21:07:20+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -734,7 +734,6 @@
 .350c2478fb.com
 .3517ff54c9.8a67b58b74.com
 .351c3606b8.77ce6b9dca.com
-.3575e2d4e6.com
 .357dbd24e2.com
 .357fbe0abe.71d287479d.com
 .35fdef5d29.8abd062147.com
@@ -1393,6 +1392,7 @@
 .88tm6.cc
 .893e039319.com
 .8961.jianbihua.com
+.8992bfef5b.3575e2d4e6.com
 .89hdn.cn
 .8a40179356.com
 .8a7d8912cb.0ef2473ad8.com
@@ -1409,7 +1409,6 @@
 .8d9a34f9cc.1c2884f59e.com
 .8db4fde90b.com
 .8de5d7e235.com
-.8def8c352d.com
 .8digits.com
 .8dwd87c7a091b12x.com
 .8e85eb0e5d.c6bbab50a3.com
@@ -1879,7 +1878,6 @@
 .aaronabel.com
 .aaronautosandtrucks.com
 .aarswtcnoz.com
-.aasingapore.cn
 .aawdlvr.com
 .aaxwall.com
 .ab-log.datahou.se
@@ -11265,7 +11263,6 @@
 .cmpro-clean.club
 .cmproclean.club
 .cmpsywu.com
-.cmqjims.com
 .cms.aomg5bzv7.com
 .cms100.xyz
 .cmshow.gtimg.cn
@@ -11650,7 +11647,6 @@
 .comprehensiveunconsciousblast.com
 .compresshumpenvious.com
 .compresssavvydetected.com
-.compriseparameters.com
 .compromiseadaptedspecialty.com
 .compteur.websiteout.net
 .compucelunlock.net
@@ -12032,7 +12028,6 @@
 .coticoffee.com
 .cottoncabbage.com
 .cottondivorcefootprint.com
-.cotwcpcjcrjfj.xyz
 .coucalhidated.com
 .coudswamper.com
 .cougar.augmentedmindapp.com
@@ -12284,7 +12279,6 @@
 .cqddhfjl.com
 .cqisam.xyz
 .cqlupb.com
-.cqmmacgxqhmk.com
 .cqrvwq.com
 .cqwajn.com
 .cqyj3ii7r.com
@@ -18537,7 +18531,6 @@
 .fortpavilioncamomile.com
 .fortpush.com
 .fortunateconvenientlyoverdone.com
-.fortxfq.cn
 .fortyflattenrosebud.com
 .fortyphlosiona.com
 .forumboiling.com
@@ -20610,7 +20603,6 @@
 .hameswibble.com
 .hamletuponcontribute.com
 .hamletvertical.com
-.hammaidenforth.com
 .hammamfehmic.com
 .hammereternal.com
 .hammerhewer.top
@@ -21673,7 +21665,6 @@
 .hvd-store.com
 .hvdmwhnawvhbejv.com
 .hvdt8.chimeratool.com
-.hvikgqco.com
 .hvlitr.xyz
 .hvooyieoei.com
 .hvxrvef.xyz
@@ -23399,7 +23390,6 @@
 .jocmeedran.com
 .joemythsomething.com
 .joetec.net
-.jofknbpe.xyz
 .jogcu.com
 .joggingavenge.com
 .jogglenetwork.com
@@ -23425,7 +23415,6 @@
 .joodugropup.com
 .jookaureate.com
 .jookouky.net
-.joomgartiumnyih.com
 .joomisomushisuw.net
 .joomxer.fun
 .jooneetak.net
@@ -26399,7 +26388,6 @@
 .materialfirearm.com
 .materiel.baizhan.net
 .materiel.junshidao.com
-.maternaltypicalattendance.com
 .maternityiticy.com
 .mathematicalma.info
 .mathematicsswift.com
@@ -28027,7 +28015,6 @@
 .naggingirresponsible.com
 .nagrainoughu.com
 .nagrande.com
-.nagwrotedetain.com
 .nahjzx.xyz
 .nahnoji.cz
 .nahotseetsoo.com
@@ -28610,7 +28597,6 @@
 .nmxcadosdrcbd.com
 .nmxxvr.xyz
 .nmybyxnjscf.com
-.nnnkmsgqnkpkng.com
 .nnowa.com
 .nnpix.com
 .nnrbyty.xyz
@@ -28995,7 +28981,6 @@
 .nwmzucoblwnfs.com
 .nwpcptmm.xyz
 .nwr.static.mmcdn.com
-.nwrgdifq.xyz
 .nws.naltis.com
 .nwwais.com
 .nwwrtbbit.com
@@ -31182,7 +31167,6 @@
 .phumsise.com
 .phumtoub.net
 .phupours.com
-.phursefter.net
 .phuruxoods.com
 .phuzeeksub.com
 .phvfevk.xyz
@@ -32113,7 +32097,6 @@
 .preciouswornspectacle.com
 .precipitationepisodevanished.com
 .precipitationglittering.com
-.preciselysolitaryallegation.com
 .precisethrobbingsentinel.com
 .precisionclick.com
 .precisioncounter.com
@@ -46575,4 +46558,3 @@
 .zztxfj.xyz
 .zzux.com
 .zzyjpmh.com
-.zzzSTOPPEDUSINGTHIStest.oisd.nl

@@ -1,9 +1,9 @@
-# Version: 202411150007
+# Version: 202411150306
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 46020
-# Last modified: 2024-11-15T00:07:49+0000
+# Entries: 46014
+# Last modified: 2024-11-15T03:06:57+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -925,7 +925,6 @@
 .4co7mbsb.de
 .4cock.com
 .4d15ee32c1.com
-.4d33a4adbc.com
 .4d3f87f705.com
 .4d658ab856.com
 .4d716774ff.7d3906347f.com
@@ -1238,6 +1237,7 @@
 .71ccccb47f.dcefdf0e05.com
 .71dd1ff9fd.com
 .721ffc3ec5.com
+.724da29433.4d33a4adbc.com
 .7299tu75.cc
 .72c3d44e4d.4632c60a96.com
 .72hdgb5o.de
@@ -8844,7 +8844,6 @@
 .bosscrystudious.com
 .bossdescendentrefer.com
 .bosselinorrummage.com
-.bossemphasize.com
 .bostonwall.com
 .bostopago.com
 .bot-checker.com
@@ -23179,7 +23178,6 @@
 .joxaviri.com
 .joycreatorheader.com
 .joydirtinessremark.com
-.joyous-concentrate.pro
 .joyous-housing.pro
 .joyous-north.pro
 .joyousruthwest.com
@@ -26515,7 +26513,6 @@
 .metrics.ceneo.pl
 .metrics.cnn.com
 .metrics.coccoc.com
-.metrics.ctv.ca
 .metrics.ctvdigital.net
 .metrics.data.hicloud.com
 .metrics.dominos.com.tr
@@ -27808,7 +27805,6 @@
 .nawpush.com
 .naxadrug.com
 .naybreath.com
-.nazakxodbz.com
 .nb09pypu4.com
 .nbmramf.de
 .nboclympics.com
@@ -28895,7 +28891,6 @@
 .octotracking.com
 .ocular.mydealz.de
 .ocuwyfarlvbq.com
-.ocwdkp.icu
 .ocxihhlqc.xyz
 .oda.markitondemand.com
 .odalrevaursartu.net
@@ -40979,7 +40974,6 @@
 .tragedyhaemorrhagemama.com
 .tragency-clesburg.icu
 .tragicbeyond.com
-.tragicleftago.com
 .traglencium.com
 .trail.71baomu.com
 .traileroutlinerefreshments.com

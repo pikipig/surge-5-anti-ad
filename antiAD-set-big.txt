@@ -1,9 +1,9 @@
-# Version: 202411181807
+# Version: 202411182106
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 138506
-# Last modified: 2024-11-18T18:07:15+0000
+# Entries: 138509
+# Last modified: 2024-11-18T21:06:56+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -2538,6 +2538,7 @@
 .3ab48a20-acaa-49ab-95cc-3eb16f1cda78-00-1a0l3yf6hw9aq.sisko.replit.dev
 .3ac1b30a18.com
 .3acf699e5d.com
+.3ad2ae645c.com
 .3alian.net
 .3am.info
 .3asker.ddns.net
@@ -4840,7 +4841,6 @@
 .9955305.top
 .9955307.top
 .9955308.top
-.995f631c96.3ad2ae645c.com
 .997323.com
 .99828396.cgsw.sa.com
 .99885aaa.com
@@ -90397,6 +90397,7 @@
 .owb101.goo.ne.jp
 .owbroinothiermol.xyz
 .owebsearch.com
+.oweisik.top
 .owen.prolitteris.ch
 .owenbro.com
 .owenexposure.com
@@ -136904,6 +136905,7 @@
 .yr.fopbandido.com
 .yr9n47004g.com
 .yrbfol5.cn
+.yrccils0spqnkc3.xyz
 .yrcpsfqoyi.com
 .yrehdfer.com
 .yreorr.shop
@@ -137304,6 +137306,7 @@
 .z9.cnzz.com
 .z99fg4.gow.englishwoodlands.co.uk
 .z9iq6vt.com
+.z9uvpwarkk1mnpf.xyz
 .z9v6bz.hbg.hebdenbridgedental.co.uk
 .za-mc.videoplaza.tv
 .za.agiay.vn

@@ -1,9 +1,9 @@
-# Version: 202411191007
+# Version: 202411191407
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 45966
-# Last modified: 2024-11-19T10:07:13+0000
+# Entries: 45975
+# Last modified: 2024-11-19T14:07:08+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1307,6 +1307,7 @@
 .79k52baw2qa3.com
 .79xmz3lmss.com
 .7a994c3318.com
+.7aey.icu
 .7anfpatlo8lwmb.com
 .7app.top
 .7b494b2884.com
@@ -11201,6 +11202,7 @@
 .cmap.alibaba.com
 .cmclean.club
 .cmcxmh.com
+.cmelr.com
 .cmfads.com
 .cmhoriu.com
 .cmm.xmfish.com
@@ -14001,6 +14003,7 @@
 .datatechdrift.com
 .datatechone.com
 .datatechonert.com
+.datazap.online
 .date-till-late.us
 .date2024.com
 .date2day.pro
@@ -20802,6 +20805,7 @@
 .hfhppxseee.com
 .hfiwcuodr.com
 .hfjmvr.xyz
+.hfnuqljjnt.com
 .hfr67jhqrw8.com
 .hfufkifmeni.com
 .hg-bn.com
@@ -21351,6 +21355,7 @@
 .httpsecurity.org
 .htubzpb.cn
 .hturnshal.com
+.htwjo.com
 .htxwzp.xyz
 .hty9m.cn
 .htyrmacanbty.com
@@ -25030,6 +25035,7 @@
 .log.gs3.goo.ne.jp
 .log.haberturk.com
 .log.happyapkdown.com
+.log.heartratepros.com
 .log.hemera.com.vn
 .log.hiiir.com
 .log.hypebeast.com
@@ -29852,6 +29858,7 @@
 .ow5a.net
 .owa.aomg5bzv7.com
 .owbroinothiermol.xyz
+.oweisik.top
 .owen.prolitteris.ch
 .owenexposure.com
 .owfjlchuvzl.com
@@ -35424,6 +35431,7 @@
 .scidationgly.com
 .scientific-doubt.com
 .scientificdimly.com
+.scihuns.com
 .scisselfungus.com
 .scissorsstitchdegrade.com
 .scissorwailed.com
@@ -36732,6 +36740,7 @@
 .snitchtidying.com
 .snitswaspshaft.com
 .snlpclc.com
+.snnmgdt.icu
 .snobdilemma.com
 .snoobi.com
 .snoopundesirable.com
@@ -37794,6 +37803,7 @@
 .stats.abbi.io
 .stats.administrarweb.es
 .stats.allenai.org
+.stats.amur.life
 .stats.asp24.pl
 .stats.avg.com
 .stats.aws.rubiconproject.com
@@ -43013,7 +43023,6 @@
 .vmvajwc.com
 .vn.finisbur.com
 .vn.jaygeepigs.com
-.vnadsrv.com
 .vnadssb.com
 .vnie0kj3.cfd
 .vnn-tracking.vnncdn.net

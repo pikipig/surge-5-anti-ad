@@ -1,9 +1,9 @@
-# Version: 202412010606
+# Version: 202412010832
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 45805
-# Last modified: 2024-12-01T06:06:57+0000
+# Entries: 45799
+# Last modified: 2024-12-01T08:32:21+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -2911,7 +2911,6 @@
 .adk-static.affinity.net
 .adk2.com
 .adkernel.com
-.adkgeoaajx.com
 .adl-hunter.com
 .adl.mynetreklam.com
 .adland.ru
@@ -4169,6 +4168,7 @@
 .adzpower.com
 .adzs.com
 .ae-edqfrmstp.one
+.ae.iads.unity3d.com
 .ae2f6a33e6.com
 .ae56c07a5d.7fc6aff494.com
 .aeaw.cn
@@ -7703,7 +7703,6 @@
 .bc13945167.9cf57a043f.com
 .bc6dc48b743dc5d01.clicknplay.to
 .bc84617c73.com
-.bca286d743.com
 .bcaakxxuf.com
 .bcc2e48039.911c3826e7.com
 .bcd.esprit.de
@@ -8095,7 +8094,6 @@
 .besandileom.com
 .besc.baidustatic.com
 .beseechpill.com
-.beshestoly.com
 .besidesparties.com
 .besmeargleor.com
 .bespakerubbles.com
@@ -15623,7 +15621,6 @@
 .durezzacrowns.com
 .durgahsursize.com
 .durith.com
-.durynslg.xyz
 .duskishmusgu.com
 .dust-0001.delorazahnow.workers.dev
 .dust.xxx-video-indian.com
@@ -17419,7 +17416,6 @@
 .faramkaqxoh.com
 .farbankthy.live
 .farceurincurve.com
-.farceurrelast.shop
 .fardasub.xyz
 .farewell457.fun
 .fargwyn.com
@@ -18083,7 +18079,6 @@
 .fluencyinhabited.com
 .fluentmobile.com
 .fluese.com
-.fluffychair.pro
 .fluffynyasquirell.com
 .fluffytracing.com
 .fluidallobar.com
@@ -21275,6 +21270,7 @@
 .htl.bid
 .htlbid.com
 .htliaproject.com
+.html-uap.iads.unity3d.com
 .htmlhubing.xyz
 .htmonster.com
 .htobficta.com
@@ -21425,7 +21421,6 @@
 .hydrogenpicklenope.com
 .hydropneuengg.com
 .hydropump.su
-.hyelgehg.xyz
 .hyena.baseline.is
 .hyena.kitafund.com
 .hyena.m1guelpf.blog
@@ -21470,6 +21465,7 @@
 .hzrnbl.xyz
 .hzstats.com
 .hzychcvdmjo.com
+.i-adq.mediation.unity3d.com
 .i-c-c-c.com
 .i-mobile.co.jp
 .i-reklama.sk
@@ -27295,7 +27291,6 @@
 .muleattackscrease.com
 .mulecleared.com
 .muletatyphic.com
-.mulsouloobsaiz.xyz
 .multieser.info
 .multimater.com
 .multisetup.pro
@@ -27508,7 +27503,6 @@
 .n.baminw.com.cn
 .n.cashheaven.ru
 .n.hnntube.com
-.n019q.com
 .n0211.com
 .n0233.com
 .n0244.com
@@ -28533,11 +28527,13 @@
 .nzme-ads.co.nz
 .nzuebfy.com
 .nzurlmq.com
+.o-adq.mediation.unity3d.com
 .o-jmzsoafs.global
 .o-mvlwdxr.icu
 .o-oo.ooo
 .o.027eat.com
 .o.hotsextube.tv
+.o.iads.unity3d.com
 .o.xofilmes.com
 .o.xoporn.com
 .o000oo.com
@@ -35797,7 +35793,6 @@
 .sgg.southcn.com
 .sggu.cn
 .sgihava.com
-.sglahyea.xyz
 .sgmcdn.racingpost.com
 .sgmnt.beacons.ai
 .sgnetwork.co
@@ -42814,7 +42809,6 @@
 .vitrine.lugarcerto.com.br
 .vitrinler3.com
 .viva.api.xiaoying.co
-.viviendoefelizz.online
 .viwvamotrnu.com
 .vixajghi.xyz
 .vizierspavan.com

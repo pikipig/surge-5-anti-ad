@@ -1,9 +1,9 @@
-# Version: 202412010006
+# Version: 202412010306
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 140554
-# Last modified: 2024-12-01T00:06:57+0000
+# Entries: 140553
+# Last modified: 2024-12-01T03:06:43+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -62597,6 +62597,7 @@
 .hphqglobal.112.2o7.net
 .hphqsearch.112.2o7.net
 .hphvd.cn
+.hpilzison-r.online
 .hpk42r7a.de
 .hpmhvni.cn
 .hpmlrpbrwezloi.com
@@ -128722,7 +128723,6 @@
 .uspsuuiog.com
 .uspsverfiy.com
 .uspsvlcb.top
-.uspswefa.top
 .uspswefz.top
 .uspswekv.top
 .uspswnrd.top
@@ -140282,7 +140282,6 @@
 .zqjljeyqbejrb.top
 .zqksqsjupnb.com
 .zqkxlf.com
-.zqmblmebyvkjz.top
 .zqmmtbwqymhrru.com
 .zqpztal.com
 .zqsj.xyz

@@ -1,9 +1,9 @@
-# Version: 202412012107
+# Version: 202412020008
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 45777
-# Last modified: 2024-12-01T21:07:15+0000
+# Entries: 45772
+# Last modified: 2024-12-02T00:08:34+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -5124,7 +5124,6 @@
 .ampower.me
 .amptrack-dailymail-co-uk.cdn.ampproject.org
 .ampxchange.com
-.amqfjkhzn.com
 .amradmin.5173.com
 .amre.work
 .ams-pageview-public.s3.amazonaws.com
@@ -16079,7 +16078,6 @@
 .eecmaivie.com
 .eecmauks.net
 .eeco.xyz
-.eedsaung.net
 .eeedbcd951.914e9c7d17.com
 .eeee1d61e9.39aecdfbc0.com
 .eefa308edc.com
@@ -36046,7 +36044,6 @@
 .showmebars.com
 .shownews.tv
 .showyourevent.com
-.shprybatnm.com
 .shredassortmentmood.com
 .shredvealdone.com
 .shrekis.life
@@ -37149,7 +37146,6 @@
 .spywarenuker.com
 .sq.knobblecleach.com
 .sq.volvellurol.com
-.sqevnrb.com
 .sqlick.com
 .sqoo.co
 .sqqqabg.com
@@ -37275,7 +37271,6 @@
 .stackprotectnational.com
 .staffdollar.com
 .stagepopkek.com
-.stagerydialing.shop
 .stageseshoals.com
 .staggeredowner.com
 .staggeredplan.com

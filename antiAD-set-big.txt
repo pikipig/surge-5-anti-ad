@@ -1,9 +1,9 @@
-# Version: 202412110907
+# Version: 202412111207
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 125341
-# Last modified: 2024-12-11T09:07:08+0000
+# Entries: 125304
+# Last modified: 2024-12-11T12:07:10+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -181,9 +181,7 @@
 .059e71004b.com
 .05b29ae553.e68a481d7d.com
 .05e11c9f6f.com
-.05fbc08eac.com
 .05fc725q.cn
-.05pg9z.com
 .06.sharedsource.org
 .060583754107673-dot-wetransfer-auth-file-341.appspot.com
 .060f670359.77cae4574b.com
@@ -3831,7 +3829,6 @@
 .666585.xyz
 .666587.xyz
 .666589.xyz
-.666592.xyz
 .666593.xyz
 .666595.xyz
 .666596.xyz
@@ -3856,7 +3853,6 @@
 .666674.xyz
 .666679.xyz
 .666683.xyz
-.666684.xyz
 .6666888.xyz
 .66668aaa.com
 .66669aaa.com
@@ -3872,7 +3868,6 @@
 .666733.xyz
 .666734.xyz
 .666735.xyz
-.666736.xyz
 .666737.xyz
 .666738.xyz
 .666739.xyz
@@ -3914,7 +3909,6 @@
 .666797.xyz
 .666822.xyz
 .666823.xyz
-.666824.xyz
 .666826.xyz
 .666829.xyz
 .666832.xyz
@@ -4739,7 +4733,6 @@
 .91ysa.com
 .91yudao.com
 .921b6384ac.com
-.9231c9aeaaef65735d519e48eac52200.com
 .9232c9aeaaef65735d520e48eac52200.com
 .9233c9aeaaef65735d521e48eac52200.com
 .9244328-dot-oaao-274308.uc.r.appspot.com
@@ -6231,7 +6224,6 @@
 .accessbourso.fr
 .accesschase.com
 .accessclark.com
-.accessclips.com
 .accessform.hopto.org
 .accessgrant.ydns.eu
 .accessheler.com
@@ -6877,7 +6869,6 @@
 .ad.api.moji.com
 .ad.api.youshiad.cn
 .ad.api.yyapi.net
-.ad.apl164.me
 .ad.apl298.me
 .ad.apl302.me
 .ad.app-authority.com
@@ -13096,6 +13087,7 @@
 .altmob.com
 .altocloudmedia.com
 .altoinfor.co
+.altolsqy.com
 .altoviews.com
 .altowriestwispy.com
 .altpubli.com
@@ -13610,7 +13602,6 @@
 .amunracasinoo.fr
 .amunx.de
 .amurutro.ru
-.amusecity.com
 .amused-ground.com
 .amusedbucket.com
 .amuseer.com
@@ -14559,7 +14550,6 @@
 .angrilyinclusionminister.com
 .angrilyunbuttoncouch.com
 .angry-golick-2a96e5.netlify.app
-.angry-val-ri-columns.trycloudflare.com
 .angryhack.com
 .angryheadlong.com
 .angryipscaner.com
@@ -16264,7 +16254,6 @@
 .aramco-vendormanagement.com
 .aramcooiltendersprocurement.com
 .aramcoprocurements-ksa.com
-.aramcoprocurementsuae.com
 .aramcosuppliers-ksa.com
 .aramcotenderprocurement-uae.com
 .aramcotenderprocurement.com
@@ -25702,7 +25691,6 @@
 .cascademuscularbodyguard.com
 .cascadewatchful.com
 .case-good.com
-.case-id-10029083854.fr
 .case-te8x.vercel.app
 .case-yst3.vercel.app
 .caseaterallied.com
@@ -28324,7 +28312,6 @@
 .ckgsrzu.com
 .ckite.handipants.com
 .ckitwlmqy-c.today
-.ckqebz.cn
 .ckr.cc
 .ckre.net
 .ckrf1.com
@@ -37640,7 +37627,6 @@
 .diswontchose.com
 .disxcord.com
 .disxord.com
-.disypoy4.xyz
 .diszcord.com
 .dit-dit-dot.com
 .dit.whatsapp.net
@@ -39300,7 +39286,6 @@
 .drpease.com
 .drply.kmgsuwasewa.lk
 .drprikol.narod.ru
-.drr43d73.beget.tech
 .drreo.yt
 .drrfnky.cc
 .drsd.fr
@@ -39672,7 +39657,6 @@
 .duralgomari.com
 .durantconvey.com
 .durationmedia.net
-.durax.com.br
 .durezzacrowns.com
 .durgahsursize.com
 .durgasteelgroup.com
@@ -42411,7 +42395,6 @@
 .erpquipu.com
 .erqtga.xyz
 .err.taobao.com
-.err0r-kpzjndt.pages.dev
 .errantstetrole.com
 .errbandsillumination.com
 .errclean.com
@@ -42562,7 +42545,6 @@
 .espace-renouvellement.fr
 .espace-sante-gestion.fr
 .espace-suivi-colissimo.fr
-.espaceabonclient.fr
 .espaceclentcanal.fr
 .espacecliencanal.fr
 .espaceclientcana.fr
@@ -46275,6 +46257,7 @@
 .fkesfg.com
 .fkii.org
 .fkj8.com
+.fkjdiefz.icu
 .fkjxzzc.com
 .fklike.com
 .fkllodaa.com
@@ -46422,7 +46405,6 @@
 .flightshop.in
 .flikois.com
 .flimsycircle.com
-.flimsymarch.pro
 .flimsythought.com
 .flinchasksmain.com
 .fling-trainer.com
@@ -48458,6 +48440,7 @@
 .fxscape.com
 .fxsqsng.com
 .fxstyle.net
+.fxsvifnkts.com
 .fxtradeoption.com
 .fxtradesmart.com
 .fxucecy.in
@@ -50152,7 +50135,6 @@
 .gggtrenks.com
 .gghacks.com
 .gghghgj.weebly.com
-.gghhe.com
 .gghut.com
 .ggiergionard50.top
 .ggjqqmwwolbmhkr.com
@@ -53552,7 +53534,6 @@
 .hackphat.com
 .hackreleases.com
 .hackrootkit.com
-.hacks-land.net
 .hacks.2download.eu
 .hacks4.com
 .hacks4apps.com
@@ -60836,7 +60817,6 @@
 .jbuzacg.cn
 .jbwiujl.com
 .jbzj.com
-.jbzmwqmqwowaz.top
 .jc.lairdsdemonry.com
 .jc.licencearchean.com
 .jc1.dayfund.cn
@@ -66071,7 +66051,6 @@
 .lhukudauwklhd.xyz
 .lhuy.com
 .lhvmt5et8vq0.ru
-.lhzbdvm.com
 .li-dav.com
 .li-dermakine.com.tr
 .li-er.ru
@@ -68444,7 +68423,6 @@
 .loven.ru
 .lovendal.ro
 .loveofffer.com
-.loveoutlet.fr
 .lovepiter.ru
 .loveplanet.ws
 .loveplaneta.ru
@@ -68978,6 +68956,7 @@
 .lv.hit.gemius.pl
 .lv5hj.top
 .lv9qr0g0.xyz
+.lvbaeugc.com
 .lvefyfj.cn
 .lvehaisen.com
 .lvhcqaku.com
@@ -77012,7 +76991,6 @@
 .netfiixtv.com
 .netflame.cc
 .netfliassistancefr.fr
-.netflix-abonemment.fr
 .netflix-abonnement.fr
 .netflix-accounts.com
 .netflix-bhr.com
@@ -77902,7 +77880,6 @@
 .nicolaf.xyz
 .nicolasbaldoma.com
 .nicoletteweber.com
-.nicolleparis.fr
 .nicrosoft.fr
 .nidaungig.net
 .nidhi.iexist.in
@@ -79275,7 +79252,6 @@
 .nwr.static.mmcdn.com
 .nwrte.com
 .nws.naltis.com
-.nwseiihafvyl.com
 .nwsfillw.com
 .nwwais.com
 .nwwap.com
@@ -79381,7 +79357,6 @@
 .nyutkikha.info
 .nyy41uibsv5.life
 .nz.com.ar
-.nz.compress.to
 .nzasa.ddns.net
 .nzezn.com
 .nzfcvv.xyz
@@ -80267,6 +80242,7 @@
 .ojapanelm.xyz
 .ojejku.5v.pl
 .ojiang.com
+.ojimtyk.top
 .ojkduzbm.com
 .ojm9nr.shet.eveshamairporttransfers.co.uk
 .ojmvywz.com
@@ -82860,7 +82836,6 @@
 .paiement-secure.fr
 .paiement-securise-support.fr
 .paiement-web.fr
-.paiementboncoinsecurise.fr
 .paiementlbcencours.fr
 .paiementsecurcoin.fr
 .paiementsecureleboncoin.fr
@@ -83504,7 +83479,6 @@
 .pass-check.online
 .pass-connect-societegenerale.fr
 .pass-connecte.fr
-.pass-connecting.fr
 .pass-connexion.fr
 .pass-credit-mutuelle.fr
 .pass-nepal.org.np
@@ -85786,7 +85760,6 @@
 .plaza-l1o0nni-p1aza.com
 .plazaimmobilier.fr
 .plclever.weebly.com
-.plcs.ir
 .pldev.112.2o7.net
 .ple-emploi.fr
 .pleadsbox.com
@@ -85911,7 +85884,6 @@
 .plugs.co
 .plum.joburg
 .plumagebenevolenttv.com
-.plumanto.com
 .plumberwolves.com
 .plumbfullybeehive.com
 .plumbsplash.com
@@ -91295,7 +91267,6 @@
 .rec.detik.com
 .recadastrocreditcard.epizy.com
 .recalledmesnarl.com
-.recalledriddle.com
 .recallhealing.co.il
 .recantgetawayassimilate.com
 .recargasjogos.com
@@ -91434,7 +91405,6 @@
 .recovery-1026ad13.com
 .recovery-accountamzonsecure-updateinfo.duckdns.org
 .recovery-info.com
-.recovery-page.com
 .recoverystalbans.com
 .recoverystrait.com
 .recptlinko.s3.eu-north-1.amazonaws.com
@@ -92280,7 +92250,6 @@
 .repmedic.com
 .repocket.com
 .repologia.com.de
-.repondeursfr.fr
 .reporo.net
 .report-download.com
 .report-ps.meettech.net
@@ -93189,7 +93158,6 @@
 .rivatedqualizebruisi.info
 .rivdxb.xyz
 .riven3.online
-.rivenconquer.com
 .river-falls.com
 .river.spikedudley.com
 .river.zhidao.baidu.com
@@ -95540,7 +95508,6 @@
 .santuao.xyz
 .santuariopalacehotel.com.br
 .sanuk-france.fr
-.sanukshoesfrance.fr
 .sanuniversity.com
 .sanya1.com
 .saoe.com
@@ -100820,7 +100787,6 @@
 .smuggeralapa.com
 .smugismanaxon.com
 .smugmugincflickrprodudction.112.2o7.net
-.smusxath.reviews-sec.com
 .smutserver.com
 .smutstone.com
 .smuz.nl
@@ -101877,7 +101843,6 @@
 .space-high.com
 .space-nodes.com
 .spacead.pl
-.spaceclie.brunor0v.beget.tech
 .spacecodec.com
 .spacedart.com
 .spacedone.com
@@ -102797,6 +102762,7 @@
 .staempowered.com
 .staff.plenarykcg.com
 .staffandfaculty.my-free.website
+.staffdisgustedducked.com
 .staffdollar.com
 .staffingsolutions.net
 .staffingsouls.com
@@ -103080,7 +103046,6 @@
 .stat.detelefoongids.nl
 .stat.devote.se
 .stat.dongqiudi.com
-.stat.doxod.net
 .stat.duokanbox.com
 .stat.dyna.ultraweb.hu
 .stat.dziennik.pl
@@ -105551,7 +105516,6 @@
 .support-poste.fr
 .support-qonto.fr
 .support-servizio.squirly.info
-.support-spotify.fr
 .support-upr.fr
 .support-v2.sweetwaternow.com
 .support-widget.userlocal.jp
@@ -112426,6 +112390,7 @@
 .ttdbj.com
 .ttdpxh.xyz
 .tte-mail.de
+.tteferty33.fun
 .ttfgames.cn
 .ttg-neustadt-wildenheid.de
 .ttgmjfgldgv9ed10.com
@@ -114345,7 +114310,6 @@
 .uploadvirus.com
 .uploadwire.com
 .uplog.inews.qq.com
-.uplucarioon.com
 .uplus.kr
 .upmhxp.gow.englishwoodlands.co.uk
 .upnews18.com
@@ -116414,7 +116378,6 @@
 .viewerstats.docstoc.com.s3.amazonaws.com
 .viewerwhateversavour.com
 .viewformation.com
-.viewfromthepines.com
 .viewgr.com
 .viewi.publicvm.com
 .viewifydocs.com
@@ -121356,6 +121319,7 @@
 .x4.lov3.net
 .x403.nitro.com.au
 .x41.me
+.x4d.icu
 .x4k.me
 .x4kme7.nt.nativetrees.co.uk
 .x4pollyxxpush.com
@@ -125236,7 +125200,6 @@
 .zvvlbf.xyz
 .zvvqprcjjnh.com
 .zvwhrc.com
-.zvxwvny.cn
 .zwaar.net
 .zwariowane.pl
 .zwartemarktpistool.com

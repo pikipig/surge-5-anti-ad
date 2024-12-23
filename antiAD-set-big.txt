@@ -1,9 +1,9 @@
-# Version: 202412231808
+# Version: 202412232108
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 139160
-# Last modified: 2024-12-23T18:08:34+0000
+# Entries: 138950
+# Last modified: 2024-12-23T21:08:20+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -660,7 +660,6 @@
 .04c7c8d8-90f8-4641-b8af-f462db1c7413.htmlcomponentservice.com
 .04ce9409dcb20470ed22f9967b00f1c1.net
 .04citizexs-yuo.serveftp.com
-.04d4d8b0.htengsc.com
 .04d91d9d-c3d6-4128-9131-1e379b54267e.htmlcomponentservice.com
 .04de5a73-bfcf-4a49-95ed-e4f8c3f51fde.htmlcomponentservice.com
 .04de7b32e358-shared.fathym.com
@@ -891,7 +890,6 @@
 .0769qilin.com
 .076c92043c.a18d33cefa.com
 .076f0562683110246.temporary.link
-.07713659.com
 .0778849274k.wixsite.com
 .07799d.com
 .07857878.github.io
@@ -3728,7 +3726,6 @@
 .1ce94cba11407f43768cde7a311365c1fb9f04b29ffec272565f70b4b0.pages.dev
 .1cisp.coop
 .1civn.csb.app
-.1cjzfyb.com
 .1ckbfk08k.de
 .1clic1don.fr
 .1clickscpa.go2cloud.org
@@ -8939,7 +8936,6 @@
 .44sek.de
 .44sndkuge.pages.dev
 .44unit.duckdns.org
-.44usrs545ps.cc
 .44xxdd.com
 .45-ekansh.github.io
 .45-n-wh-customph-an00-family-sigur-ccusa-wat.sgp1.digitaloceanspaces.com
@@ -8953,7 +8949,6 @@
 .451254.cc
 .4512541page3supportsystem412144415-settings.start.page
 .45144150362049688748472.jamb2022.co
-.451553479450350314376026135267829767035680575275601761726.eu-gb.cf.appdomain.cloud
 .45164567.awi.za.com
 .451a125431.0321949413.workers.dev
 .451a8a8228e20cccc35c8b0269434642-dot-gle9392420309493993.rj.r.appspot.com
@@ -9125,7 +9120,6 @@
 .473cd3b5.huaxinsbm.com
 .47488.cc
 .4749084-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com
-.4752dg.des4.com.tr
 .475683857196233-dot-wetransfer-auth-file-342.appspot.com
 .47654756738.weebly.com
 .4773bet.com
@@ -9896,7 +9890,6 @@
 .518987-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com
 .518yi.com
 .519397.com
-.519603.cc
 .519c76b832.shoprenter.hu
 .51a85116-1b37-4341-a51b-bf593d87f05a.usrfiles.com
 .51ape.cc
@@ -12936,11 +12929,9 @@
 .5jcom.com.cn
 .5jd2tj2idrool.com
 .5jmbdojogg722aw.duckdns.org
-.5jmlidrmdc6b08xodkvlmqrzyq.we9ixzz.co
 .5juf.pages.dev
 .5jvlt.qwo231sdx.club
 .5jwakyaknxqwsjbdwmpqbfunbuy.wusps.xyz
-.5jwalcalscogpsv6r3xfjnka.qwo231sdx.club
 .5k1jf4nl.duckdns.org
 .5k6jzg.gow.englishwoodlands.co.uk
 .5k9b8nmc0x8r.live
@@ -12981,13 +12972,11 @@
 .5n1iar1lb0la.allcleanbydee2.com
 .5n3gg4.hbg.hebdenbridgedental.co.uk
 .5n4i1se8txdutslleao.liusanjie.cc
-.5n7ekzoxbdu3n7.azureedge.net
 .5nbzjneu.jimdofree.com
 .5ncovjy5acpjcw.com
 .5nfc.net
 .5ngames.com
 .5ni29k7eivyu.thedsdstudio.com
-.5nibka7xmekti1m.we9ixzz.co
 .5nllqrt2wnh.qwo231sdx.club
 .5nn.d4e3r5e4r5yu.cloudns.biz
 .5nt1gx7o57.com
@@ -13005,7 +12994,6 @@
 .5oreba.pages.dev
 .5organic.com
 .5osgp.bobmosierart.com
-.5ov4c02mz2rbn4pvbgwgibizl0.qwo231sdx.club
 .5oy5k.wusps.xyz
 .5oy7nkq5jqsm.fenet.com.tr
 .5oz.xyz
@@ -13187,7 +13175,6 @@
 .5tvc.blob.core.windows.net
 .5twmjfo.mazetalaei.ir
 .5ty.easy.co
-.5ty37eouvik.wusps.xyz
 .5u.com
 .5u.r5fs3.agfquimica.com.br
 .5u1fmsrzu2iqxpi72okc8vul8r.liusanjie.cc
@@ -13214,7 +13201,6 @@
 .5vl8.short.gy
 .5vlm6-aaaaa-aaaad-qcc5q-cai.ic0.app
 .5vpbnbkiey24.com
-.5vprtka6n4qf.wusps.xyz
 .5w32f.imtokend.top
 .5w4v4-yyaaa-aaaad-qcfaq-cai.ic0.app
 .5w90.co.cc
@@ -13227,7 +13213,6 @@
 .5wuefo9haif3.com
 .5wxb2b.gay.tathamservice.com
 .5wyle.csb.app
-.5wzcrlyi.wusps.xyz
 .5wzgtq8dpk.com
 .5x.to
 .5x55g-pqaaa-aaaad-qcrua-cai.raw.ic0.app
@@ -13312,7 +13297,6 @@
 .6014.stablegift.com
 .60159754.mliv.sa.com
 .6016276-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com
-.60184477.kjgeuwnc.shop
 .60199d4729120.my-website.app
 .6021bfc225.a5058f0d07.com
 .6022bc8f-f072-4f13-81a6-99fb7a04ff6d-00-114zws21t3sny.pike.replit.dev
@@ -13523,7 +13507,6 @@
 .62.sub-75-210-98.myvzw.com
 .6200294-dot-oaao-274308.uc.r.appspot.com
 .620473048756603-dot-wetransfer-auth-file-341.appspot.com
-.62063815936191hojelakanuoepture.my.id
 .620712a8277c5a1ab7a4625a--gallant-liskov-1ee368.netlify.app
 .6210.ns.lyt213.top
 .621718.selcdn.ru
@@ -13539,7 +13522,6 @@
 .6229444.com
 .623.bapi.adsafeprotected.com
 .623112j4j3.codesandbox.io
-.623358.chucklez7777.tercumandan.com
 .62336abe53f580066bd5703214076ebb-dot-dbenitonline.ey.r.appspot.com
 .623762.com
 .623dfbwlrw666.pages.dev
@@ -13680,7 +13662,6 @@
 .637724.selcdn.ru
 .637900.selcdn.ru
 .637aio-accountverify-update018383.s3.eu-west-1.amazonaws.com
-.637bkdpwosbsl.ga
 .63810.com
 .638125343f0ba6752219212f--reliable-shortbread-2f88ef.netlify.app
 .6381292189f6417959e8eff5--luxury-tulumba-22cc0b.netlify.app
@@ -13738,7 +13719,6 @@
 .64.sub-70-197-239.myvzw.com
 .64.sub-75-197-244.myvzw.com
 .640.ropmon.club
-.6400a324d7cda.virkrupaengg.com
 .640186f930.04de88565b.com
 .6406e8734d7f33cfc47bb64724c52951-dot-gle9392420309493993.rj.r.appspot.com
 .640b85db-2e50-4076-8826-f3a2ced326ab.usrfiles.com
@@ -13945,7 +13925,6 @@
 .657226703365.com
 .657376d1f1.65a95a9d2b.com
 .6573775.weebly.com
-.65744.76454.repl.co
 .6575.pagedemo.co
 .6575318c.qepfmq.shop
 .6575365.com
@@ -13987,7 +13966,6 @@
 .65ed5de2012720342.temporary.link
 .65f0b9ce.0fhsdakffirer.org.cn
 .65f239c4-a207-4e75-b873-7f720e4305a8.usrfiles.com
-.65f9195e.00agt8.shop
 .65f92cc6-1408-4788-811f-a1533bac7000-00-3sbi9upt8umy6.kirk.replit.dev
 .65f96microsoft0a65f96account.yolasite.com
 .65fed2983840cafebfd9adff--monumental-raindrop-0416ba.netlify.app
@@ -14241,7 +14219,6 @@
 .66869475365.com
 .66885aaa.com
 .66888881.com
-.668951.xyz
 .66895118.top
 .668a90b804e1c1e05e9418ee--regal-kataifi-ecd1b3.netlify.app
 .668c6f19b43fe1de38e8c738--amazing-smakager-c3408a.netlify.app
@@ -14318,7 +14295,6 @@
 .671421.selcdn.ru
 .671751.duckdns.org
 .6719025-17860-dot-bles05.wn.r.appspot.com
-.671936d4.szzhengqian.cn
 .671b22d5b4c163d85ac28bcf--westerunion.netlify.app
 .671b2440504491000870a7af--westerunion-un.netlify.app
 .671b25141f5ca200082f25d0--westerunion.netlify.app
@@ -14340,7 +14316,6 @@
 .673e0c16efe13900f2bedba4--insttagram-login-page-for-new-users.netlify.app
 .674.360-insurance.com
 .6743023129.s3.us-west-2.amazonaws.com
-.6743687879238773327.z15.web.core.windows.net
 .6743mngerhlpsrvceprvcy2.xyz
 .6744224.filesusr.com
 .67465.uqoumfayzbzzmuf8276.workers.dev
@@ -14384,7 +14359,6 @@
 .6786546-bell-online-service.weebly.com
 .6786iuojhgytuikji.pages.dev
 .678719.com
-.6787435345.bluestudio.es
 .6789007.cn
 .6789iouy678uiy78.pages.dev
 .678attmailingaddresses3242354aottmailaddresses3242354ewqs643.weebly.com
@@ -14403,7 +14377,6 @@
 .67b3239ff1.d58f989012.com
 .67bxwkkjo.repuestogas.com
 .67c4661d-d85d-4bb4-88e1-2de5a55f55e6.usrfiles.com
-.67c632aa.ilekdfjcxm.shop
 .67cbf846-6471-43ba-9ac0-ce17a1e9547e.usrfiles.com
 .67cdajbpl.visualook.com
 .67cejatiiols.pages.dev
@@ -14442,7 +14415,6 @@
 .6829527334.t1t.it
 .6836501.com
 .6836588.com
-.6836591.com
 .6836592.com
 .68365dd.com
 .68365hh.com
@@ -14581,7 +14553,6 @@
 .6a71d00a-fefb-42d9-ab0f-626b9ec20830.usrfiles.com
 .6a7f9bf9-8a7f-41cc-a4cc-82fead4a70d4.usrfiles.com
 .6a802238f18629454f48-5fd47577f4847dded97d514126394433.r3.cf2.rackcdn.com
-.6a86dd88.8ze2xl.shop
 .6ab17043.sr-aircleaner2008.com.cn
 .6ab7a383-6994-4f8c-92be-b4971ebdf780.usrfiles.com
 .6aba3965.hotdzk.shop
@@ -14684,7 +14655,6 @@
 .6ce02869b9.com
 .6cf0e7801e8cd.clicknplay.to
 .6cf93174fa659f57637db40e3eeeffdb-dot-gle9392420309493993.rj.r.appspot.com
-.6cfb0e39.h09mzp.shop
 .6cfn83rb.square.site
 .6chmes.stanishd.com
 .6craqg.onl.onlinetrees.co.uk
@@ -14696,7 +14666,6 @@
 .6d39809b4a.com
 .6d3f3332fd.com
 .6d453205.qehw42.shop
-.6d4a9ab1-c280-4e99-bc42-59a68d0a709c.id.repl.co
 .6d548a37.hsduecinfj.com.cn
 .6d6c157f-f89c-43ae-8a03-8e051daccc7e.usrfiles.com
 .6d7e5e9228baa3289575fc34a4488c61-dot-gle9392420309493993.rj.r.appspot.com
@@ -14858,14 +14827,12 @@
 .6jr9vw.postal.gameplansession.com
 .6jrkr8lkhizp15d74q1lmq9msv50s2etx1f04of5twa8uq2am7.xyz
 .6jrv37.ktt55.my.id
-.6k.purocueroecuador.com
 .6k1fsp.4.fourcrossesinn.com
 .6k4sqb9egij0mkxptifc.wusps.xyz
 .6katow.pl
 .6kgmqhdy.kokoo8899.com
 .6kk2a4t.com
 .6km23-yqaaa-aaaad-qeyba-cai.raw.ic0.app
-.6kstakgbjzjdqhnczsxilgqzhrs.richardl.xyz
 .6ktu.short.gy
 .6kufyk.postal.gameplansession.com
 .6kv5spgu.mozproducteke.com
@@ -14874,7 +14841,6 @@
 .6l1xl.r.bh.d.sendibt3.com
 .6l96lk6edlyf.live
 .6ldu6qa.com
-.6lejd2ernu4qhvrw4putpdrqb.qwo231sdx.club
 .6lfeq7y.duckdns.org
 .6lfkmo.osweetburger.com
 .6lgldpl3.square.site
@@ -14893,7 +14859,6 @@
 .6n80sirtac-658321704.lucidasearch.com
 .6n8ng8-8080.csb.app
 .6n91rt9pcyaw.thedsdstudio.com
-.6name.top
 .6njop0xcn3x.duckdns.org
 .6njzeor.duckdns.org
 .6nk5atk6fmk22e.indylatinawrds.com
@@ -14920,7 +14885,6 @@
 .6pnota2n0fm8pzpp85r9a7sc53jn5prk.ocalam.com
 .6po4.q3rzc.villa-esplanada.ro
 .6pyigimk.qwo231sdx.club
-.6pyjno.removalsinrotherham.co.uk
 .6pznpz.com
 .6q2hz7.csb.app
 .6q3ygm.jik.thetreecentre.com
@@ -14995,7 +14959,6 @@
 .6wiak-pqaaa-aaaad-qeyda-cai.raw.ic0.app
 .6wj2jvp9cgh.qwo231sdx.club
 .6wjntotqbiuc6tuszgtynwq3ju5i.liusanjie.cc
-.6wqmo.qwo231sdx.club
 .6wuk3a.postal.gameplansession.com
 .6wuo3wh.duckdns.org
 .6wwdqzv4.duckdns.org
@@ -15007,7 +14970,6 @@
 .6xq77x.shet.eveshamairporttransfers.co.uk
 .6xqe1y12.duckdns.org
 .6xtpke4.com
-.6xubf9.43811.wap.shuaihu99.com
 .6xy-zg.com
 .6xytrct865aewodp.qwo231sdx.club
 .6y166f.shet.eveshamairporttransfers.co.uk
@@ -15015,13 +14977,11 @@
 .6y1wm78.5q5e5o.cn
 .6y2qaoiyfrtq.munty.co
 .6y64j-fyaaa-aaaan-qcreq-cai.raw.ic0.app
-.6y6unf.shop
 .6y7s4x47.pages.dev
 .6ycaqbynst0hno8ve8qtz4fgz20tx.wusps.xyz
 .6yclm-xqaaa-aaaam-abcyq-cai.raw.ic0.app
 .6ye.com.cn
 .6ye5-qfjv3q-qrd1.amazingshihtzupughome.com
-.6year1854.cloud
 .6yehce.wusps.xyz
 .6yghgfgrgg3.blogspot.com
 .6yhk.pages.dev
@@ -15035,7 +14995,6 @@
 .6zqu2klfrv7w.munty.co
 .6zv9u.csb.app
 .6zy9yqe1ew.com
-.7-24reshulde.click
 .7-cifr.ru
 .7-kaz2ik1oc.vercel.app
 .7-medya.com
@@ -15053,7 +15012,6 @@
 .700b37f3-66ad-40b7-94b2-3c1f40ab96c0.usrfiles.com
 .700ok.net
 .700recolaseis.ru.com
-.7013kkrebs.goodluckseeker.com
 .7013moran.katz.goodluckseeker.com
 .7013wzinka.goodluckseeker.com
 .70141355f65e76ff7ed1a12a4da29273-dot-spow3039.df.r.appspot.com
@@ -15078,7 +15036,6 @@
 .705113-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com
 .705258594479596-dot-ifile-document.appspot.com
 .7054company.github.io
-.705752511468005.kitlanchesisa.com.br
 .705762578244967.cocopasa.com.mx
 .70595118.top
 .705lawncare-1318334846.cos.ap-tokyo.myqcloud.com
@@ -15156,7 +15113,6 @@
 .715110.cc
 .7151623-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com
 .71516758-dot-integrating-ionos-zipp.ue.r.appspot.com
-.7152d0b4-f65f-40d3-84fe-4c4ebd96e549.id.repl.co
 .7158196-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com
 .715878411450772-dot-cloud-365-000.el.r.appspot.com
 .715eb3bb1cc2520dcfb9bcba3c86f437041.pages.dev
@@ -15198,7 +15154,6 @@
 .721ffc3ec5.com
 .721verifymaillahsydb344553578verifymaillahsydb3445535789.weebly.com
 .722089065999283-dot-wetransfer-auth-file-343.appspot.com
-.7223xg.cn
 .7224862-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com
 .722983765.friendflorida.org
 .722cba612c.com
@@ -15307,7 +15262,6 @@
 .736526437472.com
 .73657a.com
 .73657bet.com
-.73657s.com
 .7365vip4.com
 .7365vip5.com
 .7365vip88.com
@@ -15352,7 +15306,6 @@
 .73c34d312797462d4c89fa2f71f1bf16-dot-gle9392420309493993.rj.r.appspot.com
 .73cceb63-7ecd-45e2-9eab-f8d98aab177f.usrfiles.com
 .73d8a3a315.mywebsites360.com
-.73e8dbfd.qepfmq.shop
 .73eb3p8a.duckdns.org
 .73fdds22op0.co.vu
 .73gmail.com
@@ -15412,7 +15365,6 @@
 .7467df11-c9df-4602-b5eb-e2a34bb56d99.id.repl.co
 .746bc1d0fd900.linguazine.com
 .747247y2t.weebly.com
-.74728292.ns-u629df.shop
 .747769.technip-energies.store
 .747b9eaa.ngrok.io
 .747dc46a4d.8428db03e3.com
@@ -15452,7 +15404,6 @@
 .751231.cc
 .751b9bc4-1098-4273-be36-d773a269c4c5-00-h6t0fk18rg7u.sisko.replit.dev
 .752202.cc
-.752249.icu
 .752250.icu
 .752264-coinbase.com
 .752646-dot-river-direction-289114.appspot.com
@@ -15594,23 +15545,19 @@
 .767644-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com
 .7676678.myportfolio.com
 .76776687665802938308634-share-6920284774398336468009876533.pages.dev
-.767klopi0.z1.web.core.windows.net
 .767login.weebly.com
 .7683-2a02-85f-e80c-f502-c438-ff83-22fb-385d.ngrok.io
 .7683.jvcapitalgroup.com
 .76843.com
 .768430.selcdn.ru
-.7684601076.mexigas.com.mx
 .768509927988504280155674-7158771215429431520808454.glitch.me
 .7685365.com
 .76856743775.weebly.com
 .76878login.weebly.com
 .7690aed1.dzlvk5.shop
-.769323db.kjfhroi7493hffds9dff.org.cn
 .769oods234.sgp1.digitaloceanspaces.com
 .76b61c25b1.c8dd7cddbb.com
 .76bacd6da03602577.temporary.link
-.76bimcell.net
 .76bwxwes4lsm.live
 .76e33fd6.qepfmq.shop
 .76f37d284b3669949.temporary.link
@@ -15624,7 +15571,6 @@
 .76k.sandiu504.xyz
 .76meoryou9084.square.site
 .76netzero.weebly.com
-.76pkvvw81yo.qwo231sdx.club
 .76rdtvf7gtz9ypre1zlslz.qwo231sdx.club
 .76usps352ps.com
 .77-01p.pages.dev
@@ -15835,7 +15781,6 @@
 .789787988645s497899797-track-post-ch.cleverapps.io
 .78987select-fth0-capital-plans.pages.dev
 .789963c8.he11.cn
-.7899dh.com
 .789api.com
 .789hotel.com
 .789incp.weebly.com
@@ -15848,7 +15793,6 @@
 .78d2a92a0fb33f57dbae8e9ad1e7a652-dot-dbenitonline.ey.r.appspot.com
 .78d579d6628daf183c0b20f57bc9b1b7-dot-gle9392420309493993.rj.r.appspot.com
 .78d579d6628daf183c0b20f57bc9b1b7.gle9392420309493993.rj.r.appspot.com
-.78djsgaf6dgjwfdw-secondary.z13.web.core.windows.net
 .78dx8t.com
 .78e56d43.yingxiaodashi.com.cn
 .78eb7ccc-133e-4667-bd3d-264b32262dfa.usrfiles.com
@@ -15879,7 +15823,6 @@
 .7923ae2b.neu3829ism.shop
 .792637-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com
 .792749976985480-dot-wetransfer-auth-file-344.appspot.com
-.7930998.com
 .7932krishraninga.github.io
 .7933083-9366350-dot-bles05.wn.r.appspot.com
 .793593-3003wr-334.s3.us-east-2.amazonaws.com
@@ -15969,7 +15912,6 @@
 .7b1bdf18c07f.ngrok.io
 .7b1e13ef1365727d16bb79fe34fa1632-dot-dilinkingion.oa.r.appspot.com
 .7b3434983aad2bc3d2db8bf3ec95ae39-dot-gle9392420309493993.rj.r.appspot.com
-.7b43ac8f-3f37-4f46-aaea-9d88db6f91f6.id.repl.co
 .7b48c02aeaf80a91d5426cf0a66dea27-dot-dbenitonline.ey.r.appspot.com
 .7b6023ac90d7e07a0ed13a0ad16f38ed1rs.netlify.app
 .7b62e883-632e-4729-88b7-cec9d0ec76d2-00-19ktpwt6gamp5.riker.replit.dev
@@ -15996,7 +15938,6 @@
 .7bm9gcx4vw.s3.us-south.objectstorage.softlayer.net
 .7bniuage3rskkvlwlwyt.we9ixzz.co
 .7bnkmelat.buzz
-.7bossffwqwxmcfrdkod.qwo231sdx.club
 .7bpeople.com
 .7brlqqqwvjmj.live
 .7brothers.net
@@ -16080,10 +16021,8 @@
 .7df8a50b123873451.temporary.link
 .7dfbef87b6.com
 .7dfret.pages.dev
-.7dgvd.dew4.my.id
 .7dhcd.dew4.my.id
 .7dhupt.s3.eu-west-2.amazonaws.com
-.7djid89jki863ghej.z19.web.core.windows.net
 .7dlm.cn
 .7dn7giwzz8jvr7bpgh4xsp5wgye7j.qwo231sdx.club
 .7dot.cn
@@ -16094,7 +16033,6 @@
 .7e0d200f9a4adb582e56af.z13.web.core.windows.net
 .7e15a18c-ace2-463b-8548-025cf0bc2abc.usrfiles.com
 .7e1c41610853974ee7076e5dabfc7429d4d2145b5f216b816085775c06.pages.dev
-.7e2bc482.hxy21jc-p.cn
 .7e33dda727cdc9.lhr.life
 .7e4a6fbed2.b14e96118f.com
 .7e4eb747.azure-therapies.uk
@@ -16205,14 +16143,12 @@
 .7i.se
 .7i0q9tjfnlvlibyowaccc.qwo231sdx.club
 .7i4-101513.square.site
-.7i5y5.abooster-appspage.com
 .7i6llbnmd4mnz4ccil18r7.qwo231sdx.club
 .7i7etry-706900uo0-8tu6.s3.us-east-2.amazonaws.com
 .7ie4hnqcdgxypdelgww7.cybertruck.eu.com
 .7ijiz6tmvjfbx.associated-shipbroking.com
 .7ink.ru
 .7insight.com
-.7issiuypqsg.53244ds.xyz
 .7iuwz-uiaaa-aaaad-qdhxa-cai.raw.ic0.app
 .7ixlxl2fpbeo4.wusps.xyz
 .7izvkvhb.qwo231sdx.club
@@ -16233,7 +16169,6 @@
 .7kj4n.codesandbox.io
 .7kjsdio.duckdns.org
 .7kkccx.pulty.multiversemechanics.info
-.7kkfg7b7rj3fle5w.qwo231sdx.club
 .7klew.auleengenharia.com.br
 .7ksjf9-5000.csb.app
 .7ksjf9-5000.fc-eu-0.pitcher.csb.app
@@ -16260,7 +16195,6 @@
 .7mp8-izay8f-oxm0.anjaan.com.np
 .7mvgyncz6zb5yka33kn5atcji.qwo231sdx.club
 .7n1hfolmrnbl.live
-.7n8o.top
 .7namtuhao.gaerana.io.vn
 .7neta5ej22j.access.ly
 .7nm45o59.square.site
@@ -16298,7 +16232,6 @@
 .7q95bx.jik.thetreecentre.com
 .7qjerkk.wusps.xyz
 .7qqmih.we9ixzz.co
-.7r2z0koslbupwibe4e.z21.web.core.windows.net
 .7r4d3.com
 .7r8ln1wswth.life
 .7recovery.duckdns.org
@@ -16360,9 +16293,7 @@
 .7up7.duckdns.org
 .7usbmnokk1muhk1xzdd.barclayis.co
 .7uwrnnswzlbt.thedsdstudio.com
-.7uxa6fwste.wusps.xyz
 .7v65ves-wiav-r-nq-bg-h8nc.vercel.app
-.7vekxb.barclayis.co
 .7vendedorbrasiljunto.com
 .7vnkf.online
 .7vtq5-taaaa-aaaad-qcweq-cai.raw.ic0.app
@@ -16401,11 +16332,9 @@
 .7y43t4r7qre27e65265e3265.github.io
 .7y4gey3874y3.weebly.com
 .7yatra.com
-.7ybrrlmiie.6.sabina.world
 .7yesaqhr1s.lspower.xyz
 .7yfmn-jyaaa-aaaan-qcw7a-cai.raw.ic0.app
 .7yp9m4-8080.csb.app
-.7yraksqhrdhcuv6dafhso0.barclayis.co
 .7yrfyqdxvlm6nvbxipqhlnkzvltoz.wusps.xyz
 .7yw95el.eu.org
 .7ywl.com
@@ -16459,7 +16388,6 @@
 .8026793-dot-oaao-274308.uc.r.appspot.com
 .8034772-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com
 .80365365.com
-.8037722c-9d8b-43ad-9cca-1bf9921a4e66.id.repl.co
 .803df7e7b687250a00312c558e940f6f-dot-gle9392420309493993.rj.r.appspot.com
 .80436615148758386184439.jamb2022.co
 .804425163224620.my.id
@@ -16545,9 +16473,7 @@
 .8131.qizhihaotian.cn
 .813149.clockdocgaugeworx.com
 .8131889.com
-.8134683.com
 .813553.com
-.813596-coinbase.com
 .81365365.com
 .813663.com
 .813777360494259205386681-2973654876360148815537579.glitch.me
@@ -16567,7 +16493,6 @@
 .8161.uk
 .816805230700.duckdns.org
 .81680523072000.duckdns.org
-.81688394.dmfr.sa.com
 .8170140.remaxcapitals.com
 .8171925168785019947083626.hanefra7bikiemta.com
 .8173828455.ddns.net
@@ -16655,7 +16580,6 @@
 .828239sam.com
 .82888826546648.cloud
 .828af6b8ce.com
-.828areacode.com
 .82919210.blogspot.com
 .82920935978390920191003t225454-dot-wetransfer-auth-file7781.appspot.com
 .8293035-dot-oaao-274308.uc.r.appspot.com
@@ -16672,17 +16596,14 @@
 .82kb.com
 .82o9v830.com
 .82r.60a.myftpupload.com
-.82s2j5ygqb.bond
 .82sz.com
 .830.360-insurance.com
 .830320.selcdn.ru
 .8304153-89850-dot-bles05.wn.r.appspot.com
 .83112.cc
-.83153.cc
 .831676c5.d26218.cn
 .8322344-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com
 .83244267946833294127561711.hanefra7bikiemta.com
-.8325365.com
 .8328.bapi.adsafeprotected.com
 .833b446bf809d05d8cbe-22d497cab0248fe8bf9979b2e6155da2.r90.cf2.rackcdn.com
 .833enmhob.com
@@ -16755,13 +16676,11 @@
 .8405b553f212136d9d75dc5623d9c5f1-dot-gle9392420309493993.rj.r.appspot.com
 .840d1a7c.hae118.shop
 .84111a02aa6f8ece9563bad5f3378f58-dot-spow3039.df.r.appspot.com
-.8414c47c.qepfmq.shop
 .84166f70.hsduecinfj.com.cn
 .841709.tarxtech.com
 .84206.com
 .8420754672.digiduffers.com
 .84232.com
-.8424.dpd.loginto.me
 .842678-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com
 .842845-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com
 .84284a87a4.com
@@ -16796,7 +16715,6 @@
 .84845.pages.dev
 .8485635828.mexigas.com.mx
 .8485783118-reviewpage.pages.dev
-.8486425632.8489948.repl.co
 .849-100037.weeblysite.com
 .84913240098-reviewpage.pages.dev
 .84913428-reviewpage.pages.dev
@@ -16812,7 +16730,6 @@
 .8499583.com
 .84a0e8beca.5ede78f7a0.com
 .84aa71fc7c.com
-.84ada211.341756953.xyz
 .84b4b9f67d67f77edfa6f1de2f12b083-dot-spow3039.df.r.appspot.com
 .84b6c9bebf541c17a229d921556d14a4ffd4.com
 .84b98912cc.nxcli.io
@@ -16833,10 +16750,8 @@
 .84n-mail-att.weeblysite.com
 .84olympicsbrewery.ba
 .84ond9ipezwi.qwo231sdx.club
-.84oqmildvf79yukqh7za7mr1.qwo231sdx.club
 .84snowmeprona.sa.com
 .84y9g2.duckdns.org
-.85040094539876873221564006.com
 .850648486-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com
 .850705.formstack.com
 .85099b995890a9b7201bf04cffb2e806-dot-gle9392420309493993.rj.r.appspot.com
@@ -17049,14 +16964,12 @@
 .87connect-1secure.duckdns.org
 .87d61bf1-78b5-470c-a4bb-fd3e618d85ea.htmlcomponentservice.com
 .87dac9f8c195983fc8d5fa50ac44e5a2-dot-goff039302032323.rj.r.appspot.com
-.87e3f50b-2042-4090-a3a4-b0ed4cea9ca2.id.repl.co
 .87f02a15f7c8.godaddysites.com
 .87f81e4343.d7ea5cbf87.com
 .87fc5f7f.ithemeshosting.com.php73-40.lan3-1.websitetestlink.com
 .87gmail.com
 .87h1q.weblium.site
 .87i.keyxxmcrdpfu283.workers.dev
-.87seh.richardl.xyz
 .87sfyruk53k538gfmank85387sg387sfyruk53k538gfmank8.weeblysite.com
 .87usps187ps.com
 .87vf1gz5b7n.typeform.com
@@ -17094,7 +17007,6 @@
 .883756-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com
 .883992f5.1966ks.cn
 .883bet.cc
-.883ea19d.h09mzp.shop
 .884352.com
 .884549654-reviewpage.pages.dev
 .884723675823.cloud
@@ -17103,7 +17015,6 @@
 .8849d6e64d2f.ngrok.io
 .884de19f2b.com
 .885639308183899.my.id
-.88564015.com
 .885684.ubpages.com
 .8857954-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com
 .885c93586e11cccacd647adc490c00a4.getforge.io
@@ -17175,7 +17086,6 @@
 .88d2f47e5eec541d907a3951ea1586732.pages.dev
 .88d7b6aa44fb8eb.com
 .88dd3n-8080.csb.app
-.88de388de3.prosmariabltd.co.ke
 .88e6b4f9dc48c82f921df017993707b9-dot-solidstar-improts.uk.r.appspot.com
 .88eq7spm.de
 .88ffbd4d842640670.temporary.link
@@ -17372,7 +17282,6 @@
 .8bwvd81frwndf2d3gv.duckdns.org
 .8c1f.short.gy
 .8c2034c0.sibforms.com
-.8c2091a1.3im0r0.shop
 .8c22b9b7ffc5efbb1910ce5c72d0c7f4-dot-spow3039.df.r.appspot.com
 .8c2499f4add94e96a21c765b0c8ab967-dot-gle9392420309493993.rj.r.appspot.com
 .8c294e2d-7708-4ca6-b095-84b5d8ebd504.usrfiles.com
@@ -17396,7 +17305,6 @@
 .8ca12e92.ithemeshosting.com.php73-39.lan3-1.websitetestlink.com
 .8ca2f16f.bmoney-frn.net
 .8cbe0f182215db099345b6f3a7ca2a47-dot-gle9392420309493993.rj.r.appspot.com
-.8cc.icu
 .8cc2kj.blow.harrisretreat.com
 .8cc514abf6.a9579899d4.com
 .8cc5ff581a88.bitsngo.net
@@ -17411,7 +17319,6 @@
 .8cnd.com
 .8coins.ru
 .8cpsp4.gow.englishwoodlands.co.uk
-.8cqdqmfceszseyjijvdfxku6.lspower.xyz
 .8cqm.top
 .8cubed.com
 .8cvms.csb.app
@@ -17597,7 +17504,6 @@
 .8l5cci.csb.app
 .8l8b9o9b.square.site
 .8lbusdebu5dxzjhlltbxfnx00.designmysite.pro
-.8lc42.xyz
 .8lclb.we9ixzz.co
 .8le8le.com
 .8letsavmzh.s3.us-south.objectstorage.softlayer.net
@@ -17654,7 +17560,6 @@
 .8qvt5iabz5n.life
 .8r13tbbn19148-tsyhliqnqrl-9zrevo68qg1o34huz2nocg9-dos38x5j.pages.dev
 .8r3a9.github.io
-.8r5p3cvcxno.wusps.xyz
 .8rabm6d1.square.site
 .8rbanorte4rmx.github.io
 .8rf.com
@@ -17666,7 +17571,6 @@
 .8rmsbjslxmwa.qwo231sdx.club
 .8rqrk.codesandbox.io
 .8rr3nsb.duckdns.org
-.8rs0bmh.5q5e5o.cn
 .8rts0djxefbem.richardl.xyz
 .8ru044xed25.life
 .8rwngd.postal.gameplansession.com
@@ -17675,7 +17579,6 @@
 .8s32e590un.com
 .8s8cyak8emzp3qvvwmgx5qnqjjr17xltp4haci3m.s3.ap-northeast-2.amazonaws.com
 .8s9.org
-.8sc0uta-acc87tt0supp.info
 .8se.biz
 .8senjya.jp
 .8shot.com
@@ -17706,7 +17609,6 @@
 .8tw6-pxmt1t-pzb3.anjaan.com.np
 .8ty0xhgoc8zlcen8evd6eqihjci34ur1.ocalam.com
 .8tyi.kmugjxbaa5245.workers.dev
-.8u6iriqloshwymv.www.dautzeuz.com
 .8u7r35mu2e4g.live
 .8ub2oi5gfsj.duckdns.org
 .8ucdn.com
@@ -17744,7 +17646,6 @@
 .8vz1n.220q.cn
 .8w3wzy4q.pages.dev
 .8wbb86.cn
-.8web.ml
 .8wfh7yjg.lspower.xyz
 .8wgq2x4dybx9.live
 .8wo8gli.wusps.xyz
@@ -17762,7 +17663,6 @@
 .8yazaki.jp
 .8yihkj.uptqskjmsgtozf2679.workers.dev
 .8yiujkb.3jp63gh5nt4256.workers.dev
-.8yjgqjvq3bftcva0setjju6m.barclayis.co
 .8ym6bfkdhj.vercel.app
 .8ynxktkplt5ny.we9ixzz.co
 .8yu6tf7899iuihkolp0k.weebly.com
@@ -17820,7 +17720,6 @@
 .902e8777.2dt3w81.cn
 .902f0e5d-791e-41cf-8b79-42b5927dc803.id.repl.co
 .90364ghhffhhgfgfddgdnewomoihustleds1ooshuooooooooooo.s3.us-east-2.amazonaws.com
-.9040300.remaxcapitals.com
 .904372-asicasniac-aslkwm-laskodjw-iqnc3845.pages.dev
 .90464ghhffhhgfgfddgdnewomoihustleds1ooshuooooooooooo.s3.us-east-2.amazonaws.com
 .9049aec47eea2939aced282aff72359e-dot-vygdgfhjwjjvhvn.oa.r.appspot.com
@@ -17851,7 +17750,6 @@
 .909208.cc
 .9093287onlyfansssubgratisa.filesusr.com
 .909338844400.weebly.com
-.90946660916-90946660916909466609169094666091690946660916.nigamindustry.com
 .909520074.com
 .90964ghhffhhgfgfddgdnewomoihustleds1ooshuooooooooooo.s3.eu-central-1.amazonaws.com
 .90968.43811.wap.shuaihu99.com
@@ -17867,7 +17765,6 @@
 .90dayfiancelawyer.com
 .90e78be4ad.f250b37f9e.com
 .90e7fd481d.com
-.90f71d75-ed8f-47b2-92ab-d245c8e481be.id.repl.co
 .90i.info
 .90joinafbuinad.vercel.app
 .90kabab.com
@@ -17899,7 +17796,6 @@
 .91199a.xyz
 .9119fa4031.com
 .911af9d4.fei124970841.cn
-.911engineeringllc.company
 .911m2.com
 .911order.com
 .911promotion.com
@@ -17919,7 +17815,6 @@
 .915246-coinbase.com
 .915c63962f.com
 .9165006-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com
-.916501.cc
 .916875284003844.kitlanchesisa.com.br
 .917295-dot-oaao-274308.uc.r.appspot.com
 .917776a2.ngrok.io
@@ -17989,7 +17884,6 @@
 .9247login.weebly.com
 .925.lt
 .9251711-dot-oaao-274308.uc.r.appspot.com
-.9252455931648576698526.z15.web.core.windows.net
 .9261453.weebly.com
 .92685380860669676322421484.hanefra7bikiemta.com
 .926925673861627-dot-wetransfer-auth-file-343.appspot.com
@@ -18024,7 +17918,6 @@
 .92ccs.com
 .92f6277d5c22414b1836dfdfda0353d9.3403111.xyz
 .92ideas.com
-.92ko9d027hd65.z19.web.core.windows.net
 .92publishers.com.pk
 .92w5tz.40261.81935.m.shuaihu99.com
 .92x.tumblr.com
@@ -18045,7 +17938,6 @@
 .933ea717.bwxt5e.shop
 .934-104141ya.weeblysite.com
 .934178783951476-dot-wetransfer-auth-file-341.appspot.com
-.934354637282-343432.com
 .934726-postfinance.cc
 .935102984979282711235342535125274859.hanefra7bikiemta.com
 .9352cf4a.bmoney-frn.net
@@ -18055,7 +17947,6 @@
 .9355766.com
 .935621.com
 .935676yfc.com
-.935688577988083.kitlanchesisa.com.br
 .935ft4j96.com
 .935yqzk19570.xyz
 .93653375439558908937007950633234521609.eu-gb.cf.appdomain.cloud
@@ -18063,7 +17954,6 @@
 .93692zubo66936.com
 .9370589-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com
 .93735144.weebly.com
-.9377.infomaps.in
 .937743-mlausge-voblyane324.pages.dev
 .937744.com
 .937791.com
@@ -18113,7 +18003,6 @@
 .9427-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com
 .94276887.virtualagro.ro
 .942ed560-aafb-4084-b23f-7d054706fe1b-00-9irw6t2245yx.kirk.replit.dev
-.9430022.aliciajoyrydings.com
 .943003-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com
 .94314017925246389634087.jamb2022.co
 .9433.org
@@ -18263,7 +18152,6 @@
 .9645bab868c974204182705a6e7c189e-dot-gle9392420309493993.rj.r.appspot.com
 .964641164614.hyperphp.com
 .9646464544.hyperphp.com
-.96482.top
 .9648907209812093887835934-case.com
 .964e5cd4-6c8f-4040-8807-0b0749923295.id.repl.co
 .965009.com
@@ -18277,7 +18165,6 @@
 .966ccd72.fb-policy-violation.pages.dev
 .9672197-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com
 .967967.discoveringreligion.net
-.967l9idlrkdz.allcleanbydee2.com
 .9685863.com
 .968700.cc
 .968d9fe6.bjdkth.com.cn
@@ -18305,7 +18192,6 @@
 .96mob.com
 .96ph7u.pulty.multiversemechanics.info
 .96pinku.github.io
-.96rod6kw19pjo6v.qwo231sdx.club
 .96tcn.richardl.xyz
 .9700hg.com
 .97010046.mliv.sa.com
@@ -18348,14 +18234,12 @@
 .9786b3ba.adorn-insight.co.uk
 .9786babe3c4064808.temporary.link
 .97878987987989645456-secure-payments.cleverapps.io
-.9788--jnjasd.repl.co
 .97891148.hlot.us
 .978979879.pages.dev
 .978qp.com
 .979-5ao.pages.dev
 .9791f2f68cb2b6a36db6416c0c76bc20-dot-gle9392420309493993.rj.r.appspot.com
 .9797.smq9dy8szx8889.workers.dev
-.979797979797979.co.vu
 .979a8100-5fe4-40cf-bbb2-9eab3e0351ea.id.repl.co
 .979maibrotheraddress8608539belprimemanaddress8608539sbc6fr5.weebly.com
 .97aee17b7ec0d95ccbe836da65511615-dot-gle9392420309493993.rj.r.appspot.com
@@ -18393,7 +18277,6 @@
 .98079714.ddrc.my
 .98081017037-dot-oppaiwiuwe.rj.r.appspot.com
 .9809e179-d924-48ec-ab5b-044aac7519b8.usrfiles.com
-.980e365.com
 .980f284f16f3e744f253e2a9207fde72-dot-gle9392420309493993.rj.r.appspot.com
 .980y987t8yahoo.weebly.com
 .98105772aca3ca6d36193e96c60f0abccabc1c6cf625d0f1b6ae341ddb.pages.dev
@@ -18640,7 +18523,6 @@
 .9994163daa8799803.temporary.link
 .99956b.com
 .9996777888.com
-.9998907587.linhotrading.com.sg
 .9999.laibao9954.workers.dev
 .9999000000004.cloud
 .99993659.com
@@ -18677,7 +18559,6 @@
 .99d2d8dc54217b324ae62dbf582d8932-dot-gle9392420309493993.rj.r.appspot.com
 .99d3dfd4-14a4-4409-bedb-913c77d40b98-00-2zh2pfkunld1i.riker.replit.dev
 .99d721.creatium.site
-.99da25e6.eaglee.cn
 .99dcd04a161104.lhr.domains
 .99downloads.de
 .99e37a7ae23a41b80981f4fcddb2.pages.dev
@@ -18694,7 +18575,6 @@
 .99meikang.com
 .99noivas.com
 .99own.com
-.99pdmfv5r.repuestogas.com
 .99pps.com
 .99shuding.com
 .99skyfeel.weeblysite.com
@@ -18803,7 +18683,6 @@
 .9ch.biz
 .9ckcg8.csb.app
 .9cm8qzkmevqekxn2acogqvsm44gkz3.cekurl.com
-.9cmr3vjqih.qwo231sdx.club
 .9cn1.short.gy
 .9cow.cn
 .9cp.cn
@@ -18878,7 +18757,6 @@
 .9f0d3880.3im0r0.shop
 .9f160e14.adorn-insight.co.uk
 .9f1i3az.cn
-.9f1zd1hotcgg0tk2q7ge8pqpdfs.qwo231sdx.club
 .9f2fb914-b7d6-49f0-9673-8cd81e899d4a-00-3f2ppqqsqzyqz.riker.replit.dev
 .9f3b06e598cd39115667f8ed689e5fcb-dot-gle9392420309493993.rj.r.appspot.com
 .9f3fcc24-65de-47c3-ae4e-6164f24f30cc.usrfiles.com
@@ -18984,10 +18862,7 @@
 .9one.tech
 .9op8b3frgeplifdbqsjt.cybertruck.eu.com
 .9osr1ek0.duckdns.org
-.9owapp.d3ipzy46ofkuni.amplifyapp.com
 .9pa278g346q7n89y.co.vu
-.9pagani-gcevent.indianxevent.com
-.9pekmvv.wiserwebus.io
 .9ph.us
 .9phzc6th.duckdns.org
 .9po6mz7g48.projects.webpages.one
@@ -18996,12 +18871,10 @@
 .9pyv8hovtm0i.bellydancetulsa.com
 .9q1s82400.royalwebhosting.net
 .9q2qguuxd.duckdns.org
-.9q8w3675qyvahu.ga
 .9q9ygjyqwp4.jimdofree.com
 .9qgtmqiy7ujs579azdg4dtzrqiyy84r8.ocalam.com
 .9qhqko80dt1hkjf2ipapmhao9adirgkk.ocalam.com
 .9qiliikd3sp.life
-.9qmymmhwz5tox.yipf2a.cn
 .9qoiloqr97t6piljpunl.we9ixzz.co
 .9qr.de
 .9r6tvs.divinegames.in
@@ -19055,18 +18928,14 @@
 .9urcirfldo.qwo231sdx.club
 .9url.de
 .9uss5dj.qwo231sdx.club
-.9vifscvql71.qwo231sdx.club
-.9vrlraopc1ifu.qwo231sdx.club
 .9vyzdk8.lvditoys.com
 .9vzn29.98kk89.com
 .9w.yjmhzgvyq.workers.dev
 .9w96q8ww.jimdofree.com
 .9wad.com
-.9wd090.cn
 .9wd2vl.duckdns.org
 .9wdgbbz3k4xglhdzj2tgiw3k.qwo231sdx.club
 .9wee.com
-.9whaxsappgrub95039.terbaru-indo.me
 .9wior4dlompr8cnswyscbh.we9ixzz.co
 .9wnvuxwnlxcbqfxgrxmv4pqjrw.wusps.xyz
 .9wqjkdisaodjwqd.sa.com
@@ -20870,7 +20739,6 @@
 .abanti.mygifts.xyz
 .abaolokvmmblr.top
 .abaolokvmmvlv.top
-.abaolokvmmwrb.top
 .abaoxianshu.com
 .abarbollidate.com
 .abarroteramagna.com.mx
@@ -21786,11 +21654,9 @@
 .activate.netonline.net
 .activation-coupon.fr
 .activation-pass-securite.fr
-.activation-primevideo.fr
 .activation.dolphin-browser.com
 .activation.wps.cn
 .activationprimevideo.fr
-.activationrecharge.fr
 .activationsdestickets.fr
 .activationsecuripass-sg.fr
 .activationskey.org
@@ -25798,7 +25664,6 @@
 .adv.zdnet.co.kr
 .advaanced-ip-scanner.net
 .advaction.ru
-.advageld.today
 .advairdiskus.us.com
 .advairgeneric.us.com
 .advaliant.com
@@ -27530,7 +27395,6 @@
 .alcopa-auto.fr
 .alcroconawa.com
 .aldenfiles.com
-.aldery.linkpc.net
 .aldi-central.fr
 .aldi-marche.fr
 .aldi-sued.fr
@@ -32134,7 +31998,6 @@
 .aspiringtoy.com
 .aspm.jp
 .aspnet.co.in
-.asportuguesas.fr
 .asportuguesasparis.fr
 .aspoynerd.weebly.com
 .aspromus.fr
@@ -32490,7 +32353,6 @@
 .ativadorkmspico.com
 .ativascorretora.com.br
 .ativesathyas.info
-.ativo-pynew.store
 .atiws.aipai.com
 .atixxzd.cn
 .atjigglypuffor.com
@@ -36486,7 +36348,6 @@
 .bikerouteshop.com
 .bikesboard.com
 .bikesfactory.nl
-.bikesmachineryi.com
 .bikessport.com
 .biketime-entdecken.de
 .biketourshanoi.com
@@ -37963,7 +37824,6 @@
 .botforbyks.blogspot.ru
 .botghoster.livehost.fr
 .bothererune.com
-.botherlightensideway.com
 .bothpersonality.com
 .bothsemicolon.com
 .botkano.info
@@ -38979,7 +38839,6 @@
 .buildviet.info
 .buildyourdata.com
 .builthousefor.com
-.builthuosefor.com
 .builtinintriguingchained.com
 .builtinproceeding.com
 .buimerccorp.com
@@ -40034,7 +39893,6 @@
 .calculatorstatement.com
 .calculocontabilidade.com
 .caldera.nit-solutions.com
-.calendar-obese.cyou
 .calendar.rodim.ru
 .calendarpedestal.com
 .calendriersdepompiers.fr
@@ -40307,7 +40165,6 @@
 .cangnews.com
 .caniamedia.com
 .canid.20inchlabs.com
-.canid.mestamaster.fi
 .canidae.collectingsocialphoto.org
 .canidae.fidum.uk
 .canimcalzo.com
@@ -43010,7 +42867,6 @@
 .chu-allauch.fr
 .chu-bordeau.fr
 .chu-chu.jp
-.chu-iimoges.fr
 .chu-reunion.re
 .chu-stetienne.fr
 .chubb-nis.gb.net
@@ -43756,7 +43612,6 @@
 .clickmeniaads.com
 .clickmeter.ru
 .clickmi.net
-.clickminded.agency
 .clickmobad.net
 .clickmon.co.kr
 .clicknano.com
@@ -45074,7 +44929,6 @@
 .comitalmows.com
 .comitecamaqua.com
 .commail.co.za
-.commande-monsuivi.info
 .commandsorganizationvariations.com
 .commarevelation.com
 .commastick.com
@@ -47419,7 +47273,6 @@
 .crs-event.line.me
 .crs-hometab-event.line.me
 .crs.baidu.com
-.crscn-cn.com
 .crsdorg.in
 .crsope.com
 .crsportspourtouspaca.org
@@ -48014,7 +47867,6 @@
 .cweb.ws
 .cwhrealestate.com
 .cwhsmgs1.cn
-.cwilmif.top
 .cwnetworkmparticle.112.2o7.net
 .cwoapffh.com
 .cwobgp.cn
@@ -49730,7 +49582,6 @@
 .dana-b7r.com
 .dana123.com
 .danainstan.xyz
-.danakaget.oficial-idana.web.id
 .danalaman.com
 .danangluxury.com
 .danangmo.cn
@@ -49791,7 +49642,6 @@
 .daofuw.cn
 .daostack.onuniverse.com
 .daoyoudao.com
-.dapem.dang-pem.my.id
 .daphnews.com
 .dapp1e5k7565t.amplifyapp.com
 .dapperdiscussion.com
@@ -51202,7 +51052,6 @@
 .destructionhybrids.com
 .destructophonic.com
 .destyy.com
-.desugeng.xyz
 .desvibravaom.com
 .desynlabtech.com
 .desysetyo.com
@@ -52959,7 +52808,6 @@
 .dna-do-gamer.com
 .dna8twue3dlxq.cloudfront.net
 .dnaads.com
-.dnaaid.com
 .dnagwyxbi.rocks
 .dnametees.com
 .dnaproud.com
@@ -53546,7 +53394,6 @@
 .dosmac.top
 .dosmax.top
 .dosneaselor.com
-.dosselsmachair.click
 .dossier-antai-g.fr
 .dossier-antai.fr
 .dossier-antaigouv.fr
@@ -55553,7 +55400,6 @@
 .ecpms.net
 .ecredit-lbp.fr
 .ecreditcardprocessors.com
-.ecrwqu.com
 .ecs-online.ffm.to
 .ectestlampsplus1.112.2o7.net
 .ectsofcukorpor.com
@@ -56938,7 +56784,6 @@
 .ensis.eng.br
 .ensoattractedby.info
 .ensuebusinessman.com
-.ensuecoffled.shop
 .ent-marne.fr
 .ent1.12584.cn
 .entaildollar.com
@@ -57351,7 +57196,6 @@
 .esat.com.tr
 .esathyasesume.info
 .esavefile.com
-.esbeginnyweakel.org
 .esbusinessdegreeaskexpert.com
 .esc.azsportsent.info
 .escalatenetwork.com
@@ -58208,7 +58052,6 @@
 .eworkshop.ru
 .ewqkrfjkqz.com
 .ewrgryxjaq.com
-.ewrolidenratrigh.info
 .ewruuqe5p8ca.com
 .ewry67dvxzzx.appspot.com
 .ewsabilene.112.2o7.net
@@ -58428,7 +58271,6 @@
 .expedia6vt.112.2o7.net
 .expedia8.112.2o7.net
 .expedition-colis.fr
-.expedition-relivraison.fr
 .expeida.fr
 .expelledmotivestall.com
 .expense.brick-house.net
@@ -59789,7 +59631,6 @@
 .fca88bf71e.632c96af3c.com
 .fcaapacjeepstylejapan.112.2o7.net
 .fcafa.co.uk
-.fcagboksr.com
 .fcc222dcb2.fe7fbef413.com
 .fccgh.yt
 .fccsales.net
@@ -61042,7 +60883,6 @@
 .fiveavmersi.websegoo.net
 .fivechat.com
 .fivefourone.com
-.fivegr5sb.top
 .fivesidedsquare.com
 .fivetk5ht.top
 .fivetk5pt.top
@@ -62102,7 +61942,6 @@
 .fq703w52zt.pages.dev
 .fq7qb1.postal.gameplansession.com
 .fqbjzj.xyz
-.fqbwzrktmgnuy.info
 .fqbwzrktmgnuy.xin
 .fqirjff.com
 .fqkeepers.com
@@ -63128,7 +62967,6 @@
 .furnlevitz.112.2o7.net
 .furnstudio.com
 .furoka4y.beget.tech
-.furoka8h.beget.tech
 .furorshahdon.com
 .furplay.net
 .furpolksa.ikwb.com
@@ -65596,7 +65434,6 @@
 .glooge.fr
 .glooghalty.net
 .gloogruk.com
-.gloomfabricgravy.com
 .gloomilybench.com
 .gloomilychristian.com
 .gloomilysuffocate.com
@@ -70537,7 +70374,6 @@
 .hoogle.it
 .hoogstra-amsterdam.com
 .hoojique.xyz
-.hook-ups-here2.com
 .hook.dkcjnn.tggame.xyz
 .hook.dkjssc.tggame.xyz
 .hook.dkpc28.tggame.xyz
@@ -70602,7 +70438,6 @@
 .hopelessrolling.com
 .hopesteapot.com
 .hopghpfa.com
-.hophypothetical.top
 .hopi.hopto.org
 .hopimimeoed.com
 .hopitaldesbois.ddns.net
@@ -71967,7 +71802,6 @@
 .icpkw0333.info
 .icplxgssyx.duckdns.org
 .icpnt.org
-.icq-hang-toe-specific.trycloudflare.com
 .icqeou.xyz
 .icscards.3d-rekeningnl.info
 .icsk.ru
@@ -72758,7 +72592,6 @@
 .imgfil.com
 .imgg.traffic-media.co
 .imgggadpic.oss-cn-shenzhen.aliyuncs.com
-.imghd.eu
 .imghost.pics
 .imghst-de.com
 .imgis.net
@@ -72955,7 +72788,6 @@
 .imprintmake.com
 .improperadvantages.com
 .impropertoothrochester.com
-.improve-inhreit.cyou
 .improve-pc-tools.com
 .improvebeams.com
 .improvebin.com
@@ -73484,7 +73316,6 @@
 .infos-gouvernementales.fr
 .infos-leboncoin.fr
 .infos-monaviscompte.fr
-.infos-primevideo.fr
 .infos-regularisation.fr
 .infos-sfr.fr
 .infos-transport-dhl.fr
@@ -74533,7 +74364,6 @@
 .ir.mihanstore.net
 .ir002423.cn
 .ir0d0r1.jp
-.ir4.icu
 .iramn.com
 .iranashpaz.com
 .iranbar.org
@@ -77777,7 +77607,6 @@
 .kidsvideogame.com
 .kidzcaters.com
 .kielpinski-immobilien.de
-.kiemduyetvien.cc
 .kiemlua.com
 .kiemthehuyenlong.com
 .kiemtien24h.vn
@@ -78644,7 +78473,6 @@
 .kscmfs.or.kr
 .ksdarprt.reseguiden.se
 .ksdiy.com
-.ksdjwi.eye-network.ru
 .ksdnewr.com
 .ksds.jp
 .kse2q7uxyrwp.live
@@ -78848,7 +78676,6 @@
 .kvona.com
 .kvovs.xyz
 .kvpqrydt.xyz
-.kvprojectop.com
 .kvsadman.com
 .kvtgl4who.com
 .kvum-bpelzw.icu
@@ -79453,7 +79280,6 @@
 .landings.kavosh-app.com
 .landings.namanetapp.com
 .landings.namapper.com
-.landings.ravitel.com
 .landings.resanet.ir
 .landings.sarnakh-mob.ir
 .landings.service3.ir
@@ -84093,7 +83919,6 @@
 .mafivaz.biz
 .mafon.xyz
 .mafrarc3e9h.com
-.mafreeboxfreebox.fr
 .mafroad.com
 .maftirtagetol.website
 .mafund.cn
@@ -85016,7 +84841,6 @@
 .marketplace.ofeminin.pl
 .marketplaceadsonline.com
 .marketplaces4u.com
-.marketrealist.shop
 .marketresearch.ky
 .marketrom.shop
 .marketron.com
@@ -91671,7 +91495,6 @@
 .newcategories.com
 .newchallenges-dsp.com
 .newcityoforward.rebatesrule.net
-.newcoh.com
 .newcom.122.2o7.net
 .newcp.abagenciamarketingdigital.com
 .newcp.adrenalinanet.com.br
@@ -92605,7 +92428,6 @@
 .nkewdzp.com
 .nkfinsdg.com
 .nkfith.xyz
-.nkgutoa.cn
 .nkhuu.yt
 .nkint.com
 .nkis.nikkei.com
@@ -95298,7 +95120,6 @@
 .onlinemedicines.ru
 .onlinemicrosoft-1318069902.cos.ap-chengdu.myqcloud.com
 .onlinemotor.com.de
-.onlinemoviesfree.com
 .onlinenegocio.com
 .onlinenow.co
 .onlinenursepractitionerpurch.com
@@ -99427,7 +99248,6 @@
 .pieclayton.com
 .piedsmontlaw.com
 .pienbitore.com
-.pier-frighten.cyou
 .pier-import.fr
 .piercepavilion.com
 .pierisrapgae.com
@@ -101744,7 +101564,6 @@
 .primediabusiness.122.2o7.net
 .primedigital.fr
 .primedirect.net
-.primegestion.fr
 .primegoldira.com
 .primegroup.fr
 .primehdtv.fr
@@ -101782,7 +101601,6 @@
 .primevideo.pm
 .primevideologin.fr
 .primexpress-saunierduval.fr
-.primgaz.fr
 .primontal.nexuspatrimonial.city
 .primulapapeiss.com
 .primusad.com
@@ -103965,7 +103783,6 @@
 .qicqn.cn
 .qidmhohammat.com
 .qids.xyz
-.qidzwhfp.icu
 .qienews.cn
 .qihaoqu.com
 .qihza.yt
@@ -104909,7 +104726,6 @@
 .rambunctiousflock.com
 .ramcxx.duckdns.org
 .rameattot.com
-.rameepernyi.top
 .rametbaygall.shop
 .ramgo.com
 .ramie.me
@@ -105365,7 +105181,6 @@
 .readyhealthgo.com
 .readyidiomas.com
 .readymoon.com
-.readyrobux.com
 .readyservenow.com
 .readysetdating.com
 .readysnails.com
@@ -105413,7 +105228,6 @@
 .realiseequanimityliteracy.com
 .realistic-negotiation.com
 .realitateadro.hit.gemius.pl
-.realiukzem.org
 .realizacoes.com
 .realizationhunchback.com
 .realizedoor.com
@@ -106489,7 +106303,6 @@
 .replicawatch.cn
 .repliquemontrepascher.fr
 .replubblica.it
-.reply.mediatris.net
 .replynasal.com
 .repmedic.com
 .repocket.com
@@ -106872,7 +106685,6 @@
 .returnprocedehkq.top
 .returnprocedelfp.top
 .returnprocedelft.top
-.returnprocedemfa.top
 .returnprocedemfi.top
 .returnprocedesce.top
 .returso.com
@@ -109800,7 +109612,6 @@
 .satelietshop.nl
 .satelium.com
 .satelliten-internet.eu
-.satfyxbt.icu
 .satireunhealthy.com
 .satisfacao-stan.online
 .satisfaction399.fun
@@ -109866,7 +109677,6 @@
 .saudiarabianow.org
 .saudiarabiaoilcompany-ae.com
 .saudiarabiaoilcompany.net
-.saudiarabiatenderprocurement-uae.com
 .saudiaramcovendorprocurements-uae.com
 .saudiday.org
 .saudigeriatrics.org
@@ -112696,7 +112506,6 @@
 .sheefursoz.com
 .sheegiwo.com
 .sheeltaibu.net
-.sheep-stormy.cyou
 .sheep.littleboat.digital
 .sheep.peterfowler.com
 .sheep.pixair-survey.com
@@ -113071,7 +112880,6 @@
 .shopnapkimcuong.com
 .shopnaprobux.com
 .shopnav.com
-.shopndrop.in
 .shopnetic.com
 .shopnews.xyz
 .shopnexus.de
@@ -114081,7 +113889,6 @@
 .skyapharmacyonline.ru
 .skyapharmacystore.ru
 .skyauction.122.2o7.net
-.skyboxdrive.cloud
 .skycanner.fr
 .skycity.com.tw
 .skyepharmacy.com
@@ -115359,7 +115166,6 @@
 .soheib35.ddns.net
 .sohinteg.com
 .soho-siegburg.de
-.sohoart.co
 .soholfit.com
 .sohu999.com
 .soidc.com
@@ -119402,7 +119208,6 @@
 .sunshinecleaningservice.com
 .sunshinecompanybd.com
 .sunshinecottageandpottery.com
-.sunshinegates.com
 .sunshinewrites.com
 .sunstrokeload.com
 .suntalbnk.com
@@ -121121,7 +120926,6 @@
 .tartannewzealand.myshopify.com
 .tartarsharped.com
 .tartator.com
-.tarteb.com
 .tartuber.web42.it
 .tartufifortunati.com
 .taruhanolahraga.com
@@ -121638,7 +121442,6 @@
 .teho.com.sg
 .tehomercacom.112.2o7.net
 .tehxzz.xyz
-.teiegram-web.org
 .teiegram.work
 .teindsoutsea.shop
 .teinformam.ro
@@ -121993,7 +121796,6 @@
 .test.shaostoul.com
 .test.surepush.cn
 .test.takedwn.ws
-.test.windsorheatingandair.com
 .test2.jessekanclerz.com
 .test2.maxx.ddac.ru
 .test2024.publicvm.com
@@ -124373,7 +124175,6 @@
 .toutiaopage.com
 .toutlesgenerateurs.com
 .toutsneskhi.com
-.toutsurmoneaux.fr
 .touweptouceeru.xyz
 .touxzw.ir
 .touzia.xyz
@@ -127224,7 +127025,6 @@
 .uclcollege.com
 .ucleaner.com
 .uclmad.com
-.ucmal.com
 .ucmasmauritius.com
 .ucom.ne.jp
 .ucounter.ucoz.net
@@ -127452,7 +127252,6 @@
 .uigeaqnidu.duckdns.org
 .uigvrnjehy.duckdns.org
 .uigxgg.xyz
-.uii.eye-network.ru
 .uiiepofl.xyz
 .uilogging.tcdevops.com
 .uilzwzx.com
@@ -128730,7 +128529,6 @@
 .usps.com-trackhlr.top
 .usps.com-trackhnj.top
 .usps.com-trackhvg.top
-.usps.com-trackijc.top
 .usps.com-tracking-helpsoy.cc
 .usps.com-trackjcb.top
 .usps.com-trackmvg.top
@@ -128836,7 +128634,6 @@
 .utkarsh-mauryaa.github.io
 .utkauo.xyz
 .utkin.space
-.utku.vps.webdock.cloud
 .utl-1.com
 .utm-adrooz.com
 .utm-adschuk.com
@@ -129427,7 +129224,6 @@
 .vataas.com
 .vataksi.al
 .vatanclick.ir
-.vatanfungem.medicarium.icu
 .vatanparvar.uz
 .vatcertaininject.com
 .vaticmons.digital
@@ -129709,7 +129505,6 @@
 .vented.fr
 .venteenlignechaussure.fr
 .ventergy.com
-.ventilador.sbs
 .ventilate.vicp.hk
 .ventilatorcorrupt.com
 .ventite.com
@@ -129797,7 +129592,6 @@
 .verifie-appleid.servebeer.com
 .verified-download.com
 .verified-extensions.com
-.verifier.live
 .verifikasi-akun591.webnode.com
 .verifikasi-mfb36.webnode.com
 .verifikasi-pemblokiran-id0.webnode.com
@@ -131075,7 +130869,6 @@
 .voecuyt.duckdns.org
 .vogac.com
 .vogate.com
-.vogelmi.linkpc.net
 .vogelservices.122.2o7.net
 .vogulprecast.com
 .voiceads.cn
@@ -134023,7 +133816,6 @@
 .wm.baidu.com
 .wm.mipcdn.com
 .wm.szdushi.com.cn
-.wm23.com
 .wm5u.com
 .wma.io
 .wmactive.ru
@@ -137177,7 +136969,6 @@
 .yiqiqgmy.cn
 .yiqishijue.com
 .yirringamnesic.click
-.yishu.red
 .yisjwelv.skin
 .yitongfang.com
 .yitongwl.cn
@@ -138294,7 +138085,6 @@
 .zeliatech.com
 .zelllwrite.com
 .zelltek.co.jp
-.zelman.pro
 .zelrasty.net
 .zemanta.com
 .zemgo.com

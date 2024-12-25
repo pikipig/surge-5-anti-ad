@@ -1,9 +1,9 @@
-# Version: 202412251208
+# Version: 202412251408
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 45467
-# Last modified: 2024-12-25T12:08:22+0000
+# Entries: 45464
+# Last modified: 2024-12-25T14:08:15+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -27435,7 +27435,6 @@
 .nadajotum.com
 .nads.io
 .naewynn.com
-.naforeshow.org
 .naggingirresponsible.com
 .nagnailmobcap.shop
 .nagrainoughu.com
@@ -33845,7 +33844,6 @@
 .ric-ric-rum.com
 .ricalsbuildfordg.info
 .ricead.com
-.ricettadellanonna.com
 .ricewaterhou.xyz
 .rich1x.xyz
 .richestplacid.com
@@ -38026,7 +38024,6 @@
 .successionfireextinguisher.com
 .suchanalytik.hideandsec.sh
 .suchasricew.info
-.suchcesusar.org
 .suchroused.com
 .suckae.xyz
 .suckfaintlybooking.com

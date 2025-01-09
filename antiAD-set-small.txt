@@ -1,9 +1,9 @@
-# Version: 202501091509
+# Version: 202501091810
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 44426
-# Last modified: 2025-01-09T15:09:45+0000
+# Entries: 44421
+# Last modified: 2025-01-09T18:10:22+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -359,7 +359,6 @@
 .1cctcm1gq.de
 .1ckbfk08k.de
 .1clic1don.fr
-.1d0ec98437.com
 .1d36243653.ef1dd1776c.com
 .1d60ed7be0.c0699fd01b.com
 .1db10dd33b.com
@@ -496,7 +495,6 @@
 .23f19b241e.f7050945a4.com
 .23hssicm9.de
 .24-sportnews.com
-.24-xxx.biz
 .24.eu
 .24052107.live
 .240aca2365.com
@@ -1356,7 +1354,6 @@
 .78a0682747.51909ec7fa.com
 .78b78ff8.xyz
 .78bk5iji.de
-.790475b914.com
 .79180284.xyz
 .7944bcc817.com
 .79893962.xyz
@@ -1468,7 +1465,6 @@
 .879.thebussybandit.com
 .87f81e4343.d7ea5cbf87.com
 .88129513.xyz
-.882f53d76a.com
 .88362zubo95838.com
 .884de19f2b.com
 .88545539.xyz
@@ -2185,7 +2181,6 @@
 .absolutelytowns.com
 .absolutepropositionmayonnaise.com
 .absoluteroute.com
-.absolutioncompulsivenoisy.com
 .absolvedoggy.com
 .absolveparticlesanti.com
 .absolvewednesday.com
@@ -5276,7 +5271,6 @@
 .amzargfaht.com
 .amzbtuolwp.com
 .amzrjyzjolzlv.top
-.an.batmobi.net
 .an.dongphim.net
 .an.facebook.com
 .an.reflektion.com
@@ -5351,6 +5345,7 @@
 .analytics-events.inshorts.com
 .analytics-gateway.delta.dp.lightricks.com
 .analytics-ingestion-production.tubitv.com
+.analytics-ingestion-v3.main-production-custom.production.k8s.tubi.io
 .analytics-ingestion.production-public.tubi.io
 .analytics-ingress-global.bitmovin.com
 .analytics-ingress.bitmovin.com
@@ -10958,7 +10953,6 @@
 .clickwhitecode.com
 .clickwinks.com
 .clickwork7secure.com
-.clickxchange.com
 .clickz.com
 .clicmanager.fr
 .clicvortex.com
@@ -10976,6 +10970,9 @@
 .client2009x25.xcdn.ovh
 .clientinfo.phimmoizz.net
 .clientlog.midomi.com
+.clientlog3.music.163.com
+.clientlogdep.music.163.com
+.clientlogsf.music.163.com
 .clientmetrics-augmentum.kik.com
 .clientmetrics-pa.googleapis.com
 .clientmetrics.kik.com
@@ -11038,7 +11035,6 @@
 .clogcheapen.com
 .clogstepfatherresource.com
 .clonesmesopic.com
-.clonkfanion.com
 .closeattended.com
 .closedpersonify.com
 .closedsoonest.click
@@ -11332,6 +11328,7 @@
 .collector.statowl.com
 .collector.superwall.me
 .collector.szlcsc.com
+.collector.t-idr.com
 .collector.taoxh.life
 .collector.vhx.tv
 .collector.wawlabs.com
@@ -11697,7 +11694,6 @@
 .contents-tracking.beop.io
 .contentshamper.com
 .context.hotline.ua
-.contextualyield.com
 .contextweb.com
 .contineljs.com
 .continentalaileendepict.com
@@ -13839,6 +13835,7 @@
 .data.embeddables.com
 .data.gosquared.com
 .data.kameleoon.io
+.data.kuiniuca.com
 .data.minute.ly
 .data.mistat.india.xiaomi.com
 .data.mistat.rus.xiaomi.com
@@ -15577,6 +15574,7 @@
 .dynamicadx.com
 .dynamicjsconfig.com
 .dynamitedata.com
+.dynatrace.att.com
 .dynpaa.com
 .dynspt.com
 .dynsrvbaa.com
@@ -16446,6 +16444,7 @@
 .eravesofefinegoldf.com
 .erbiscusysexbu.info
 .ercoeteasacom.com
+.ercoils.com
 .erdeallyighab.com
 .erdecisesgeorg.info
 .erebor.douban.com
@@ -22580,7 +22579,6 @@
 .jikicotho.pro
 .jikzudkkispi.com
 .jili9.io
-.jillbuildertuck.com
 .jillsclickcorner.com
 .jimtighoafoorg.net
 .jingalbundles.com
@@ -23736,7 +23734,6 @@
 .laughedaffront.com
 .laughedrevealedpears.com
 .laughingrecordinggossipy.com
-.laughteroccasionallywarp.com
 .laugoust.com
 .lauhefoo.com
 .lauhoosh.net
@@ -27195,6 +27192,7 @@
 .netadclick.com
 .netaffiliation.com
 .netagent.cz
+.netapm.music.163.com
 .netavenir.com
 .netclickstats.com
 .netcommunities.com
@@ -28709,7 +28707,6 @@
 .orca.getnodo.com
 .orca.overbold.co
 .orccpeaodwi.com
-.orcinhyi.com
 .orcjagpox.com
 .orclrul.com
 .orcnakokt.com
@@ -31483,6 +31480,7 @@
 .publicidad.elmundo.es
 .publicidad.net
 .publiclyphasecategory.com
+.publictelemetry.tophat.com
 .publicunloadbags.com
 .publicus.com
 .publipagos.com
@@ -34322,6 +34320,7 @@
 .saylnk.com
 .saymedia.com
 .saymustif.live
+.sb-hip-happy.ourservice.jp
 .sb-stat1.com
 .sb.scorecard.research.com
 .sb89347.com
@@ -35712,7 +35711,6 @@
 .sockwardrobe.com
 .sodallay.com
 .sodamash.com
-.sodaprostitutetar.com
 .sodhef.com
 .sodiumcupboard.com
 .sodiumendlesslyhandsome.com
@@ -36080,7 +36078,6 @@
 .sperans-beactor.com
 .spermwhale.rowansimpson.com
 .spermwhale.thankbox.co
-.speysiykiklnn.com
 .spezialreporte.de
 .spheredkapas.com
 .spice-sugar.net
@@ -41240,7 +41237,6 @@
 .velloxfire.pro
 .velocecdn.com
 .velocitycdn.com
-.velocitypaperwork.com
 .velti.com
 .velvetneutralunnatural.com
 .vemflutuartambem.com
@@ -42740,7 +42736,6 @@
 .wmwwmbjkqomr.top
 .wneia.iaskhot.com
 .wnjjhksaue.com
-.wnojded.icu
 .wnrusisedprivatedq.info
 .wnrvrwabnxa.com
 .wnt-s0me-push.net
@@ -43620,7 +43615,6 @@
 .xwvduxeiuv.com
 .xwzbpkku-i.site
 .xx-umomfzqik.today
-.xxaks01081sspao.xyz
 .xxaks01091sspao.xyz
 .xxccdshj.com
 .xxdfexbwv.top
@@ -43726,6 +43720,7 @@
 .ydsdisuses.shop
 .ydttxdqe.xyz
 .ydwrkwwqytj.xyz
+.ye.dun.163yun.com
 .ye185hcamw.com
 .yeabble.com
 .yeah1publishing.com

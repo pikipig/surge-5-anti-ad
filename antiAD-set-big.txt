@@ -1,9 +1,9 @@
-# Version: 202501091509
+# Version: 202501091810
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 122316
-# Last modified: 2025-01-09T15:09:27+0000
+# Entries: 122266
+# Last modified: 2025-01-09T18:10:01+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -592,7 +592,6 @@
 .111.red-88-24-204.staticip.rima-tde.net
 .111.red-88-31-55.staticip.rima-tde.net
 .111.sub-70-208-178.myvzw.com
-.11111.host
 .1111sale.us
 .111281.com
 .11152646.xyz
@@ -1246,7 +1245,6 @@
 .1clickscpa.go2cloud.org
 .1clickspyclean.com
 .1crack.ws
-.1d0ec98437.com
 .1d1a.com
 .1d36243653.ef1dd1776c.com
 .1d60ed7be0.c0699fd01b.com
@@ -1775,7 +1773,6 @@
 .24-7pharmacy.info
 .24-news.online
 .24-sportnews.com
-.24-xxx.biz
 .24.eu
 .24052107.live
 .240aca2365.com
@@ -1998,7 +1995,6 @@
 .2aefgbf.de
 .2aev1j.postal.gameplansession.com
 .2af703zu3g57svr9c3.jwespeex.co.in
-.2ajeeps.info
 .2amsports.com
 .2appup.com
 .2b1iajzctif7.live
@@ -4300,7 +4296,6 @@
 .78b78ff8.xyz
 .78bk5iji.de
 .78dx8t.com
-.790475b914.com
 .79180284.xyz
 .792749976985480-dot-wetransfer-auth-file-344.appspot.com
 .7944bcc817.com
@@ -4562,7 +4557,6 @@
 .8811771-dot-oaao-274308.uc.r.appspot.com
 .88129513.xyz
 .88210212.com
-.882f53d76a.com
 .88362zubo95838.com
 .884352.com
 .884de19f2b.com
@@ -5046,7 +5040,6 @@
 .9yad.com
 .9yhd.com
 .9yi98fh7usy1.live
-.9ykyhn.postal.gameplansession.com
 .a-0004.a-msedge.net
 .a-0005.a-msedge.net
 .a-0006.a-msedge.net
@@ -5316,7 +5309,6 @@
 .a.xanga.com
 .a.xfreeservice.com
 .a.xigua110.com
-.a.xinwenge.net
 .a.xixiyishu.com
 .a.xizi.com
 .a.xlpu.cc
@@ -6159,7 +6151,6 @@
 .absolutepropositionmayonnaise.com
 .absoluteroute.com
 .absoluteschaos.de
-.absolutioncompulsivenoisy.com
 .absolvedoggy.com
 .absolveparticlesanti.com
 .absolvewednesday.com
@@ -10183,7 +10174,6 @@
 .adserver.seniorfriendfinder.com
 .adserver.sharewareonline.com
 .adserver.sl.kharkov.ua
-.adserver.smackchow.com
 .adserver.sniffies.com
 .adserver.so-rummet.se
 .adserver.softonic.com
@@ -13782,6 +13772,7 @@
 .analytics-gateway.delta.dp.lightricks.com
 .analytics-google.org
 .analytics-ingestion-production.tubitv.com
+.analytics-ingestion-v3.main-production-custom.production.k8s.tubi.io
 .analytics-ingestion.production-public.tubi.io
 .analytics-ingress-global.bitmovin.com
 .analytics-ingress.bitmovin.com
@@ -14863,7 +14854,6 @@
 .antpeelpiston.com
 .antpoker.com
 .antralhokier.shop
-.antrocity.com
 .ants-fr.fr
 .ants-gov.fr
 .ants.vn
@@ -20617,7 +20607,6 @@
 .best.obs.cn-sz1.ctyun.cn
 .best.sogoforms.com
 .best100catfights.com
-.best2017games.com
 .best2019-games-web4.com
 .best2020.ddns.net
 .best4fuck.com
@@ -21129,7 +21118,6 @@
 .bideo-blog.xyz
 .bideo-cdn.com
 .bideo-cdn.xyz
-.bideo-chat.xyz
 .bideo-endpoint.com
 .bideo-schnellvpn.com
 .bidfhimuqwij.com
@@ -22160,7 +22148,6 @@
 .blutrumpet.com
 .blv23728.ddns.net
 .blvdbe.com
-.blw4-1.com
 .blystonproinvest.com
 .blzbjpg.xyz
 .blzwvb.xyz
@@ -22637,7 +22624,6 @@
 .bootsforcheapclearance.com
 .bootstrap-framework.org
 .bootstraplugin.com
-.bootstringjl.click
 .bootstsuuhan.com
 .bootvolleyball.com
 .boovoogie.net
@@ -26465,7 +26451,6 @@
 .celinnaya.kz
 .cellar-analytics.mapion.co.jp
 .cellaraudacityslack.com
-.cellardesiresso.sbs
 .cellespanol.com
 .celleve.com
 .cellfaam.com
@@ -28564,7 +28549,6 @@
 .clickwhitecode.com
 .clickwinks.com
 .clickwork7secure.com
-.clickxchange.com
 .clickyab.com
 .clickz.com
 .clickzs.com
@@ -28610,6 +28594,8 @@
 .clientlog.midomi.com
 .clientlog.music.163.com
 .clientlog3.music.163.com
+.clientlogdep.music.163.com
+.clientlogsf.music.163.com
 .clientmetrics-augmentum.kik.com
 .clientmetrics-pa.googleapis.com
 .clientmetrics.kik.com
@@ -28737,7 +28723,6 @@
 .clonezilla.es
 .clonezilla.fr
 .clonezilla.it
-.clonkfanion.com
 .cloreautomotive.com
 .close.i-kiddi.com
 .close.onlinesurveyblog.com
@@ -29603,6 +29588,7 @@
 .collector.statowl.com
 .collector.superwall.me
 .collector.szlcsc.com
+.collector.t-idr.com
 .collector.taoxh.life
 .collector.unsplash.com
 .collector.vhx.tv
@@ -30494,7 +30480,6 @@
 .contextplus.net
 .contextrtb.com
 .contextuads.com
-.contextualyield.com
 .contextwatcher.com
 .contextweb.com
 .contigoeneroemprende.sbs
@@ -30881,7 +30866,6 @@
 .correlationcocktailinevitably.com
 .correo.masousa.com
 .correoenlanube.com
-.correoparagua-pry.top
 .correos-1.cc
 .correos-1.shop
 .correos-2.com
@@ -34554,6 +34538,7 @@
 .data.gosquared.com
 .data.hicloud.com
 .data.kameleoon.io
+.data.kuiniuca.com
 .data.minute.ly
 .data.mistat.india.xiaomi.com
 .data.mistat.rus.xiaomi.com
@@ -34821,7 +34806,6 @@
 .dbltest6.top
 .dbltest8.top
 .dbmcmhh.cn
-.dbms.crclab-bahria.org
 .dbnxlpbtoqec.com
 .dbpxivi.xyz
 .dbr9gtaf8.com
@@ -41769,6 +41753,7 @@
 .ercnnier.com
 .ercoeteasacom.com
 .ercofusa.blogspot.com
+.ercoils.com
 .erdeallyighab.com
 .erdecisesgeorg.info
 .erdelt.nl
@@ -44786,7 +44771,6 @@
 .fgtgr.buzz
 .fgts-liberado.epizy.com
 .fguhyg.cn
-.fgwerg.top
 .fgwuw.com
 .fh259by01r25.com
 .fhac.fr
@@ -48193,7 +48177,6 @@
 .games-forfree.net
 .games-hacked.com
 .games-hacks.com
-.games-unlocked.com
 .games.superappbox.com
 .games.theappjunkies.com
 .games4good.net
@@ -50492,7 +50475,6 @@
 .goldenstatebrokers.com
 .goldenstatewarriorsstore.com
 .goldensurvey.com
-.goldenwatches.fr
 .goldenwest.co.za
 .goldfish.boleary.dev
 .goldfish.clickand.de
@@ -50707,7 +50689,6 @@
 .googletagmanager-cn.com
 .googletagservices-cn.com
 .googletraduction.fr
-.googletranslate.zapto.org
 .googlevads-cn.com
 .googlew.it
 .googlewired.com
@@ -50913,7 +50894,6 @@
 .gouv-amendes-reglement.fr
 .gouv-critairs.fr
 .gouv-cybersecurite.fr
-.gouvf.fr
 .gouzhibao.cn
 .gov-au.cloud
 .gov-aws.cloud
@@ -52119,7 +52099,6 @@
 .guidashu.com
 .guide.borden-carleton.ca
 .guidecent.com
-.guidemytax.com
 .guidenew.com
 .guidenow.ru
 .guidescience.com
@@ -53619,7 +53598,6 @@
 .heavycom.112.2o7.net
 .heavycom.122.2o7.net
 .heavydetail.com
-.heavyfigure.link
 .heavypersian.weebly.com
 .heavyplayground.com
 .heavyuniversecandy.com
@@ -57212,7 +57190,6 @@
 .impofobulimic.top
 .impogouv.fr
 .impolitefreakish.com
-.impoliterenei.click
 .impore.com
 .import188.com
 .importanceborder.com
@@ -57781,7 +57758,6 @@
 .informed.deliverywtt.top
 .informed.deliverywul.top
 .informed.deliverywwm.top
-.informed.deliverywwy.top
 .informed.deliverywxf.top
 .informed.updateicybd.top
 .informedderiderollback.com
@@ -60109,7 +60085,6 @@
 .jikzudkkispi.com
 .jili9.io
 .jillae.com
-.jillbuildertuck.com
 .jillivanilli.com
 .jillsclickcorner.com
 .jilong.work
@@ -60265,7 +60240,6 @@
 .jmipzsn.icu
 .jmnzx3.hbg.hebdenbridgedental.co.uk
 .jmpmedia.club
-.jmpmedia.info
 .jmqxise.in
 .jmrnews.pro
 .jmrtech.in
@@ -62389,7 +62363,6 @@
 .klipmart.com
 .klipmart.forbes.com
 .klippetamea8.shop
-.klipsyzogey.shop
 .klipvumisui.shop
 .klipzynigou.shop
 .klipzyroloo.shop
@@ -63979,7 +63952,6 @@
 .laughing-pike-c6b1d5.netlify.com
 .laughingrecordinggossipy.com
 .laughnetwork.com
-.laughteroccasionallywarp.com
 .laughtersoundhealing.com
 .laughtill.net
 .lauglyhousebuyers.com
@@ -64965,7 +64937,6 @@
 .lidertakipci.com
 .liderus.ru
 .lidform.com
-.lidicando.com
 .lidil.fr
 .lidion.ru
 .lidjeu.be
@@ -67500,7 +67471,6 @@
 .lumkecuq.shop
 .lumkymenau.shop
 .lumlacumii.shop
-.lumlasolyo.shop
 .lumlideweo.shop
 .lummomusuo.shop
 .lummozudey.shop
@@ -72311,7 +72281,6 @@
 .mobilizr.com
 .mobilkredite.de
 .mobillesporhaberleri.blogspot.be
-.mobilnik.pl
 .mobiloba.com
 .mobilpay-fi.com
 .mobio.vn
@@ -73839,7 +73808,6 @@
 .mutuza.win
 .mutzsotixck3ers-facebo0k.emochila.com
 .muuxxu.com
-.muwc.shop
 .muwmedia.com
 .muybjar.cn
 .muybn.com
@@ -75287,7 +75255,6 @@
 .needbeads.com
 .neededproducts.com
 .needeevo.xyz
-.needforfile.net
 .needhomesecurity.com
 .needlessnorth.com
 .needleworkemmaapostrophe.com
@@ -75457,6 +75424,7 @@
 .netadclick.com
 .netaffiliation.com
 .netagent.cz
+.netapm.music.163.com
 .netavenir.com
 .netbina.com
 .netbulvar.eu
@@ -75658,7 +75626,6 @@
 .new.deeper-start.com
 .new.ebreezetech.com
 .new.filetea.me
-.new.hpk0fu9.jp
 .new.htcui.com
 .new.k12insight.info
 .new.nccsd.net
@@ -79836,7 +79803,6 @@
 .orchidacupuncture.com
 .orchidcoin.net
 .orchidscape.net
-.orcinhyi.com
 .orcjagpox.com
 .orclrul.com
 .orcnakokt.com
@@ -86812,6 +86778,7 @@
 .publicrecordlookup.com
 .publicsofa.com
 .publicspeaking.co.id
+.publictelemetry.tophat.com
 .publictresor.fr
 .publicunloadbags.com
 .publicus.com
@@ -87300,7 +87267,6 @@
 .pwjhg.com
 .pwkrakanmet.met.gov.my
 .pwmctl.com
-.pwnpkj.postal.gameplansession.com
 .pwr-ads.com
 .pwresetcisco.com
 .pwrgrowthapi.com
@@ -89987,7 +89953,6 @@
 .renouvellements-client.fr
 .renovacaoitaucard.epizy.com
 .renovar.con-ip.com
-.renovarrmeuubr.com
 .renovatefairfaxmope.com
 .renovatego.com
 .renovavida.com
@@ -91740,7 +91705,6 @@
 .rsuwilliambooth.com
 .rsvkfwth.xyz
 .rsvr.gucac.com
-.rsvvfx.xyz
 .rsw-power.en.alibaba.com
 .rswhowishedto.info
 .rsx.afterpay.com
@@ -93536,6 +93500,7 @@
 .saymigren.net
 .saymustif.live
 .saynuevoscarrosok.live
+.sb-hip-happy.ourservice.jp
 .sb-stat1.com
 .sb.scorecard.research.com
 .sb8.co
@@ -94989,7 +94954,6 @@
 .selfswayjay.com
 .selftasarim.com
 .seliverstova.hop.ru
-.sell1.etlong.com
 .sellerad.interpark.com
 .sellerapple.fr
 .sellerher.com
@@ -96855,7 +96819,6 @@
 .sicwater.com
 .sid.nordstrom.com
 .sidanarchy.net
-.sidcastic.com
 .side-joblp.com
 .sidebar.angelfire.com
 .sidebiologyretirement.com
@@ -98666,7 +98629,6 @@
 .socssite.ru
 .sodallay.com
 .sodamash.com
-.sodaprostitutetar.com
 .sodepebrasil.com.br
 .sodexo-groupe.fr
 .sodexo-sas.fr
@@ -99636,7 +99598,6 @@
 .spermwhale.thankbox.co
 .sperry-france.fr
 .spets-stil.ru
-.speysiykiklnn.com
 .spezialreporte.de
 .spf-asia.com
 .spffusa.org
@@ -103946,7 +103907,6 @@
 .t.leady.com
 .t.leady.cz
 .t.lidyana.com
-.t.mdn2015x1.com
 .t.melhorplano.net
 .t.menepe.com
 .t.my.jobs
@@ -104058,7 +104018,6 @@
 .t969.sentinelandenterprise.com
 .t9k6n0c46nz2.com.de
 .t9ksya.postal.gameplansession.com
-.t9wo4s.postal.gameplansession.com
 .t9z.lol
 .ta-behesht.ir
 .ta-mill.com
@@ -105204,7 +105163,6 @@
 .televisionace.com
 .televisionjitter.com
 .telexhrzn.com
-.telezgrm.work
 .telfar-france.fr
 .teliad.com
 .teliad.de
@@ -112070,7 +112028,6 @@
 .uspcworks.com
 .uspolitics.news
 .usps-mydeliver.com
-.usps-mypackage.com
 .usps-online-safe.com
 .usps-online.com
 .usps-pt.com
@@ -112981,7 +112938,6 @@
 .velmaglendenning.ru.com
 .velocecdn.com
 .velocitycdn.com
-.velocitypaperwork.com
 .velog.ru
 .velours24.nl
 .veloventures.com
@@ -117225,7 +117181,6 @@
 .wksrx.cn
 .wkvpvglcjsagi.xyz
 .wkwqljwykoamr.top
-.wkxnmg.postal.gameplansession.com
 .wkybwa.xyz
 .wkzw.me
 .wl-analytics.tsp.li
@@ -117316,8 +117271,6 @@
 .wniamax.fr
 .wnjjhksaue.com
 .wnmaoc.xyz
-.wnmyd8.postal.gameplansession.com
-.wnojded.icu
 .wnrusisedprivatedq.info
 .wnrvrwabnxa.com
 .wnt-s0me-push.net
@@ -119758,7 +119711,6 @@
 .xx3h.com
 .xxa.uji8979erd77.jp
 .xxad.cc
-.xxaks01081sspao.xyz
 .xxaks01091sspao.xyz
 .xxbeeilm.ru.gg
 .xxccdshj.com
@@ -119910,7 +119862,6 @@
 .y2sysv81v.com
 .y3.ifengimg.com
 .y3mpywhmem7t.live
-.y3wfoz.postal.gameplansession.com
 .y494.wdsu.com
 .y512hr.onl.onlinetrees.co.uk
 .y54wdrg.com
@@ -120125,6 +120076,7 @@
 .ydwlkj.com
 .ydworld.com
 .ydwrkwwqytj.xyz
+.ye.dun.163yun.com
 .ye185hcamw.com
 .yea.uploadimagex.com
 .yeabble.com
@@ -120537,7 +120489,6 @@
 .yoiur.com
 .yokananu.net
 .yokeeroud.com
-.yokesandusj.sbs
 .yokonofrance.fr
 .yoli.my.id
 .yolkhandledwheels.com
@@ -121739,7 +121690,6 @@
 .zimpolo.com
 .zimu.nl
 .zinghouse.co.uk
-.zingmp3.pro
 .zingshop.net
 .zinhice.shop
 .zinipx.xyz

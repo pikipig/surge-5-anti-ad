@@ -1,9 +1,9 @@
-# Version: 202501101508
+# Version: 202501101709
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 122833
-# Last modified: 2025-01-10T15:08:53+0000
+# Entries: 122835
+# Last modified: 2025-01-10T17:09:12+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -16981,6 +16981,7 @@
 .asp.brightmachine.uk
 .asp.dimileeh.com
 .asp.goodpa.co.uk
+.asp.m-live.jp
 .asp.podlist.de
 .asp.rikkeekelund.com
 .asp.sepiasoft.eu
@@ -51395,6 +51396,7 @@
 .graivampouth.net
 .graizoah.com
 .grakorte.com
+.grallichalvas.com
 .gralneurooly.com
 .gramdinlhar6.aurorainvestimentos.com
 .gramdinrantez.sistemapreparatorio.io

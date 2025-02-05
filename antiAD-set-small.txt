@@ -1,9 +1,9 @@
-# Version: 202502051211
+# Version: 202502051511
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 44247
-# Last modified: 2025-02-05T12:11:14+0000
+# Entries: 44218
+# Last modified: 2025-02-05T15:11:00+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -204,7 +204,6 @@
 .11006451.xyz
 .11152646.xyz
 .11235813.webzdarma.cz
-.1170050225.rsc.cdn77.org
 .11778562.xyz
 .1187531871.rsc.cdn77.org
 .11dyw.com
@@ -2278,7 +2277,6 @@
 .ackuwxjbk.com
 .aclickads.com
 .aclog.itmedia.co.jp
-.acloudvideos.com
 .acmdihtumpuj.com
 .acmsa.com.ar
 .acneforums.com
@@ -4827,7 +4825,6 @@
 .allanimehentai.com
 .allayselect.com
 .allboard.xobor.de
-.allcoolnewz.com
 .allegationbody.com
 .allegationcolanderprinter.com
 .allegationobtain.com
@@ -7107,6 +7104,7 @@
 .b.stranamam.ru
 .b.tondaka.com
 .b.topeltof.com
+.b.trueanthem.com
 .b.unjs.com
 .b.w3techs.com
 .b.we-are-anon.com
@@ -7285,7 +7283,6 @@
 .baigostapsid.net
 .baihoagleewhaum.net
 .baileybenedictionphony.com
-.bailihaiw.com
 .bainushe.com
 .baipahanoop.net
 .baiphefim.com
@@ -8265,7 +8262,6 @@
 .bison.stuffmatic.com
 .bison.weitweit.at
 .bisozkfiv.com
-.bissailre.com
 .bit-ad.com
 .bitads.net
 .bitbeat7.com
@@ -9866,7 +9862,6 @@
 .cdgfa.ifeng.com
 .cdgtw3.guapaijia.com
 .cdhfvrug.xyz
-.cdinmaf.top
 .cdj-dap.s3-ap-northeast-1.amazonaws.com
 .cdmgac.xyz
 .cdmnlxtu.xyz
@@ -12198,7 +12193,6 @@
 .crudemonarchychill.com
 .crudequeenrome.com
 .cruiserx.net
-.crumberstoa.com
 .crumblerefunddiana.com
 .crumbrationally.com
 .crumbtypewriterhome.com
@@ -13810,7 +13804,6 @@
 .datingero.com
 .datingkoen.site
 .datinglive.net
-.datingllfes.com
 .datingmeetnet.com
 .datingstyle.top
 .datingtoday.top
@@ -14178,7 +14171,6 @@
 .dengelmeg.com
 .denguemurillo.click
 .denialjav128.fun
-.denialrefreshments.com
 .deniedsolesummer.com
 .denjpl.xyz
 .denoughtanot.info
@@ -14387,7 +14379,6 @@
 .dhadbeensoattr.info
 .dharnaslaked.top
 .dhcmni6m2kkyw.cloudfront.net
-.dhemixu.com
 .dhkecbu.com
 .dhl.135320.com
 .dhnnbfok.icu
@@ -15578,7 +15569,6 @@
 .e2af52cae7.com
 .e2bec62b64.com
 .e2c5d0bd2b.ee3f8f44cf.com
-.e2dadaf8f3.com
 .e2e.mashable.com
 .e2e7aaca07.e8a8e57eb3.com
 .e2ertt.com
@@ -17792,7 +17782,6 @@
 .flitespashka.top
 .flixdot.com
 .floatingbile.com
-.floatingdrake.com
 .floccischlump.com
 .flockexecute.com
 .flockinjim.com
@@ -18312,7 +18301,6 @@
 .funn.graphiq.com
 .funnelgloveaffable.com
 .funneltourdreams.com
-.funnysack.com
 .funpageexchange.com
 .funsoups.com
 .funtoday.info
@@ -18475,7 +18463,6 @@
 .gaizoopi.net
 .gajoytoworkwith.com
 .gak.webtoons.com
-.gakairohekoa.com
 .gakrarsabamt.net
 .galagosalmon.top
 .galas3xy.com
@@ -18685,7 +18672,6 @@
 .geejetag.com
 .geejofeecher.top
 .geek-nerd-server.firebaseapp.com
-.geephenuw.com
 .geeptaunip.net
 .geethaihoa.com
 .geethoap.com
@@ -20324,7 +20310,6 @@
 .hesoorda.com
 .hespe-bmq.com
 .hestutche.com
-.hesudsuzoa.com
 .hetadinh.com
 .hetahien.com
 .hetaint.com
@@ -21099,7 +21084,6 @@
 .ibqmey.xyz
 .ibrapush.com
 .ibryte.com
-.ibugreeza.com
 .ibutheptesitrew.com
 .icalnormaticalacyc.info
 .icdirect.com
@@ -21151,6 +21135,8 @@
 .identifierssadlypreferred.com
 .identify.hotjar.com
 .identifyillustration.com
+.identitypxl.app
+.identitypxl.com
 .identityrudimentarymessenger.com
 .idescargarapk.com
 .idhad.com
@@ -21444,7 +21430,6 @@
 .imposterlost.com
 .imposterreproductionforeman.com
 .impostersierraglands.com
-.impostorconfused.com
 .impostorjoketeaching.com
 .impostororchestraherbal.com
 .imprese.cz
@@ -21528,6 +21513,7 @@
 .inconsistencygasdifficult.com
 .incontro-veloce.com
 .inconveniencemimic.com
+.incorddrag.com
 .incorphishor.com
 .increaseplanneddoubtful.com
 .increaseprincipal.com
@@ -21782,7 +21768,6 @@
 .inswellbathes.com
 .intake-analytics.wikimedia.org
 .intake-logging.wikimedia.org
-.intake-lr.com
 .integral-marketing.com
 .integralinstalledmoody.com
 .integrate.thrive.today
@@ -22697,7 +22682,6 @@
 .jubbie.de
 .jubnaadserve.com
 .jubnpx.xyz
-.jubsaugn.com
 .jucysh.com
 .judasesesrogim.com
 .judebelii.com
@@ -23173,7 +23157,6 @@
 .kntodvofiyjjl.xyz
 .knubletupgrow.shop
 .knutenegros.pro
-.koabapeed.com
 .koafaimoor.net
 .koahoocom.com
 .koala.getslopes.com
@@ -23843,7 +23826,6 @@
 .lgzfcnvbjiny.global
 .lh.bigcrunch.com
 .lh031i88q.com
-.lhioqxkralmy.com
 .lhmgoik.icu
 .lhtzfn.xyz
 .lhukudauwklhd.xyz
@@ -24333,6 +24315,7 @@
 .log.intellimize.co
 .log.isnssdk.com
 .log.iyunmai.com
+.log.jackpotmasterslots.com
 .log.jd.com
 .log.kajicam.com
 .log.kaka.me
@@ -28235,6 +28218,7 @@
 .omitcalculategalactic.com
 .omjqukadtolg.com
 .omlahpewing.com
+.ommatht.com
 .ommjkomvweg.com
 .omni-ads.com
 .omni-ads.omni.news
@@ -28408,7 +28392,6 @@
 .oopsooss.com
 .oosonechead.org
 .oosoojainy.xyz
-.oossautsid.com
 .oostotsu.com
 .ootchaig.xyz
 .ootchobuptoo.com
@@ -28796,7 +28779,7 @@
 .outwingullom.com
 .outwitridiculousresume.com
 .outwoodeuropa.com
-.outyanmegaom.com
+.ouveedaiz.net
 .ouvertrenewed.com
 .ouvrefth.shop
 .ouweessougleji.net
@@ -30237,7 +30220,6 @@
 .pnxtnp.xyz
 .pnyf1.top
 .po.ponant.com
-.poacauceecoz.com
 .poacawhe.net
 .poapeecujiji.com
 .poaptapuwhu.com
@@ -30307,7 +30289,6 @@
 .poloptrex.com
 .polothdgemanow.info
 .polredsy.com
-.polsonaith.com
 .poltarimus.com
 .polydarth.com
 .polyh-nce.com
@@ -31050,7 +31031,6 @@
 .ps1.reallifecam.to
 .ps2.camcaps.to
 .psaiceex.net
-.psailsee.com
 .psairees.net
 .psaithagomtasu.net
 .psaiwaxaib.net
@@ -31163,7 +31143,6 @@
 .ptcdn.mbicash.nl
 .ptcdwm.com
 .ptecmuny.com
-.ptedseesse.com
 .pteemteethu.net
 .pteghoucmaub.com
 .ptekuwiny.pro
@@ -32023,7 +32002,6 @@
 .raglassofrum.cc
 .ragnolopi.net
 .ragofkanc.com
-.ragsbxhchr.xyz
 .ragwviw.com
 .raheglin.xyz
 .rahmagtgingleaga.info
@@ -32141,7 +32119,6 @@
 .rationallyagreement.com
 .ratioregarding.com
 .rauceesh.com
-.raudoufoay.com
 .raufajoo.net
 .rauheestuma.xyz
 .raujouca.com
@@ -33039,7 +33016,6 @@
 .rjkrefyqrixk.com
 .rjlkibvwgxiduq.com
 .rjowzlkaz.today
-.rjvmxdhfmyvsuy.com
 .rjw4obbw.com
 .rk6h3.icu
 .rkapghq.com
@@ -34551,6 +34527,7 @@
 .serosaharlem.com
 .serpentreplica.com
 .sersh.com
+.sertingglucid.com
 .serv-selectmedia.com
 .serv.bvsrv.com
 .serv0.com
@@ -36174,7 +36151,6 @@
 .staiderkha.com
 .staidlycaffoy.com
 .staircaseminoritybeeper.com
-.stairgoastoafa.net
 .stairtuy.com
 .stairwellobliterateburglar.com
 .staiwoob.xyz
@@ -36847,7 +36823,6 @@
 .stlpnom.xyz
 .stnew.xyz
 .stoachaigog.com
-.stoadivap.com
 .stoagouruzostee.net
 .stoampaliy.net
 .stoaphalti.com
@@ -37172,7 +37147,6 @@
 .super-stomach.com
 .super.cat898.com
 .super.kdnet.net
-.superadbid.com
 .superbportal.life
 .superclix.de
 .superfastcdn.com
@@ -37294,7 +37268,6 @@
 .sutterflorate.com
 .suturaletalage.com
 .suwytid.com
-.suxaucmuny.com
 .suxoxmnwolun.com
 .suzanne.pro
 .suzbcnh.com
@@ -37882,7 +37855,6 @@
 .tcdypeptz.com
 .tcfgtd.xyz
 .tcgjpib.com
-.tciqgx.xyz
 .tcloaksandtheirclean.com
 .tcontametrop.info
 .tcowmrj.com
@@ -38204,7 +38176,6 @@
 .thefenceanddeckguys.com
 .theglossonline.com
 .thegoodcaster.com
-.thehotposts.com
 .theirbellsound.co
 .theirbellstudio.co
 .theirsneedful.com
@@ -38957,7 +38928,6 @@
 .tr.discuss.com.hk
 .tr.ds.kakao.com
 .tr.gunosy.com
-.tr.infopanel.jp
 .tr.junaroad.com
 .tr.marsflag.com
 .tr.mediafin.be
@@ -42460,6 +42430,7 @@
 .winslinks.com
 .wintjaywolf.org
 .wintricksbanner.googlepages.com
+.winzessolicit.com
 .wioboy.xyz
 .wipedhypocrite.com
 .wipeilluminationlocomotive.com

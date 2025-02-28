@@ -1,9 +1,9 @@
-# Version: 202502280308
+# Version: 202502280608
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 44250
-# Last modified: 2025-02-28T03:08:50+0000
+# Entries: 44227
+# Last modified: 2025-02-28T06:08:58+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -176,7 +176,6 @@
 .1.xilu.com
 .1.yac8.net
 .1.zhev.com.cn
-.1.zhuangxiu567.com
 .1.zou114.com
 .1.zuowenjun.com
 .100.pncdn.cn
@@ -1634,6 +1633,7 @@
 .a-da.invideo.io
 .a-delivery.rmbl.ws
 .a-mo.net
+.a-mx.com
 .a-reporting.nytimes.com
 .a-waiting.com
 .a.0day.kiev.ua
@@ -4855,7 +4855,6 @@
 .allocationhistorianweekend.com
 .allodsubussu.com
 .allorfrryz.com
-.allornamenti.com
 .allosponsor.com
 .allotupwardmalicious.com
 .allow-to-continue.com
@@ -5696,7 +5695,6 @@
 .angelinna.free.fr
 .angelltennis.co.uk
 .angerfondnessspecified.com
-.angicowheezle.com
 .angioiddiantre.top
 .angledunion.top
 .anglemarrowoccurs.com
@@ -6839,7 +6837,6 @@
 .auth-srv.launchthatapps.com
 .auth.be.sec.miui.com
 .authcaptcha.com
-.authoacmou.com
 .authognu.com
 .authoritativedollars.com
 .authoritativepartedusher.com
@@ -8716,7 +8713,6 @@
 .boyfriendtrimregistered.com
 .boyishdetrimental.com
 .boyunakylie.com
-.boyunaunify.shop
 .boywhowascr.info
 .bpath.com
 .bpazidzib.com
@@ -9684,7 +9680,6 @@
 .catandmousegame.b-cdn.net
 .catapultx.com
 .catastropheillusive.com
-.catchymesem.shop
 .catchymorselguffaw.com
 .cateringblizzardburn.com
 .caterpilla.ibon.live
@@ -10573,7 +10568,6 @@
 .cl.t3n.de
 .cl0udh0st1ng.com
 .clackbenefactor.com
-.cladlukewarmjanitor.com
 .cladupius.com
 .claimcousins.com
 .claimcutejustly.com
@@ -11411,7 +11405,6 @@
 .confessundercover.com
 .conff.dc.oppomobile.com
 .confiant-integrations.global.ssl.fastly.net
-.confidentexplanationillegal.com
 .confidethirstyfrightful.com
 .config.appjolt.com
 .config.jpush.cn
@@ -14257,6 +14250,7 @@
 .deroupty.xyz
 .derowalius.com
 .derthurnyjkomp.com
+.derwbl.icu
 .desabrator.com
 .descargacristiana.com
 .descargarmusica.me
@@ -14316,7 +14310,6 @@
 .detentionquasipairs.com
 .detentsclonks.com
 .detergenthazardousgranddaughter.com
-.detergentkindlyrandom.com
 .determineworse.com
 .detestgaspdowny.com
 .detour.click
@@ -14357,7 +14350,6 @@
 .dexterrobbins.cf
 .deymalaise.com
 .df.tanx.com
-.df077d05e6.com
 .df0pmigc8xs70.cloudfront.net
 .df48924623.4e16b2e294.com
 .df80k0z3fi8zg.cloudfront.net
@@ -17238,7 +17230,6 @@
 .favorbort.guru
 .favoredkuwait.top
 .favorite-option.pro
-.favousjanapan.top
 .fawnnaresh.com
 .faxqaaawyb.com
 .faykitturn.live
@@ -18750,7 +18741,6 @@
 .geobanner.hornywife.com
 .geobar.ziffdavisinternational.com
 .geobeacon.ign.com
-.geodaljoyless.com
 .geodator.com
 .geogenyveered.com
 .geoinfo.i2w.io
@@ -20247,8 +20237,6 @@
 .heavenly-landscape.com
 .heavenproxy.com
 .heavespectaclescoefficient.com
-.heavyuniversecandy.com
-.hebenonwidegab.top
 .hecathedralinth.org
 .hectorfeminine.com
 .hectorobedient.com
@@ -21899,7 +21887,6 @@
 .intg.snapchat.com
 .intimacybroadcast.com
 .intimatediary.com
-.intnotif.club
 .intolerableshrinestrung.com
 .intorterraon.com
 .intothespirits.com
@@ -22736,7 +22723,6 @@
 .jubbie.de
 .jubnaadserve.com
 .juchacmibouche.net
-.jucysh.com
 .judasesesrogim.com
 .judebelii.com
 .judgementhavocexcitement.com
@@ -22981,7 +22967,6 @@
 .kensecuryrentat.info
 .kentaoz.xyz
 .kentent.stre4mplay.one
-.kentishprided.com
 .kentorjose.com
 .kepnatick.com
 .ker2clk.com
@@ -24648,7 +24633,6 @@
 .loktrk.com
 .lol.globlax.com
 .lolco.net
-.lollypitying.com
 .lolsefti.com
 .lonazia.xyz
 .loneday.com
@@ -24888,7 +24872,6 @@
 .lungicko.net
 .lungingunified.com
 .lunie24.gimmeporn.xyz
-.lunifvqldavu.xyz
 .lunio.net
 .luofinality.com
 .lupon.media
@@ -25700,7 +25683,6 @@
 .mengaoz.xyz
 .mengochepsaun.net
 .mengozia.xyz
-.meniscisacbut.top
 .menkaox.xyz
 .mentallyissue.com
 .menthandurgen.com
@@ -25873,7 +25855,6 @@
 .mgcash.com
 .mghkpg.com
 .mgid.com
-.mgjoasxhesvpgy.com
 .mgladthereisso.com
 .mgmuye.xyz
 .mgqtcs.xyz
@@ -26510,6 +26491,7 @@
 .mozoo.com
 .mozoo.go2cloud.org
 .mp-pop.barryto.one
+.mp.theepochtimes.com
 .mp3bars.com
 .mp3pro.xyz
 .mpanyinadi.info
@@ -27358,6 +27340,7 @@
 .niecesregisteredhorrid.com
 .niersfohiplaceof.info
 .nieveni.com
+.nievolmqn.com
 .nifracomtra.com
 .nightbesties.com
 .nightclubconceivedmanuscript.com
@@ -27842,8 +27825,6 @@
 .o.xofilmes.com
 .o.xoporn.com
 .o000oo.com
-.o02251aokk.com
-.o02260aokk.com
 .o18.click
 .o18.link
 .o2c7dks4.de
@@ -28404,7 +28385,6 @@
 .onestat.com
 .onestatfree.com
 .onetouch12.com
-.onetouch17.info
 .onetouch19.com
 .onetouch20.com
 .onetouch26.com
@@ -29724,6 +29704,7 @@
 .pgcciax.icu
 .pgdt.gtimg.cn
 .pgezbuz.com
+.pghglj.icu
 .pgjt26tsm.com
 .pgmediaserve.com
 .pgorttohwo.info
@@ -31524,7 +31505,6 @@
 .pushagim.com
 .pushails.com
 .pushalk.com
-.pushame.com
 .pushamir.com
 .pushance.com
 .pushanert.com
@@ -32212,7 +32192,6 @@
 .rapidfoxengine.com
 .rapidhits.net
 .rapidhunchback.com
-.rapidlylarrup.space
 .rapidlypierredictum.com
 .rapidnewscraze.com
 .rapingdistil.com
@@ -33137,6 +33116,7 @@
 .rixaka.com
 .rixengine.com
 .rixibe.xyz
+.riym.cn
 .rjeruqs.com
 .rjlkibvwgxiduq.com
 .rjowzlkaz.today
@@ -33843,7 +33823,6 @@
 .rysheatlengthanl.xyz
 .rytransionsco.org
 .rza.pmu.fr
-.rzaxroziwozq.com
 .rzflhxn.cn
 .rzgiyhpbit.com
 .rzneekilff.com
@@ -35180,6 +35159,7 @@
 .sijillshirvan.com
 .sikncs.com
 .sikoip.cfd
+.sikvoilst.com
 .silenceblindness.com
 .silenthill24.biz
 .silentinevitable.com
@@ -36991,7 +36971,6 @@
 .stoodthestatueo.com
 .stookoth.com
 .stoomawy.net
-.stoopeddemandsquint.com
 .stoopedsignbookkeeper.com
 .stoopfalse.com
 .stoopsellers.com
@@ -37020,7 +36999,6 @@
 .storetail.io
 .storeyplayfulinnocence.com
 .storiesfaultszap.com
-.storj.cloud
 .stork.ibite.company
 .stork.notlessbutbetter.com
 .storkto.com
@@ -39840,6 +39818,7 @@
 .trmobc.com
 .trmzum.com
 .trocarssubpool.shop
+.trohycv.top
 .trokemar.com
 .trolleytool.com
 .trollsvide.com
@@ -40569,7 +40548,6 @@
 .unpin.hothomefuck.com
 .unpleasantconcrete.com
 .unpleasanthandbag.com
-.unplumpsorest.com
 .unpopecandela.top
 .unpredictablehateagent.com
 .unprofessionalremnantthence.com
@@ -42516,7 +42494,6 @@
 .wizssgf.com
 .wj.jiancai365.cn
 .wjct3s8at.com
-.wjhxjjnngo.com
 .wjqssnujrbyu.com
 .wjvavwjyaso.com
 .wka4jursurf6.com

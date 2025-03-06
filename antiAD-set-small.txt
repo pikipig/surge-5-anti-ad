@@ -1,9 +1,9 @@
-# Version: 202503061709
+# Version: 202503062109
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 44549
-# Last modified: 2025-03-06T17:09:48+0000
+# Entries: 44546
+# Last modified: 2025-03-06T21:09:56+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -7662,7 +7662,6 @@
 .baxdcynptb.xyz
 .baxter.olx.org
 .bayctrk.com
-.baylnk.com
 .baywednesday.com
 .baywigsign.live
 .bazamodov.ru
@@ -32558,7 +32557,6 @@
 .rbmigxiog.com
 .rbnt.org
 .rbone.link
-.rboyqkyojrqjw.top
 .rboyqkyrwrvkq.top
 .rbqcg6g.de
 .rbrightscarletcl.info
@@ -44188,7 +44186,6 @@
 .z.opmnstr.com
 .z.tudouxy01.com
 .z00yy6tg2.com
-.z0il3m3u2o.pro
 .z1.chezhuzhinan.com
 .z1.cwbaike.com
 .z1hihu.xmcimg.com

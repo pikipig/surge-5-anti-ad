@@ -1,9 +1,9 @@
-# Version: 202503270308
+# Version: 202503270608
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 44034
-# Last modified: 2025-03-27T03:08:38+0000
+# Entries: 44022
+# Last modified: 2025-03-27T06:08:46+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -2697,7 +2697,6 @@
 .adblock-zen-download.com
 .adblock-zen.com
 .adblock.sina.cn
-.adblock.vidomo.xyz
 .adblockanalytics.com
 .adblockeromega.com
 .adblockers.b-cdn.net
@@ -3756,7 +3755,6 @@
 .adsfac.net
 .adsfac.us
 .adsfs.oppomobile.com
-.adsfundi.com
 .adsfuse.com
 .adsgard.aprod.scopely.io
 .adsgig.com
@@ -5993,7 +5991,6 @@
 .apiv4.subiz.com
 .apl.headlines.pw
 .apm-log-upload-os.hoyoverse.com
-.apm.tnet.nl
 .apm.yahoo.co.jp
 .apmplus.ap-southeast-1.volces.com
 .apnpr.com
@@ -11705,7 +11702,6 @@
 .counter2.blog.livedoor.com
 .counter24.luxnet.ua
 .counteractpull.com
-.counterfeitbear.com
 .counterfeitnearby.com
 .counters.booking.com
 .counters.freewebs.com
@@ -18625,7 +18621,6 @@
 .geo.wpforms.com
 .geo.xcel.io
 .geo.yahoo.com
-.geoaddicted.net
 .geoadserver.com
 .geobanner.adultfriendfinder.com
 .geobanner.alt.com
@@ -25272,7 +25267,6 @@
 .masqueradethousand.com
 .massacreluxuriouschristening.com
 .massacrepompous.com
-.massacresurrogate.com
 .massbrag.care
 .massesnieces.com
 .massiveanalyticssys.net
@@ -27360,7 +27354,6 @@
 .nofashot.com
 .noflake-aggregator-http.narvar.com
 .nogautssvjlh.com
-.nogogey.top
 .nohezu.xyz
 .nohowsankhya.com
 .noiselessvegetables.com
@@ -33202,7 +33195,6 @@
 .rreftyonkak.com
 .rrgbjybt.com
 .rrmlejvyqwzk.top
-.rrptnkao.icu
 .rrss.abc.es
 .rruyfnxmoq.com
 .rrxapb.icu
@@ -36122,7 +36114,6 @@
 .star-advertising.com
 .star-clicks.com
 .star-seo.oss-ap-northeast-1.aliyuncs.com
-.starchy-foundation.pro
 .stardomcoit.com
 .staretstepa.shop
 .starffa.com
@@ -38528,7 +38519,6 @@
 .toforebhut.top
 .togemantedious.top
 .togenron.com
-.togetherballroom.com
 .toglooman.com
 .togothermany.com
 .togothitaa.com
@@ -39837,7 +39827,6 @@
 .turbocap.net
 .turbolit.biz
 .turbostats.xyz
-.turbulent-addition.com
 .turbulentconformityhomes.com
 .turbulentfeatherhorror.com
 .turbulentimpuresoul.com
@@ -41417,7 +41406,6 @@
 .vsftsyriv.com
 .vsgyfixkbow.com
 .vsjrnh.xyz
-.vsmokhklbw.com
 .vsojfsoj.com
 .vst.dfn-network.pro
 .vst.sibnet.ru

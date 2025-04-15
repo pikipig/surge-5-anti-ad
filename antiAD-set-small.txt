@@ -1,9 +1,9 @@
-# Version: 202504141939
+# Version: 202504150036
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 43944
-# Last modified: 2025-04-14T19:39:06+0000
+# Entries: 43939
+# Last modified: 2025-04-15T00:36:26+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -295,7 +295,6 @@
 .1704598c25.com
 .17180d187e.com
 .17199874.xyz
-.171c856581.com
 .1736253261.rsc.cdn77.org
 .173726e958.com
 .177o.com
@@ -865,7 +864,6 @@
 .43ors1osh.com
 .43sjmq3hg.com
 .43t53c9e.de
-.44216f3fdf.com
 .444.bussyclub.com
 .444.bussyhunter.com
 .444.thebussybandit.com
@@ -4659,6 +4657,7 @@
 .alclick.com
 .alcoholcheckoccur.com
 .alcroconawa.com
+.alcyonchocard.com
 .aldik.com
 .aldo061.free.fr
 .aldo063.free.fr
@@ -7095,7 +7094,6 @@
 .b21379380e.com
 .b233765bb4.a480c95b8f.com
 .b235be2c38.a38fb9d969.com
-.b29b70e3ca.com
 .b347.pottsmerc.com
 .b395bfcd.xyz
 .b3c733588e.36dc612c23.com
@@ -8435,7 +8433,6 @@
 .boagleetsurvey.space
 .boahnoy.com
 .boannre.com
-.boannred.com
 .boar.hopehollow.com
 .boar.indieweb.org
 .boar.kostholdsveilederen.no
@@ -16355,7 +16352,6 @@
 .eresultedinncre.info
 .erg.ihclam.cn
 .ergadx.com
-.ergiekszra.com
 .ergjohl.com
 .ergonomicparadeupstroke.com
 .eriavended.click
@@ -20858,7 +20854,6 @@
 .huntershoemaker.com
 .huntmad.com
 .huohuo.huamuwo.com
-.hupot.site
 .huppontic.com
 .huqbeiy.com
 .hurdlesomehowpause.com
@@ -22055,7 +22050,6 @@
 .ix2.deepsexvids.com
 .ixafr.com
 .ixcbqp.com
-.ixlv.cn
 .ixnow.xyz
 .ixnp.com
 .ixtbiwi-jf.world
@@ -23034,7 +23028,6 @@
 .kmtendationfore.org
 .kmupo.one
 .kmyunderthf.info
-.knackedphoned.com
 .knbobfcgrbm.xyz
 .kncecafvdeu.info
 .kndaspiratiotyuk.com
@@ -23141,6 +23134,7 @@
 .kotwalpoet.top
 .kotzzdwl.com
 .kougredafooca.net
+.kouhoadousuni.net
 .koukoku.red
 .kousjcignye.com
 .koutobey.net
@@ -24809,7 +24803,6 @@
 .luyouxia.net
 .luyten-98c.com
 .lv9qr0g0.xyz
-.lvcnmtl.top
 .lvhcqaku.com
 .lvkwz.com
 .lvlhmjerf.buzz
@@ -26565,6 +26558,7 @@
 .mustang-browser.com
 .mustdealingfrustration.com
 .mustersvyrnwy.top
+.mutatesuet.com
 .mutcheng.net
 .mutedsquare.com
 .mutenessdollyheadlong.com
@@ -26744,6 +26738,7 @@
 .n475.pilotonline.com
 .n49seircas7r.com
 .n4m5x60.com
+.n4sredirect.com
 .n55cpw.vip
 .n55ylc001.vip
 .n69.com
@@ -28255,6 +28250,7 @@
 .onfluencer.net
 .ongastlya.com
 .ongoingverdictparalyzed.com
+.oniflhctfubuql.com
 .onkafxtiqcu.com
 .onkavst.com
 .onkhwanhuo.com
@@ -28742,7 +28738,6 @@
 .ov.yahoo.co.jp
 .ov8ct.icu
 .ovaleithermansfield.com
-.ovcnmtk.top
 .ovdimin.buzz
 .ovejqw.xyz
 .ovenbifaces.cam
@@ -29637,6 +29632,7 @@
 .phoaphoxsurvey.space
 .phoasougrair.com
 .phoawhoax.com
+.phobicaraban.com
 .phoceansteaks.top
 .phockukoagu.net
 .phoenix-adrunner.mycomputer.com
@@ -31443,6 +31439,7 @@
 .python.jukejuke.app
 .pywhepteto.pro
 .pywymyplyg.com
+.pyxiscablese.com
 .pyxytj.icu
 .pzd.rakuten.co.jp
 .pzfqzv.xyz
@@ -31734,7 +31731,6 @@
 .quicksitting.com
 .quickwest.pro
 .quickwittedpronunciation.com
-.quickwittedreward.pro
 .quickwriter.com
 .quidclueless.com
 .quiddity.goguardian.com
@@ -31770,7 +31766,6 @@
 .quziao.xyz
 .quzwteqzaabm.com
 .quzxatapvz.com
-.qvcnmty.top
 .qvglxrsojnyaz.site
 .qvid2.b-cdn.net
 .qvikar.com
@@ -32996,6 +32991,7 @@
 .rokymedia.com
 .roledale.com
 .rollbackpop.com
+.rolleychacker.top
 .rollingwolvesforthcoming.com
 .rollserver.xyz
 .rolzqwm.com
@@ -37876,7 +37872,6 @@
 .terribledeliberate.com
 .terrificdark.com
 .terrifyingcovert.com
-.tertiidamsite.com
 .tertracks.site
 .teslaamg.obs.cn-east-3.myhuaweicloud.com
 .teslcorp.xyz
@@ -38006,6 +38001,7 @@
 .theloungenet.com
 .themeillogical.com
 .themeulterior.com
+.thempoorduts.com
 .themselphenyls.com
 .themselvessuit.com
 .thenceafeard.com
@@ -39827,7 +39823,6 @@
 .txnczz.icu
 .txtspjaorddrjqq.com
 .txumirk.com
-.txvq.cn
 .txykmuqzxjitf.space
 .txzaazmdhtw.com
 .tyburnpenalty.com
@@ -41273,7 +41268,6 @@
 .vqonjcnsl.com
 .vrcvuqtijiwgemi.com
 .vrdfxioe.icu
-.vrevvaids.com
 .vrfupfyu.com
 .vrfuznaicvxaj.life
 .vrgvugostlyhewo.info
@@ -42555,6 +42549,7 @@
 .xaea12play.xyz
 .xahttwmfmyji.com
 .xajibur.ru
+.xalawpqfa.com
 .xalienstreamx.com
 .xameleonads.com
 .xamssp.icu

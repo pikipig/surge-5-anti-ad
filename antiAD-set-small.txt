@@ -1,9 +1,9 @@
-# Version: 202504212109
+# Version: 202504212308
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 16371
-# Last modified: 2025-04-21T21:09:29+0000
+# Entries: 16367
+# Last modified: 2025-04-21T23:08:40+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -573,7 +573,6 @@
 .a352.sandiegouniontribune.com
 .a433.dailypress.com
 .a460.cell.phone.ringtone.samsung.sms13.de
-.a5fa8c7726.com
 .a613.redbluffdailynews.com
 .a85.info
 .a869.mercurynews.com
@@ -4439,7 +4438,6 @@
 .cdn.wuyou.ca
 .cdn1.decide.dev
 .cdn1.lp.saboom.com
-.cdn1.pebx.pl
 .cdn22904910.ahacdn.me
 .cdn54405831.ahacdn.me
 .cdn7.network
@@ -11024,7 +11022,6 @@
 .nservw.net
 .nsfsfn.xyz
 .nsis.bisrv.com
-.nsomedidm.xyz
 .nst.trex.media
 .nstat.headlines.pw
 .nta1vb6cdlrl.com
@@ -12912,7 +12909,6 @@
 .sexystat.com
 .sezonlukdizi.com
 .sf16-telemetry-proxy-oci.tiktokcdn-us.com
-.sfkldbkldgdgh.com
 .sfp.safe.baidu.com
 .sftrack.searchforce.net
 .sg-public-data-api.hoyoverse.com

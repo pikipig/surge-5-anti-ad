@@ -23,16 +23,13 @@ oisd 官網：https://oisd.nl/
 
 ## 連結
 
-**DOMAIN-SET-small：**
-
+**DOMAIN-SET-small:**  
 https://raw.githubusercontent.com/pikipig/surge-5-anti-ad/main/antiAD-set-small.txt
 
-**DOMAIN-SET-big：**
-
+**DOMAIN-SET-big:**  
 https://raw.githubusercontent.com/pikipig/surge-5-anti-ad/main/antiAD-set-big.txt
 
-**DOMAIN-SET-nsfw：**
-
+**DOMAIN-SET-nsfw:**  
 https://raw.githubusercontent.com/pikipig/surge-5-anti-ad/main/antiAD-set-nsfw.txt
 
 ### 使用方式

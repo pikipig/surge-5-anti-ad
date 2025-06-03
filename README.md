@@ -8,7 +8,7 @@
 </div>
 <div>
   
-## 簡介  <a href="https://raw.githubusercontent.com/pikipig/surge-5-anti-ad/refs/heads/main/EN.md"><strong>EN version</strong></a>
+## 簡介  <a href="https://github.com/pikipig/surge-5-anti-ad/blob/main/README.md"><strong>EN version</strong></a>
 使用 GitHub Actions 自動轉換 oisd blocklist 至 Surge 5 可使用的 Domain set 格式，每3小時更新一次。
 
 oisd 官網：https://oisd.nl/

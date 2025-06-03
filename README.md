@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/pikipig/surge-5-anti-ad/main/pic/surge.jpg" width="300"></img>
-![image]([(https://raw.githubusercontent.com/pikipig/surge-5-anti-ad/refs/heads/main/pic/appstore.png)
 </p>
+![image](https://github.com/user-attachments/assets/60684b68-1925-4550-8efd-51a1509fc953)
 
 # 簡介
 使用 GitHub Actions 自動轉換 oisd blocklist 至 Surge 5 可使用的 Domain set 格式，每3小時更新一次。

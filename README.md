@@ -19,17 +19,17 @@ oisd 官網：https://oisd.nl/
 | oisd big 	  | 阻擋廣告、釣魚連結、惡意軟體、間諜程式、勒索軟體及網頁分析/追蹤等...|
 | oisd nsfw 	| 阻擋成人內容及血腥內容 	| 
 
-注意：oisd big 與 nsfw 已包含 oisd small 規則，不建議同時使用。
+注意：`oisd big` 與 `oisd nsfw` 已包含 `oisd small` 規則，不建議同時使用。
 
 ## 連結
 
-DOMAIN-SET-small：
+**DOMAIN-SET-small：**
 https://raw.githubusercontent.com/pikipig/surge-5-anti-ad/main/antiAD-set-small.txt
 
-DOMAIN-SET-big：
+**DOMAIN-SET-big：**
 https://raw.githubusercontent.com/pikipig/surge-5-anti-ad/main/antiAD-set-big.txt
 
-DOMAIN-SET-nsfw：
+**DOMAIN-SET-nsfw：**
 https://raw.githubusercontent.com/pikipig/surge-5-anti-ad/main/antiAD-set-nsfw.txt
 
 ### 使用方式

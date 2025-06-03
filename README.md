@@ -1,6 +1,6 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/pikipig/surge-5-anti-ad/main/pic/surge.jpg" width="300"></img>
-[![下載 Surge 5](https://linkmaker.itunes.apple.com/assets/shared/badges/zh-tw/appstore-lrg.svg)](https://apps.apple.com/tw/app/surge-5/id1442620678)
+[![image](https://linkmaker.itunes.apple.com/assets/shared/badges/zh-tw/appstore-lrg.svg)](https://apps.apple.com/tw/app/surge-5/id1442620678)
 </p>
 
 # 簡介

@@ -35,7 +35,7 @@ https://raw.githubusercontent.com/pikipig/surge-5-anti-ad/main/antiAD-set-nsfw.t
 
 更新：Surge 5.100.0 (3345) 之後版本可使用 pre-matching 功能，依個人需求可自行添加。
 
-關於 Surge 的使用方法，請見[官方手冊](https://manual.nssurge.com)。要想使用本項目的域名集，只需要在 Surge 配置文件中添加以下規則：
+關於 Surge 的使用方法，請見[官方手冊](https://manual.nssurge.com/book/understanding-surge/cn/)。要想使用本項目的域名集，只需要在 Surge 配置文件中添加以下規則：
 
 DOMAIN-SET-small：
 ```

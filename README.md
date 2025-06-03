@@ -5,7 +5,6 @@
   <a href="https://apps.apple.com/tw/app/surge-5/id1442620678">
     <img src="https://raw.githubusercontent.com/pikipig/surge-5-anti-ad/refs/heads/main/pic/appstore.png" width="256" height="256" />
   </a>
-</div>
 # 簡介
 使用 GitHub Actions 自動轉換 oisd blocklist 至 Surge 5 可使用的 Domain set 格式，每3小時更新一次。
 

@@ -1,6 +1,6 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/pikipig/surge-5-anti-ad/main/pic/surge.jpg" width="300"></img>
-![image](https://linkmaker.itunes.apple.com/assets/shared/badges/zh-tw/appstore-lrg.svg)
+![image]([(https://raw.githubusercontent.com/pikipig/surge-5-anti-ad/refs/heads/main/pic/appstore.png)
 </p>
 
 # 簡介

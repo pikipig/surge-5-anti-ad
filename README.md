@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/pikipig/surge-5-anti-ad/main/pic/surge.jpg" width="300"></img>
+<img src="https://raw.githubusercontent.com/pikipig/surge-5-anti-ad/main/pic/surge.jpg" width="260"></img>
 </p>
 <div align="center">
   <a href="https://apps.apple.com/tw/app/surge-5/id1442620678">

@@ -2,8 +2,8 @@
 <img src="https://raw.githubusercontent.com/pikipig/surge-5-anti-ad/main/pic/surge.jpg" width="260"></img>
 </p>
 <div align="center">
-  <a href="https://apps.apple.com/tw/app/surge-5/id1442620678">
-    <img src="https://raw.githubusercontent.com/pikipig/surge-5-anti-ad/refs/heads/main/pic/appstore.png" width="264" height="90" />
+  <a href="https://apps.apple.com/us/app/surge-5/id1442620678">
+    <img src="https://raw.githubusercontent.com/pikipig/surge-5-anti-ad/refs/heads/main/pic/appstore.png" width="220" height="75" />
   </a>
 </div>
 <div>

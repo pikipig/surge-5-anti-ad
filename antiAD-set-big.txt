@@ -1,9 +1,9 @@
-# Version: 202506150519
+# Version: 202506150820
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 184584
-# Last modified: 2025-06-15T05:19:51+0000
+# Entries: 184698
+# Last modified: 2025-06-15T08:20:39+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -2171,6 +2171,7 @@
 .24lov.ru
 .24masr.com
 .24moviess.blogspot.com
+.24news-hot.online
 .24news-press.net
 .24newstech.com
 .24ora.eu
@@ -3201,7 +3202,6 @@
 .4497e71924.com
 .449928-coinbase.com
 .44b6d66394.a2e5b82fea.com
-.44dosp65.lat
 .44e29c19ac.com
 .44emac-looks.weebly.com
 .44fc128918.com
@@ -4936,6 +4936,7 @@
 .80sjw.com
 .80vn.cn
 .80xmedia.com
+.81015449c0.com
 .81182479.com
 .8127646-dot-oaao-274308.uc.r.appspot.com
 .8131.qizhihaotian.cn
@@ -6303,6 +6304,7 @@
 .a5b75231.qqc.co
 .a5bdd2e40a.5e782aa4c4.com
 .a5d2d040.xyz
+.a5ddb5cd30.com
 .a5game.win
 .a5jogo.biz
 .a5jogo.club
@@ -15781,7 +15783,6 @@
 .als-svc.nytimes.com
 .als.baidu.com
 .alsadatproperty.com
-.alsalam1.com
 .alsdebaticalfelixsto.org
 .alsera.de
 .alservic-tirmiles.blogspot.com
@@ -16103,7 +16104,6 @@
 .amazon.idgai.com
 .amazon.wii-info.fr
 .amazon34.duckdns.org
-.amazon34.linkpc.net
 .amazon8898.com
 .amazonamc.co
 .amazonawsreplay.com
@@ -22609,6 +22609,7 @@
 .augerixium.com
 .auggtone.shop
 .aughoomsoushy.com
+.augjmwws.com
 .auglysingar.hestafrettir.is
 .auglysingar.pipar.is
 .auglysingar.vinnustofan.is
@@ -23148,6 +23149,7 @@
 .autopolicyshop.com
 .autoportgen.space
 .autopreneur.fr
+.autoprofithubapp.com
 .autoprofitx.net
 .autopsyextendedyou.com
 .autopsyjam.com
@@ -23170,6 +23172,7 @@
 .autosense.bitauto.com
 .autoservis-sindrak.com
 .autoshere.fr
+.autoshowgya.com
 .autosknowledge.com
 .autosystem.org
 .autotrack.studyquicks.com
@@ -23228,6 +23231,7 @@
 .availability.justdied.com
 .availabledatingworld.biz
 .availablerest.com
+.avajwlwqbklkw.top
 .avalanchecumbrix.com
 .avalanchecumbrix.net
 .avalancheofnews.com
@@ -23348,6 +23352,7 @@
 .aviewersoft.com
 .aviewrodlet.com
 .avifilm.ru
+.aviiivsxdmbgc.site
 .aviira.de
 .avilagtitkai.com
 .avilatransportes.com.br
@@ -23416,6 +23421,7 @@
 .avsink3431.fun
 .avsoftwarereviews.com
 .avsojlonp.com
+.avspceadfb.com
 .avsvmcloud.com
 .avsystemcare.com
 .avt.hit.gemius.pl
@@ -24385,14 +24391,18 @@
 .bafkreidz6jubmux2663ohwupbnubufob72aqdltjgvmwcehvbdsgei5mhi.ipfs.dweb.link
 .bafkreie27i5zxf4gmxri7gvcvucpdtsbgupq6f6q2byofaiega5s6o7ymm.ipfs.dweb.link
 .bafkreie4c2dotyxu26keessxkszb3kfwmj42cmbof4dk637tpadhjq7xtq.ipfs.dweb.link
+.bafkreie4wnmued6j6hqubcu4i77rb7tryxra63nitro3gjvcbj5o7s6h7a.ipfs.dweb.link
 .bafkreie6bbogc3xadptkieq3bxpjmbdcarj45juahz3sb5yhci4o4cjxdy.ipfs.dweb.link
 .bafkreie7m7x3fcmjm7ocp5fjnou73k7phc6zhisey3nbfv7d263rmtw5te.ipfs.dweb.link
 .bafkreie7t6yeifa37pqlly6gwucvfgdjgqyhnbpg2alnz5nrzbh33o67wm.ipfs.dweb.link
 .bafkreieabbam4px65fdysyaxvilhn7viqnuda5oe4qgnqkwqwysqxlyugi.ipfs.dweb.link
 .bafkreied7pp6e5x2myujigverxvcdsq4ts7xfv65bu2j526fixseocfpti.ipfs.dweb.link
+.bafkreiedfusy6wgiupm4uy3alsdarir6lrw2ffybfvjlctysyo7dt7532q.ipfs.dweb.link
 .bafkreiek54ci7oxpcjmpah5hl6zsya4vl2lxsv76fhfmwy7izz5wt5rg3m.ipfs.dweb.link
 .bafkreiekwwzkeycsjeadsbrhpsovuitejox6wl3oqt3pplqx7qjhzedy7i.ipfs.dweb.link
 .bafkreielkq7bv6myw26b7zkww3gyzagez5hr4rz6ul7wcg7xxuxoj73mhi.ipfs.dweb.link
+.bafkreieo23mvei4hp5akkpj3sxs6pewc55xmxpacwaddkkyden2zwby53q.ipfs.dweb.link
+.bafkreies4wpm2cjb5abr2m3tmaitgfzyrimynvacjpjnbwobaie6brk2jm.ipfs.dweb.link
 .bafkreieti7yk7oz2gq3vobxm7wbe42wtgqtkv6ibai4xjudeaisp6neysa.ipfs.dweb.link
 .bafkreiexjrowz4slizrct5vq76pod4f5zykryszuhvei2udi5ekuhuz2li.ipfs.dweb.link
 .bafkreiez5fruf76wbn4zuz2mrdg5rbop7ws5qj5zv47vf4325scrvya6by.ipfs.dweb.link
@@ -26319,7 +26329,6 @@
 .begumazing.com
 .begun.ru
 .beha.ksmobile.com
-.behalflose.com
 .behalfplead.com
 .behance.vo.llnwd.net
 .behappy.com
@@ -27436,6 +27445,7 @@
 .bhgyuncovered.world
 .bhigziaww.com
 .bhihakqmybat.com
+.bhivpvsbhskzv.site
 .bhiwadiescortsgirls.com
 .bhjzdrty4.blogspot.ch
 .bhlianhe.com
@@ -27619,7 +27629,6 @@
 .big-shop.ge
 .big.pp.ru
 .big5coupon.co.cc
-.bigalso.com
 .bigamdiacc.pro
 .bigapp1e.66ghz.com
 .bigappboi.com
@@ -27989,6 +27998,7 @@
 .biodanzaholidays.com
 .biodymerca.pro
 .biodynamic5ps.com
+.biofaosped.com
 .biofastprox.com
 .biofasttrack.com
 .biofocuslabprozone.com
@@ -28150,6 +28160,7 @@
 .bit-gpt-app.com
 .bit-gpt-app.net
 .bit-gpt.app
+.bit-gptai.com
 .bit-indexai.com
 .bit-indexprime.app
 .bit-indexprime.com
@@ -29330,7 +29341,6 @@
 .bnmperc.web.app
 .bnmq.com
 .bnmqtggqjoqic.buzz
-.bnmtgboouf.com
 .bnnkab22arutbnn82098.weebly.com
 .bnnr.nl
 .bnox.fr
@@ -29486,7 +29496,6 @@
 .bodgertyphous.top
 .bodhimandala.com
 .bodieshomicidal.com
-.bodilyooas.shop
 .bodilysubtractoversight.com
 .bodilywondering.com
 .bodog.hu
@@ -31133,6 +31142,7 @@
 .brokercomparatif.com
 .brokergesture.com
 .brokeroconnorhmybroker.com
+.brokerplan.top
 .brokersash.weebly.com
 .brokertraffic.com
 .brokerunity.com
@@ -31900,6 +31910,7 @@
 .budgetmove.icu
 .budgeton.digital
 .budgetone.icu
+.budgetplanner.top
 .budgetwizard.io
 .budhavis.com
 .budhump.com
@@ -33942,7 +33953,6 @@
 .cannetstoups.click
 .canniguide.pro
 .canningpajamastint.com
-.canningwalker.com
 .cannonchange.com
 .cannonclam.com
 .cannonkit.com
@@ -34398,6 +34408,7 @@
 .carolinafederation.com
 .caroline-bell.com
 .carolroth.com
+.carolyngharper.com
 .carolynmoots.com
 .carolynrichards.net
 .carp.acda.app
@@ -34981,6 +34992,7 @@
 .catherinetaylor.co.nz
 .catherineventura.com
 .catholicprevalent.com
+.catholicstockphotos.com
 .cathological.com
 .cathrynslues.com
 .cathudnete.click
@@ -36148,6 +36160,7 @@
 .centrequ.cc
 .centrfiocc.pro
 .centrocasalbenga.com
+.centrodedermatologiademonterrey.com
 .centrodepsicologiamartinezyfumero.com
 .centrolinguisticorobert.com
 .centropoliscastelbuono.it
@@ -36363,6 +36376,7 @@
 .cewek-cewek-bookingan-facebo0k.emochila.com
 .cewek-cewek-boolingan-faceb0ok.emochila.com
 .cewek-cewek-boolmingan-faceb0ok.emochila.com
+.cewiru-yudopi.site
 .cewukbger.work
 .cexcapitals.com
 .cexofira.com
@@ -37706,6 +37720,7 @@
 .chestnutscallop.pro
 .chetherington.com
 .chethgentman.live
+.chetiftaphoa.net
 .chevalaba.pro
 .chevy.ru
 .chewiebakings.top
@@ -39013,6 +39028,7 @@
 .cleaningmystical.com
 .cleaningpro.top
 .cleaninsure.com
+.cleankey.top
 .cleanlatif.pro
 .cleanledgerscartstaging.com
 .cleanmakassar.com
@@ -40111,7 +40127,6 @@
 .cnrsods.godaddysites.com
 .cnsmaccas.duckdns.org
 .cnstats.cdev.eu
-.cnsuixnamwmtrxt.com
 .cnsxrfsrfpsvf.site
 .cnt.affiliate.fc2.com
 .cnt.alawar.com
@@ -40485,6 +40500,7 @@
 .coin-edex-pro.net
 .coin-fast-app.com
 .coin-file-file-19.com
+.coin-gptapp.com
 .coin-have.com
 .coin-hive-proxy-ybydcnjgkl.now.sh
 .coin-hive.com
@@ -42548,6 +42564,7 @@
 .cooltennis.nl
 .coolthewomanonline.com
 .cooltisyntrix.net
+.cooltisyntrixapp.com
 .coolwaychaussures.fr
 .coolwayfrance.fr
 .coolwebsearch.com
@@ -42575,6 +42592,7 @@
 .cooplasegunda.com.ar
 .cooprativetechpvtltd.com
 .coopsigrirou.net
+.coopteetees.com
 .cooptraexxon.com
 .coordinadora-tecnologia.com
 .coordinated-wooden-ironclad.glitch.me
@@ -44494,7 +44512,6 @@
 .creation-referencement-sites.com
 .creationstoucom.com
 .creative-bars1.com
-.creative-climate.com
 .creative-digital.co
 .creative-geniuslab.com
 .creative-hypnotherapy.com
@@ -46182,6 +46199,7 @@
 .cvt1.sibnet.ru
 .cvujac.xyz
 .cvujydqxsgvfu.one
+.cvwnpvbtezqvk.site
 .cvxwaslonejulyha.info
 .cvyatop.online
 .cvzo.nvshengjie.cn
@@ -48142,6 +48160,7 @@
 .dailymuktobangali.com
 .dailyn.me
 .dailynessresiduals.com
+.dailynews1710.online
 .dailynewsalerting.com
 .dailynewsdivergence.com
 .dailynewsobituaries.co.cc
@@ -48396,6 +48415,7 @@
 .dante.vl.ru
 .dantocmiennui-log.baotintuc.vn
 .dantri.live
+.danudu.moneyrafflegift.com
 .danuunlimited.com
 .danv01ao0kdr2.cloudfront.net
 .danylevych.com
@@ -48764,6 +48784,7 @@
 .datapage-hcucoopindex.web.app
 .datapoint.cfd
 .datarankz.com
+.datarayy.top
 .datarayz.click
 .datareco.com
 .datarecoveryservicis.com
@@ -49162,6 +49183,7 @@
 .dcakwfzcjfjjb.life
 .dcampus.co.kr
 .dcanscapital.co.uk
+.dcaqtvqaopjoha.com
 .dcb8fc1e42.6974f3c479.com
 .dcbbwymp1bhlf.cloudfront.net
 .dcbpm.suning.cn
@@ -49198,6 +49220,7 @@
 .dcodificated.com
 .dcomet.no-ip.biz
 .dconthelake.com.au
+.dcoranepgn.com
 .dcoygames.com
 .dcrat1337.atwebpages.com
 .dcrgroup.net
@@ -50812,6 +50835,7 @@
 .devondale.com.cn
 .devone.site
 .devonenergyltd.wixsite.com
+.devopsdeviants.com
 .devoremediallc.com
 .devorix-mel.net
 .devotecausson.click
@@ -51022,7 +51046,6 @@
 .dgfoodsnet.myportfolio.com
 .dggaenaawxe8z.cloudfront.net
 .dgghhhh.painaa.web.id
-.dggrxhqnpybuls.eu
 .dghjnmed.weebly.com
 .dgifpencaissement.fr
 .dgit.com
@@ -51349,7 +51372,6 @@
 .dieselengines.ws
 .diespekerworks.com
 .diet-center.net
-.dietalibre.com
 .dietepicci.pro
 .dietingace.com
 .dietinghero.com
@@ -51564,6 +51586,7 @@
 .digtab.com
 .diguaunela.pro
 .diguver.com
+.digzjnuguwwxr.online
 .dihata.com
 .dihutyaiafuhr.cloudfront.net
 .dii.bankaust.com.au
@@ -51747,7 +51770,6 @@
 .diplomatie.gov.mr
 .diplomatsecuritycontract.com
 .dipnesfoco.pro
-.dipnetgleanable.com
 .dipperexcusable.com
 .dippingearlier.com
 .dippingunstable.com
@@ -53310,6 +53332,7 @@
 .doctor-martenss.com
 .doctor-spravka.ru
 .doctor1.ch.vu
+.doctoradil.com
 .doctoradopensamientocomplejo.org
 .doctorart.ru
 .doctoraxis.com
@@ -53352,6 +53375,7 @@
 .doctorshe.com
 .doctorsnob.com
 .doctorsorgtuuk.weebly.com
+.doctorsoumya.com
 .doctorspin.ru
 .doctorsuser2025new.weebly.com
 .doctortrf.com
@@ -53832,6 +53856,7 @@
 .doo9gpa5xdov2.cloudfront.net
 .doodiwom.com
 .doodleap.pro
+.doodlebo.com
 .doodlenest.pro
 .doodlenesters.pro
 .doodlesunshinecamp.com
@@ -53992,6 +54017,7 @@
 .dothansurgerycenter.com
 .dothavesta.click
 .dothewritethingmusic.com
+.doting-nurse.pro
 .dotmacro.com
 .dotmaniac.com
 .dotmetrics.net
@@ -54076,6 +54102,7 @@
 .doutoumco.pro
 .doutyozg.beget.tech
 .douveejoalastu.net
+.douwhaiwupe.net
 .douyin.wwvvdouyin.cc
 .douzvrswnkxzv.icu
 .dovanko.gr
@@ -56873,6 +56900,7 @@
 .edadmy.xyz
 .edaightutaitlastwe.info
 .edalloverwiththinl.info
+.edaproz.top
 .edarah.com.eg
 .edatasales.com
 .edavki-8a186.firebaseapp.com
@@ -57228,6 +57256,7 @@
 .eehir.tech
 .eeht-vxywvl.club
 .eehuzaih.com
+.eeiinjqsioicn.site
 .eejgzgtkbk.pages.dev
 .eekekseecke.net
 .eeknabkuazjjn.site
@@ -57382,6 +57411,7 @@
 .efixtechsupport.com
 .efjsliw.top
 .eflewroundand.com
+.efnomqjx.com
 .eforgotteddisgu.com
 .eforsa.pl
 .eforu.com
@@ -57412,7 +57442,6 @@
 .egbay.it
 .egd2402.appspot.com
 .egeemsob.com
-.egegeg.duckdns.org
 .egestdebil.pro
 .egeszsegespont.hu
 .egfollow.com
@@ -58797,7 +58826,6 @@
 .engineering360.info
 .engineeringtime.com
 .engineermade.com
-.engineerprof.com
 .engineersclubindia.com
 .engineertrick.com
 .engineeryx.com
@@ -59457,6 +59485,7 @@
 .erickmcgregor.com
 .ericlindstrom.com
 .ericmaddox.us
+.ericrbarrett.com
 .ericzworkz.free.fr
 .eriecabinets.org
 .eriegentsfse.info
@@ -59577,6 +59606,7 @@
 .erwksojkxxlff.icu
 .erwvcgewx.square7.ch
 .erxdq.com
+.erxnqfhkkjkzz.site
 .erxst.info
 .eryhdf2sz.appspot.com
 .erymuchadmirl.org
@@ -60006,6 +60036,7 @@
 .etechnix.com
 .etereo.in
 .eterionzyvora.net
+.eternal-lunesta.com
 .eternal-lunesta.net
 .eternal-station.jp
 .eternal.mobius-loop.net
@@ -60241,6 +60272,7 @@
 .etstemizlik.com
 .etsy.assert.help
 .etsy.form64271.world
+.etsy.ratification.help
 .ettc-online.com
 .etu-amse.fr
 .etu-nantes.fr
@@ -60367,6 +60399,7 @@
 .eurogamer-uk.eurogamer.net
 .eurogewinnspiel.com
 .euroherchr.weebly.com
+.euroinvest20.com
 .eurolatexthai.com
 .eurolux.org
 .euromaillinnk.com
@@ -60954,7 +60987,6 @@
 .example.servidor.world
 .examplecom.112.2o7.net
 .exampleshake.com
-.examsupdatesupple.com
 .exarthynature.run
 .exasked.com
 .exasperationincorporate.com
@@ -61026,6 +61058,7 @@
 .exchangeclicksonline.com
 .exchangeodds.live
 .exchangeschool.com
+.exchubzz.top
 .excitablepass.com
 .excitead.com
 .excitementoppressive.com
@@ -62266,6 +62299,7 @@
 .fahrschultrainer.com
 .fahrschulwissen.com
 .fahrzeugtechnik24zusatzfeder.de
+.faiglawophauwos.com
 .fail.adr.ec
 .failblog.de
 .failed-recipient-add.firebaseapp.com
@@ -62333,6 +62367,7 @@
 .faithfulant.pro
 .faithfuloctopus.pro
 .faithfultarantula.pro
+.faithholmes.com
 .faithleapersbelieve.pro
 .faithmovingmountains.pro
 .faithrowold.com
@@ -63122,7 +63157,6 @@
 .fd7c.com
 .fd7nnk.pulty.multiversemechanics.info
 .fdagenplasg.firebaseapp.com
-.fdata.io
 .fdating.fr
 .fdbdo.com
 .fdelphaswcealifornica.com
@@ -63305,6 +63339,7 @@
 .feedglobalonlinenews.com
 .feedinformernews.com
 .feedlow.com
+.feedmorenews.online
 .feedmynews.com
 .feednewsbeat.com
 .feednewsblogspot.com
@@ -63576,6 +63611,7 @@
 .fervent-curran.45-77-153-108.plesk.page
 .ferventgazelle.pro
 .ferventjackdaw.pro
+.fervodexapp2025.com
 .fervortracer.com
 .ferys.ru
 .fes5.com
@@ -64818,6 +64854,7 @@
 .firmonly.com
 .firmsusa.com
 .firnugfat.com
+.fironixtrader29nova.com
 .fironixtrader29titan.com
 .firsatlarsenin.com
 .first-hufu.oss-cn-shanghai.aliyuncs.com
@@ -64829,7 +64866,6 @@
 .first.beyondk12surveys.com
 .first.pokerstarus.kro.kr
 .first7starhotelsrilanka.com
-.firstarchivtrack.com
 .firstbookmark.com
 .firstchoice-inc.net
 .firstchristianmooresville.com
@@ -65129,7 +65165,6 @@
 .flamedisgr.pro
 .flamefile.com
 .flamefolders.com
-.flamesabove.com
 .flameuncle.com
 .flaminglamesuitable.com
 .flamingo.abihome.de
@@ -66124,6 +66159,7 @@
 .foreveryoung.gz01.bdysite.com
 .forex-advice.net
 .forex-affiliate.net
+.forex-trader-ai.com
 .forex-trading-benefits.blogspot.com
 .forexbrokerlicense.com
 .forexbrokeronsale.com
@@ -67705,6 +67741,7 @@
 .ft2025.top
 .ft58.com
 .ftajryaltna.com
+.ftakaxbit.com
 .ftblltrck.com
 .ftchelpdesk.weebly.com
 .ftcr2.codesandbox.io
@@ -68230,6 +68267,7 @@
 .fuvyfuu.live
 .fuw-edu-pl-site.webflow.io
 .fuwdwgwelvevq.store
+.fuwebuu.pro
 .fuwin.sbs
 .fuwn782kk.alphaporno.com
 .fuwomhcumac.com
@@ -69216,6 +69254,7 @@
 .gas-representative.gl.at.ply.gg
 .gas.data.pplive.com
 .gas.tradingsociety.org
+.gas15evex.com
 .gas90alrexapp.com
 .gasaga.com
 .gasaialrexapp.net
@@ -70653,7 +70692,6 @@
 .ghoudsoldes.fr
 .ghpgtibxzldsh.website
 .ghprofileconsult.com
-.ghqzwlbuizbw.com
 .ghr.metacpro.com
 .ghribi.com
 .ghsheukwasa.com
@@ -73173,6 +73211,7 @@
 .gracepererahome.lk
 .gracetab.co.za
 .gracewellscare.co.uk
+.gracexindo.com
 .graciousbloom.pro
 .gradahyllu.pro
 .grade-wanting.gl.at.ply.gg
@@ -75230,7 +75269,6 @@
 .halcyoncanyon.com
 .halcyonsculpture.com
 .hale-jewish-community.org.uk
-.haleleeh8iuoty1.duckdns.org
 .haleleeh8iuoty2.duckdns.org
 .haletone.com
 .halex.waw.pl
@@ -76140,6 +76178,7 @@
 .headlinesinstant.click
 .headlinesnow.life
 .headlinestodaynow.click
+.headlinesworldwide.online
 .headlinetrack.icu
 .headlinetrack.live
 .headlinevaultnews.com
@@ -77445,7 +77484,6 @@
 .hilerant.site
 .hiletterismypers.com
 .hilfe-check.com
-.hilfe-debixapp.com
 .hilfe-zentrum.weebly.com
 .hilfe.cluster1.easy-hebergement.net
 .hilfecenter1.weebly.com
@@ -78658,6 +78696,7 @@
 .horizonmeadow.org
 .horizonnudge.pro
 .horizonpeak.info
+.horizonpulse.my
 .horizonriddle.store
 .horizontallypolluteembroider.com
 .horizontiaenergia.com
@@ -79198,7 +79237,6 @@
 .hreso.site
 .hreverest.com
 .hrgde.adocean.pl
-.hrggrevsdc-21182.portmap.io
 .hrhelp.top
 .hrien9idzk.pages.dev
 .hrihfiocc.com
@@ -81070,6 +81108,7 @@
 .ignisfuels.com
 .ignitefusion.biz
 .igniteinternationalschool.com
+.ignitemywriting.com
 .ignites.live
 .ignitevision.biz
 .ignitezorentis.com
@@ -81612,6 +81651,7 @@
 .imedia.cz
 .imediat-lexapro.com
 .imediatlexaproai.com
+.imediatovolarix64nova.com
 .imedicalexpress.com
 .imeem.112.2o7.net
 .imels.pro
@@ -81888,6 +81928,7 @@
 .immediate-momentum.io
 .immediate-momentumapp.net
 .immediate-neon.net
+.immediate-neonapp.com
 .immediate-nextgen-ai.com
 .immediate-odvazit-app.com
 .immediate-path.net
@@ -81977,6 +82018,7 @@
 .immediate900keflex.com
 .immediateachieve.com
 .immediateachieve.net
+.immediateadipexapp.com
 .immediateai-app.com
 .immediateai-app.net
 .immediateai.invstcomp.pro
@@ -82140,8 +82182,10 @@
 .immediateodvazit.com
 .immediateodvazit.net
 .immediateoluxapp.com
+.immediateone.com
 .immediatepathapp.net
 .immediatepermaxai.net
+.immediatepermaxi800.com
 .immediatepower-pro.com
 .immediatepowerproapp.com
 .immediateprimebit.com
@@ -82157,6 +82201,7 @@
 .immediateprolia20.com
 .immediatequantor.com
 .immediateraise.net
+.immediateraiseapp.com
 .immediaterenda.net
 .immediaterenova19x.com
 .immediaterenova20.com
@@ -82392,6 +82437,7 @@
 .impioidroa.pro
 .impiorimem.pro
 .impirbousi.pro
+.impishcup.pro
 .impit.tradedouble.com
 .impitsporg.pro
 .implaintra.pro
@@ -82568,6 +82614,7 @@
 .imuran1.com
 .imusicantibavaresi.de
 .imvegas.ddns.net
+.imveravante.com
 .imvocky.gay.global.prod.fastly.net
 .imvu37.blogspot.com
 .imvubuzz.com
@@ -82630,7 +82677,6 @@
 .inappi.co
 .inappi.me
 .inappritor.pro
-.inappropriate2.fun
 .inappropriatejessamycookery.com
 .inapps.appsflyer.com
 .inapps.appsflyersdk.com
@@ -83078,6 +83124,7 @@
 .infinitemosaic.pro
 .infinitenest.site
 .infiniteripple.pro
+.infiniteshoppy.com
 .infinitewaves.pro
 .infiniti-bd.com
 .infinitrade.site
@@ -84179,6 +84226,7 @@
 .instant21akpro.com
 .instant30chenix.com
 .instant30chenix.net
+.instant360adipex.com
 .instant40chenix.com
 .instant40mentax.com
 .instant4acormax.net
@@ -84630,7 +84678,6 @@
 .interrecel.pro
 .interreklame.de
 .interrinfu.pro
-.interrogationpeepchat.com
 .interruptchalkedlie.com
 .interruptimpendingdetrimental.com
 .interrusty.pro
@@ -85322,7 +85369,6 @@
 .iptvhddechile.com
 .iptvmerkez.com
 .iptvpro-france.fr
-.iptvsmarters-tv.com
 .iptvstart10.com
 .iptvyo.com
 .ipv4.kkmh.com
@@ -85459,6 +85505,7 @@
 .irnmh.fun
 .iroby.com
 .iroha-oran24.com
+.ironclad-temperature.pro
 .ironcladtrouble.com
 .ironefx.com
 .ironhollowfarm.com
@@ -85519,6 +85566,7 @@
 .irsgovusa.myportfolio.com
 .irsidmegateways.de
 .irslearning.com
+.irsminictf.com
 .irsrefundservices.brizy.site
 .irsrred.w3spaces.com
 .irss.de
@@ -86148,6 +86196,7 @@
 .iy9erpxzoaz.appspot.com
 .iya.net.cn
 .iya5.com
+.iyc-admin.com
 .iydheybdse.w3spaces.com
 .iyduvszv.group
 .iyes.youku.com
@@ -86205,7 +86254,6 @@
 .izumi-sv.f5.si
 .izumi-test.f5.si
 .izusep.weebly.com
-.izvtmrynby.com
 .izzicasino.fr
 .izzylogz.nn.r.appspot.com
 .j-0-09g-9bh-h-ggf-1324992141.cos.ap-bangkok.myqcloud.com
@@ -86598,6 +86646,7 @@
 .jasawebsite.online
 .jascruipler.firebaseapp.com
 .jascruipler.web.app
+.jasguar.com
 .jashautchord.com
 .jashoagencies.weebly.com
 .jashop.vn
@@ -87178,7 +87227,6 @@
 .jhgfdgf774.w3spaces.com
 .jhghjjhjkj.w3spaces.com
 .jhghjkljmn.weebly.com
-.jhgj.njxwang.com
 .jhgku.com
 .jhgrealty.com
 .jhguspszurn.com
@@ -88116,6 +88164,7 @@
 .jqcdn03.herokuapp.com
 .jqcdn2.herokuapp.com
 .jqijfzvtap.project.fastpages.io
+.jqilyjagezcqk.site
 .jqmebwvmbbby.top
 .jqmebwvmbrvz.top
 .jqmt.qq.com
@@ -89243,7 +89292,6 @@
 .kaohej.com
 .kaohej.info
 .kaolinoleous.com
-.kaorpyqtjjld.com
 .kaoshaven.com
 .kapaass.com
 .kapatelu.clan.su
@@ -89932,7 +89980,6 @@
 .keymedia.hu
 .keymedicare.com
 .keyne-in.com.cn
-.keynotefool.com
 .keyofhealth.com
 .keypush.net
 .keyrates.org
@@ -90892,6 +90939,7 @@
 .kntqxwhr.com
 .knutenegros.pro
 .knvop5puf3w.click
+.knycoblq.com
 .ko-racingshop.com
 .ko.fm
 .ko.snstatic.fi
@@ -91057,6 +91105,7 @@
 .kologyrtyndwean.info
 .kolopopo.com
 .koloryfejsa.blogspot.com
+.kolpakovdev.com
 .kolpress.com.pl
 .kolsaati.org
 .kolsea.com
@@ -91111,6 +91160,7 @@
 .konmm.com
 .konnbot.com
 .konozuy4.pro
+.konradjasman.com
 .konradsheriff.com
 .konsor.ru
 .konsultacii-advokata.ru
@@ -91509,6 +91559,7 @@
 .ksiazkoweinspiracje.lat
 .ksibradio.com
 .ksiegowyroku.pl
+.ksiowqrhlr.com
 .ksjustlikeanan.com
 .ksk-nord.de
 .ksk-shkola.ru
@@ -91521,6 +91572,7 @@
 .kspengineering.com
 .kspl48j.xyz
 .ksqjpw.com
+.ksquaredsourcedcity.com
 .ksrsy.com
 .kss-flaco.de
 .kssiu.weebly.com
@@ -92342,7 +92394,6 @@
 .lahudealsana.pro
 .lahudealtums.pro
 .lahudiauaday.pro
-.laiachat.com
 .laiceadsl.fr
 .laichegloavy.com
 .laichsisogony.com
@@ -93876,6 +93927,7 @@
 .lemairefr.fr
 .lemapfrance.org
 .lemarin.info
+.lembaa.com
 .lemen30548.m-pages.com
 .lementwrencespri.com
 .lementwrencespri.info
@@ -94306,6 +94358,7 @@
 .lfcraft.com
 .lfdisicuttrod.rocks
 .lfeeder.com
+.lfelnkxiazxkx.store
 .lfflvh.icu
 .lfgkyy.com
 .lfhuaying.com
@@ -94377,7 +94430,6 @@
 .lhuwawhcxtltx.space
 .lhuy.com
 .lhv-ee.bager.am
-.lhvlogin.tostdqypga.com
 .lhvmt5et8vq0.ru
 .lhwimdpdjajfx.rocks
 .lhxmrcyaqsvze.site
@@ -95446,6 +95498,7 @@
 .liveeventstructures.com
 .liveeventtruss.com
 .livefaceb00k.duckdns.org
+.livefeed1710.online
 .livefinder.net
 .liveflashupdates.click
 .liveflix.digital
@@ -97344,6 +97397,7 @@
 .lootysjmaisjhgdf.weebly.com
 .loovo.fr
 .loowhujoom.net
+.lopartexapp.com
 .lopdoctor.com
 .lopeid.com
 .lopesgroups.com
@@ -98304,6 +98358,7 @@
 .lustasserted.com
 .lusteperis.pro
 .lusteri.com
+.lustlives.com
 .lustnescian.pro
 .lustp.com
 .lustrabbof.pro
@@ -100226,6 +100281,7 @@
 .maltudipel.pro
 .maltunfaithfulpredominant.com
 .malugamarketing.com
+.malus.cfd
 .malvorlagen.de
 .malware-scan.com
 .malware.dsmtp.com
@@ -101270,6 +101326,7 @@
 .matchcraft.com
 .matches4you.info
 .matchfioci.pro
+.matchhunts.com
 .matching-go.jp
 .matching-pair.jp
 .matching364.com
@@ -101837,6 +101894,7 @@
 .mcnn.ru
 .mcnpcb.pro
 .mcns.1908ado.org
+.mcocayxlebnuv.space
 .mcol.pl
 .mcoldstore.com
 .mcomp.org
@@ -102406,6 +102464,7 @@
 .meenakshidevelopers.com
 .meendocash.com
 .meenetiy.com
+.meepsaithiry.net
 .meepwrite.com
 .meerai.io
 .meeramu.com
@@ -104371,7 +104430,6 @@
 .milestoneinstallation.com
 .milffinder.pl
 .milfordslow.top
-.milfs4free.info
 .milfunsource.com
 .milibao.com
 .milifrontiers.com
@@ -105983,6 +106041,7 @@
 .monaccufest.com
 .monaco-banking.com
 .monacobeatles.com
+.monacosnot.com
 .monacotelecomhome.weebly.com
 .monacsolli.pro
 .monadls.com
@@ -107138,6 +107197,7 @@
 .msecn.net
 .msedgepackageinfo.com
 .msehm.com
+.msehuipsxmudk.store
 .msenterpriseverifysecure.glitch.me
 .mserver-three.vercel.app
 .msetup.pro
@@ -107922,6 +107982,7 @@
 .mxcmkojmm.com
 .mxcmwk.xyz
 .mxcnss.dns04.com
+.mxdcdefgbyyeb.website
 .mxdizayn.com
 .mxews5.top
 .mxgv2mct-8083.usw3.devtunnels.ms
@@ -110304,7 +110365,6 @@
 .net.drillrp.com
 .net.egravure.com
 .net.flix-app.info
-.net.flix-pago.com
 .net.fuckxstream.com
 .net.iberia.com
 .net.lsipes.com
@@ -111147,6 +111207,7 @@
 .newstidingsnexus.com
 .newstimeslivecom.112.2o7.net
 .newstk.com
+.newstoday1710.online
 .newstodaybuzz.click
 .newstodayhub.com
 .newstodaylive.click
@@ -112743,6 +112804,7 @@
 .nostalgicknot.com
 .nostalgicneed.com
 .nostalgicquoll.pro
+.nostalgicrebuilds.com
 .nostradame37.no-ip.biz
 .nostraonda.com
 .nostrilquarryprecursor.com
@@ -115692,6 +115754,7 @@
 .omply.com
 .ompozycja.top
 .omqbwh.flu.cc
+.omqusxdbgvwfv.website
 .omraderet.pro
 .omroepflevoland-static.reviveservers.com
 .omropfryslan-delivery.reviveservers.com
@@ -116708,6 +116771,7 @@
 .openwhoelai.com
 .openwidedentalmarketing.com
 .openworldnews.online
+.openworldreport.online
 .openwq.digital
 .openx.angelsgroup.org.uk
 .openx.com
@@ -117022,7 +117086,6 @@
 .or-ipo.com
 .or-observed.gl.at.ply.gg
 .or-replication.gl.at.ply.gg
-.or.rawth.pro
 .or73.com
 .ora-0-web.com
 .ora-dental.com
@@ -117312,6 +117375,7 @@
 .originale-und-generika.com.de
 .originalgekauft.com.de
 .originalicons.com
+.originalinsights.online
 .originallyrabbleritual.com
 .originalpenguin.fr
 .originalrezeptfrei.com.de
@@ -118630,7 +118694,6 @@
 .packs-special.info
 .packsaddlefellowship.com
 .packsofgood.com
-.packto.duckdns.org
 .packwaxtoner.shop
 .pacontainer.s3.amazonaws.com
 .pacoursup.fr
@@ -119566,7 +119629,6 @@
 .parner-id-1381834.com
 .parner-id-149510.com
 .parner-id1501202500.com
-.paroasse.xyz
 .parocalchi.pro
 .paronterch.pro
 .parosh.didns.ru
@@ -119943,6 +120005,7 @@
 .pathletbiding.click
 .pathodisco.pro
 .pathofhacks.com
+.pathwaystosobriety.com
 .patibperni.pro
 .patience-ils-poussent.fr
 .patientlo.top
@@ -120766,6 +120829,7 @@
 .peeredplanned.com
 .peerera.com
 .peerlesshallucinate.com
+.peermethods.com
 .peethobo.com
 .peetic.fr
 .peewhouheeku.net
@@ -122803,6 +122867,7 @@
 .pl-7113942.shop
 .pl-718244.rest
 .pl-7273.cfd
+.pl-7482512.icu
 .pl-7573.icu
 .pl-7829.cfd
 .pl-78643252.rest
@@ -122936,6 +123001,7 @@
 .pl-oferta4124403.icu
 .pl-oferta4277662.shop
 .pl-oferta4330509.shop
+.pl-oferta4423618.icu
 .pl-oferta443532.rest
 .pl-oferta4474710.shop
 .pl-oferta4500446.shop
@@ -124627,6 +124693,7 @@
 .popcapgames.122.2o7.net
 .popcash.net
 .popcashjs.b-cdn.net
+.popccxbcmbyxoe.com
 .popcent.net
 .popcent.org
 .popcies.com
@@ -125304,6 +125371,7 @@
 .power-report.de
 .power-trades-app.com
 .power-trades-app.net
+.power-tradesapp.com
 .power.moon-river-coin.xyz
 .power2xevexapp.com
 .powerad.ai
@@ -125741,6 +125809,7 @@
 .prefisguar.pro
 .prefisring.com
 .prefitzz.com
+.prefitzz.top
 .prefix.hit.gemius.pl
 .prefix.payhelping.com
 .prefixpatriot.com
@@ -126123,6 +126192,7 @@
 .primeclub.cfd
 .primecodes.net
 .primecoinflow.net
+.primecoinflowapp.com
 .primeconnexion.fr
 .primeconsultoriatributaria.com.br
 .primecopd.com
@@ -130719,6 +130789,7 @@
 .python.casuallyprivate.com
 .python.jukejuke.app
 .pythonanswers.com
+.pythondeals.com
 .pythontesthelp.top
 .pythoschid.pro
 .pytuzeo.com
@@ -130957,6 +131028,7 @@
 .qelapio.com
 .qelemmedatechnologies.com
 .qelqlunebz.com
+.qelvaykmkqroo.top
 .qemataltamayoz.com
 .qemuzii.pro
 .qenidau.com
@@ -131536,6 +131608,7 @@
 .quantumai-canada-app.com
 .quantumai3.com
 .quantumaiappai.com
+.quantumaieliteapp.com
 .quantumalrex800.com
 .quantumalrexai.com
 .quantumbeacon.site
@@ -132071,7 +132144,6 @@
 .qxfly.com
 .qxhspimg.com
 .qxjdlf.com
-.qxlejekibi.com
 .qxozluyvvyabw.online
 .qxrbu.com
 .qxwls.rocks
@@ -133256,6 +133328,7 @@
 .rbpd.com
 .rbpsh.ru
 .rbqcg6g.de
+.rbqfprbbtwgej.online
 .rbqv91egxy.com
 .rbrightscarletcloaksan.org
 .rbrotator.ru
@@ -133448,7 +133521,6 @@
 .reactivationabonnement.fr
 .reactive-network.net
 .reactive-network.org
-.reactivemanagepymntsystemiaengiwjeiwegw.gererherhrthjw4t5haewrg.biz.id
 .reactjspdf.com
 .reactlyzfl.com
 .reactlyzz.com
@@ -133962,6 +134034,7 @@
 .recordercourseheavy.com
 .recorderstruggling.com
 .recordinal.com
+.recordmeteo.com
 .recordnetcom.112.2o7.net
 .recordonlinecom.112.2o7.net
 .records-spank.gl.at.ply.gg
@@ -134920,6 +134993,7 @@
 .remisesprive.fr
 .remission.tv.gg
 .remisstracesexplain.com
+.remitido.com
 .remittanceadvisoryhub.pages.dev
 .remittancesonline.com
 .remix.ddns.net
@@ -137355,6 +137429,7 @@
 .robuxfree.co
 .robuxhelp.com
 .robuxtools.me
+.robuxyzafree.edu.pl
 .robv25.oss-ap-southeast-1.aliyuncs.com
 .roby-casinos.fr
 .robycasinos.fr
@@ -138614,7 +138689,6 @@
 .rtpliveop.com
 .rtplivetren.com
 .rtpmilan69c.com
-.rtpneraca69.site
 .rtppesgslot.net
 .rtpsayangbudi.com
 .rtpslotdewi.com
@@ -139088,6 +139162,7 @@
 .rybicone.com
 .rybowyy.com
 .rychlezpravy24.info
+.rydiwbmmxv.com
 .rydopye.top
 .rydresa.info
 .ryduvou0.pro
@@ -142212,6 +142287,7 @@
 .secccureeptd.weebly.com
 .seccerices.pro
 .secciondecancelacionsv.firebaseapp.com
+.secdayzzy.top
 .secdevzz.com
 .seceruty-general.rumahweb.org
 .secffkc.weebly.com
@@ -144302,6 +144378,7 @@
 .set-up-ledgsdelifld.webflow.io
 .set-upstart-l-edger--auth.webflow.io
 .set.page
+.setacard.com
 .setanuevoscarrosok.live
 .setapp.ink
 .setateknik.com
@@ -145238,7 +145315,6 @@
 .shbzngs.cn
 .shbznkj.cn
 .shbzogs.cn
-.shbzokj.cn
 .shbzpgs.cn
 .shbzqgs.cn
 .shbzqkj.cn
@@ -146029,6 +146105,7 @@
 .shwfxrbsrifhx.online
 .shxinjie.cn
 .shy-boat-90ce.jiko728928922.workers.dev
+.shy-devourer-4051.typedream.app
 .shy-hall-61d1.06xh4v0c1c.workers.dev
 .shyajio.com
 .shydastidu.com
@@ -146345,6 +146422,7 @@
 .sihygoe.com
 .sii85wel.today
 .siinco.com
+.siiville.com
 .sijq1m7wknt6g.life
 .sikandergroup.eu
 .sikeday1.pro
@@ -147598,6 +147676,7 @@
 .slimingsewans.com
 .slimsawfish.pro
 .slimsdisgi.pro
+.slimsons.com
 .slimspots.com
 .slimthatwaist.com
 .slimytree.com
@@ -147629,6 +147708,7 @@
 .sloeri.com
 .slog.sina.cn
 .slog.sina.com.cn
+.slogui.com
 .sloi1.com
 .sloks.bubbleapps.io
 .slomanidjassa.firebaseapp.com
@@ -147840,6 +147920,7 @@
 .smartchainsys.firebaseapp.com
 .smartchainsys.web.app
 .smartcj.com
+.smartclickr.com
 .smartclip.com
 .smartcloudnetwork.com
 .smartcommunity.net
@@ -148677,6 +148758,7 @@
 .snizhenie-vesa.ru
 .snjaskoeka.com
 .snjfasp.com
+.snjuyxiogfde.com
 .snkaleuwarmorms.com
 .snkcahterdmn.com
 .snklaswskowi.com
@@ -150561,6 +150643,7 @@
 .sphayer66jugaru2.duckdns.org
 .spheredkapas.com
 .spherefusionx.com
+.sphericalproposal.pro
 .sphixa.com
 .sphygdisch.pro
 .sphygsoffi.pro
@@ -151245,6 +151328,7 @@
 .sqlmysqldk.com
 .sqlnatflw.com
 .sqlrayz.com
+.sqlrayzz.top
 .sqlreactzq.com
 .sqlserver-qa.net
 .sqm.telemetry.microsoft.com
@@ -151293,6 +151377,7 @@
 .squid.adart.cc
 .squid.antevo.com.au
 .squigglyindustry.pro
+.squigglyproduct.pro
 .squilcontr.pro
 .squilincon.pro
 .squindlewarp.ru
@@ -151718,6 +151803,7 @@
 .stable-yield-boost.com
 .stable-yield-boost.net
 .stablebitcap.net
+.stablebitcapapp.com
 .stablebitfunds.com
 .stablecapitalmax.com
 .stablecapitalpro.net
@@ -151799,6 +151885,7 @@
 .staging.securenetworks.pk
 .stagingground.net
 .stagingjobshq.com
+.stagingsvs.com
 .stagitridu.pro
 .staiderkha.com
 .staidlycaffoy.com
@@ -153629,7 +153716,6 @@
 .stevedimatteo.com
 .stevehassanali-ukopportunity.com
 .stevengood.com
-.stevenklloyd.com
 .stevenlf.com
 .stevenmyersphotography.com
 .stevensandersmd.com
@@ -154391,6 +154477,7 @@
 .strusopusc.pro
 .strvvmpu.com
 .sts-utpl-edu-ec-adfs.weebly.com
+.stscczovfaipx.website
 .stsdk.vivo.com.cn
 .stsdk.vivoglobal.com
 .stsnews.com
@@ -155403,6 +155490,7 @@
 .supertraderappai.com
 .supertrist.pro
 .supertura.com
+.superug.com
 .supervisionbasketinhuman.com
 .supervisortoplessstyle.com
 .superwebhosting4u.info
@@ -156424,6 +156512,7 @@
 .switchhiprex70.com
 .switchhiprex80041.com
 .switchhiprex800x.com
+.switchhiprex800xapp.com
 .switchhiprex81v8x.com
 .switchhiprexai.com
 .switchhiprexai.net
@@ -158014,6 +158103,7 @@
 .tbao684tryo.com
 .tbaocdn.com
 .tbaovn-cms.top
+.tbasior.com
 .tbaytel-updatenewdate23.square.site
 .tbaytellcommunication.weebly.com
 .tbaytelserivcess.weebly.com
@@ -159728,6 +159818,7 @@
 .theapple.site
 .theashishchauhan.com
 .theater21.com
+.theaterarcane.com
 .theatetruths.com
 .theatreworkshops.fr
 .theaubergroup.zmailcloud.com
@@ -160077,6 +160168,7 @@
 .themodshop.ca
 .themoneytizer.com
 .themoneytizer.fr
+.themontessorileader.com
 .themorrisonwedding.com
 .themortgageadvisorguy.com
 .themostreading.pro
@@ -160328,6 +160420,7 @@
 .thestreamingbook.com
 .thesupplychainstrategist.com
 .thesweet-alchemist.com
+.thesydneyroofdoctor.com
 .thesyedgroup.com
 .theta-drenoxe.com
 .theta.sogoucdn.com
@@ -161749,7 +161842,6 @@
 .todlfdjw.godaddysites.com
 .todlht-xnm.rocks
 .todoapk.net
-.todoarmarios.top
 .todocalefactores.top
 .todocercas.com
 .todohornos.top
@@ -161916,6 +162008,7 @@
 .tomfilfb.duckdns.org
 .tomfordchaussures.fr
 .tomikuji.com
+.tomizizingeel.net
 .tomladvert.com
 .tomlldahehun.org
 .tomlyonaya-smorodina.com
@@ -162456,6 +162549,7 @@
 .toring.m6.uk.cc
 .toriny.top
 .torioluor.com
+.torismkaliningrad.online
 .toriva.top
 .torivame.top
 .torjackan.info
@@ -162550,12 +162644,14 @@
 .totalgravura.md
 .totalhealths.online
 .totalizator.info
+.totalkitchen.online
 .totalkleeninfo.com
 .totalmedia2.ynet.co.il
 .totalmedicaltourism.com
 .totalmindsolutions.com
 .totalnewslive.com
 .totaloil-gas.com
+.totalproperty.online
 .totalpropertycare.ae
 .totalqt.xyz
 .totalrealestate.online
@@ -164034,6 +164130,7 @@
 .tradingepic.com
 .tradingexpo.net
 .tradingfx.net
+.tradingneurale.com
 .tradingnow.tech
 .tradingview.little-mouse.xyz
 .tradingviewprime.com
@@ -164691,6 +164788,7 @@
 .trendingcourse.com
 .trendingdailyinsight.com
 .trendinghotnews.click
+.trendingnewsonline.online
 .trendingnewstidings.com
 .trendingnewstv.com
 .trendingpatrol.com
@@ -165444,6 +165542,7 @@
 .truthwave.cfd
 .trutilitypartners.com
 .truviana.info
+.truzeebe.online
 .trvdp.com
 .trvstrattendrms.world
 .trwedqsafewss.epizy.com
@@ -167051,6 +167150,7 @@
 .uid.mediacorp.sg
 .uid.metadsp.co.uk
 .uid.pmi4-g8sd.com
+.uidevzz.top
 .uideyw.weebly.com
 .uidhealth.com
 .uidhhiduhkier.space
@@ -167100,7 +167200,6 @@
 .uiysbadge.info
 .uiysfr-espace.com
 .uiysfrance.com
-.uiystelepeage.com
 .uiytrygyu.pages.dev
 .uizjfyakmsawn.site
 .uj244k.de
@@ -169642,6 +169741,7 @@
 .uxdayzz.com
 .uxfcjhvkw62wxjhsn72wutht-udtjywrjtyj8wyeg.teemill.com
 .uxfixzz.com
+.uxfixzz.top
 .uxflowz.com
 .uxfmuptkvsqvj.com
 .uxhubzz.com
@@ -169833,6 +169933,7 @@
 .vaavroomoutdoors.com
 .vaay.ru
 .vabawyy.info
+.vabejao1.pro
 .vaboz.icu
 .vacade.com
 .vacanceespagne.fr
@@ -170127,6 +170228,7 @@
 .vanishmemory.com
 .vanisistru.pro
 .vanisoftware.com
+.vanitoryitchiness.com
 .vankillianinc.com
 .vanmay.net
 .vanmay.win
@@ -170441,6 +170543,7 @@
 .ve-caribe.webcindario.com
 .ve-lkjhgfdertyuijkhgfdwertyhnexecvbnmiuyrewrtyuiklrbose-wa.pages.dev
 .ve.harmonixdemo.com
+.vealbkvvorarz.top
 .vealetrupp.pro
 .vealsithe.com
 .veasf.cn
@@ -171231,6 +171334,7 @@
 .vfcv-cb28d.web.app
 .vfegqmbcgyndw.today
 .vfghd.com
+.vfgjzkrchtdaj.space
 .vfgte.com
 .vfhdg.milanm.com
 .vfjbsbxoqgdeayhu.com
@@ -171611,6 +171715,7 @@
 .videocrash.ru
 .videocrypto.com
 .videodownloadconverter.com
+.videoeditingforbeginners.com
 .videoegg.com
 .videoevents.outbrain.com
 .videofaceb0okplus.tumblr.com
@@ -172203,6 +172308,7 @@
 .viralvideotrending.com
 .viralvids.info
 .vircom.cz
+.vireelvon.com
 .virellonexa.com
 .virements-sepa.fr
 .virements-sg.fr
@@ -172349,6 +172455,7 @@
 .visioneavanzata.com
 .visionfiles.com
 .visiongrade.com
+.visionhiprex.com
 .visionmarketer.com
 .visionmp.live
 .visionschools.org
@@ -172512,6 +172619,7 @@
 .vivart.com
 .vivatads.ru
 .vivatruck.eu
+.vivaurban.lat
 .vivaz-store.com
 .vivekwp.com
 .vivemejor.org
@@ -173415,7 +173523,6 @@
 .vstsample.com
 .vstwm.com
 .vsx.hotpornfile.org
-.vt.cncarn9.sa.com
 .vt10.com
 .vtabnalp.net
 .vtalkindia.com.impossibleindia.com
@@ -173635,6 +173742,7 @@
 .vwff.fr
 .vwioxxra.com
 .vwkhdi.cn
+.vwkmjhoqcwfsg.site
 .vwldz.face-book.cc
 .vwlooljp.com
 .vwonwkaqvq-a.global.ssl.fastly.net
@@ -173958,7 +174066,6 @@
 .walker-reiss.de
 .walkers-dot-composite-store-326315.uk.r.appspot.com
 .walkhadrianswallpath.com
-.walkin-store.net
 .walkinbathtubinstallers.com
 .walkinsonbeer.click
 .walkintubbaid.com
@@ -174845,7 +174952,6 @@
 .web.w300.vhostgo.com
 .web.wlphelp.top
 .web.xbvhelp.top
-.web.xohhelp.top
 .web.xvbhelp.top
 .web.ydhjs4.top
 .web0.eu
@@ -176416,6 +176522,7 @@
 .wffbdim.com
 .wffnhpcsenwviw.com
 .wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
+.wfhahspcye.com
 .wfijsc.xyz
 .wfix.com
 .wfjkzgbcjnezi.fun
@@ -177032,6 +177139,7 @@
 .wiercommercialconstruction.myportfolio.com
 .wiese-tradeix-ai.com
 .wiesespark.cyou
+.wiesetradeixapp.com
 .wiessman.fr
 .wieszakiozdobne.com
 .wietgram.com
@@ -177080,6 +177188,7 @@
 .wijnavoqca.com
 .wijvziputcul.com
 .wijwunrcoo.com
+.wikarabit.com
 .wikgojdk.bar
 .wiki.byt3x.top
 .wiki4iot.eu
@@ -177494,6 +177603,7 @@
 .winrar.monstervp.com
 .winrefresh.com
 .winrownurseries.com
+.winrtphere.com
 .winsbank.io
 .winservicesconsole.duckdns.org
 .winshare0901.mywire.org
@@ -177511,6 +177621,7 @@
 .winstore.us
 .winsuv.com
 .wintap.io
+.wintarixsisapp.com
 .winter-fillow.blogspot.com
 .winter-numerous-bolt.glitch.me
 .winter-outlet.fr
@@ -177562,6 +177673,7 @@
 .wirecomic.com
 .wiredforcoffee.com
 .wireeohospitality.com
+.wirehousefreshnews.com
 .wirelesskinect.com
 .wirelessvalentineday.com
 .wirelessvoicebtmailinfoplay0144.weebly.com
@@ -178239,6 +178351,7 @@
 .workspaces1345.weeblysite.com
 .workstations.pl
 .worktanter.pro
+.worktimetrack.com
 .workwontloveyouback.net
 .world-2012.info
 .world-claim.org
@@ -178318,7 +178431,6 @@
 .worldtxix.top
 .worldusa.com
 .worldvaluation.com
-.worldview360.info
 .worldviewbooks.com
 .worldwide-cash.net
 .worldwide-contributor.gl.at.ply.gg
@@ -180552,6 +180664,7 @@
 .xn--actualitzaciwebdegencat-hjc.weebly.com
 .xn--adminiistracin-xob.weebly.com
 .xn--albilet-b9a.pl-oferta3452784.pl
+.xn--albilet-b9a.pl-oferta7217591.top
 .xn--albilet-b9a.pl-oferta8978707.top
 .xn--albilet-b9a.pl-oferta982671.pl
 .xn--allyspin-casin-job.fr
@@ -181158,7 +181271,6 @@
 .xxi.ss.la
 .xxinealonbd.webcindario.com
 .xxivzamarra.shop
-.xxjfbm-v6d-sv47--3-8bf.rogerss.site
 .xxju61.hbg.hebdenbridgedental.co.uk
 .xxkhh.com
 .xxlargepop.com
@@ -181454,6 +181566,7 @@
 .yak.auclantis.com
 .yak.flutterblog.net
 .yak.gregsullivan.com
+.yakgexurp.com
 .yakimacabinets.com
 .yakimavalleykennelclub.com
 .yakmakhond.top
@@ -181566,7 +181679,6 @@
 .ybhyziittfg.com
 .ybjjr.com
 .yboyx.cn
-.ybpaykjd.com
 .ybrantdigital.com
 .ybrjz.com
 .ybs.51haoyayi.cn
@@ -181802,6 +181914,7 @@
 .ygto.com
 .ygunoiunommiurynfuup.com
 .ygvqughn.com
+.ygytagwykabfst.com
 .yh-07-vinted.pages.dev
 .yh-metals.com
 .yh.lol
@@ -181987,6 +182100,7 @@
 .ylscmihqxrrda.global
 .ylt6ffg2.square.site
 .ylunion.com
+.yluougjuhasyhr.com
 .ylx-1.com
 .ylx-2.com
 .ylx-3.com
@@ -182894,7 +183008,6 @@
 .zachandblue.com
 .zacharryblogs.com
 .zaciwii.com
-.zackerybennett.com
 .zacleporis.com
 .zacovou.pro
 .zaczaraowane-ogrody.com
@@ -184585,6 +184698,7 @@
 .zzmyw.com
 .zzppmwsuejdnfjg.weebly.com
 .zzpxw.cn
+.zzqolojveoozq.top
 .zzqyniagpyt.com
 .zzsdjq.com
 .zzsno1.com

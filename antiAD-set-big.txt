@@ -1,9 +1,9 @@
-# Version: 202507220620
+# Version: 202507220819
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 200025
-# Last modified: 2025-07-22T06:20:12+0000
+# Entries: 200058
+# Last modified: 2025-07-22T08:19:43+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -2842,6 +2842,7 @@
 .38941752.xyz
 .38d9cb358a39997f9864cecf832b8d58884a6e067d.nuid.imrworldwide.com
 .38ds89f8.de
+.38e8d251.burna.pages.dev
 .38fbsbhhg0702m.shop
 .38gmail.com
 .38pension.com
@@ -23739,6 +23740,7 @@
 .auth.be.sec.miui.com
 .auth.com-web.net
 .auth.gl-gaming.com
+.auth.ptcalendar.click
 .auth.silk-gen.com
 .auth1061.exvhelp.top
 .auth20-outlook.web.app
@@ -30026,6 +30028,7 @@
 .bkyplumbing.myportfolio.com
 .bkzojuncitbqa.space
 .bl-fb-drosan-tvn24.co
+.bl-fb-krytol-tvn24.co
 .bl-fb-mirkon-tvn24.co
 .bl-fb-zelwik-tvn24.co
 .bl.flirthits.com
@@ -40975,6 +40978,7 @@
 .cixompoqpbgh.com
 .cixonbaseprologin.gitbook.io
 .ciyejmogsxnefypiwpew.com
+.ciyimaze.com
 .cizion.com
 .cizmining.com
 .cj05364.tw1.ru
@@ -41126,6 +41130,7 @@
 .clarity-zone.info
 .clarity.abacast.com
 .clarity.ms
+.clarityacademy.site
 .clarityaction.info
 .claritybeam.cfd
 .claritybond.pro
@@ -41544,6 +41549,7 @@
 .click2sell.eu
 .click360.fr
 .click360v2-ingest.azurewebsites.net
+.click3visionconnect.store
 .click4.chinaliftoff.io
 .click4.pro
 .click4chatting.com
@@ -58425,6 +58431,7 @@
 .dropper-refactor-staging.web.app
 .droppii-int.com
 .dropsammem.pro
+.dropshield.sbs
 .dropshippingtoday.com
 .dropskinz.net
 .dropspam.com
@@ -68023,6 +68030,7 @@
 .fgoten-mole.web.app
 .fgpejmtfpdtcs.com
 .fgridluffer.top
+.fgrink.lat
 .fgrupli.nyc3.digitaloceanspaces.com
 .fgs-100900.weeblysite.com
 .fgs.niarn.org
@@ -72824,6 +72832,7 @@
 .furykms.com
 .furyprosecutionkitchen.com
 .furzetshi.com
+.fus2ionfastfusion.store
 .fus4ioncloudsystem.store
 .fusao-ingressos.com
 .fuse-cloud.com
@@ -73248,6 +73257,7 @@
 .g6857531263715.activehosted.com
 .g6857531278659.activehosted.com
 .g6fitness.com
+.g6lobalclickbyte.online
 .g6pif96t9reul.jhycbhe.es
 .g6tk.com
 .g7-chauffeur.fr
@@ -74045,6 +74055,7 @@
 .gasprofitt.com
 .gasprojectfunding.com
 .gasrefineryinvest.com
+.gasreturnfund.com
 .gasrising.com
 .gasrtpug.com
 .gassaintre.pro
@@ -76289,6 +76300,7 @@
 .globalforwardingleadscount.weebly.com
 .globalfus9iontrack.space
 .globalfxcs.net
+.globalglobalsm4art.online
 .globalgrainsadf.com
 .globalgymnastics.co
 .globalheuristics.com
@@ -79054,6 +79066,7 @@
 .groupevl.ca
 .groupfind.net
 .groupfrancegff.com
+.groupgls-global.icu
 .grouphappy.com
 .groupian.io
 .groupiklan.com
@@ -84154,6 +84167,7 @@
 .hostelsarrivaportalchecksguestsup.com
 .hostelworld.world
 .hoster.bobbylevin.com
+.hosterchecker.com
 .hosterroundcubz.s3.cubbit.eu
 .hostgrater.com
 .hostify.fr
@@ -99705,6 +99719,7 @@
 .laurynaspakalnis.com
 .lautaitai.com
 .lautoentreprise.fr
+.lavaloop.ink
 .lavamedia.vn
 .lavande-coinpulse-app.com
 .lavande-coinpulse.com
@@ -100143,6 +100158,7 @@
 .learnaboutsemenax.com
 .learned-frg.surge.sh
 .learnedmarket.com
+.learnelevate.site
 .learnemoaning.cyou
 .learnenglishkz.com
 .learnfirsthand.com
@@ -109466,6 +109482,7 @@
 .mediad.co.jp
 .mediad2.jp
 .mediaday.org
+.mediadirectne1xt.store
 .mediadstream.com
 .mediae.pl
 .mediaevent.az
@@ -109507,6 +109524,7 @@
 .mediamarkt.luckwhirl.com
 .mediamaster-pt.com
 .mediamatters.112.2o7.net
+.mediame6diasystem.space
 .mediametrics.mpsa.com
 .mediamgr.ugo.com
 .mediamodern.biz
@@ -109524,6 +109542,7 @@
 .mediaplazza.com
 .mediaplex.fr
 .mediaport.ua
+.mediaprimeconnect.space
 .mediaprivatelock.start.page
 .mediapush1.com
 .mediaregad.hit.gemius.pl
@@ -109554,6 +109573,7 @@
 .mediashares.org
 .mediaskieszon.biz
 .mediast.eu
+.mediastartclick.store
 .mediastartclou6d.space
 .mediatakeout.s3.amazonaws.com
 .mediatescarf.com
@@ -114503,6 +114523,7 @@
 .moviesflix4k.xyz
 .moviesguy.de
 .movieshowz.com
+.moviesowner.cfd
 .moviesprofit.com
 .moviestarplanethacks.pl
 .moviestopia.com
@@ -119325,6 +119346,7 @@
 .nextgenwindowfilms.com
 .nexthop.click
 .nextime.top
+.nextintellect.site
 .nextlevel4.top
 .nextlevelfinance.com
 .nextlevellacrosse.com
@@ -121458,6 +121480,7 @@
 .novarefluxen.com
 .novarixinversores.net
 .novarixtrader39flexapp.com
+.novasecuresystem.online
 .novaseekers.com
 .novashopfrance.fr
 .novashr.com
@@ -134829,6 +134852,7 @@
 .postergaleria.chh.pl
 .postergaleria.pl
 .postesfrig.pro
+.postf4usiontrend.space
 .postfproge.pro
 .postfscopp.pro
 .postfusion0group.space
@@ -153821,6 +153845,7 @@
 .secondary-with.com
 .secondarybirchslit.com
 .secondchancecoaching.com
+.secondfig.click
 .secondhandfall.com
 .secondjav128.fun
 .secondome.com
@@ -165979,6 +166004,7 @@
 .steelixr.live
 .steellionfish.pro
 .steelmaiden.com
+.steelment.my
 .steeltuatara.pro
 .steemcommnnity.com
 .steemcommunity.aiq.ru
@@ -168161,6 +168187,7 @@
 .supersonicads-a.akamaihd.net
 .supersonicads.com
 .supersoppi.pro
+.supersprig.pro
 .supersquac.pro
 .superstarpanda.com
 .superstarved.com
@@ -169686,6 +169713,7 @@
 .sysphoparkcon1970.blogspot.be
 .sysreadmincs.ddns.net
 .syst-suplinnes.ddns.net
+.syst3emdatavision.online
 .syst3emlogicmedia.space
 .syst8emclicklogic.space
 .systcisd.ddnsking.com
@@ -176000,6 +176028,7 @@
 .touchier.info
 .touchnsearch.com
 .touchoshirase.net
+.touchrep.lat
 .touchstonesinvestments.com
 .touchswitchshop.com
 .touchtacchi.net
@@ -178389,6 +178418,7 @@
 .trendsfreshnews.pro
 .trendsharks.com
 .trendstyles.click
+.trendsys9temlink.space
 .trendtastic-prism.net
 .trendtastic-prismapp.com
 .trendtasticprismapp.com
@@ -186868,6 +186898,7 @@
 .visionmediapo2st.online
 .visionmp.live
 .visionpulsemedi1a.store
+.visions4tartload.online
 .visionschools.org
 .visionsecureinformationoralertlogin.weebly.com
 .visionsfalrt.firebaseapp.com
@@ -186878,6 +186909,7 @@
 .visiontech.org.in
 .visionupcodex.com
 .visionvelvet.co
+.visionverse.site
 .visionxlens.com
 .visioplast.pro
 .visiorando.fr
@@ -199680,6 +199712,7 @@
 .zssdi.it
 .zsszestvkl.rev.cl
 .zstcyektvaoug.online
+.zstreamg.lat
 .zsv.soundestlink.com
 .zsxmbra.weebly.com
 .zszhfffyd.ru

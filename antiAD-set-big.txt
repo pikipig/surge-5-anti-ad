@@ -1,9 +1,9 @@
-# Version: 202507230319
+# Version: 202507230519
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 200340
-# Last modified: 2025-07-23T03:19:40+0000
+# Entries: 200351
+# Last modified: 2025-07-23T05:19:45+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -77434,6 +77434,7 @@
 .golem-network.com
 .golemcoin.net
 .golesay.com
+.golf-cart-fan.xyz
 .golf-gti.be
 .golfcarsdubai.com
 .golfcartlaws.com
@@ -88561,6 +88562,7 @@
 .in-mum-m11.icewarpcloud.in
 .in-page-push.com
 .in-page-push.net
+.in-pos-logowaniem.cfolks.pl
 .in-post.shop
 .in-weather.com
 .in.beizhoujt.cn
@@ -137151,6 +137153,7 @@
 .promoted.soundcloud.com
 .promotelocalbusiness.com
 .promotion-en.xmeye.net
+.promotion-partner.kuaishou.com
 .promotion-quicker.jftechsoft.com
 .promotion.gomlab.com
 .promotion.haravan.com
@@ -175241,13 +175244,21 @@
 .tnbvendormanagement.com
 .tnc-boot.capcutapi.com
 .tnc-sg.capcutapi.com
+.tnc0-aliec2.zijieapi.com
+.tnc0-alisc1.zijieapi.com
+.tnc0-bjlgy.zijieapi.com
 .tnc16-alisg.isnssdk.com
 .tnc16-useast1a.isnssdk.com
 .tnc3-aliec2.bytedance.com
+.tnc3-aliec2.snssdk.com
 .tnc3-aliec2.toutiaoapi.com
+.tnc3-aliec2.zijieapi.com
 .tnc3-alisc1.bytedance.com
+.tnc3-alisc1.snssdk.com
+.tnc3-alisc1.toutiaoapi.com
 .tnc3-alisc1.zijieapi.com
 .tnc3-bjlgy.bytedance.com
+.tnc3-bjlgy.snssdk.com
 .tnc3-bjlgy.toutiaoapi.com
 .tnc3-bjlgy.zijieapi.com
 .tncrun.net

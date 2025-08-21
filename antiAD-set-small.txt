@@ -1,9 +1,9 @@
-# Version: 202508210820
+# Version: 202508211056
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 45202
-# Last modified: 2025-08-21T08:20:24+0000
+# Entries: 45170
+# Last modified: 2025-08-21T10:56:26+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -377,6 +377,7 @@
 .1bm3n8sld.de
 .1buo.icu
 .1c0c3fde9d.com
+.1c6fd11ca2.com
 .1c8c1287bc.com
 .1ca6e3e357.a8ca394de0.com
 .1cbd637d10.2c8eb505eb.com
@@ -1706,7 +1707,6 @@
 .9a4f937e0f.com
 .9a71b08258.com
 .9a8f641701.com
-.9a9d9862ae.1c6fd11ca2.com
 .9aad7115.amy.gs
 .9adbbad978.com
 .9ads.mobi
@@ -1864,7 +1864,6 @@
 .a.mfcad.net
 .a.mktw.net
 .a.mobify.com
-.a.moninas.store
 .a.mx.go-srv.com
 .a.mystr1.xyz
 .a.nowscore.com
@@ -6137,7 +6136,6 @@
 .antiblinked.com
 .antiblockseries.ru
 .antibot.me
-.antickslinters.world
 .anticksrinkite.shop
 .anticodistretto.com
 .anticosm.com
@@ -6544,7 +6542,6 @@
 .appzery.com
 .apqchxhjdcudb.online
 .apqqwpshxpgaq.xyz
-.apqxfvnorubuf.site
 .aprilads.space
 .aprilxnet4.xyz
 .apritifka.click
@@ -6587,7 +6584,6 @@
 .aqle3.com
 .aqnazbbjlezqa.top
 .aqnjhyohrfu.com
-.aqoyvemgfxamkb.com
 .aqpmljbvacbpi.space
 .aquabibuncoy.top
 .aquentlytujim.com
@@ -6664,7 +6660,6 @@
 .areelektrosstor.com
 .arenitezill.com
 .arepushedadorn.com
-.aresfreyja.shop
 .arewdandily.rest
 .arfobkorfa.com
 .argenabovethe.com
@@ -7251,7 +7246,6 @@
 .avoihyfziwbn.com
 .avorgy3431.fun
 .avouchuramil.com
-.avouterfewter.shop
 .avpayments.com
 .avramstroy.ru
 .avroad3431.fun
@@ -7677,7 +7671,6 @@
 .balili2024.top
 .balitipelt.shop
 .ballardvaagmar.shop
-.balldomdossels.shop
 .ballismupbay.shop
 .ballotjavgg124.fun
 .balluterelais.rest
@@ -12587,7 +12580,6 @@
 .cxsh.cn.com
 .cxtukitrtydm.com
 .cxuapz.xyz
-.cxvsermlepcod.site
 .cxy88.friok.com
 .cxzygwseuwnii.website
 .cyan92010.com
@@ -18107,7 +18099,6 @@
 .flarby.com
 .flash.sec.intl.miui.com
 .flashb.id
-.flashlytoman.digital
 .flashnetic.com
 .flashstats.libsyn.com
 .flashtalking.com
@@ -18307,7 +18298,6 @@
 .footholdmummifytwig.com
 .foothopathewely.com
 .footingtrustworthynominal.com
-.footlogbehoof.click
 .footnote.com
 .footprintstopic.com
 .footy.to
@@ -18317,7 +18307,6 @@
 .foramsthene.com
 .foranetter.com
 .forarchenchan.com
-.forayerepigram.cfd
 .forazelftor.com
 .forbidcrenels.com
 .forcefulpacehauled.com
@@ -20828,7 +20817,6 @@
 .hindsightloyalmeter.com
 .hingleroofsge.org
 .hinkhimunpract.org
-.hinkjqkjvoija.website
 .hinsiptoagausoh.net
 .hip-97166b.com
 .hipals.com
@@ -21516,7 +21504,6 @@
 .ibwvky.icu
 .ibyrwvi.cn
 .ic7.co
-.icafzttxirztu.space
 .icalnormaticalacyc.info
 .icandotech.in
 .icatethebenefits.com
@@ -21726,7 +21713,6 @@
 .illishrastus.com
 .illogicalinvitationexaltation.com
 .illscript.com
-.illumecraked.top
 .illuminateinconveniencenutrient.com
 .illuminatelocks.com
 .illusivecleavepsychopath.com
@@ -22621,7 +22607,6 @@
 .jaqvwdzjuhebs.site
 .jaredfishify.shop
 .jareedcokie.cyou
-.jarewhaulra.com
 .jargveurtocja.world
 .jarldommarges.rest
 .jarsfulerenow.com
@@ -24033,7 +24018,6 @@
 .latentdesert.com
 .latest-news.pro
 .lathesfeoffee.qpon
-.latinosvesting.rest
 .latinwayy.com
 .lator308aoe.com
 .latrinehelves.com
@@ -26790,6 +26774,7 @@
 .mongoose.thechocolatelife.com
 .mongrelonsetstray.com
 .monhax.com
+.moninas.store
 .monitor-ads-test.huan.tv
 .monitor-api.blackcrow.ai
 .monitor-frontend-collector.a.bybit-aws.com
@@ -28682,7 +28667,6 @@
 .ogqbkcfyvycna.space
 .ogqhalasvjh.com
 .ogvaqxjzfm-n.top
-.ogvwbovkgwyy.top
 .ogxntutl.fun
 .ogz4n3ke.xyz
 .ohadbonafz.com
@@ -28711,7 +28695,6 @@
 .oidtxjvrlckwq.space
 .oifxrhsnoyufz.space
 .oihqicgerrfoo.site
-.oilcasepalea.life
 .oilcontainsdisaster.com
 .oilycoat.com
 .oimg.nbcuni.com
@@ -30998,7 +30981,6 @@
 .pppbr.com
 .pppudnz.cam
 .pppveqnalxgdc.website
-.pprocjdaenaec.space
 .pps-log.op-mobile.opera.com
 .ppsfojtitmnux.website
 .ppshh.rocks
@@ -31064,7 +31046,6 @@
 .pre.pornuxaxa.com
 .pre4sentre8dhf.com
 .preachbacteriadisingenuous.com
-.prearmsbugbear.rest
 .prearmskabiki.com
 .prebid-dev.reworldmediafactory.com
 .prebid-log.getpublica.com
@@ -32319,7 +32300,6 @@
 .qvbnjnsodshaj.site
 .qvcnveqlnmrcg.click
 .qvdmgzzgpgrei.website
-.qvgatfcfdremf.website
 .qvglxrsojnyaz.site
 .qvid2.b-cdn.net
 .qvikar.com
@@ -33138,7 +33118,6 @@
 .rest.wildstar-online.com
 .restartad.com
 .restedconnectionsympathetic.com
-.restishypnoid.help
 .restlesscompeldescend.com
 .restorationmourn.com
 .restorepushed.com
@@ -34783,7 +34762,6 @@
 .scurra.space
 .scurrilidylian.shop
 .scutesneatest.com
-.scutesprurigo.shop
 .scvmljhzcdfyj.store
 .scyphifalsify.cyou
 .scyphoserippleepidosite.com
@@ -35721,7 +35699,6 @@
 .skunk.dwa.li
 .skunk.gameworkersolidarity.com
 .skunkedgryde.com
-.skuxeeakqdovx.site
 .skvxbool.xyz
 .skwaiebpxbbku.site
 .sky.dunsuan.com
@@ -36007,7 +35984,6 @@
 .sociomantic.com
 .socketbuild.com
 .sockjs-goguardian.pusher.com
-.socmankenlore.shop
 .sodallay.com
 .soddyjambing.cfd
 .sodefender.pro
@@ -36327,7 +36303,6 @@
 .speedtrap.shopdirect.com
 .speedybytes.cfd
 .speee-ad.akamaized.net
-.speirselicits.com
 .spelldeterrent.com
 .sperans-beactor.com
 .speraspace.com
@@ -38356,7 +38331,6 @@
 .targetyo.yogiyo.co.kr
 .tarjetarojaonline.tv
 .tarotaffirm.com
-.tarrockorphism.click
 .tarsier.emitremmus.com
 .tarsier.kriterie.se
 .tartestastound.cfd
@@ -39341,7 +39315,6 @@
 .tpcserve.com
 .tpeksbtbap.com
 .tpfjpdizmvpaz.store
-.tphrats.cyou
 .tpi-app.herokuapp.com
 .tpmedia-reactads.com
 .tpmedia.online
@@ -40176,7 +40149,6 @@
 .tripledeliveryinstance.com
 .triplewhale-pixel.web.app
 .tripsthorpelemonade.com
-.triptnantz.qpon
 .tristaspd.com
 .trisxisys.com
 .tritetongue.com
@@ -42110,7 +42082,6 @@
 .vstwm.com
 .vsx.hotpornfile.org
 .vsykigidqigxu.online
-.vsyniucsilumn.online
 .vtabnalp.net
 .vtbkhl.icu
 .vtemlrnsqozri.site
@@ -42188,7 +42159,6 @@
 .vwvatp.xyz
 .vwwydixeuufec.tech
 .vwxfxcamyhpqq.online
-.vxfgdhyjprlhx.store
 .vxo-protect.co.in
 .vxpcarcapffdp.global
 .vxpnld.icu
@@ -42911,7 +42881,6 @@
 .widgetv4.subiz.com
 .widiaoexhe.top
 .widow5blackfr.com
-.widowsliebig.shop
 .wigetmedia.com
 .wiggismporky.cfd
 .wiggly-spend.pro
@@ -44991,7 +44960,6 @@
 .zkcvb.com
 .zkieqfgsiigts.store
 .zkt0flig7.com
-.zktvdnbwroqzp.space
 .zkzenlcagknfi.world
 .zlacraft.com
 .zlaosdshglcjt.space

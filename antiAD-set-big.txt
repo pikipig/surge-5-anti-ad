@@ -1,9 +1,9 @@
-# Version: 202508252022
+# Version: 202508260020
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 200710
-# Last modified: 2025-08-25T20:22:07+0000
+# Entries: 200734
+# Last modified: 2025-08-26T00:20:00+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -2961,6 +2961,7 @@
 .3e44a5b1.adsl.enternet.hu
 .3e44a82c.adsl.enternet.hu
 .3e44bfe1.adsl.enternet.hu
+.3e6356fb.ab0f372040d17ac1297dd6a0.workers.dev
 .3e70ccb8.adsl.enternet.hu
 .3exfu7vaxu.com
 .3exterio0r.webcindario.com
@@ -14314,6 +14315,7 @@
 .alebilet.pl-oferta1427061.cfd
 .alebilet.pl-oferta16943.pl
 .alebilet.pl-oferta21410591.sbs
+.alebilet.pl-oferta34682.pl
 .alebilet.pl-oferta425139854.sbs
 .alebilet.pl-oferta4371.icu
 .alebilet.pl-oferta5089971.com
@@ -14393,6 +14395,7 @@
 .aleggsagli.pro
 .aleggtrini.pro
 .alegrameeldia.org
+.alegro-lokalnie.pl-49052-oferta.icu
 .alegrolokalnie.pl43041.cfd
 .alegroup.info
 .alegrow.com.br
@@ -14880,6 +14883,7 @@
 .allegro.pl-938842.cfd
 .allegro.pl-ofereta788542455.cfd
 .allegro.pl-oferta1427061.cfd
+.allegro.pl-oferta34682.pl
 .allegro.pl-oferta5089971.com
 .allegro.pl-oferta523921.cfd
 .allegro.pl-oferta6326635.cfd
@@ -15199,6 +15203,7 @@
 .allegrolokalnie.pl-cnt8g2ny9353noycg35.icu
 .allegrolokalnie.pl-firmowe-123.icu
 .allegrolokalnie.pl-firmowe-278.icu
+.allegrolokalnie.pl-firmowe-372.icu
 .allegrolokalnie.pl-firmowe-374.icu
 .allegrolokalnie.pl-firmowe-oferty-8817.icu
 .allegrolokalnie.pl-firmowe123.icu
@@ -15217,11 +15222,12 @@
 .allegrolokalnie.pl-oferta-id2387942371.top
 .allegrolokalnie.pl-oferta1427061.cfd
 .allegrolokalnie.pl-oferta151436884.icu
+.allegrolokalnie.pl-oferta21410159.sbs
 .allegrolokalnie.pl-oferta21410591.sbs
 .allegrolokalnie.pl-oferta217934.shop
 .allegrolokalnie.pl-oferta2813593.sbs
+.allegrolokalnie.pl-oferta34682.pl
 .allegrolokalnie.pl-oferta396941.icu
-.allegrolokalnie.pl-oferta4179440.icu
 .allegrolokalnie.pl-oferta421305.sbs
 .allegrolokalnie.pl-oferta425139854.sbs
 .allegrolokalnie.pl-oferta428091.shop
@@ -18630,6 +18636,7 @@
 .apartmentbuildingsthatoutperform.com
 .apartmentfinder.com.112.2o7.net
 .apartmentollie.com
+.apartments-leipzig.space
 .apartments-starnberg.de
 .apartmentsellerprotest.com
 .apartmenttrw.com
@@ -53487,6 +53494,7 @@
 .dergisanat.com
 .deridunpas.pro
 .derinkokkirtasiye.com
+.derinoluis.info
 .deriopdifer.de
 .derios.page.link
 .derismerce.pro
@@ -58899,6 +58907,7 @@
 .dungeonlordidle.com
 .duniadekorasi.com
 .dunivyo.com
+.duniyazx0okahona.freedynamicdns.org
 .dunkhj.top
 .dunkingmacuca.digital
 .dunktinonco.pro
@@ -80081,6 +80090,7 @@
 .gwylm.com
 .gx0.funfuckmovies.com
 .gx101.com
+.gx6n1h.sbs
 .gxayb.com
 .gxb.mmstat.com
 .gxbr.cnzz.com
@@ -132160,6 +132170,7 @@
 .pl-kategoria-inne231787346.rest
 .pl-kategoria-pontony-turystyczne-wedkarskie-kolibri-3.icu
 .pl-kategoria12746412648578712478.shop
+.pl-kategoria172841267195876124.shop
 .pl-kategoria1781528915289.shop
 .pl-kategoria1782387121287.shop
 .pl-kategoria178246145615619821467.shop
@@ -132194,6 +132205,7 @@
 .pl-kategoria879123614712.shop
 .pl-kategoria912671627841167254.shop
 .pl-kategoria93627015372.shop
+.pl-kategoria97124865723537682537.shop
 .pl-kategoria97258183616.shop
 .pl-kategorie-inne-9812.shop
 .pl-kategorie-inne-98124.rest
@@ -132237,6 +132249,7 @@
 .pl-kategorie7812371251246712.shop
 .pl-kategorie781238718723781233.shop
 .pl-kategorie7812546721246783921.shop
+.pl-kategorie7812572178591825.shop
 .pl-kategorie78126373167215.shop
 .pl-kategorie78127316267412.shop
 .pl-kategorie78127371251265.shop
@@ -132403,6 +132416,7 @@
 .pl-oferta4059941.shop
 .pl-oferta413273.icu
 .pl-oferta4177745.pl
+.pl-oferta4179440.icu
 .pl-oferta4277662.shop
 .pl-oferta43215.icu
 .pl-oferta4330509.shop
@@ -132585,6 +132599,7 @@
 .pl-oferta8867491.shop
 .pl-oferta8925846.icu
 .pl-oferta8929153.shop
+.pl-oferta89354761.icu
 .pl-oferta8942390.shop
 .pl-oferta8949730.shop
 .pl-oferta89634248347.shop
@@ -132595,6 +132610,7 @@
 .pl-oferta9219764.pl
 .pl-oferta9222928.cfd
 .pl-oferta9232388.cfd
+.pl-oferta9237192.sbs
 .pl-oferta9270318.shop
 .pl-oferta9327229.shop
 .pl-oferta9372.icu
@@ -141316,6 +141332,7 @@
 .qinuxbrizaac.net
 .qinvaris.com
 .qip.ru
+.qipa.serv00.net
 .qipim.ru
 .qipowor.com
 .qippi.com
@@ -145461,6 +145478,7 @@
 .rejectionbennetsmoked.com
 .rejfnvow.org
 .rejgroups.com
+.reji.smartpayoutsurveys.info
 .rejohiy.pro
 .rejoinedfondmurmur.com
 .rejoinex.com
@@ -174018,6 +174036,7 @@
 .they-mailed.gl.at.ply.gg
 .theyardsalestore.com
 .theyardservice.com
+.theysence.com
 .thezars.com
 .thezeitgeistreport.com
 .theziner.com
@@ -175484,6 +175503,7 @@
 .toivn.com
 .toixclketas-faceb0ok.emochila.com
 .tojah77.duckdns.org
+.tojest-krakow.pl
 .tojestto.is-best.net
 .tojinr.com
 .tojiy58335.m-pages.com
@@ -178199,6 +178219,7 @@
 .transpluri.pro
 .transpol.fr
 .transport-info.fr
+.transport-warszawski.pl
 .transportation-physically.gl.at.ply.gg
 .transportcourier.com
 .transporter-menzel.de
@@ -186876,6 +186897,7 @@
 .vintely.club
 .vinyl-casino.fr
 .vinylcasinoenligne.fr
+.vinylworkscanada.com
 .vio.kiopeut.top
 .vioclicks.com
 .vioesaetr.top
@@ -187984,6 +188006,7 @@
 .vomygie.top
 .vonaco.fr
 .vonanevynal.xyz
+.vonaro.xyz
 .vondratexapp.com
 .vonee.com
 .vongloaisieumaunhi2021vn.weebly.com
@@ -197510,6 +197533,7 @@
 .yhdhdggd979.square.site
 .yhdichan.com
 .yhegvnmjdlvrn.space
+.yhftyygljg.vercel.app
 .yhgames.com
 .yhghg.ydns.eu
 .yhgio.com

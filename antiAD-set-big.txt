@@ -1,9 +1,9 @@
-# Version: 202508261623
+# Version: 202508262022
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 201213
-# Last modified: 2025-08-26T16:23:35+0000
+# Entries: 201274
+# Last modified: 2025-08-26T20:22:44+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -13526,10 +13526,10 @@
 .aidsideused.live
 .aidsswaggertrimness.com
 .aidsvc.netflix.com
+.aiebilet.oferta-6298626.cfd
 .aiebilet.pl-ofereta788542455.cfd
 .aiebilet.pl-oferta1427061.cfd
 .aiebilet.pl-oferta214101512.sbs
-.aiebilet.pl-oferta21410159.sbs
 .aiebilet.pl-oferta21410591.sbs
 .aiebilet.pl-oferta5089971.com
 .aiebilet.pl-oferta523921.cfd
@@ -14307,6 +14307,7 @@
 .alebilet.id9898.pl
 .alebilet.in
 .alebilet.ofert969381.shop
+.alebilet.oferta-6298626.cfd
 .alebilet.oferta-981247.icu
 .alebilet.oferta-bilety-882910.shop
 .alebilet.oferta-bilety-983823.shop
@@ -14331,7 +14332,6 @@
 .alebilet.pl-oferta1427061.cfd
 .alebilet.pl-oferta16943.pl
 .alebilet.pl-oferta214101512.sbs
-.alebilet.pl-oferta21410159.sbs
 .alebilet.pl-oferta21410591.sbs
 .alebilet.pl-oferta425139854.sbs
 .alebilet.pl-oferta4371.icu
@@ -14840,10 +14840,10 @@
 .alle-financien.com
 .alle-here.web.app
 .alleasvign.pro
+.allebilet.oferta-6298626.cfd
 .allebilet.pl-ofereta788542455.cfd
 .allebilet.pl-oferta1427061.cfd
 .allebilet.pl-oferta214101512.sbs
-.allebilet.pl-oferta21410159.sbs
 .allebilet.pl-oferta21410591.sbs
 .allebilet.pl-oferta5089971.com
 .allebilet.pl-oferta523921.cfd
@@ -14884,6 +14884,7 @@
 .allegro.farmindustrymachines.com
 .allegro.hit.gemius.pl
 .allegro.iaukcje032918834.pl
+.allegro.oferta-6298626.cfd
 .allegro.oferta-981247.icu
 .allegro.pi4101410.rest
 .allegro.pl-12343124.shop
@@ -14909,7 +14910,6 @@
 .allegro.pl-ofereta788542455.cfd
 .allegro.pl-oferta1427061.cfd
 .allegro.pl-oferta214101512.sbs
-.allegro.pl-oferta21410159.sbs
 .allegro.pl-oferta21410591.sbs
 .allegro.pl-oferta5089971.com
 .allegro.pl-oferta523921.cfd
@@ -14933,10 +14933,10 @@
 .allegro.ppl-oferta-firmowa867534.icu
 .allegro.y984.rest
 .allegro168.com
+.allegrolokainie.oferta-6298626.cfd
 .allegrolokainie.pl-ofereta788542455.cfd
 .allegrolokainie.pl-oferta1427061.cfd
 .allegrolokainie.pl-oferta214101512.sbs
-.allegrolokainie.pl-oferta21410159.sbs
 .allegrolokainie.pl-oferta21410591.sbs
 .allegrolokainie.pl-oferta5089971.com
 .allegrolokainie.pl-oferta523921.cfd
@@ -14951,12 +14951,12 @@
 .allegrolokainie.pl-oferta9349475.cfd
 .allegrolokainie.pl-ofertaid08426105382634.shop
 .allegrolokainie.pl-prywatne-363.icu
+.allegrolokalne.oferta-6298626.cfd
 .allegrolokalne.pl-firmowe-818291.icu
 .allegrolokalne.pl-ofereta788542455.cfd
 .allegrolokalne.pl-oferta-455681.icu
 .allegrolokalne.pl-oferta1427061.cfd
 .allegrolokalne.pl-oferta214101512.sbs
-.allegrolokalne.pl-oferta21410159.sbs
 .allegrolokalne.pl-oferta21410591.sbs
 .allegrolokalne.pl-oferta5089971.com
 .allegrolokalne.pl-oferta523921.cfd
@@ -15118,6 +15118,7 @@
 .allegrolokalnie.kategoriav-dom-i-ogrod-57721.top
 .allegrolokalnie.kategorie-inne-239761.sbs
 .allegrolokalnie.kategorie-inne-384912.sbs
+.allegrolokalnie.kategorie-inne-456264.cyou
 .allegrolokalnie.kategorie-inne-534123.sbs
 .allegrolokalnie.kategorie-inne-538228.cyou
 .allegrolokalnie.kategorie-inne-58276344.cyou
@@ -15155,6 +15156,7 @@
 .allegrolokalnie.ochronakupujacego0382948.cfd
 .allegrolokalnie.oferta-29dg44kd93zmmrrx84ytp7.com
 .allegrolokalnie.oferta-29dj44kd93zmmrrx84ytp7.com
+.allegrolokalnie.oferta-6298626.cfd
 .allegrolokalnie.oferta-981247.icu
 .allegrolokalnie.oferta-sprzedazy.shop
 .allegrolokalnie.oferta02912834.sbs
@@ -15244,6 +15246,7 @@
 .allegrolokalnie.pl-aukcja7345119.shop
 .allegrolokalnie.pl-aukcja7429245.shop
 .allegrolokalnie.pl-cnt8g2ny9353noycg35.icu
+.allegrolokalnie.pl-ezakupy24h.sbs
 .allegrolokalnie.pl-firmowe-123.icu
 .allegrolokalnie.pl-firmowe-278.icu
 .allegrolokalnie.pl-firmowe-372.icu
@@ -15257,6 +15260,7 @@
 .allegrolokalnie.pl-id238.top
 .allegrolokalnie.pl-id3821410.icu
 .allegrolokalnie.pl-id429038.icu
+.allegrolokalnie.pl-id4578352.icu
 .allegrolokalnie.pl-id899549.top
 .allegrolokalnie.pl-kategoria7664.icu
 .allegrolokalnie.pl-kategorie-ogrod-oferty-id29838.sbs
@@ -15267,11 +15271,11 @@
 .allegrolokalnie.pl-oferta1427061.cfd
 .allegrolokalnie.pl-oferta151436884.icu
 .allegrolokalnie.pl-oferta214101512.sbs
-.allegrolokalnie.pl-oferta21410159.sbs
 .allegrolokalnie.pl-oferta21410591.sbs
 .allegrolokalnie.pl-oferta217934.shop
 .allegrolokalnie.pl-oferta258701.icu
 .allegrolokalnie.pl-oferta2813593.sbs
+.allegrolokalnie.pl-oferta359154719101.icu
 .allegrolokalnie.pl-oferta396941.icu
 .allegrolokalnie.pl-oferta421305.sbs
 .allegrolokalnie.pl-oferta425139854.sbs
@@ -15300,10 +15304,13 @@
 .allegrolokalnie.pl-oferta9349475.cfd
 .allegrolokalnie.pl-ofertaid08426105382634.shop
 .allegrolokalnie.pl-oferty-prywatne-id567.icu
+.allegrolokalnie.pl-ogloszenia-firmowe-888839231.icu
+.allegrolokalnie.pl-ogloszenie-201029293.rest
 .allegrolokalnie.pl-ogloszenie-921830.rest
 .allegrolokalnie.pl-ogloszenie-firmowe-8127.shop
 .allegrolokalnie.pl-ogloszenie-firmowe-8576.shop
 .allegrolokalnie.pl-ogloszenie-firmowe-88839993.shop
+.allegrolokalnie.pl-platnosc321836.icu
 .allegrolokalnie.pl-prywatne-363.icu
 .allegrolokalnie.pl-smartzakupy5372.shop
 .allegrolokalnie.pl-ver2196-id70456-cfi849u-cid71062.shop
@@ -34662,6 +34669,7 @@
 .buzzflash.cfd
 .buzzflying.shop
 .buzzibeass.pro
+.buzzinfohaven.com
 .buzzingbreeze.com
 .buzzingdiscrepancyheadphone.com
 .buzzingfactchecker.pro
@@ -50984,6 +50992,7 @@
 .dailyblogzz.com
 .dailyboost.life
 .dailybreadai.com
+.dailybreakingwire.pro
 .dailybuild.mozillaupdates.com
 .dailyburst.icu
 .dailyc24.com
@@ -51021,6 +51030,7 @@
 .dailyglimpseupdate.com
 .dailyhacks.net
 .dailyheadlinefeedhub.com
+.dailyheadlinefresh.com
 .dailyheadlinetopfeed.com
 .dailyhealthtips.in
 .dailyhealthvita.com
@@ -51054,6 +51064,7 @@
 .dailyniner.com
 .dailynonstop.com
 .dailyprizehub.com
+.dailypulsewireupdate.pro
 .dailyreportconnect.com
 .dailyreporthub.pro
 .dailyreporting.pro
@@ -51075,6 +51086,7 @@
 .dailyunblocker.co.cc
 .dailyupdate.click
 .dailyupdatesfuturistic.com
+.dailyvanguardflash.pro
 .dailyverifiedbulletin.pro
 .dailyvideo.securejoin.com
 .dailywebdossier.com
@@ -63423,6 +63435,7 @@
 .eradisciplinemomentary.com
 .erafterabigyello.com
 .erag.ru
+.erahods.nsfera.pl
 .eralway.com
 .eralyearsfoundherto.com
 .eramb.site
@@ -72388,6 +72401,7 @@
 .frontingur.pro
 .frontiniterrana.com
 .frontlinebulletin.pro
+.frontlinebulletinnow.pro
 .frontlineinstantfeed.pro
 .frontlinepulsewire.pro
 .frontlinesecurityservices.net
@@ -79376,6 +79390,7 @@
 .growthbuddy.app
 .growthcourse.com
 .growthfunnels.com.au
+.growthhomelessprediction.com
 .growthhub.live
 .growthpad.club
 .growthpartnersyer.pro
@@ -83335,6 +83350,7 @@
 .hm.e.shifen.com
 .hm.l.qq.com
 .hm.ru
+.hm18.cyou
 .hm8723j-com.translate.goog
 .hm99-free7apo.gift
 .hmai.jp
@@ -84824,7 +84840,6 @@
 .hsgdyq.com
 .hsjafklweqmn.click
 .hsjsn.com
-.hsjypxzx.com
 .hskj.net
 .hskujw2.com
 .hskyzvrcwbfx.firebaseapp.com
@@ -85715,7 +85730,6 @@
 .hzgenkvd.com
 .hzgf8j12.xyz
 .hzhyhm.com
-.hzjwbxg.com
 .hzlcmoheihapn.click
 .hzm6.com
 .hzminghu.com
@@ -86864,6 +86878,7 @@
 .ihighlyrecomemu.org
 .ihirehelp.com
 .ihkxhjqjfhmhtpe.com
+.ihmsxdzd.shop
 .ihmzsi.com
 .ihohopk.m-pages.com
 .iholdemanoucam.com
@@ -89528,6 +89543,7 @@
 .infoistraf.pro
 .infojunglenews.com
 .infokz.com
+.infolineaffairshub.com
 .infolinedailyupdatehub.com
 .infolinia-kontakt-telefon.pl
 .infolinkd.weebly.com
@@ -96091,6 +96107,7 @@
 .kanikamyer.com
 .kanimeospas.com
 .kanlayanee.ac.th
+.kannadavichara.com
 .kannanborewellscompany.in
 .kannbann.com
 .kanny.com.vn
@@ -97840,6 +97857,7 @@
 .kmpnytaaaqnbbbsvrrr.click
 .kmpro.org
 .kmqaek.icu
+.kmrfinwhizkpe.site
 .kmruv.cn
 .kms-auto.net
 .kms-pc.com
@@ -101192,6 +101210,7 @@
 .lerceunpre.pro
 .lerecensement.fr
 .lererikal.org
+.leressecurity.com
 .lericettedifrancy74.com
 .lerizza.com
 .lerkavifye.wixstudio.com
@@ -101503,6 +101522,7 @@
 .lfstmedia.com
 .lftcph.icu
 .lfv1zhpwz.localto.net
+.lfwbvrlzqwevp.online
 .lg-onecom-io.web.app
 .lg-signage.kz
 .lg-yetkiliservis.com
@@ -102886,6 +102906,7 @@
 .livingwest.eu
 .livingy.com
 .livix.ru
+.livizia.com
 .livoras.com
 .livraison--centre-chronopost.fr
 .livraison-chrono-maj.fr
@@ -106782,6 +106803,7 @@
 .madeforbrownskin.com
 .madehimalowbo.com
 .madeiaceto.pro
+.madeidssopra.de
 .madeinchinko1.duckdns.org
 .madeinchinko2.duckdns.org
 .madeinci.ci
@@ -118343,6 +118365,7 @@
 .nekenearsten.firebaseapp.com
 .nekenearsten.web.app
 .nekopic.info
+.nekpepvp.shop
 .nekretninejovanovic.com
 .neks.eu
 .neladyhe.com
@@ -124195,6 +124218,7 @@
 .olimpinton.pro
 .olimpodocce.com
 .olineman.pro
+.olinffo.x7zrah.lat
 .olingerphoto.com
 .olininicot.pro
 .oliprklism.pro
@@ -124305,6 +124329,7 @@
 .olx.line-track.store
 .olx.markede-de4.com
 .olx.nowoczesnaplatforma24efektywnyprzelew.icu
+.olx.oferta-6298626.cfd
 .olx.oferta-981247.icu
 .olx.oferta8489365.cfd
 .olx.pl-1239.cfd
@@ -124333,15 +124358,16 @@
 .olx.pl-aukcja7391.icu
 .olx.pl-aukcja7429245.shop
 .olx.pl-cnt8g2ny9353noycg35.icu
+.olx.pl-ezakupy24h.sbs
 .olx.pl-firmowe-854951.icu
 .olx.pl-id3821410.icu
 .olx.pl-id429038.icu
+.olx.pl-id4578352.icu
 .olx.pl-id519715.icu
 .olx.pl-id926712.icu
 .olx.pl-ofereta788542455.cfd
 .olx.pl-oferta1427061.cfd
 .olx.pl-oferta214101512.sbs
-.olx.pl-oferta21410159.sbs
 .olx.pl-oferta21410591.sbs
 .olx.pl-oferta258701.icu
 .olx.pl-oferta5089971.com
@@ -124353,6 +124379,7 @@
 .olx.pl-oferta78851522.cfd
 .olx.pl-oferta78851524.cfd
 .olx.pl-oferta8349.cfd
+.olx.pl-oferta875882334.cfd
 .olx.pl-oferta87765782.cfd
 .olx.pl-oferta8785243242.cfd
 .olx.pl-oferta8875757325.cfd
@@ -124360,6 +124387,7 @@
 .olx.pl-oferta9349475.cfd
 .olx.pl-ofertaid08426105382634.shop
 .olx.pl-ogloszenie-921830.rest
+.olx.pl-platnosc321836.icu
 .olx.pl-prywatne-363.icu
 .olx.pl-redirect-app-13563.cfd
 .olx.pl-smartzakupy5372.shop
@@ -130365,6 +130393,7 @@
 .perfectedperspectives.com
 .perfectedsecurity.com
 .perfectfeednews.com
+.perfectfeedofday.pro
 .perfectgrandmother.com
 .perfecthedgehog.pro
 .perfecthubnews.com
@@ -131918,6 +131947,7 @@
 .pinkysplash.pro
 .pinnaclestudio.ru
 .pinnaclewink.pro
+.pinnaeseemers.cfd
 .pinnexirax.pro
 .pinniped.quarantinecup.live
 .pinniped.resist.bot
@@ -132614,6 +132644,7 @@
 .pl-oferta-753256.top
 .pl-oferta-75635.rest
 .pl-oferta-758861-prywatna.cfd
+.pl-oferta-785291-prywatna.cfd
 .pl-oferta-8303618.cfd
 .pl-oferta-843259.top
 .pl-oferta-850632.icu
@@ -132671,6 +132702,7 @@
 .pl-oferta2102454.pl
 .pl-oferta2109574.icu
 .pl-oferta2111585.shop
+.pl-oferta21410159.sbs
 .pl-oferta2235154.shop
 .pl-oferta2251674.icu
 .pl-oferta22948349093.sbs
@@ -132685,6 +132717,7 @@
 .pl-oferta2432933.shop
 .pl-oferta2453498.shop
 .pl-oferta2546631.shop
+.pl-oferta2553508.sbs
 .pl-oferta2567807.icu
 .pl-oferta2654432.shop
 .pl-oferta26928.pl
@@ -132694,6 +132727,7 @@
 .pl-oferta2784529.shop
 .pl-oferta28367.icu
 .pl-oferta2837.icu
+.pl-oferta285851.icu
 .pl-oferta293832795956.sbs
 .pl-oferta2947430260.icu
 .pl-oferta2951194.icu
@@ -132706,6 +132740,7 @@
 .pl-oferta3489.icu
 .pl-oferta3642127.shop
 .pl-oferta3658971.shop
+.pl-oferta3660179.shop
 .pl-oferta3745.icu
 .pl-oferta3767447.shop
 .pl-oferta3769751.icu
@@ -132750,6 +132785,7 @@
 .pl-oferta4824213159.sbs
 .pl-oferta4866305.icu
 .pl-oferta5065432.cfd
+.pl-oferta5069720.cfd
 .pl-oferta5095356.shop
 .pl-oferta5182631.shop
 .pl-oferta5202863.shop
@@ -132790,6 +132826,7 @@
 .pl-oferta648278315.shop
 .pl-oferta6542763.sbs
 .pl-oferta65483.rest
+.pl-oferta6601349.cfd
 .pl-oferta6638753.shop
 .pl-oferta6650166.cfd
 .pl-oferta6670794.shop
@@ -132799,6 +132836,7 @@
 .pl-oferta6842051.shop
 .pl-oferta6859469.shop
 .pl-oferta6894958.com
+.pl-oferta697376.icu
 .pl-oferta697841.icu
 .pl-oferta700981.icu
 .pl-oferta7032999.shop
@@ -132942,6 +132980,7 @@
 .pl-oferta97431.pl
 .pl-oferta9775559.cfd
 .pl-oferta98273.pl
+.pl-oferta9827420.icu
 .pl-oferta9839162.pl
 .pl-oferta98438.icu
 .pl-oferta98589984317.shop
@@ -132988,6 +133027,7 @@
 .pl-ogloszenie-02940492.rest
 .pl-ogloszenie-029409509.top
 .pl-ogloszenie-0495409670.cfd
+.pl-ogloszenie-202392023.shop
 .pl-ogloszenie-2049340598.cfd
 .pl-ogloszenie-43265.icu
 .pl-ogloszenie-7762435.sbs
@@ -141887,6 +141927,7 @@
 .qq937.com
 .qqbqy.com
 .qqdata.ab.qq.com
+.qqdbhywkinhck.com
 .qqdwz.com
 .qqeadugfccgya.space
 .qqfzn.com
@@ -142939,6 +142980,7 @@
 .qyber-earnz.net
 .qyberearnz.net
 .qyberflynt.net
+.qybofae.com
 .qyctj.com
 .qyczmtalenlnc.store
 .qydeqao.com
@@ -144203,6 +144245,7 @@
 .raucousgimbals.shop
 .raufkhalid.com
 .rauma-update.weebly.com
+.raumfine.com
 .raumobjektgruppe.de
 .raunapropo.pro
 .raunasubbe.com
@@ -144862,6 +144905,7 @@
 .reasonal.co
 .reasonforbeauty.com
 .reasoninstruct.com
+.reasontopicsflow.com
 .reasscrutc.pro
 .reassnonim.pro
 .reasssball.pro
@@ -144873,6 +144917,7 @@
 .reatwithdifyferuk.org
 .reauksoffyrikm.com
 .reauthenticator.com
+.rebaskero.com
 .rebay.it
 .rebeandtulipindia.com
 .rebearmisaver.shop
@@ -149384,6 +149429,7 @@
 .rootderideflex.com
 .rootgaleincome.com
 .rootgaleincome.net
+.roothaicagrouhu.net
 .rootio.com
 .rootivache.pro
 .rootizen.com
@@ -155625,7 +155671,6 @@
 .sentiotradeai.com
 .sentiotradeai.net
 .sento.122.2o7.net
-.sentosanursingrecruitment.com
 .sentraco.com
 .sentrequil.pro
 .sentrol.cl
@@ -167663,6 +167708,7 @@
 .stroim-dom45.ru
 .strojnasilownieplvenumca.cc
 .strokesystem.com
+.strolldownstairstelegram.com
 .stromdottr.pro
 .stromectol-ivermectin.net
 .stromectol.us.com
@@ -175329,6 +175375,7 @@
 .tioreboubo1987.blogspot.be
 .tipanddonation.com
 .tipdoktoru.com
+.tipdrains.cfd
 .tipfun.com
 .tipicgrovi.pro
 .tipizcostr.pro
@@ -176422,6 +176469,7 @@
 .topicnewsblog.com
 .topicsdailyfedd.com
 .topicsdailyhub.com
+.topictopyes.pro
 .topictorch.com
 .topictv.com.de
 .topicza.com
@@ -178994,6 +179042,7 @@
 .trendinformatica.eu
 .trendingcourse.com
 .trendingcurrentscene.com
+.trendingdailynewshub.com
 .trendingdigesttoday.com
 .trendingnewsnow.pro
 .trendingnewstv.com
@@ -181126,6 +181175,7 @@
 .u15838okb.ha002.t.justns.ru
 .u19.ru
 .u19kt.codesandbox.io
+.u1ndaa.cyou
 .u1ywmv.blow.harrisretreat.com
 .u1zga.letsporn.com
 .u21drwj6mp.com
@@ -181182,6 +181232,7 @@
 .u896.weekand.com
 .u8ad.com
 .u8karkeeu2qtj.life
+.u8livb.top
 .u8qp.com
 .u927.sfgate.com
 .u9988.rently.com
@@ -186051,6 +186102,7 @@
 .verified-page-trust-boost-l3.vercel.app
 .verified-violation.github.io
 .verified-youraccount2nd.start.page
+.verifiednewsburstalert.pro
 .verifiedpoints.weebly.com
 .verifiedtrending.pro
 .verifiepost.firebaseapp.com
@@ -187314,6 +187366,7 @@
 .vintedspf.shop
 .vintedsph.shop
 .vintedsphj.shop
+.vintedstb.shop
 .vintedverification.com
 .vintedvim1.shop
 .vintedza.app
@@ -187995,6 +188048,7 @@
 .vkgtrack.com
 .vki.vipcentr.ru
 .vkinndex.webservis.ru
+.vkjiwgmipziva.space
 .vkjtxvurread.com
 .vklljvmqekvl.top
 .vklljvzzeavl.top
@@ -188782,6 +188836,7 @@
 .vroupama.fr
 .vrouwsnozi.rest
 .vrqdzfzzlyalb.space
+.vrr-gooo.digital
 .vrrlon.digital
 .vrs.cz
 .vrshop.digital
@@ -192776,6 +192831,7 @@
 .willidisgr.pro
 .williednb.com
 .willingcowbell.com
+.willinglybasketball.com
 .willinglybytedelusion.com
 .willingnesssituated.com
 .willowbrookdorset.com
@@ -194041,6 +194097,7 @@
 .worldeducationtranscript.com
 .worldexpiration.help
 .worldfoodscience.com
+.worldforclimate.net
 .worldgenerator.su
 .worldhack.net
 .worldhealthorg.com
@@ -194089,6 +194146,7 @@
 .worldwide-contributor.gl.at.ply.gg
 .worldwide.sogou.com
 .worldwidecurrentnews.com
+.worldwidefeednew.com
 .worldwidefreightco.com
 .worldwidehacking.com
 .worldwideheadliners.pro
@@ -196577,10 +196635,10 @@
 .xn--aal-hzcb14l.xn--c-0mb77a.95163.prosoapehoteluri.ro
 .xn--aal-zedbr.xn--om-nmc.theloftwarehouse.com
 .xn--actualitzacidecorreuelectrnicdegencatweb-k3d1a.weebly.com
+.xn--albilet-b9a.oferta-6298626.cfd
 .xn--albilet-b9a.pl-ofereta788542455.cfd
 .xn--albilet-b9a.pl-oferta1427061.cfd
 .xn--albilet-b9a.pl-oferta214101512.sbs
-.xn--albilet-b9a.pl-oferta21410159.sbs
 .xn--albilet-b9a.pl-oferta21410591.sbs
 .xn--albilet-b9a.pl-oferta5089971.com
 .xn--albilet-b9a.pl-oferta523921.cfd
@@ -197193,6 +197251,7 @@
 .xvxvxemail.weebly.com
 .xvzcfh.xyz
 .xvzyyzix.com
+.xw3zjp.skin
 .xwa8flt6o.jp
 .xweblaxbwsinuji.com
 .xwebmail-stuserbu.vercel.app
@@ -197973,6 +198032,7 @@
 .ygjdfc.cn
 .ygkswbscgvukj.space
 .ygmkcuj3v.com
+.ygmzqrhc.info
 .ygncvlnvzvsco.website
 .ygtfrdjxwcf6shgxfs0kcjhm1b-j6uwysgcfjxokhbnvfgehj.teemill.com
 .ygunoiunommiurynfuup.com
@@ -200650,6 +200710,7 @@
 .zonsingise.com
 .zonst.com
 .zontelorix.com
+.zonter-3valmi.digital
 .zontera.com
 .zonto.shop
 .zontqiwjmdzbv.space

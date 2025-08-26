@@ -1,9 +1,9 @@
-# Version: 202508260020
+# Version: 202508260319
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 200734
-# Last modified: 2025-08-26T00:20:00+0000
+# Entries: 200780
+# Last modified: 2025-08-26T03:19:58+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -13518,12 +13518,16 @@
 .aidsvc.netflix.com
 .aiebilet.pl-ofereta788542455.cfd
 .aiebilet.pl-oferta1427061.cfd
+.aiebilet.pl-oferta214101512.sbs
+.aiebilet.pl-oferta21410159.sbs
 .aiebilet.pl-oferta21410591.sbs
 .aiebilet.pl-oferta5089971.com
 .aiebilet.pl-oferta523921.cfd
 .aiebilet.pl-oferta6326635.cfd
 .aiebilet.pl-oferta78851522.cfd
 .aiebilet.pl-oferta78851524.cfd
+.aiebilet.pl-oferta87765782.cfd
+.aiebilet.pl-oferta8785243242.cfd
 .aiebilet.pl-oferta8875757325.cfd
 .aiebilet.pl-oferta888755424.cfd
 .aiebilet.pl-oferta9349475.cfd
@@ -14314,6 +14318,8 @@
 .alebilet.pl-ofereta788542455.cfd
 .alebilet.pl-oferta1427061.cfd
 .alebilet.pl-oferta16943.pl
+.alebilet.pl-oferta214101512.sbs
+.alebilet.pl-oferta21410159.sbs
 .alebilet.pl-oferta21410591.sbs
 .alebilet.pl-oferta34682.pl
 .alebilet.pl-oferta425139854.sbs
@@ -14331,6 +14337,8 @@
 .alebilet.pl-oferta8349.cfd
 .alebilet.pl-oferta8467139251.icu
 .alebilet.pl-oferta85210.icu
+.alebilet.pl-oferta87765782.cfd
+.alebilet.pl-oferta8785243242.cfd
 .alebilet.pl-oferta8875757325.cfd
 .alebilet.pl-oferta888755424.cfd
 .alebilet.pl-oferta90909.icu
@@ -14822,12 +14830,16 @@
 .alleasvign.pro
 .allebilet.pl-ofereta788542455.cfd
 .allebilet.pl-oferta1427061.cfd
+.allebilet.pl-oferta214101512.sbs
+.allebilet.pl-oferta21410159.sbs
 .allebilet.pl-oferta21410591.sbs
 .allebilet.pl-oferta5089971.com
 .allebilet.pl-oferta523921.cfd
 .allebilet.pl-oferta6326635.cfd
 .allebilet.pl-oferta78851522.cfd
 .allebilet.pl-oferta78851524.cfd
+.allebilet.pl-oferta87765782.cfd
+.allebilet.pl-oferta8785243242.cfd
 .allebilet.pl-oferta8875757325.cfd
 .allebilet.pl-oferta888755424.cfd
 .allebilet.pl-oferta9349475.cfd
@@ -14883,12 +14895,16 @@
 .allegro.pl-938842.cfd
 .allegro.pl-ofereta788542455.cfd
 .allegro.pl-oferta1427061.cfd
+.allegro.pl-oferta214101512.sbs
+.allegro.pl-oferta21410159.sbs
 .allegro.pl-oferta34682.pl
 .allegro.pl-oferta5089971.com
 .allegro.pl-oferta523921.cfd
 .allegro.pl-oferta6326635.cfd
 .allegro.pl-oferta78851522.cfd
 .allegro.pl-oferta78851524.cfd
+.allegro.pl-oferta87765782.cfd
+.allegro.pl-oferta8785243242.cfd
 .allegro.pl-oferta8875757325.cfd
 .allegro.pl-oferta888755424.cfd
 .allegro.pl-oferta9349475.cfd
@@ -14905,12 +14921,16 @@
 .allegro168.com
 .allegrolokainie.pl-ofereta788542455.cfd
 .allegrolokainie.pl-oferta1427061.cfd
+.allegrolokainie.pl-oferta214101512.sbs
+.allegrolokainie.pl-oferta21410159.sbs
 .allegrolokainie.pl-oferta21410591.sbs
 .allegrolokainie.pl-oferta5089971.com
 .allegrolokainie.pl-oferta523921.cfd
 .allegrolokainie.pl-oferta6326635.cfd
 .allegrolokainie.pl-oferta78851522.cfd
 .allegrolokainie.pl-oferta78851524.cfd
+.allegrolokainie.pl-oferta87765782.cfd
+.allegrolokainie.pl-oferta8785243242.cfd
 .allegrolokainie.pl-oferta888755424.cfd
 .allegrolokainie.pl-oferta9349475.cfd
 .allegrolokainie.pl-ofertaid08426105382634.shop
@@ -14919,12 +14939,16 @@
 .allegrolokalne.pl-ofereta788542455.cfd
 .allegrolokalne.pl-oferta-455681.icu
 .allegrolokalne.pl-oferta1427061.cfd
+.allegrolokalne.pl-oferta214101512.sbs
+.allegrolokalne.pl-oferta21410159.sbs
 .allegrolokalne.pl-oferta21410591.sbs
 .allegrolokalne.pl-oferta5089971.com
 .allegrolokalne.pl-oferta523921.cfd
 .allegrolokalne.pl-oferta6326635.cfd
 .allegrolokalne.pl-oferta78851522.cfd
 .allegrolokalne.pl-oferta78851524.cfd
+.allegrolokalne.pl-oferta87765782.cfd
+.allegrolokalne.pl-oferta8785243242.cfd
 .allegrolokalne.pl-oferta888755424.cfd
 .allegrolokalne.pl-oferta9349475.cfd
 .allegrolokalne.pl-ofertaid08426105382634.shop
@@ -15222,6 +15246,7 @@
 .allegrolokalnie.pl-oferta-id2387942371.top
 .allegrolokalnie.pl-oferta1427061.cfd
 .allegrolokalnie.pl-oferta151436884.icu
+.allegrolokalnie.pl-oferta214101512.sbs
 .allegrolokalnie.pl-oferta21410159.sbs
 .allegrolokalnie.pl-oferta21410591.sbs
 .allegrolokalnie.pl-oferta217934.shop
@@ -15244,6 +15269,8 @@
 .allegrolokalnie.pl-oferta78851524.cfd
 .allegrolokalnie.pl-oferta846477597.cfd
 .allegrolokalnie.pl-oferta8626219632.icu
+.allegrolokalnie.pl-oferta87765782.cfd
+.allegrolokalnie.pl-oferta8785243242.cfd
 .allegrolokalnie.pl-oferta888755424.cfd
 .allegrolokalnie.pl-oferta923042.icu
 .allegrolokalnie.pl-oferta9273.icu
@@ -56508,6 +56535,7 @@
 .dms.fx678.com
 .dms.xuexxing.com
 .dmsik.com
+.dmskmf.gratkinki.ru
 .dmsktmld.com
 .dmsllp.com
 .dmsocialspy.com
@@ -90883,6 +90911,7 @@
 .interiorchalk.com
 .interiordream.pl
 .interioroli.com
+.interioruse.com
 .interipome.pro
 .interkredyty.pl
 .interland.122.2o7.net
@@ -124072,6 +124101,8 @@
 .olx.pl-id926712.icu
 .olx.pl-ofereta788542455.cfd
 .olx.pl-oferta1427061.cfd
+.olx.pl-oferta214101512.sbs
+.olx.pl-oferta21410159.sbs
 .olx.pl-oferta21410591.sbs
 .olx.pl-oferta5089971.com
 .olx.pl-oferta523921.cfd
@@ -124082,6 +124113,8 @@
 .olx.pl-oferta78851522.cfd
 .olx.pl-oferta78851524.cfd
 .olx.pl-oferta8349.cfd
+.olx.pl-oferta87765782.cfd
+.olx.pl-oferta8785243242.cfd
 .olx.pl-oferta8875757325.cfd
 .olx.pl-oferta888755424.cfd
 .olx.pl-oferta9349475.cfd
@@ -132308,9 +132341,11 @@
 .pl-oferta-53285.icu
 .pl-oferta-543856.sbs
 .pl-oferta-63486.sbs
+.pl-oferta-66053.shop
 .pl-oferta-74654.top
 .pl-oferta-753256.top
 .pl-oferta-75635.rest
+.pl-oferta-758861-prywatna.cfd
 .pl-oferta-8303618.cfd
 .pl-oferta-843259.top
 .pl-oferta-850632.icu
@@ -132383,6 +132418,7 @@
 .pl-oferta2546631.shop
 .pl-oferta2567807.icu
 .pl-oferta2654432.shop
+.pl-oferta26928.pl
 .pl-oferta2693800.shop
 .pl-oferta2732646.cfd
 .pl-oferta2756783.cfd
@@ -132493,6 +132529,7 @@
 .pl-oferta6842051.shop
 .pl-oferta6859469.shop
 .pl-oferta6894958.com
+.pl-oferta697841.icu
 .pl-oferta700981.icu
 .pl-oferta7032999.shop
 .pl-oferta7069474.shop
@@ -132506,6 +132543,7 @@
 .pl-oferta746598.com
 .pl-oferta747184.cfd
 .pl-oferta74817489.cfd
+.pl-oferta74823.pl
 .pl-oferta7500835.sbs
 .pl-oferta751223.icu
 .pl-oferta7521.icu
@@ -132566,6 +132604,7 @@
 .pl-oferta8463294835.shop
 .pl-oferta84635427654.com
 .pl-oferta846792521892.shop
+.pl-oferta847.pl
 .pl-oferta8471840.cfd
 .pl-oferta8472947.cfd
 .pl-oferta84818492.cfd
@@ -145478,7 +145517,6 @@
 .rejectionbennetsmoked.com
 .rejfnvow.org
 .rejgroups.com
-.reji.smartpayoutsurveys.info
 .rejohiy.pro
 .rejoinedfondmurmur.com
 .rejoinex.com
@@ -145731,6 +145769,7 @@
 .remarkabletrogon.pro
 .remarkablycommunity.com
 .remarkedoneoftheo.org
+.remaskoline.cc
 .remasriabb.pro
 .remax.talkdrawer.com
 .remb.org
@@ -176366,6 +176405,7 @@
 .tourindia.in
 .touringfewsome.rest
 .tourismes2.ddns.net
+.tourismplacesinkerala.com
 .touristbaconwrath.com
 .touristfuel.com
 .touristsinn.com
@@ -184063,6 +184103,7 @@
 .uvttof.top
 .uvuschofi.pro
 .uvwnkmf.icu
+.uvxgsqdv.shop
 .uvyuqzx.cn
 .uw-uphholddfllosing.godaddysites.com
 .uw9377.com
@@ -195125,6 +195166,7 @@
 .xejower.pro
 .xel-xel-fie.com
 .xelaouad.ddns.net
+.xelavo.xyz
 .xeldorsaldo.net
 .xelesex.top
 .xelirionn.com
@@ -196130,6 +196172,8 @@
 .xn--actualitzacidecorreuelectrnicdegencatweb-k3d1a.weebly.com
 .xn--albilet-b9a.pl-ofereta788542455.cfd
 .xn--albilet-b9a.pl-oferta1427061.cfd
+.xn--albilet-b9a.pl-oferta214101512.sbs
+.xn--albilet-b9a.pl-oferta21410159.sbs
 .xn--albilet-b9a.pl-oferta21410591.sbs
 .xn--albilet-b9a.pl-oferta5089971.com
 .xn--albilet-b9a.pl-oferta523921.cfd
@@ -196139,6 +196183,8 @@
 .xn--albilet-b9a.pl-oferta7198639.top
 .xn--albilet-b9a.pl-oferta78851522.cfd
 .xn--albilet-b9a.pl-oferta78851524.cfd
+.xn--albilet-b9a.pl-oferta87765782.cfd
+.xn--albilet-b9a.pl-oferta8785243242.cfd
 .xn--albilet-b9a.pl-oferta8875757325.cfd
 .xn--albilet-b9a.pl-oferta888755424.cfd
 .xn--albilet-b9a.pl-oferta9349475.cfd

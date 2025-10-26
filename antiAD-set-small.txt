@@ -1,9 +1,9 @@
-# Version: 202510260820
+# Version: 202510261158
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 47414
-# Last modified: 2025-10-26T08:20:40+0000
+# Entries: 47365
+# Last modified: 2025-10-26T11:58:27+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1092,7 +1092,6 @@
 .57883.net
 .579eede9ca.com
 .5812afc7cb.com
-.58686728.xyz
 .58745.clicknplay.to
 .58rfnch2yq.com
 .58shuz.com
@@ -3497,6 +3496,7 @@
 .ads-server.mxplay.com
 .ads-service.api.linkme.global
 .ads-sg.tiktok.com
+.ads-static.conde.digital
 .ads-static.recon.com
 .ads-thanhnien-vn.cdn.ampproject.org
 .ads-tracking.collectiveaudience.co
@@ -4677,7 +4677,6 @@
 .afzueoruiqlx.online
 .agaarvusbarpp.space
 .agaenteitor.com
-.agagolemon.com
 .againandagain.biz
 .againboundless.com
 .againdivine.com
@@ -4823,7 +4822,6 @@
 .aifolr.com
 .aigfednd.icu
 .aigletfriuli.com
-.aigneloa.com
 .aiharsoreersu.net
 .aiiirwciki.com
 .aikat-vim.com
@@ -4958,7 +4956,6 @@
 .aktivator-windows10.blogspot.com
 .akucord.com
 .akuhni.by
-.akuleamazona.shop
 .akupmhxbzdhau.space
 .akusherok.ru
 .akutapro.com
@@ -5329,7 +5326,6 @@
 .amidoxytabagie.casa
 .amillionads.com
 .amindedtallero.click
-.amjknftppxtd.com
 .amjoltiktor.com
 .aml.valuecommerce.com
 .amlumineona.com
@@ -5402,7 +5398,6 @@
 .amusingsnow.pro
 .amvbwleayvabj.top
 .amvbwleayvoba.top
-.amvbwlerkyejb.top
 .amwatching.com
 .amwgisnagixqe.store
 .amwoukrkskillso.com
@@ -6644,7 +6639,6 @@
 .arid-smell.pro
 .aridianhiatus.cyou
 .ariessifts.click
-.arightdaturic.shop
 .ariotgribble.com
 .arithmeticrobust.com
 .arithpouted.com
@@ -8669,7 +8663,6 @@
 .blushingbackup.com
 .blusterflintbig.com
 .blusterhawspontaneous.com
-.blwqcufrbzjym.space
 .blwviknoqfpij.online
 .blypesusanne.help
 .blyqvidllwukv.website
@@ -10312,7 +10305,6 @@
 .cedricfaces.shop
 .cedrt6.pro
 .cee1.iteye.com
-.ceegsowfry.com
 .ceerrvzdgucqs.online
 .cef7cb85aa.com
 .cefazaaycjdqi.store
@@ -11636,7 +11628,6 @@
 .concludelivingshowman.com
 .concord.systems
 .concurfortunes.com
-.conde.digital
 .condemnfundraiserjune.com
 .conditioneavesdroppingbarter.com
 .condles-temark.com
@@ -14084,7 +14075,6 @@
 .dalestretching.com
 .dalethsplicae.website
 .dalfmidewin.shop
-.dalfpejqutg.com
 .dallavel.com
 .daly2024.com
 .dalyio.com
@@ -15518,7 +15508,6 @@
 .dppzmgxpxwnnk.space
 .dprivatedquali.org
 .dprptfbtilpmp.site
-.dpseympatijgpaw.com
 .dpsq2uzakdgqz.cloudfront.net
 .dpssevgyylnkh.site
 .dpst35vkvd2u3.cloudfront.net
@@ -15529,7 +15518,6 @@
 .dpuz3hexyabm1.cloudfront.net
 .dpvztnqfkmlbs.store
 .dpxadf.icu
-.dpxbxhqx.net
 .dq06u9lt5akr2.cloudfront.net
 .dq3yxnlzwhcys.cloudfront.net
 .dq95d35.com
@@ -16131,7 +16119,6 @@
 .ea5s00h6oo.com
 .eaagzbrscgtzw.space
 .eaaratte.net
-.eac0823ca94e3c07.com
 .eacdn.com
 .each-access.com
 .each-surgery.pro
@@ -16419,7 +16406,6 @@
 .eewhapseepoo.net
 .eeyuchkookier.com
 .eezauroaac.com
-.eezegrip.net
 .ef-dongfeng.tanx.com
 .ef.fanatical.com
 .ef.futuroscope.com
@@ -17623,7 +17609,6 @@
 .f5e52969d7.com
 .f5fb2e203c.com
 .f5ff45b3d4.com
-.f62b2a8ac6.com
 .f65e53278b.com
 .f680e0bdca.com
 .f703.twincities.com
@@ -18038,8 +18023,6 @@
 .ffswithabras.com
 .fft.delovoemesto.ru
 .fftwljklhkigm.site
-.fgeivosgjk.com
-.fghjpxqwpwlug.website
 .fgip.rosehosting.com
 .fgjaelzvzxtdq.rocks
 .fgk-jheepn.site
@@ -19064,7 +19047,6 @@
 .fvvyndmujhviq.store
 .fvxemeqkmkmox.site
 .fvziwdycvudxd.tech
-.fwarvgktcq.com
 .fwbntw.com
 .fwcavwstvmekw.online
 .fwciiqsskqyih.site
@@ -19817,6 +19799,7 @@
 .globalinteractive.com
 .globalismedia.com
 .globaloffers.link
+.globalservices.conde.digital
 .globaltakeoff.net
 .globaltraffico.com
 .globalwoldsinc.com
@@ -20426,9 +20409,7 @@
 .gsp1.baidu.com
 .gspkethascafr.online
 .gspubterc.site
-.gsqwjyws.com
 .gsrctroclqloz.tech
-.gssfbchkisidg.com
 .gsspat.jp
 .gsspcln.jp
 .gsurl.in
@@ -20610,7 +20591,6 @@
 .gw.wifey.com
 .gwallet.com
 .gwbone-cpw.today
-.gwdhbowgiiuww.site
 .gwithearama.org
 .gwithearamajo.org
 .gwlrbbtxmguuz.today
@@ -20943,7 +20923,6 @@
 .hcntfxihubqde.website
 .hctkpfwgbobyz.site
 .hcubjomholwda.online
-.hcustqsrachmm.space
 .hcxjxdmopkbft.space
 .hcyrwitdvlznv.store
 .hcytmigfgeshu.store
@@ -21275,7 +21254,6 @@
 .hippobulse.com
 .hiprofitnetworks.com
 .hipub.hiwit.org
-.hirurdou.net
 .hisisathlle.com
 .histats.com
 .histi.co
@@ -21673,7 +21651,6 @@
 .hsmehkdosatlz.space
 .hsnskx.care
 .hsosldhfbjtss.website
-.hstsmkwrzx.com
 .hsvgxmljiaoob.fun
 .hsvtdj.top
 .htajztellrgmu.space
@@ -23430,7 +23407,6 @@
 .jitterspauperusher.com
 .jitterystation.com
 .jiuyic.top
-.jiwtwaogh.com
 .jixdwtlveqhrl.online
 .jixurt.icu
 .jizzarchives.com
@@ -23834,7 +23810,6 @@
 .juvenilesoftlysoda.com
 .juveniletennis.com
 .juxpdnekqdmka.space
-.juxqriyjqbz.com
 .juyacwujaednv.com
 .juywkhbpmswmq.website
 .jvlrcbfxijxgk.store
@@ -24001,7 +23976,6 @@
 .kbygma.icu
 .kbylvuaxsrtoi.site
 .kbzevgvukgueg.store
-.kbzrymmgfsimc.space
 .kc3mmffdbt.com
 .kccmesbbwdvbr.space
 .kcdnbeczdhqea.space
@@ -26239,13 +26213,11 @@
 .lvvbqeaqvrmvy.top
 .lvwytobyemady.online
 .lvyowwkqevjm.top
-.lvyrokjbvverj.top
 .lvyrokjbvvoor.top
 .lvyrokjljvbvk.top
 .lvyrokjljvqrm.top
 .lvyvxkmvrjrul.online
 .lw.musictarget.com
-.lwadkefvusresjw.com
 .lwadm.com
 .lwdblrksolqvt.store
 .lwdfqzckybcsl.online
@@ -26325,7 +26297,6 @@
 .lzpiozkcngklw.site
 .lzqmjakbblvlq.top
 .lzqmjakbblzlv.top
-.lzqmjakwllwry.top
 .lzvwybvvyrqyk.top
 .lzvwybvzmrvbq.top
 .lzvwybvzmrvyk.top
@@ -27360,7 +27331,6 @@
 .misaglam.com
 .misav.sbs
 .misc.api.snaptube.app
-.miscalculatesuccessiverelish.com
 .miscellaneousfloraprosecutor.com
 .misdatedesmid.world
 .miserable-physical.com
@@ -28752,7 +28722,6 @@
 .nhcgucgrsnupg.online
 .nheopaobzlrqc.site
 .nhgpidvhdzm.vip
-.nhgqvqfwb.com
 .nhkstivqaqwvz.store
 .nhlrspxvdmuea.site
 .nhqkijpqeguuh.store
@@ -29570,7 +29539,6 @@
 .oda.markitondemand.com
 .odakhzdbrzbny.website
 .odalrevaursartu.net
-.odapsautsie.com
 .odb.outbrain.com
 .odbsmbtdcjuzp.site
 .oddgate.com
@@ -29854,7 +29822,6 @@
 .omomku7r4n3vo55rp5k.xyz
 .omoonsih.net
 .omoscmh.studio
-.ompdzjlsiqmlv.site
 .ompe2.7u6h8.xyz
 .omphacyyolk.shop
 .omqdqupnwbqow.space
@@ -32547,7 +32514,6 @@
 .prx.wayfair.com
 .prxuapqwdrdin.website
 .pryingcavemen.cfd
-.prylmgvesdsm.com
 .pryqzoejbfxro.store
 .ps1.reallifecam.to
 .ps2.camcaps.to
@@ -32846,7 +32812,6 @@
 .pushadvert.bid
 .pushaffiliate.net
 .pushagim.com
-.pushamir.com
 .pushance.com
 .pushatomic.com
 .pushazam.com
@@ -33167,7 +33132,6 @@
 .qerkbejkbqojj.top
 .qernnbahzjdjf.online
 .qesrnpogpignd.store
-.qetacmekjf.com
 .qeugcdcjr000.fun
 .qevseeymcpxby.click
 .qeyeaglxcfpvi.space
@@ -33395,7 +33359,6 @@
 .qualifyheartily.com
 .qualitiessnoutdestitute.com
 .quality-traffic.com
-.qualityadverse.com
 .qualitydestructionhouse.com
 .qualizebruisi.org
 .quangcao.24h.com.vn
@@ -34266,7 +34229,6 @@
 .reportwest-midas.codmwest.com
 .reposerversor.click
 .repoundgaumish.help
-.representhostilemedia.com
 .reproio.com
 .reprtqemdf.com
 .reptile.o-lit.fr
@@ -35509,7 +35471,6 @@
 .rxzefz.icu
 .ryapalta.com
 .ryaqlybvobjw.top
-.ryaqlywkolkq.top
 .rydresa.info
 .ryepcqrlebdxd.website
 .ryevvglciwjxz.site
@@ -40826,7 +40787,6 @@
 .touslygreys.world
 .touvxlii.top
 .tovbus.cn
-.tovespiquener.com
 .tovfgweccuhdw.space
 .towmfs.com
 .townrusisedpriva.org
@@ -40844,7 +40804,6 @@
 .tpbid.com
 .tpc.googlesyndication-cn.com
 .tpcserve.com
-.tpdcttrrbwizd.store
 .tpfjpdizmvpaz.store
 .tpfoyllqpudvs.space
 .tpi-app.herokuapp.com
@@ -41124,7 +41083,6 @@
 .track.sunmedia.tv
 .track.taimi.com
 .track.tel1mekar.com
-.track.tenjin.com
 .track.thebase.in
 .track.thefunpost.com
 .track.tomwx.net
@@ -42395,7 +42353,6 @@
 .ukankingwithea.com
 .ukbanners.com
 .ukconomouswom.org
-.ukcxfuplkmixq.site
 .ukedrevenue.com
 .ukegpnsbemegy.store
 .ukenthascaptureu.com
@@ -42751,7 +42708,6 @@
 .up-banner.wavecdn.net
 .up-hl.3g.qq.com
 .up.admoxi.com
-.upacrlrjucyx.net
 .upajstaevojkf.website
 .upalytics.com
 .uparceuson.com
@@ -44538,7 +44494,6 @@
 .wgoto.xyz
 .wgvmzdmasfoyu.store
 .wgvqa.club
-.wgwiylazhokva.website
 .wgzaprexwmzki.site
 .whackclumsiness.com
 .whackedburdon.com
@@ -45125,7 +45080,6 @@
 .wqq881m8uwq1k5m-4p7lv7.xyz
 .wqtfijyhoppfk.website
 .wqtpdbegijbuz.website
-.wqufszwc.com
 .wqvwqxstgqjyk.fun
 .wqwoynnxgujac.online
 .wqzqoobqpubx.com
@@ -45293,7 +45247,6 @@
 .wxsnsad.tc.qq.com
 .wxsnsdy.tc.qq.com
 .wxsnsdythumb.wxs.qq.com
-.wxsyspqxdddrb.com
 .wxx776sxqk.com
 .wxxjvvnetyomm.website
 .wxynyij.icu
@@ -46666,7 +46619,6 @@
 .yntherplunge.com
 .yntvrgqkwlwag.site
 .ynurfigldblbt.online
-.ynusrfcfba.com
 .ynvtepiimtshs.store
 .ynzhby.com
 .yoads.net
@@ -46815,7 +46767,6 @@
 .ytqvuq.icu
 .ytroytj33.fun
 .ytseotpnuzrdc.site
-.yttompthree.com
 .ytv7335mt.com
 .ytvpxycvnjtow.site
 .ytx-file.110route.cn

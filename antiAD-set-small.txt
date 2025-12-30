@@ -1,9 +1,9 @@
-# Version: 202512301505
+# Version: 202512301807
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 50342
-# Last modified: 2025-12-30T15:05:12+0000
+# Entries: 50337
+# Last modified: 2025-12-30T18:07:07+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -15107,7 +15107,6 @@
 .dh6dm31izb875.cloudfront.net
 .dh8azcl753e1e.cloudfront.net
 .dh8ypn3lq8.com
-.dhawbeslur.help
 .dhbfsbanlrmqm.website
 .dhbligjfopnac.online
 .dhcmni6m2kkyw.cloudfront.net
@@ -20151,7 +20150,6 @@
 .geoip.al.com
 .geoip.apps.avada.io
 .geoip.cleveland.com
-.geoip.fotoable.net
 .geoip.gulflive.com
 .geoip.ifunny.co
 .geoip.inquirer.net
@@ -27388,7 +27386,6 @@
 .lq1cou8jylvb97x8j.cfd
 .lqbvjmkoomerm.top
 .lqbvjmkoozmry.top
-.lqcngjecijy.rocks
 .lqdafcgrlaaby.xyz
 .lqdcvj.top
 .lqepkvudjwgwn.space
@@ -35375,7 +35372,6 @@
 .qxkjouybtbqrw.space
 .qxlkiqdovwubtq.xyz
 .qxn9qlvmca.com
-.qxoavfdykiqwh.space
 .qxozluyvvyabw.online
 .qxqsrwtzxbpae.store
 .qxrbu.com
@@ -45379,7 +45375,6 @@
 .usr.interactiveone.com
 .usrpubtrk.com
 .usstat.icocofun.com
-.ustatoothoab.com
 .usuallyformal.com
 .usualsparehumanity.com
 .usunompuzoz.net

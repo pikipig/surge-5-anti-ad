@@ -1,9 +1,9 @@
-# Version: 202601201205
+# Version: 202601201505
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 49160
-# Last modified: 2026-01-20T12:05:29+0000
+# Entries: 49113
+# Last modified: 2026-01-20T15:05:47+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -176,7 +176,6 @@
 .1.arpun.com
 .1.bh5.com.cn
 .1.codesdq.com
-.1.feihua.com
 .1.feihua.net.cn
 .1.glook.cn
 .1.gunsuo.com
@@ -222,7 +221,6 @@
 .10k8ovyv.art
 .10q6e9ne5.de
 .10sn95to9.de
-.11.yiqig.cn
 .11006451.xyz
 .1106ca2ad4.e230ae5c2b.com
 .11235813.webzdarma.cz
@@ -1082,7 +1080,6 @@
 .56gbgkvtd.xyz
 .56rt2692.de
 .5707f9766c.com
-.572c52928b.com
 .57352d918d.com
 .57473094.xyz
 .57573zubo36833.com
@@ -1937,17 +1934,14 @@
 .a.votpusk.ru
 .a.vturb.net
 .a.vtvdigital.vn
-.a.wanzhuang.com
 .a.warddogs.com
 .a.wb.ru
 .a.worldstarlinker.com
-.a.wzu.com
 .a.xanga.com
 .a.xixiyishu.com
 .a.xue126.com
 .a.xuezizhai.com
 .a.xvidxxx.com
-.a.xywy.com
 .a.yamcha.xyz
 .a.yandd.site
 .a.yangshengtang123.com
@@ -2037,7 +2031,6 @@
 .a8ab9e490d.a188a76155.com
 .a8aebc73ca.com
 .a8bea9eb5d.com
-.a8e8c59504.com
 .a8h4zhbmxi.com
 .a9562f872f.com
 .a962171d52.4e47af880e.com
@@ -4070,7 +4063,6 @@
 .adsparc.com
 .adsparc.net
 .adspdbl.com
-.adspi.xyz
 .adspirit.de
 .adsplay.net
 .adsplus.vn
@@ -6136,7 +6128,6 @@
 .apd-pcdnwxnat.teg.tencent-cloud.net
 .apd-pcdnwxstat.teg.tencent-cloud.net
 .apdcekrulrpjd.online
-.apdoklkiqp.com
 .ape-tagit.timeinc.net
 .ape.mfj.se
 .ape.pytch.co.uk
@@ -6712,7 +6703,6 @@
 .ascertainowlbookkeeper.com
 .asciticareal.rest
 .ascpqnj-oam.global.ssl.fastly.net
-.asdasdad.net
 .asdf.eldos.xyz
 .asdfix.com
 .asdnow.xyz
@@ -7008,7 +6998,6 @@
 .attributiontrackingga.googlecode.com
 .attrqqbnbjxkg.website
 .atubryjsbface.website
-.atwrimdatb.com
 .aty.sohu.com
 .atyoureatth.org
 .atyvapfwastoa.space
@@ -7107,7 +7096,6 @@
 .avads.co.uk
 .avads.live
 .availableshove.com
-.avaiwieifysba.space
 .avalancheofnews.com
 .avalanchetremorunfilled.com
 .avaricious-application.pro
@@ -7273,7 +7261,6 @@
 .ayarkkbmakkja.top
 .ayarkkbmakmzv.top
 .ayarkkyjrmjjj.top
-.ayarkkyjrmjzr.top
 .aycompleted.com
 .aycrxa.com
 .ayctbhlndyarx.space
@@ -7747,7 +7734,6 @@
 .baskettexture.com
 .bass.alfrednerstu.com
 .bass.goulet.dev
-.bass.taivo.ai
 .bastardnonethelessuseless.com
 .bastilecentimo.rest
 .bat.bing.com
@@ -7858,7 +7844,6 @@
 .bdapi-in-ads.realmemobile.com
 .bdasd.chdbook.cn
 .bdbc7dce8e.com
-.bdbqypykifmfwyc.com
 .bdcdncnc.inter.71edge.com
 .bdcode.2345.com
 .bdcode.qinglue.com
@@ -8825,7 +8810,6 @@
 .bounceads.net
 .bouncelightenafternoon.com
 .bouncerepresentative.com
-.bouncerglovers.click
 .bouncetumblemarried.com
 .bouncy-ask.pro
 .boundarygoose.com
@@ -9145,7 +9129,6 @@
 .bthythvdrdbud.space
 .btjcjbqpmjzhk.website
 .btjsvl.icu
-.btkaxmszbwtga.website
 .btkctxwehxyyf.online
 .btkpfrvcrfbvx.site
 .btlagkfxnypco.website
@@ -9543,7 +9526,6 @@
 .c7ca525b2e.0491166852.com
 .c7f4d1276e.com
 .c7o9xp4e4.com
-.c8.net.ua
 .c81.ipanocloud.com
 .c84c10fe3d.com
 .c86b0b03c7.eb8ac65cf5.com
@@ -10948,7 +10930,6 @@
 .clickprotects.com
 .clickpunch.icu
 .clickpupbit.com
-.clickreverendsickness.com
 .clicks.dealer.com
 .clicks.equantum.com
 .clicks.tyuwq.com
@@ -14627,7 +14608,6 @@
 .desgolurkom.com
 .deshelioptiletor.com
 .designbin.lol
-.designerlace.shop
 .designsprovidingstifle.com
 .designstraw.info
 .desirebucket.com
@@ -15802,7 +15782,6 @@
 .dualstack-collection.rong-edge.com
 .dualstack-logs.amap.com
 .dualweekend.pro
-.duamilsyr.com
 .dubberlibers.shop
 .dubioalcaaba.world
 .dubiousneedleaccounts.com
@@ -17946,7 +17925,6 @@
 .fbcdn2.com
 .fbdata-edt.com
 .fbetlixgee.eu
-.fbfejxqozbxrc.site
 .fbhelyqzqbnft.global
 .fbhkxt.icu
 .fbispdrlpngqv.space
@@ -18461,7 +18439,6 @@
 .finddatinglocally.com
 .finder2024.com
 .findgirlsdream.com
-.findgirlsflirting.com
 .findingexchange.com
 .findmanloverse.com
 .findpartnerthefinder.com
@@ -19227,7 +19204,6 @@
 .fusrv.com
 .fussy-rest.pro
 .fussychance.pro
-.fut2739jozhcpuw621q8omrv5rkkfur.cfd
 .futdicbardzi.com
 .future-fie-assets.co.uk
 .future-hawk-content.co.uk
@@ -19278,7 +19254,6 @@
 .fxab9iuprt.com
 .fxbojoywozehj.website
 .fxbprfogjabel.online
-.fxcdcfisfrccjx.com
 .fxclub.org
 .fxdmnmsna.space
 .fxewupiyppjkg.website
@@ -19703,7 +19678,6 @@
 .geosvc.globalmailer.com
 .geotags.refinery89.com
 .geotg.jp
-.geoticcardoon.shop
 .geotrkclknow.com
 .geovisite.com
 .geqxgljzocqbu.store
@@ -22500,7 +22474,6 @@
 .iggirhjyojkqw.online
 .iginimhtppjum.website
 .iglakgdhhmagf.online
-.iglugouphoaze.net
 .ignateignatetame.com
 .ignoblerectifymargaret.com
 .ignorant-excitement.pro
@@ -24152,7 +24125,6 @@
 .js.gov.cfd
 .js.jnkstff.com
 .js.kabutocho-dsp.net
-.js.kakuyomu.in
 .js.kcolb.site
 .js.kkraw.com
 .js.manga1000.top
@@ -24511,7 +24483,6 @@
 .kcldlqybhdgdk.site
 .kcokamid.top
 .kcqbrwygxixdh.site
-.kcqstn35as.com
 .kctag.net
 .kcxljicqwzjfd.space
 .kcxumzypnrqwr.store
@@ -24755,7 +24726,6 @@
 .kklq05131p0i.com
 .kklq05140p0i.com
 .kkluibrulalda.website
-.kklwfbtomvzdt.site
 .kkmacsqsbf.info
 .kkqlcvwqbajec.website
 .kksbhdknogzya.website
@@ -26832,7 +26802,6 @@
 .luminouscountry.pro
 .luminousrev.com
 .luminousselection.pro
-.luminoustry.com
 .luminoususe.pro
 .lumktmjeeewwy.website
 .lumpyactive.com
@@ -26979,7 +26948,6 @@
 .lywfwxeexwcwc.online
 .lyyyupftoqfoz.site
 .lz-pub-ads.com
-.lzbgeg.com
 .lzbwprvfzvbdx.website
 .lzjl.com
 .lzljxgqazegmr.space
@@ -29764,7 +29732,6 @@
 .normallydemandedalter.com
 .normalround.com
 .normkela.com
-.norrxsavjk.com
 .norse.mingxiaow.com
 .norsinceexactlyamongplait.com
 .northauthority.xyz
@@ -30244,7 +30211,6 @@
 .obligedmeditatedazed.com
 .obliquecensortend.com
 .oblivionplaysaltered.com
-.oblocpnaj.com
 .oblong-people.pro
 .oblong-punch.com
 .obmpabheweiku.space
@@ -31846,7 +31812,6 @@
 .pdzxeaxlqnvac.site
 .peacefullywalterdues.com
 .peacefulshadowway.com
-.peacetriunal.cfd
 .peach-analytics.vercel.app
 .peacockresistpeppermint.com
 .peacyx.com
@@ -34047,7 +34012,6 @@
 .qeaaogshjobfk.site
 .qecapwnpthdzf.site
 .qeefxyltwpruv.website
-.qeezpmzrkjxwk.space
 .qegkek.icu
 .qehcierotgrrk.site
 .qeicbuekdqyna.website
@@ -35540,7 +35504,6 @@
 .ringtonepartner.com
 .rinpkoatro.com
 .rinryesopertyva.org
-.rioewhlwcvkq.com
 .riotousgrit.com
 .ripagitateway.com
 .ripe-comparison.pro
@@ -36155,7 +36118,6 @@
 .rtb-useast-v4.xeloop.com
 .rtb-useast-v4.yieldoz.com
 .rtb-useast.152media.com
-.rtb-useast.adapace.com
 .rtb-useast.adbidglobal.com
 .rtb-useast.adcannyads.com
 .rtb-useast.adksrv.com
@@ -39250,7 +39212,6 @@
 .starry-block.pro
 .starry-galaxy.com
 .starrylook.com
-.starryprotection.com
 .starsearchtool.com
 .starseed.fr
 .starstrengthcultivated.com
@@ -41175,7 +41136,6 @@
 .techneparlous.com
 .technicalitychin.com
 .technicalityindependencesting.com
-.technicalitymartial.com
 .techniciancocoon.com
 .techniquejeer.com
 .technoratimedia.com
@@ -41380,7 +41340,6 @@
 .th.tubetruck.com
 .thagrechulo.com
 .thaigapousty.net
-.thaisegotud.com
 .thangrurs.com
 .thankfuldirection.com
 .thankfulleave.pro
@@ -41695,7 +41654,6 @@
 .tizer.medikforum.ru
 .tizerclik.com
 .tizermy.net
-.tizofvtuqo.com
 .tj.b.qq.com
 .tj.video.qq.com
 .tjaard11.xyz
@@ -43628,7 +43586,6 @@
 .uhyuspdyothna.online
 .ui.videojav.com
 .ui02.com
-.uicwqcnrr.com
 .uid.mediacorp.sg
 .uidhhiduhkier.space
 .uidpklgzchjnf.website
@@ -45681,7 +45638,6 @@
 .wcwijbtqgajxf.global
 .wcyvjdpduqxym.site
 .wdcwmeklhgnfc.xyz
-.wderfvqphkzih.space
 .wdeynokr.com
 .wdhymnxhxpgsn.space
 .wdibwgllvzies.love
@@ -46966,7 +46922,6 @@
 .xelyyhidsqcdg.space
 .xemmgygfgjytb.website
 .xemwmuayozxti.space
-.xengqsqm.com
 .xenlzn.icu
 .xeobmtdo.com
 .xepluwsaisxgi.website
@@ -48475,7 +48430,6 @@
 .yt-adp.ws.126.net
 .ytccvtdtsfocf.online
 .ytdut.online
-.yteinseetlxto.website
 .yterxv.com
 .ytihp.com
 .ytinxswlejphn.space
@@ -48536,7 +48490,6 @@
 .ywcorovtblhap.online
 .ywcpuyoqiwpsq.website
 .yweakelandord.com
-.ywjkuslteoiyt.site
 .ywjvjschozjzq.online
 .ywqxnvfv.com
 .ywroovnsgyftl.site

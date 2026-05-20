@@ -1,9 +1,9 @@
-# Version: 202605201006
+# Version: 202605202209
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 57047
-# Last modified: 2026-05-20T10:06:58+0000
+# Entries: 57070
+# Last modified: 2026-05-20T22:09:30+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -2250,6 +2250,7 @@
 .aarki.net
 .aarzgcsyztgrs.site
 .aasssaa.com
+.aasyhadzsawj.com
 .aatkit.com
 .aauedwmoofyox.buzz
 .aaurpibxdpjju.site
@@ -2688,7 +2689,6 @@
 .ad-back.net
 .ad-balancer.at
 .ad-balancer.net
-.ad-blocker-1.static-cloudflare.workers.dev
 .ad-bls-tracking.lemino.docomo.ne.jp
 .ad-brix.com
 .ad-cdn.qingting.fm
@@ -3589,7 +3589,6 @@
 .ads-api.videy.co
 .ads-api.x.com
 .ads-bidder-api.twitter.com
-.ads-blocker-1.static-cloudflare.workers.dev
 .ads-blocker.app
 .ads-blocker.pro
 .ads-bridge.pixocial.com
@@ -4371,7 +4370,6 @@
 .adultsense.net
 .adultsense.org
 .adultsjuniorfling.com
-.adunblock1.static-cloudflare.workers.dev
 .aduwoc.footeo.com
 .adv-adserver.com
 .adv-analytics-collector.videograph.ai
@@ -4805,6 +4803,7 @@
 .aftjohnanodes.com
 .afutfjyhihsdy.space
 .afwfwhqmvjgmo.online
+.afxuyhvmoyccf.site
 .afy.agency
 .afyjqkouug.com
 .ag.divcom.com
@@ -4947,6 +4946,7 @@
 .ahqpqagt.gay
 .ahrhxdoudmngm.space
 .ahrrxaidcghsb.site
+.ahsamwguzv.in
 .ahscdn.com
 .ahskummakjt.com
 .ahsyxlyqjzkcz.website
@@ -5084,6 +5084,7 @@
 .ajveybhqfcksz.site
 .ajxx98.online
 .ajymcnmtnmqwq.website
+.ajyuwkiddocui.website
 .ajzaqzrfi.in
 .ajzupjfxoddqz.love
 .ak-ads-ns.prisasd.com
@@ -8506,6 +8507,7 @@
 .bewhidare.com
 .bewitchedrate.com
 .bewjxige.com
+.bexekgjjxxrs.com
 .beyanmaan.com
 .beydomfaucet.shop
 .beyondpayors.com
@@ -9046,6 +9048,7 @@
 .bngwlt.com
 .bnhlpsmhvodae.online
 .bnhtml.com
+.bnjhfltfknjghui.com
 .bnlif.com
 .bnmfsuzhytosg.website
 .bnmkl.com
@@ -10971,6 +10974,7 @@
 .cfwtqenanlvxbln.com
 .cfxoaljlopydq.online
 .cgamoqsqxy.com
+.cgbgdgcdmahpd.space
 .cgbpxcvnophfy.space
 .cgbubdilqdjit.online
 .cgflkxluy.com
@@ -15756,6 +15760,7 @@
 .dilzdbrzpyhclg.com
 .dimensionvegana.com
 .dimessing-parker.com
+.dimhbqxgxfjn.com
 .dimkfzxyvzhej.website
 .dimmerlingowashable.com
 .dimmockvanglo.com
@@ -18230,6 +18235,7 @@
 .eqceidtikngos.space
 .eqddkngvrgvkw.site
 .eqfqekkgkwpya.online
+.eqfrnhedue.com
 .eqgztqakyjron.online
 .eqhpbxwjonvtq.site
 .eqhvwwxtztvqi.website
@@ -18970,6 +18976,7 @@
 .extremetracking.com
 .extrovertedlecture.com
 .extsoft.info
+.extsuantdiallomon.com
 .exulmxryrokbaj.com
 .exulsbmitdvzd.online
 .exvl.cn
@@ -21019,6 +21026,7 @@
 .fynuparszvqsd.space
 .fyosies.icu
 .fyovqgkrvoiyo.website
+.fyqflxdhjggu.com
 .fyqvlsvraskhk.online
 .fyrsbckgi-c.global.ssl.fastly.net
 .fytbadthewihr.store
@@ -23748,6 +23756,7 @@
 .hmma.baidu.com
 .hmmbvdlyhee.com
 .hmmwgtsfpxfdd.com
+.hmmxwgvrlvwbh.com
 .hmnwhjxly.com
 .hmopyfifzomcc.online
 .hmphmehfailing.com
@@ -24045,6 +24054,7 @@
 .hprhotukqlaqqj.com
 .hpryvlxqtsgpx.site
 .hps.pornpics.com
+.hpsatusskaszi.site
 .hpsbpqwawzpwf.space
 .hpvcrluqolote.website
 .hpwjlcgoaxla.com
@@ -25192,10 +25202,7 @@
 .inboxdollars.com
 .inbreedsleeps.com
 .inbrowserplay.com
-.inc-rev.static-cloudflare.workers.dev
-.inc1-rev.static-cloudflare.workers.dev
 .incarnatepicturesque.com
-.inccrev1.static-cloudflare.workers.dev
 .incegceozdsrt.space
 .incentaclick.com
 .incentivemountdisprove.com
@@ -25233,17 +25240,8 @@
 .incorenext.com
 .incorporatehookersenses.com
 .incorporateunderstand.com
-.increase-rev1.static-cloudflare.workers.dev
-.increase-rev2.static-cloudflare.workers.dev
-.increase1rev.static-cloudflare.workers.dev
-.increase2-rev.static-cloudflare.workers.dev
-.increaserev2.static-cloudflare.workers.dev
-.increaserev3.static-cloudflare.workers.dev
-.increaserev4.static-cloudflare.workers.dev
-.increaserev5.static-cloudflare.workers.dev
 .increasingbelieveabonnement.com
 .increasinglyirritationecstatic.com
-.increv1.static-cloudflare.workers.dev
 .incurabledevote.com
 .incurableemptiness.com
 .inczjhdwlezin.site
@@ -25646,6 +25644,7 @@
 .inwmizqchqjlk.space
 .inxzfyeonudds.global
 .inyoketuber.com
+.inyymllgtxse.com
 .inznbvtcgmfzn.store
 .inzy3qq8q.com
 .io.fapnado.xxx
@@ -26243,6 +26242,7 @@
 .javascriptcounter.appspot.com
 .javdtezk7.com
 .javgg.eu
+.javkdujthhuoj.com
 .javmg.com
 .javtvnow.xyz
 .jawigcqrumbez.space
@@ -27095,6 +27095,7 @@
 .justsufficiently.com
 .justtrack.io
 .justwebads.com
+.jusuefeevvpjc.site
 .juswsuqwbegra.site
 .juthprkdpjhyx.com
 .juttkxcxflkao.space
@@ -27932,6 +27933,7 @@
 .kotostream.online
 .koukoku.red
 .koushauwhie.xyz
+.kovyfwlwesxpw.space
 .kownxhruhryeh.site
 .koytnkgoywyhe.site
 .koyyppqoesnvh.website
@@ -28109,6 +28111,7 @@
 .kureedsnbcuuj.space
 .kurrhlwywpswg.site
 .kursatarak.com
+.kurvukbkiqc.in
 .kurxabjwulu.in
 .kusykxcry.com
 .kuti8iar.xyz
@@ -31300,6 +31303,7 @@
 .mgujumljajzgt.store
 .mgux.cn
 .mguxmveyfwdyo.space
+.mgwanrtnp.com
 .mgwawoyupykxh.online
 .mgwxgxnpmzcqa.website
 .mgxrwofnpbnof.com
@@ -31623,6 +31627,7 @@
 .mkt.hoanghamobile.com
 .mktp-base.mktplatforms.com
 .mkue.cn
+.mkupopsmmatqmoc.com
 .mkyafpcctqmyi.website
 .mkybbjaracrvh.online
 .mkyebumhdrhsg.store
@@ -33895,6 +33900,7 @@
 .ntoucbwriboqc.site
 .ntpixqvc.com
 .ntplsyboguywj.store
+.ntpvbkstjori.com
 .ntracker-collector.naver.com
 .ntrandingswond.org
 .ntreqriypgoef.online
@@ -34029,6 +34035,7 @@
 .nws5ay4cr2.com
 .nwtdvlersdowe.space
 .nwtg5ywz2j.com
+.nwvkpbrceeutp.site
 .nwvulrmtxesqh.space
 .nwwais.com
 .nwwrtbbit.com
@@ -40496,6 +40503,7 @@
 .rexdaaohsoxkr.space
 .rexsrv.com
 .rexvxrnpkswce.space
+.reysfxhipoggji.com
 .rezrboarmmqmv.top
 .rf10b9mq8.com
 .rf23ecvf4.com
@@ -41851,6 +41859,7 @@
 .ry7icaih0p.com
 .ryapalta.com
 .rybbit.sg-app.com
+.rycbpfusajhjq.com
 .ryd626moj.com
 .ryddiuaiixndo.site
 .rydresa.info
@@ -44593,6 +44602,7 @@
 .spulyiecooboo.website
 .spurtshrubvending.com
 .spurtvastsummer.com
+.spvvcvlioezrz.online
 .spxl.socy.es
 .spxsvrvxwouyp.site
 .spy.epornleak.com
@@ -44974,6 +44984,7 @@
 .stathome.org
 .static-addtoany-com.cdn.ampproject.org
 .static-ads.zaloapp.com
+.static-cloudflare.workers.dev
 .static-cn.plista.com
 .static-rmr.reworldmediafactory.com
 .static-rtb.adksrv.com
@@ -46849,6 +46860,7 @@
 .tckanbizczxcfj.com
 .tckdemcpsjd.com
 .tcmcpbjvotuaa.space
+.tcobrozs.com
 .tcolfwuhtwqln.space
 .tcotakyaptua.com
 .tcpedpdcfkcgo.rocks
@@ -48637,6 +48649,7 @@
 .trafficmanager.anyclip.com
 .trafficmediaserver.com
 .trafficmoose.com
+.trafficoza.com
 .trafficsecrets.com
 .trafficshop.com
 .trafficspaces.net
@@ -48851,6 +48864,7 @@
 .trkerupper.com
 .trkfomedia.eu
 .trkhnqjyhufjnyf.com
+.trkinggd.com
 .trkings.com
 .trkk4.com
 .trklnks.com
@@ -49722,6 +49736,7 @@
 .uie.data.cbc.ca
 .uifncgofildko.space
 .uighnhsbatmdf.store
+.uihtgryzfhuip.space
 .uiikqirdiessi.love
 .uikosfascqisl.space
 .uikyqdtressuj.online
@@ -49993,6 +50008,7 @@
 .underwaterexilemovements.com
 .underwearcrackerprison.com
 .underwearfilletslight.com
+.undisjmgvnjgx.site
 .undom.net
 .undoneknit.com
 .undosupporterpyjamas.com
@@ -50939,6 +50955,7 @@
 .vcglprbqstyed.space
 .vcigmsgdhiojg.site
 .vcjfxnwmzpdgu.store
+.vckfgixlfxycx.com
 .vckgixqqnyosr.website
 .vclsyumjrbiel.online
 .vclunl.icu
@@ -51897,6 +51914,7 @@
 .vvwrajbckvfng.website
 .vvwskuuryf.com
 .vvxxqpvylixke.store
+.vvyoskuzroudl.website
 .vw1.gestimnogo.net
 .vwbbphonljgrr.website
 .vwbjalrunlqrl.site
@@ -53512,6 +53530,7 @@
 .wqwoynnxgujac.online
 .wqxvfzvqcqmcs.website
 .wqyenrdmgkikd.site
+.wqyfjcxwyuuxyf.com
 .wqyw8umjobny1b1pelqu.cfd
 .wr.yiyouliao.com
 .wrangleclaspinteract.com
@@ -55049,6 +55068,7 @@
 .xqoh.cn
 .xqqmcnphocpku.website
 .xqqsfeipxeefv.store
+.xqrmahevurxng.site
 .xqsfsvngpzsns.store
 .xqsqczzswxwlr.website
 .xqsvsdvvypnij.website
@@ -55513,6 +55533,7 @@
 .yebtagxufacm.com
 .yecytiqior.net
 .yeesshh.com
+.yefmicfs.com
 .yegvjrkcasiwf.space
 .yehrrtjop.com
 .yeiylwkraohjw.com
@@ -55649,6 +55670,7 @@
 .yiddiquitejuk.com
 .yidmcfdowkhec.space
 .yiebneuipfolhe.com
+.yiedlmhvxbtmh.site
 .yield-op-idsync.live.streamtheworld.com
 .yieldbuild.com
 .yieldkit.com
@@ -55985,6 +56007,7 @@
 .yqmyzkialhdoi.vip
 .yqnlbkzpiazzs.space
 .yqnqnvpunztoe.space
+.yqnvdpdkshsoc.site
 .yqocbixitiqnc.space
 .yqohoxwuyu.club
 .yqoktira.com

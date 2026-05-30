@@ -1,9 +1,9 @@
-# Version: 202605301406
+# Version: 202605301706
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 57894
-# Last modified: 2026-05-30T14:06:36+0000
+# Entries: 57934
+# Last modified: 2026-05-30T17:06:47+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -849,6 +849,8 @@
 .37bf116186.com
 .37ccf2671e.95ce9fb0ff.com
 .37lwjdaua.com
+.37nu0riwfd.com
+.37shrmvlju.com
 .380.bu2z.com
 .380.hotpix.fr
 .3807bf7acf.com
@@ -4636,6 +4638,7 @@
 .aeoqdvojnld.com
 .aeqfjsa.icu
 .aerksrxqolhmf.website
+.aesmdokoo.com
 .aespmnbpqhpvu.space
 .aesqzfuosgvay.com
 .aestheticinsaneif.com
@@ -7160,6 +7163,7 @@
 .atax.teamxbox.com
 .ataykgrzwrplt.site
 .atb-stats-api.imolive.tv
+.atciokttzbgxy.space
 .atdeerlinga.com
 .atdxamakqo.in
 .atecomprisedispel.com
@@ -8150,6 +8154,7 @@
 .bbxecblihp.com
 .bbxkqbbqwzojv.space
 .bbxsmanajfdwgow.com
+.bbyyqitxuplnz.site
 .bbztmceiyhybz.space
 .bc-news.net
 .bc.marfeelcache.com
@@ -8596,6 +8601,7 @@
 .bfe6b914a1.com
 .bfetpjdaebmzl.space
 .bffigvvwoyybr.website
+.bffvwaroejqlj.online
 .bfgu.cn
 .bfhrwqaroikoo.site
 .bfiodrok.in
@@ -8864,6 +8870,7 @@
 .bk2l4eidc.com
 .bkad13gfu.com
 .bkam33lsr.com
+.bkezgkhgnqcpb.online
 .bkgljnppwxjat.icu
 .bkgzynoggdslv.website
 .bkhpdrblv.com
@@ -9928,6 +9935,7 @@
 .bwngwridgzuvl.website
 .bwodskyelhpbn.space
 .bwofuzfzhgqnp.website
+.bwomnahwaglzj.site
 .bwp.download.com
 .bwporpxafcyms.online
 .bwqfyjaynjpad.site
@@ -9978,6 +9986,7 @@
 .bxynquktjxiqi.website
 .by.addrecipes.com
 .by.dyq.cn
+.by2lc7429r.com
 .byaalrsqtwqge.site
 .byaevamgvikqr.com
 .byagmwcotnwgi.space
@@ -15800,6 +15809,7 @@
 .dhaswilrehp.in
 .dhbfsbanlrmqm.website
 .dhcanelzoyomw.space
+.dhckj73qr3.com
 .dhcmni6m2kkyw.cloudfront.net
 .dhcqlbteygqeg.site
 .dhdebdmvzljbk.site
@@ -16365,6 +16375,7 @@
 .dmugkyxi.in
 .dmupywgfuurjd.club
 .dmvbdfblevxvx.com
+.dmvrsoswhzthb.online
 .dmw2pzbenclyd.cloudfront.net
 .dmwbspizchjlu.website
 .dmxhgf4zuwdvu.cloudfront.net
@@ -16882,6 +16893,7 @@
 .dsh1ct2zrfakt.cloudfront.net
 .dsh7ky7308k4b.cloudfront.net
 .dshqtbvicbyvr.space
+.dsiflqhqyfmp.com
 .dsj4qf77pyncykf2dki6isfcuy0orwhc.lambda-url.eu-west-1.on.aws
 .dsjoiyflhvxpq.website
 .dskkza.com
@@ -16921,6 +16933,7 @@
 .dsvidbernlibi.site
 .dswagqnjedlcq.site
 .dswckxxivdrjj.website
+.dswepngsrbhza.space
 .dsxgwwrkecsxd.online
 .dsygrxfwrlatx.online
 .dsyrogvoyrsrl.space
@@ -17179,6 +17192,7 @@
 .dxozhspzbfkwk.online
 .dxp.baidu.com
 .dxpcfccbgxlmy.online
+.dxppedjnfsiwn.online
 .dxprljqoay4rt.cloudfront.net
 .dxq8uuq0d.com
 .dxqbrjwlmyyph.online
@@ -17752,6 +17766,7 @@
 .effulgent-stroopwafel-efb9ce.netlify.app
 .efg.zle.com
 .efgh.5lu.com
+.efhaluqmntgpo.website
 .efmh.cn
 .efmjvchffbmar.online
 .efmkmumjsby.com
@@ -17898,6 +17913,7 @@
 .ejxhiitnxgwun.site
 .ejzdijlxrxwlg.site
 .ek-tracker.ekitan.com
+.ek946br7uy.com
 .ekaacdiilusiw.space
 .ekalpuvefezyo.website
 .ekamsply.com
@@ -18106,6 +18122,7 @@
 .eminentdetail.com
 .emissionidiompolygon.com
 .emitprocured.com
+.emiyesfsilkzx.online
 .emjs.mkzhan.com
 .emkmvkigfexgt.online
 .emlifok.info
@@ -18347,6 +18364,7 @@
 .eookanmfhqjkh.online
 .eoqigwlbhhfg.com
 .eoredi.com
+.eorkmgovqyswa.website
 .eostvofsqqsvi.site
 .eoveukrnme.org
 .eowbdqtsy.com
@@ -18510,6 +18528,7 @@
 .erucmouopjy.com
 .eruptpriority.com
 .eruxjtbqruaep.site
+.ervksfgqsljjf.website
 .ervtdgkyqbsdd.website
 .ervwyrdicmuvz.space
 .erwksojkxxlff.icu
@@ -21416,6 +21435,7 @@
 .ganjituiguang.ganji.com
 .gankana.com
 .ganon.yahoo.com
+.ganserspeans.shop
 .gaohnonowmxay.website
 .gapcontroversialprodigal.com
 .gapotxanv.in
@@ -24612,6 +24632,7 @@
 .hx1.tubepornbase.com
 .hx9t83vx.xyz
 .hxaeqktmhvawj.space
+.hxbzadzkjqsst.com
 .hxddbxqyibpx.com
 .hxdecujrfmyyv.online
 .hxetzodlyjogx.com
@@ -24947,6 +24968,7 @@
 .identification.hotmart.com
 .identify.hotjar.com
 .identifycertainlybookie.com
+.identity.treeumapp.net
 .identitypxl.app
 .identitypxl.com
 .idescargarapk.com
@@ -27361,6 +27383,7 @@
 .jumpyfeature.com
 .jumpylevel.com
 .jumpyliterature.com
+.jumpyshare.pro
 .jumpystupid.pro
 .jumto.xyz
 .jumvsaapqxaed.site
@@ -27714,6 +27737,7 @@
 .kdcnqedoikwsx.site
 .kddlljplazsfp.website
 .kde.qq.com
+.kdecpchqjwxv.com
 .kdewa111.familydoctor.com.cn
 .kdfjlppcvgbdj.space
 .kdhpllntx.com
@@ -27871,6 +27895,7 @@
 .khcenayroisqp.store
 .khdiamondcdn.space
 .khedassphene.com
+.kheejcqnll.com
 .khgawzlfmtajq.online
 .khheewubjsybg.space
 .khiclickrkafw.online
@@ -28428,6 +28453,7 @@
 .kultingecauyuksehink.com
 .kumpulblogger.com
 .kumyuczwdqpgi.site
+.kunhjadqgnd.com
 .kunner.wiesentbote.de
 .kunvertads.com
 .kuolkoola.com
@@ -29082,6 +29108,7 @@
 .lfhrijmrvsv.com
 .lfmetrics.loyalfans.com
 .lfmoybmwwffjjpn.com
+.lfmrpcxdtmane.com
 .lfnwxpcbfpkcx.website
 .lfokfyodzylck.site
 .lfppindfyzgag.site
@@ -36155,6 +36182,7 @@
 .ozanalfas.com
 .ozasiskoddhmk.online
 .ozbnagojbop.com
+.ozbnudakqvu.in
 .ozckerranlakm.online
 .ozdezghwptysv.com
 .ozdpunfugvki.in
@@ -38336,6 +38364,7 @@
 .proceduresinfox.net
 .proceedingcredulous.com
 .proceedvulnerable.com
+.processedlizardadjoining.com
 .processesdisplease.com
 .processesshaken.com
 .processestheycod.com
@@ -40202,6 +40231,7 @@
 .rapleapedappear.com
 .rapndh.icu
 .rapolok.com
+.rappealaunt.cfd
 .raptiqhvowpwv.store
 .raptripeessentially.com
 .raptureinsanity.com
@@ -41691,6 +41721,7 @@
 .rrobbybmkwjww.top
 .rrokkniebae.com
 .rrp19gip7kvou3.cfd
+.rrpaafci9i.com
 .rrpcjhtacwgki.space
 .rrpsjnegulocc.site
 .rrpuoifwzxgkh.site
@@ -43607,6 +43638,7 @@
 .services.hearstmags.com
 .services.sdiapi.com
 .services.wetek.com
+.servicesinexclusive.com
 .serving.ausdoc.com.au
 .serving.datawrkz.com
 .serving.felixads.com
@@ -43950,6 +43982,7 @@
 .shopsmysteryeagerly.com
 .shortagedissatisfaction.com
 .shortbrotherinlaw.com
+.shortcutentranceacross.com
 .shorterrestriction.com
 .shorterwanderer.com
 .shorthandbakerymeal.com
@@ -46911,6 +46944,7 @@
 .syndromekaleidoscope.com
 .synonymwelcomingegyptian.com
 .synsads.com
+.syntaxoutinstances.com
 .synthesissocietysplitting.com
 .synthesissourcegovernment.com
 .syoedxrarbvdq.space
@@ -48153,6 +48187,7 @@
 .tjtsctymepnds.space
 .tjtslxcwyqqy.com
 .tjv251109ads.com
+.tjv260529xxx.com
 .tjvpnh.icu
 .tjwveazohmjzd.online
 .tk.jtbc.co.kr
@@ -51576,6 +51611,7 @@
 .varnishoverprotective.com
 .varshacundy.com
 .vartoken.com
+.varvelabrus.shop
 .varyingwolfsmile.com
 .varypollintelligent.com
 .varyresponsible.com
@@ -51910,6 +51946,7 @@
 .vhltqzhcuoobq.website
 .vhqdzoxpepcem.store
 .vhqoiuiacnbchi.com
+.vhsdamic.com
 .vhsrwd.aip24.pl
 .vhtwlxsun.com
 .vhudklvi.com
@@ -52722,6 +52759,7 @@
 .vyuaolnqfgoas.store
 .vyufgiaesxzib.site
 .vyuhylzzq.com
+.vyura.net
 .vywicefxghj.com
 .vywqgyyymujds.com
 .vyxifgsrgihgr.online
@@ -53612,6 +53650,7 @@
 .whoppercreaky.com
 .whopping-click.com
 .whoppngzrzsyz.online
+.whoretuskar.shop
 .whortsiddat.com
 .whoseabacus.com
 .whosfmnqwci.com
@@ -54448,6 +54487,7 @@
 .wvhba6470p.com
 .wvjzqrwhbvepc.space
 .wvkvbsckwuru.com
+.wvlgstyak.com
 .wvlserrzyvspo.online
 .wvlwtsgbperzr.space
 .wvmvpjlguwapy.online

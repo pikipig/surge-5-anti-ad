@@ -1,9 +1,9 @@
-# Version: 202608042107
+# Version: 202608050107
 # Title: oisd nsfw
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 493154
-# Last modified: 2026-08-04T21:07:40+0000
+# Entries: 493341
+# Last modified: 2026-08-05T01:07:48+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -195,6 +195,7 @@
 .00js189.com
 .00kk0.com
 .00km.com.cn
+.00luna.gay
 .00nbkwj.garden
 .00o3.com
 .00ogqb.garden
@@ -229,6 +230,7 @@
 .010kaoyan.com
 .010mybj.com
 .010online.com
+.010wenshen.com
 .010xintai.com
 .010xnxx.com
 .011220.xyz
@@ -844,9 +846,12 @@
 .059job.net
 .059sexshop.com.ar
 .059zwzm.com
+.05a.site
 .05bbb.cc
 .05bzau.garden
 .05dy.cc
+.05ff.cc
+.05gg.cc
 .05jpnzr.garden
 .05luy.com
 .05ml.ru
@@ -867,6 +872,7 @@
 .0640.link
 .0644seo.icu
 .0653.com.cn
+.06655.cc
 .06666.no
 .0668tx.com
 .06787.org.cn
@@ -1409,6 +1415,7 @@
 .0e-28slnd7z4.com
 .0e62ym.garden
 .0e6qyx.garden
+.0e8c2c0f.club
 .0e8c2c0f.pw
 .0ehxpl.garden
 .0evmpk.garden
@@ -1506,6 +1513,7 @@
 .0onp.com
 .0oq.com.cn
 .0or6o9.garden
+.0outlook.com
 .0ov.com.cn
 .0oxzqcwar.garden
 .0oy.cc
@@ -1579,6 +1587,7 @@
 .0sex.club
 .0sex.homes
 .0sexe.com
+.0sexi3njvx.retirementcoxenterprises.com
 .0sh.top
 .0shi1x.garden
 .0shouzhuan.com
@@ -1678,6 +1687,7 @@
 .0zfg.top
 .0zipai.net
 .0zk.cc
+.0zr.cc
 .0zry8v.garden
 .0zt3.com
 .0ztie.com
@@ -2059,6 +2069,7 @@
 .1024cg6.com
 .1024cg7.com
 .1024cgw.com
+.1024clx.com
 .1024day.com
 .1024dns.com
 .1024fans.com
@@ -2067,7 +2078,11 @@
 .1024kan.shop
 .1024new.com
 .1024pp.com
+.1024videos.app
+.1024videos.cloud
 .1024videos.com
+.1024videos.online
+.1024videos.xyz
 .1024xxx.app
 .1024xxx.com
 .1024xxx.info
@@ -2232,6 +2247,7 @@
 .10k11l.com
 .10kkk.com
 .10km.org.cn
+.10kporn.net
 .10l2.top
 .10livejasmin.blogspot.com
 .10liveporn.shop
@@ -2347,6 +2363,7 @@
 .111md.cc
 .111newmovies.blogspot.com
 .111ov.com
+.111porn.com
 .111seba.com
 .111sexcams.com
 .111sexcams.pages.dev
@@ -2393,6 +2410,7 @@
 .1133159.com
 .113355.vip
 .1134betebet.com
+.11350.com
 .113688.com.cn
 .1137879.cn
 .1137club.com
@@ -2400,6 +2418,7 @@
 .113at.com
 .113ax.com
 .113ay.com
+.113se.cc
 .113vv.app
 .114.com.au
 .114235222xxx.sbs
@@ -2412,8 +2431,10 @@
 .114daohang.com
 .114dian.com
 .114kao.net
+.114l.top
 .114lxw.net
 .114sex.net
+.114stock.com.cn
 .114t.top
 .114xiaoshuo.com
 .114zb.vip
@@ -2462,6 +2483,7 @@
 .119uu3.top
 .119wowsf.com
 .119xfw.com.cn
+.119xiazai.com
 .11aa.xyz
 .11aaa.org.cn
 .11adultseeking.com
@@ -2935,6 +2957,7 @@
 .12sxart.com
 .12trade.gq
 .12try.me
+.12tu.cc
 .12va.cc
 .12vb.blogspot.com
 .12vids.com
@@ -2979,6 +3002,7 @@
 .131dh.com
 .131dh.shop
 .131uu9.top
+.131zw.com
 .13201kf.com
 .13240skylineblvd.com
 .1324xxnr.icu
@@ -3308,7 +3332,9 @@
 .1650334.cc
 .1653221.cc
 .1653231.cc
+.1653233.cc
 .1653238.cc
+.1658127.cc
 .1658153.cc
 .165ww.com
 .166.run
@@ -3395,6 +3421,7 @@
 .169bbs3.com
 .169bt.com
 .169buy.com
+.169j.com
 .169news.com
 .16a.net.cn
 .16av40.xyz
@@ -3414,6 +3441,7 @@
 .16nh.com
 .16oersonalities.com
 .16personalitirs.com
+.16personalitles.com
 .16r.net.cn
 .16s8.com
 .16sex.blogspot.com
@@ -3447,6 +3475,7 @@
 .171xk.com
 .171xm.com
 .171xx.com
+.172448.com
 .172521.org.cn
 .1728weddinghousetw.com
 .172dl.com
@@ -3499,6 +3528,7 @@
 .178sao.com
 .178shangan.com
 .178wsh.com
+.17911.cc
 .1799.net.cn
 .1799.ws
 .179hs.com
@@ -3526,6 +3556,7 @@
 .17cap.life
 .17capp.cn
 .17carlife.com
+.17cb.cc
 .17cdnsex41.shop
 .17cdnsex42.shop
 .17cdnsex421.shop
@@ -3807,6 +3838,7 @@
 .1888ka.com
 .188aa.xyz
 .188baiyin.com
+.188bb.xyz
 .188cdw.com
 .188dd.xyz
 .188ee.xyz
@@ -3839,6 +3871,7 @@
 .18ager.com
 .18akmanhua.com
 .18amy.com
+.18anal.de
 .18and19nudemodels.com
 .18andabuse.com
 .18andabused.com
@@ -4102,6 +4135,7 @@
 .18hl1.com
 .18hlw.com
 .18hmanga.com
+.18hms.cc
 .18hms.xyz
 .18hornyboys.com
 .18hot.name
@@ -4134,6 +4168,7 @@
 .18jack.com
 .18jackson.com
 .18japan.tk
+.18japaneseporn.com
 .18japangayporn.cc
 .18japanporn.cc
 .18japanporn.shop
@@ -4171,6 +4206,7 @@
 .18kami.com
 .18kdy.com
 .18king.blogspot.com
+.18kit.com
 .18kitties.com
 .18korean.net
 .18koreanporn.cc
@@ -4656,6 +4692,7 @@
 .192hai1oc.garden
 .192ll.com
 .192xe.com
+.1930-hotel.com
 .193118.com
 .193gg.com
 .193ikumin.net
@@ -4734,6 +4771,7 @@
 .19glf6.garden
 .19h.com
 .19h14.com
+.19hao.cc
 .19hdporn.com
 .19hdsex.com
 .19j.one
@@ -5074,6 +5112,7 @@
 .1h0g9j.garden
 .1h26.top
 .1h2lc7.com.cn
+.1h37.top
 .1h4e4f.garden
 .1h69.top
 .1haiyun.com
@@ -5110,6 +5149,7 @@
 .1i62.top
 .1i6ga7.top
 .1i6whw.garden
+.1i72.top
 .1ibcysi.garden
 .1icp.com
 .1if667.garden
@@ -5160,6 +5200,7 @@
 .1kav.com
 .1kav.vip
 .1kc1jt.garden
+.1kcr.com
 .1kf5k7.oudwf6.com
 .1kgdbktld.garden
 .1kkk.com
@@ -5173,6 +5214,7 @@
 .1kt.net.cn
 .1kuss.de
 .1kvf.com
+.1l23.top
 .1l3bh.net.cn
 .1l8fah.garden
 .1l9p.com
@@ -5191,6 +5233,7 @@
 .1ln.cc
 .1lnnwc.garden
 .1ltr3.net.cn
+.1lwx.cc
 .1lylc7.garden
 .1lz.top
 .1m13.top
@@ -5257,6 +5300,7 @@
 .1n0v0x.garden
 .1n66.top
 .1na6dk.garden
+.1nax.ru
 .1nde.top
 .1nenga.com
 .1net1.com.cn
@@ -5454,6 +5498,7 @@
 .1q42.com
 .1q59.com
 .1q5kmu.garden
+.1q64.com
 .1q66.top
 .1q81.com
 .1q87.com
@@ -5485,6 +5530,7 @@
 .1ru-porno.com
 .1rz.top
 .1s04.com
+.1s09.com
 .1s12.com
 .1s25.com
 .1s2s3s.com
@@ -5496,10 +5542,12 @@
 .1s42.top
 .1s44.com
 .1s45.com
+.1s46.com
 .1s48.com
 .1s5ixd.garden
 .1s61.com
 .1s71.com
+.1s80.com
 .1s8kzo.top
 .1s9.top
 .1s95.com
@@ -5511,6 +5559,7 @@
 .1sekshikayeleri.blogspot.com
 .1sex-hikaye.blogspot.com
 .1sex-ufa.ru
+.1sex.cc
 .1sex.click
 .1sex.free.fr
 .1sex.us
@@ -5664,6 +5713,7 @@
 .1u34.top
 .1u41.top
 .1u4p8.cc
+.1u67.top
 .1u68.top
 .1u8onmw.garden
 .1ug.com.cn
@@ -5699,6 +5749,7 @@
 .1w22.com
 .1w34.top
 .1w66.top
+.1w71.top
 .1w85.top
 .1w8e86.garden
 .1w8w.com
@@ -5820,6 +5871,7 @@
 .1yyy.net
 .1z00ir.garden
 .1z08j.com.cn
+.1z370z.cn
 .1z4tp9.garden
 .1z51.top
 .1zchhz.garden
@@ -5838,6 +5890,7 @@
 .2-class.com
 .2-epic.com
 .2-hot-teen-girls-kissing-wild-thong-bikini-sex-pics.com
+.2-mart.com
 .2-x.top
 .20-00.com.cn
 .20.gay
@@ -5984,6 +6037,7 @@
 .2026sexringofdesirecom.pages.dev
 .2026slotdeneme1.com
 .2026thesexchaptercom.pages.dev
+.20278888.xyz
 .202788888.xyz
 .202ee.com
 .202nn.com
@@ -6023,6 +6077,7 @@
 .204ww.com
 .204y.com
 .204zz.com
+.205avav.com
 .205ff.com
 .205gu.com
 .205oo.com
@@ -6200,6 +6255,7 @@
 .215ss.com
 .215uu.com
 .215va.com
+.215z.com
 .215zz.com
 .2160porn.shop
 .216222.net.cn
@@ -6399,6 +6455,7 @@
 .222gmv.com
 .222md.cc
 .222porno.ru
+.222sk.com
 .222xxw.com
 .222xxx.cc
 .2232uu.top
@@ -6710,6 +6767,7 @@
 .23maoaf.com
 .23maogk.com
 .23mj.top
+.23ndl.com
 .23ow.com
 .23p3.com
 .23qh.top
@@ -6717,6 +6775,7 @@
 .23scly.com
 .23sex.com
 .23sf.org.cn
+.23win.kitchen
 .23wxxx.com
 .23xq.com.cn
 .23xs.info
@@ -6763,6 +6822,7 @@
 .242r.top
 .2435555.com
 .2437-xlbl.cc
+.243d.cn
 .243dd.com
 .243home.com
 .244444.xyz
@@ -7296,6 +7356,7 @@
 .268mm.com
 .268oo.com
 .268v.top
+.269885.com
 .2699333.com
 .2699555.com
 .269ku.com
@@ -7644,6 +7705,7 @@
 .291233.cc
 .291234.cc
 .29134.cc
+.29159.cc
 .291aa.com
 .291andjils.xyz
 .291biismnan.xyz
@@ -7865,6 +7927,7 @@
 .2ch-m.info
 .2ch9.cc
 .2chav.com
+.2chb.net
 .2cheche.com
 .2chepin.com
 .2chicks1dick1.com
@@ -7899,6 +7962,7 @@
 .2d24.top
 .2d257bj.garden
 .2d3qya.cn
+.2d77.top
 .2d86.top
 .2d8sw.cc
 .2d94.com
@@ -7915,7 +7979,6 @@
 .2dicks1ass.com
 .2djgame.net
 .2djsoft.com
-.2dn.top
 .2doigts.com
 .2doujin.blogspot.com
 .2dporngames.com
@@ -7932,7 +7995,6 @@
 .2e48.top
 .2easydroid.com
 .2ebut.vip
-.2eh.top
 .2ei9ib.garden
 .2ej.top
 .2ejdb4.garden
@@ -7977,7 +8039,10 @@
 .2folie.cam
 .2folie.com
 .2fsex.com
+.2fzb.biz
+.2fzb.com
 .2g05.com
+.2g19.top
 .2g35.top
 .2g3lndzd8.garden
 .2g55.top
@@ -8043,7 +8108,6 @@
 .2hihw9.garden
 .2hkswfax.com
 .2holes.blogspot.com
-.2hot.ch
 .2hot2cam.nl
 .2hot4fb.com
 .2hotactress.blogspot.com
@@ -8066,6 +8130,7 @@
 .2i55.top
 .2i61.top
 .2i71.top
+.2i99.top
 .2idsin.garden
 .2ij28u.garden
 .2inches.com
@@ -8080,7 +8145,6 @@
 .2j8c.cc
 .2jable.top
 .2jav.com
-.2javsb.top
 .2javxxx.com
 .2jedu.com
 .2ji.pink
@@ -8105,6 +8169,8 @@
 .2k7.net
 .2k78.top
 .2k87ad.garden
+.2k93.top
+.2k98.top
 .2kav.vip
 .2kcams.com
 .2kdl8x8.garden
@@ -8148,6 +8214,7 @@
 .2live.net
 .2livejasmine-com.blogspot.com
 .2llz7n.garden
+.2lo.cc
 .2lp.top
 .2lt.net
 .2lt0o-z0j.garden
@@ -8158,6 +8225,7 @@
 .2m2jcpc3j.garden
 .2m57.top
 .2m5g.com
+.2m66.top
 .2m67.top
 .2m71sex.com
 .2ma.org.cn
@@ -8176,13 +8244,13 @@
 .2meiju.com
 .2mev.com
 .2mf6e0p6x.garden
-.2missav.com
 .2mix.org
 .2mmlove.com
 .2mmtw.com
 .2much.com
 .2muchxclusive.blogspot.com
 .2mx3.com
+.2my.my
 .2mychina.com
 .2mysf.com
 .2n26.top
@@ -8226,7 +8294,6 @@
 .2papapa.com
 .2penetration.org
 .2ph78z63j9vhroh1a8a036bmndp1bvejy7old4sdfxxxx5dc6evvakef86.pages.dev
-.2players.free.fr
 .2popki.vip
 .2porn.me
 .2porn.org
@@ -8284,6 +8351,7 @@
 .2rp.top
 .2rq.xyz
 .2s34.com
+.2s58.top
 .2s63.com
 .2s6tpe.garden
 .2s70p9.garden
@@ -8316,9 +8384,7 @@
 .2sigb7.garden
 .2slayed.com
 .2sp2cm.garden
-.2spankbang.top
 .2su4rw.garden
-.2supjav.top
 .2sxgfz.garden
 .2szr2k.garden
 .2t3.top
@@ -8340,6 +8406,8 @@
 .2tube.com
 .2tube2.com
 .2ty6o.com.cn
+.2u21.top
+.2u28.top
 .2u6.top
 .2u63.top
 .2u76.top
@@ -8396,7 +8464,6 @@
 .2w87.top
 .2wanglai.com.cn
 .2watchmygf.com
-.2wb.top
 .2wbh62.garden
 .2wbk.com
 .2webcamsex.be
@@ -8504,12 +8571,10 @@
 .3-h.cc
 .3-hamantes.blogspot.com
 .3-ip.cyou
-.3-k.top
 .3-m.org.cn
 .3-no.net
 .3-porno.name
 .3-t.com
-.3-w.top
 .3-wayporn.com
 .3-wolves.com.cn
 .3.rus-xvibeos.me
@@ -8544,8 +8609,10 @@
 .301123.com
 .301fzw.cc
 .301main16h.com
+.3028thorntree.com
 .302yiyuan.com
 .303ss.com
+.303xs.com
 .304050plusphonesex.com
 .304jmb.com
 .304xxmm.com
@@ -8578,6 +8645,7 @@
 .30ers.nl
 .30galleries.com
 .30gaofa.com
+.30hubx.com
 .30kchalange.cf
 .30kjz0.garden
 .30lf888.top
@@ -8602,7 +8670,12 @@
 .30vorbei.ch
 .30vv.cc
 .30xt.cc
+.30y16.top
+.30y18.top
 .30y18ip.garden
+.30y24.top
+.30y32.top
+.30y38.top
 .30yiko.xyz
 .30yuanfenglou.cc
 .31-vakti.blogspot.com
@@ -8616,7 +8689,6 @@
 .311800car.com
 .311sjz.com
 .311yu.com
-.312875.cc
 .312fjwws.top
 .312mm.com
 .312sexchat.com
@@ -8683,16 +8755,9 @@
 .31vakti04x.shop
 .31vakti06x.shop
 .31vakti07x.shop
-.31vakti101.cfd
 .31vakti102.cfd
-.31vakti103.cfd
 .31vakti105.cfd
-.31vakti106.cfd
 .31vakti107.cfd
-.31vakti111.cfd
-.31vakti114.cfd
-.31vakti123.cfd
-.31vakti4.cyou
 .31vaktiporna.shop
 .31vaktipornb.shop
 .31vaktipornc.shop
@@ -8798,6 +8863,7 @@
 .32365.com.cn
 .32369.net
 .3238.org.cn
+.324324.cn
 .3245r324wef.blogspot.com
 .324j.com
 .325239.com.cn
@@ -8809,12 +8875,12 @@
 .326yu.com
 .3272school.com
 .327ee.com
+.3286xxx.com
 .3288.org.cn
 .328889.com
 .3298.org.cn
 .32aa.com
 .32bm.cc
-.32dyj.cfd
 .32gaoff.com
 .32huab.com
 .32kporn.com
@@ -8886,7 +8952,6 @@
 .338196.com.cn
 .3388cc.idv.tw
 .3388q.com
-.338bb.cc
 .339254.com
 .339278.com.cn
 .3399chanel.com
@@ -8971,6 +9036,7 @@
 .3441.tk
 .345170.com
 .345pc.com.cn
+.345vod.cc
 .346366.cn
 .346377.cn
 .34643hsarhearh.blogspot.com
@@ -9013,6 +9079,7 @@
 .353532.top
 .353cpw.com
 .353l.com
+.353l.top
 .353ll.com
 .353u.com
 .353xe.com
@@ -9130,6 +9197,7 @@
 .360jkcyw.com.cn
 .360kago.com.cn
 .360kan.com
+.360kmph.com
 .360ledm.com
 .360maca.com
 .360milftube.com
@@ -9150,7 +9218,6 @@
 .360vintagevegas.com
 .360vkan.com
 .360wifi.com.cn
-.360world.us
 .360xxxx.com
 .360zy.vip
 .361116.com
@@ -9172,6 +9239,7 @@
 .3621t.com
 .3628.org.cn
 .362degree.blogspot.com
+.362o.top
 .362wy.com
 .3633jm.garden
 .3638.org.cn
@@ -9217,7 +9285,6 @@
 .365mh.vip
 .365mmh.com
 .365netporn.shop
-.365nm.cn
 .365nude.blogspot.com
 .365pezd.site
 .365ph.best
@@ -9254,7 +9321,6 @@
 .365qiming.com
 .365scs24.com
 .365sekas.club
-.365sex.quest
 .365sexcams.com
 .365sexhd.com
 .365sexp.xyz
@@ -9279,10 +9345,10 @@
 .365ys.pro
 .365zbt.cn
 .365zhunong.org.cn
-.365zhuyunwang.com.cn
 .36612.com
 .366614.xyz
 .366624.com
+.36663.xyz
 .36666.xyz
 .3668.org.cn
 .366porno.net
@@ -9296,7 +9362,6 @@
 .36834.blogspot.com
 .368bet.com
 .368l.top
-.368n.com
 .368yu.com
 .369.bar
 .369191.xyz
@@ -9324,6 +9389,7 @@
 .36dj.com
 .36dmsf.shop
 .36dmsf.xyz
+.36er.cc
 .36gal.com
 .36huo10che.cc
 .36huo9che.cc
@@ -9370,7 +9436,6 @@
 .3708w.com
 .370cpw.com
 .371aa.com
-.371av.com
 .371hr.com
 .371jd.com
 .371sc.com
@@ -9425,6 +9490,7 @@
 .37mmp.xyz
 .37nay.com
 .37ppav.com
+.37tm.cc
 .37vvpb.mom
 .37webfind.com.cn
 .37xe.com
@@ -9435,7 +9501,6 @@
 .3800z.com
 .38033q.com
 .38053.com.cn
-.380cc.cc
 .380dd.com
 .380fu.com
 .380gg.com
@@ -9446,6 +9511,7 @@
 .380x41.garden
 .381112.com
 .3812marieadam765.blogspot.com
+.381994.com
 .381dd.com
 .381ee.com
 .381hs.com
@@ -9534,6 +9600,7 @@
 .389tt.com
 .389xe.com
 .38a9bdk.xyz
+.38ace.cn
 .38bmw.com
 .38caoff.com
 .38cccc.com
@@ -9726,7 +9793,6 @@
 .3c0t3.top
 .3c19.top
 .3c59.top
-.3c7pc6.com
 .3c8b7.com
 .3c8c9.com
 .3c8w9d.garden
@@ -9770,6 +9836,7 @@
 .3d-livesexchat.com
 .3d-luder.com
 .3d-milf-toons.blogspot.com
+.3d-monsters-porn.com
 .3d-porn-blog.com
 .3d-porn.biz
 .3d-porn.co
@@ -9789,7 +9856,6 @@
 .3d-sex-webcam.com
 .3d-sex.blogspot.com
 .3d-sex.eu
-.3d-sex.net
 .3d-sexcamchat.info
 .3d-sexcamchat.net
 .3d-sexgames.eu
@@ -9846,7 +9912,6 @@
 .3dcelebrities.blogspot.com
 .3dcfnm.blogspot.com
 .3dchinafc.com
-.3dcollector.ru
 .3dcomic-porn.pages.dev
 .3dcomics.ws
 .3dcomicsfreedownload.blogspot.com
@@ -10017,7 +10082,6 @@
 .3dporntop-50.linkfinder.biz
 .3dporntour.com
 .3dporntube.com
-.3dporntubex.com
 .3dporntype.com
 .3dpornvideos.com
 .3dpornvilla.com
@@ -10122,10 +10186,8 @@
 .3dxxx.org
 .3dxxxcomicsplus.com
 .3dxxxentertainments.blogspot.com
-.3dxxxplanet.com
 .3dxxxporn.com
 .3dxxxsexcam.com
-.3dxxxstereoscopic.com
 .3dxxxtoonporn.com
 .3dxxxx.com
 .3dydl.xyz
@@ -10173,9 +10235,9 @@
 .3flv.com
 .3foc380wk.garden
 .3ftko.cc
-.3fuck.com
 .3fumqm.garden
 .3fwideosxxx.blogspot.com
+.3fxw.com
 .3fy8.top
 .3g-porn.blogspot.com
 .3g-zone.com
@@ -10198,7 +10260,6 @@
 .3ghdo3.garden
 .3ghgo.com
 .3girls1funnel.com
-.3glasers.ch
 .3gmoco.com
 .3gnic.cn
 .3go.fun
@@ -10261,6 +10322,7 @@
 .3h16.top
 .3h3lff.garden
 .3h5c.com
+.3h84.top
 .3h9e.com
 .3haogou.com
 .3hcc.com
@@ -10276,6 +10338,7 @@
 .3holewhores4phone.com
 .3holewhores4phonefun.blogspot.com
 .3homevideo.com
+.3hpp.com
 .3hqun8.garden
 .3hschools.com
 .3hsny.com
@@ -10400,6 +10463,7 @@
 .3n22.top
 .3n28vw.garden
 .3n69ryl.garden
+.3n95.top
 .3nm.top
 .3nq.top
 .3nt9xn.garden
@@ -10407,6 +10471,7 @@
 .3o14pzawz.garden
 .3o4.top
 .3o46.top
+.3o53.top
 .3o7mup.garden
 .3ojlkg.garden
 .3oklxf.garden
@@ -10439,9 +10504,9 @@
 .3pima.com.cn
 .3pink.com
 .3pixxl.free.fr
+.3pkd.com
 .3pkhj.com
 .3play5.com
-.3plf.com
 .3polexrated.blogspot.com
 .3porn-videos.com
 .3porn.beauty
@@ -10573,13 +10638,13 @@
 .3t5c.com
 .3t74.top
 .3t7hvp.garden
+.3t83.top
 .3t8a43.garden
 .3tb.top
 .3td7r.xyz
 .3teensex.com
 .3teentube.com
 .3tiq9cs.garden
-.3tk.top
 .3tnptq.garden
 .3to0kgngr.garden
 .3tp45if.garden
@@ -10600,7 +10665,6 @@
 .3u89.top
 .3ue8c0.garden
 .3uf27wm.garden
-.3uf2bu.com
 .3uo.top
 .3updc5.garden
 .3uzcj9f.garden
@@ -10623,14 +10687,12 @@
 .3w.exhibvoyeur.free.fr
 .3w3wcom.net.cn
 .3w6zfs4j4.garden
-.3w7bbb99.com
 .3w8mbnp7.com.cn
 .3w8n.com
 .3wa5nh.garden
 .3wanjiu.com
 .3wayfuck.com
 .3wayporn.com
-.3wayxxx.com
 .3wcar.com.cn
 .3wetpussies.com
 .3wf.xyz
@@ -10745,6 +10807,7 @@
 .3xplanet.net
 .3xplanet.xyz
 .3xplay.com
+.3xporn.com
 .3xporn.xyz
 .3xpornfree.com
 .3xpornosztar.hu
@@ -10810,7 +10873,6 @@
 .3y1anc.top
 .3y78.top
 .3y7k.com
-.3y8yw87.com
 .3y94.top
 .3yatiantian.com
 .3yciknb.garden
@@ -10842,7 +10904,6 @@
 .4-548zzw.com
 .4-adultplease.blogspot.com
 .4-air.com
-.4-books.com
 .4-cam-sex.blogspot.com
 .4-cam.blogspot.com
 .4-cool.blogspot.com
@@ -10854,7 +10915,6 @@
 .4-kfilm.cyou
 .4-morechat.com
 .4-my-pleasure.blogspot.com
-.4-n.top
 .4-newz.xyz
 .4-phonesex.com
 .4-play-toys.com
@@ -10894,6 +10954,7 @@
 .400net.org.cn
 .400qikan.net
 .400tour.com.cn
+.401024.xyz
 .40107.com.cn
 .4015momo.cyou
 .4015yr.xyz
@@ -10904,7 +10965,6 @@
 .40220i.com
 .402yjj.top
 .403j.com
-.403yyq.top
 .4041.top
 .404cn.net
 .404dollars.com
@@ -10935,7 +10995,6 @@
 .408ii.com
 .408qq.com
 .408xpwp.garden
-.4095.top
 .409e.com
 .409kk.com
 .40a.cgtyponp.com
@@ -11030,6 +11089,7 @@
 .414yu.com
 .41591537.cn
 .415dd.com
+.415dh.cc
 .415j.com
 .416caqha.com
 .416dsygr.top
@@ -11045,7 +11105,6 @@
 .417u.com
 .417v.com
 .417yu.com
-.4181.top
 .418722.com
 .418j.com
 .418kk.com
@@ -11099,7 +11158,6 @@
 .41vstt.garden
 .41xxxx.com
 .41ybhi.garden
-.42-crmo.org
 .420bang.me
 .420bc.ca
 .420camgirls.com
@@ -11301,7 +11359,6 @@
 .445tt.com
 .445xj.com
 .445yan.com
-.44620.cc
 .446e.com
 .446m.com
 .446nxa.garden
@@ -11350,7 +11407,6 @@
 .44xav.com
 .44yiko.xyz
 .44yu.cc
-.45-98.org
 .450ww.com
 .451.co.za
 .4510.org.cn
@@ -11361,7 +11417,6 @@
 .452hh.com
 .452j.com
 .452o.com
-.4538.top
 .453dd.com
 .453gg.com
 .453z.com
@@ -11397,7 +11452,6 @@
 .458qq.com
 .458rr.com
 .458ww.com
-.4593.com.cn
 .45931.com
 .4595e9.top
 .4598w.com
@@ -11425,7 +11479,6 @@
 .45cdnsex4izle6432.shop
 .45cdnsex4izle663.shop
 .45cdnsex4izle754.shop
-.45dqa6gk7.com
 .45e.top
 .45f70r.vip
 .45gaoaa.com
@@ -11457,7 +11510,6 @@
 .45xxx.cc
 .45xxx.com
 .45yanyi.com
-.45z6r7.com
 .45zql.com
 .4610av.com
 .461s.com
@@ -11469,6 +11521,7 @@
 .4644634erueruerue.blogspot.com
 .4646585.com
 .46481.blogspot.com
+.464925.lol
 .4656a203.com
 .465789800.blogspot.com
 .465k.com
@@ -11485,7 +11538,6 @@
 .46bvfv2.garden
 .46caokk.com
 .46caopp.com
-.46cf.com
 .46d7.com
 .46gaoaa.com
 .46gaobb.com
@@ -11565,6 +11617,7 @@
 .480048.xyz
 .480ll.com
 .480pporn.blogspot.com
+.481154.lol
 .481k.com
 .482put.garden
 .4831ybl.garden
@@ -11573,7 +11626,6 @@
 .484448.xyz
 .4846666.com
 .484838.cc
-.4848kj.com
 .4848yy.com
 .484ii.com
 .484p.com
@@ -11693,7 +11745,6 @@
 .497272c.com
 .4973.info
 .49771.cc
-.498s.com
 .498t.com
 .499fan.com
 .49a9bzgmm.garden
@@ -11850,6 +11901,7 @@
 .4e38.top
 .4e3t4a.garden
 .4e4jpy.garden
+.4e81.top
 .4ebalka.ru.actor
 .4ebony.org.cn
 .4ebyt.com
@@ -11917,12 +11969,12 @@
 .4fuk.me
 .4fun-erotica.awesomeauthors.org
 .4fun-gay.awesomeauthors.org
-.4fun789.vip
 .4fv4.com
 .4fwmoc8.garden
 .4fyy.cc
 .4g-sm.com
 .4g0.top
+.4g11.top
 .4g47.top
 .4g4g.cc
 .4g61.top
@@ -11962,6 +12014,7 @@
 .4gworldchina.com
 .4gxy3pn.garden
 .4h21uz0.garden
+.4h36.top
 .4h599.com
 .4h5fim.com.cn
 .4h64.top
@@ -12304,6 +12357,7 @@
 .4j65.top
 .4j6cae.garden
 .4j6eo0t.garden
+.4j99.top
 .4jarf94.garden
 .4jav.top
 .4javx.top
@@ -12482,13 +12536,11 @@
 .4kxnxxtelugu.com
 .4kxvideo.com
 .4kxxx.click
-.4kxxx.net
 .4kxxx.top
 .4kxxx.vip
 .4kxxxhd.com
 .4kxxxporn.com
 .4kxxxtube.com
-.4kxxxvideo.com
 .4ky6vi.garden
 .4kyespornplease.com
 .4l.shop
@@ -12500,6 +12552,7 @@
 .4lb.top
 .4lbt.com
 .4ld.xyz
+.4legion.com
 .4len.net
 .4les.top
 .4livesexcams.com
@@ -12567,6 +12620,7 @@
 .4n30.com
 .4n31.com
 .4n41.com
+.4n51.com
 .4n60.com
 .4n61.com
 .4n77.top
@@ -12596,15 +12650,23 @@
 .4oz.top
 .4p02.com
 .4p02xi.garden
+.4p03.com
+.4p04.com
 .4p06.com
+.4p08.com
+.4p12.com
 .4p14.top
 .4p16.com
 .4p17.com
+.4p20.com
 .4p34.top
 .4p39.top
 .4p41.com
 .4p56.top
 .4p60.com
+.4p61.com
+.4p71.com
+.4p81.com
 .4p90.com
 .4p94of.garden
 .4p99ud.garden
@@ -12653,6 +12715,7 @@
 .4q05.com
 .4q06.com
 .4q09.com
+.4q17.com
 .4q21.com
 .4q31.com
 .4q32.top
@@ -12702,6 +12765,7 @@
 .4s47.com
 .4s49c8.garden
 .4s74.top
+.4s88.top
 .4s94.top
 .4sa.top
 .4sanclemente.com
@@ -12742,6 +12806,7 @@
 .4suyueu.garden
 .4sy9k7.garden
 .4szbqny.garden
+.4t11.top
 .4t15.top
 .4t1w6a.garden
 .4t75.top
@@ -12755,6 +12820,7 @@
 .4teenfuk.org.cn
 .4tejiu.com.cn
 .4thaxxx.com
+.4thetmj.com
 .4thomas.com
 .4tm.cc
 .4tomiko.com
@@ -12843,6 +12909,7 @@
 .4w98.top
 .4wank.com
 .4wdm.com
+.4werock.com
 .4womenpk.blogspot.com
 .4wp.top
 .4wuf.top
@@ -12885,6 +12952,7 @@
 .4y54y45.com.cn
 .4y59jznsa.garden
 .4y6.xyz
+.4y77.top
 .4y7h.top
 .4y8xrg.garden
 .4y92.top
@@ -12912,7 +12980,6 @@
 .4zta.com
 .4zwqh11.garden
 .4zy.top
-.5-0.top
 .5-fuwa.com.cn
 .5-gallon-beeri9.blogspot.com
 .5-gracei9.blogspot.com
@@ -12935,6 +13002,7 @@
 .5000zg.com
 .50039666.com
 .500500.co.il
+.500889.lol
 .500ball.com
 .500cams.tk
 .500caocao.com
@@ -12966,7 +13034,6 @@
 .505tc9g.garden
 .505xxx.net
 .505xxx.org
-.5063.top
 .5071c.cc
 .507f.com
 .507jj.com
@@ -12991,7 +13058,6 @@
 .50maturexxx.shop
 .50pfun.com
 .50picpic.com
-.50pix.com
 .50plus-kontaktanzeigen.com
 .50plus-milf.blogspot.com
 .50plus-singles.de
@@ -13025,7 +13091,6 @@
 .50shadesofbondage.com
 .50shadesofgay.com
 .50shadesofgushy.com
-.50shadesofsexxx.com
 .50tdtyz.garden
 .50tintensex.nl
 .50tonsdecouro.blogspot.com
@@ -13326,6 +13391,7 @@
 .51chigay.cc
 .51chigayr.cc
 .51chigua.hk
+.51chigua.la
 .51chigua.tw
 .51chigua1.cc
 .51chigua91.com
@@ -13531,7 +13597,6 @@
 .51kkk.cc
 .51kkle.com
 .51knitwear.com
-.51kp.me
 .51kp.org.cn
 .51kuailehua.com
 .51laws.com
@@ -13694,6 +13759,7 @@
 .51tube.com.cn
 .51u25x6.garden
 .51ulord.com
+.51vde.com
 .51vfr.com
 .51wanben.net
 .51wangka.com.cn
@@ -13724,7 +13790,6 @@
 .51xjq.com
 .51xlg.com
 .51xmhouse.cn
-.51xmxjt.com
 .51xpzkm.garden
 .51xsj.cc
 .51xts.com
@@ -13736,6 +13801,7 @@
 .51yantai.com
 .51yao.cn
 .51yayi.com.cn
+.51ydd.com
 .51yes.cc
 .51ygls.com
 .51yhego.com.cn
@@ -13745,6 +13811,7 @@
 .51youdian.com.cn
 .51ys.info
 .51ytb.com
+.51yu6.com
 .51yuepa.com
 .51yueyue.com
 .51yull.com
@@ -13867,7 +13934,6 @@
 .5278.mobi
 .5278edu.com
 .5278toy.com
-.527e.cc
 .5280344.com
 .5280bt.net
 .5280go.com
@@ -13920,10 +13986,12 @@
 .52gm6.com
 .52guzhuang.com
 .52hetang.com
+.52hfgy.net
 .52hhhh161.xyz
 .52hp.cn
 .52hsck.com
 .52htedu.com
+.52huaijiu.com
 .52huanbaodai.cn
 .52huixz.com
 .52huxian.com
@@ -13972,6 +14040,7 @@
 .52sam.com
 .52seaa.com
 .52seff.com
+.52sex.cc
 .52sex.de
 .52shepin.cn
 .52sheyang.com
@@ -13997,6 +14066,7 @@
 .52wzsc.com
 .52xb.cn
 .52xdc.com
+.52xiaohua.com
 .52xiaosun.com
 .52xinge.com
 .52xinyuangou.com
@@ -14041,7 +14111,6 @@
 .52zhoushan.cn
 .530bbs.com
 .530videos.com
-.5312.top
 .531hh.com
 .531n8g.garden
 .5320baby.com
@@ -14103,6 +14172,7 @@
 .53maogk.com
 .53maomg.com
 .53md.cc
+.53mh.com
 .53mv.com
 .53plhr.cn
 .53q8yt.com
@@ -14111,6 +14181,7 @@
 .53u1q8.garden
 .53ux.com.cn
 .53webfind.com.cn
+.53wp.com
 .53x.ca
 .53xe.com
 .53xporn.blogspot.com
@@ -14130,6 +14201,7 @@
 .543.xxx
 .5432hh.com
 .544423.xyz
+.54465543.com
 .5448jcom.cn
 .544ya.com
 .5454iiii.com
@@ -14169,7 +14241,6 @@
 .549oyetw.com
 .549r.com
 .54asd.net.cn
-.54b.top
 .54caoaa.com
 .54caoab.com
 .54chinahr.com
@@ -14201,12 +14272,14 @@
 .54xxx.vip
 .54ze4j.garden
 .54zzh.com
+.55.dog
 .550055.com
 .550pu.com
 .550sss.com
 .5513bb.garden
 .55172.com
 .551dh.com
+.5520.live
 .552005.com
 .55246.xyz
 .552653.cc
@@ -14216,14 +14289,11 @@
 .55391.com
 .55392.com
 .553xe.com
-.55400.top
 .55400800.com
-.55440.xyz
 .5545k.com
 .554645.xyz
 .554677.xyz
 .5546t.com
-.554c.com
 .555.it
 .555.porn
 .5551500.com
@@ -14390,7 +14460,6 @@
 .56cg.me
 .56cg1.com
 .56dangpu.com
-.56ejbz.com
 .56g611.garden
 .56h.xyz
 .56h0uaggf.garden
@@ -14414,7 +14483,6 @@
 .56seff.com
 .56sex.com
 .56shua.com
-.56t.top
 .56t.xyz
 .56tuxi.garden
 .56ucqa.lol
@@ -14444,7 +14512,6 @@
 .573ff.com
 .573ks.com
 .573shop.com
-.5748.top
 .574ff.com
 .574h.com
 .574o.top
@@ -14457,7 +14524,7 @@
 .5777q.com
 .577a.top
 .577xe.com
-.5782.top
+.5781981.com
 .578866b.com
 .5789t.com
 .57aihk.garden
@@ -14570,6 +14637,7 @@
 .58whfss.com
 .58win1go.com
 .58wx.com.cn
+.58wz.cc
 .58xkel.garden
 .58xyz.xyz
 .58yimen.com
@@ -14606,7 +14674,6 @@
 .593jj.com
 .593yu.com
 .593zg.com
-.5947.top
 .594848.com
 .594aigou.com
 .594d.com
@@ -14616,8 +14683,10 @@
 .594y.com
 .594zoz.garden
 .5950356.cc
+.5953148.cc
 .5959.org
 .595a.top
+.595o.top
 .595rcw.cn
 .595yu.com
 .59669.net
@@ -14658,6 +14727,7 @@
 .59vomgr.garden
 .59wqq.com
 .59x4dy5.garden
+.5a11.top
 .5a21.top
 .5a2d0.xyz
 .5a5a.net.cn
@@ -14679,7 +14749,6 @@
 .5aw0p3.cn
 .5az6l7.garden
 .5azc.xyz
-.5b2i9u.com
 .5b2n5yb.garden
 .5b899.com
 .5bc.me
@@ -14727,6 +14796,7 @@
 .5d7891s.garden
 .5d8d.com
 .5d8y.com
+.5d92.top
 .5dada.com
 .5danji.com
 .5david.com
@@ -14765,7 +14835,6 @@
 .5escorts.co.nz
 .5escorts.com
 .5f7p0yf.garden
-.5f8chrdj.com
 .5f9iks.garden
 .5fang.cc
 .5fengys.com
@@ -14780,6 +14849,7 @@
 .5fz.top
 .5g1n0.xyz
 .5g33.top
+.5g35.top
 .5g36.com
 .5g57ix.xyz
 .5g5h0.xyz
@@ -14832,7 +14902,6 @@
 .5h71.top
 .5h77.top
 .5h91.top
-.5h9ahn62.com
 .5help1.com
 .5hit.com
 .5hk6rd.garden
@@ -14887,11 +14956,9 @@
 .5j68.com
 .5j89.top
 .5jav.com
-.5jav.top
 .5jdczc.garden
 .5jhao.com
 .5jingying.com.cn
-.5jks965jx.com
 .5jl.fun
 .5jlu4l.garden
 .5jp6tzb.garden
@@ -14909,11 +14976,9 @@
 .5kporn.net
 .5kqe.top
 .5kteens.com
-.5kx.me
 .5l0g5n.garden
 .5l73.top
 .5l7rcf.garden
-.5l8.top
 .5l92.top
 .5l99.top
 .5laboom.com
@@ -14932,6 +14997,7 @@
 .5lu8.com
 .5lv4r2.garden
 .5lxb2a.garden
+.5m22.top
 .5m46.top
 .5m5so.com
 .5m62.top
@@ -14939,6 +15005,9 @@
 .5m72.top
 .5m88q.xyz
 .5m8g7vq.garden
+.5m96.top
+.5m98.top
+.5m99.top
 .5ma0ox.garden
 .5malsex.de
 .5maoah.com
@@ -15016,7 +15085,7 @@
 .5o87.top
 .5o967mi.garden
 .5obl70.garden
-.5ofa.com
+.5ocs.com
 .5oj055.garden
 .5ojq31b.garden
 .5oqvdg.cfd
@@ -15049,7 +15118,6 @@
 .5porno.top
 .5porno.tv
 .5pornoroot.com
-.5pornotorrent.net
 .5pornovideo.cc
 .5pornovideo.click
 .5pornovideo.name
@@ -15075,7 +15143,6 @@
 .5r27pv.garden
 .5r3d67.garden
 .5rbpdk.garden
-.5rf.top
 .5rhbzl.garden
 .5rin.info
 .5rk.net
@@ -15087,6 +15154,7 @@
 .5s3150.cfd
 .5s3150.cyou
 .5s3150.shop
+.5s34.top
 .5s54.top
 .5s65aa.garden
 .5s9ar6.garden
@@ -15108,6 +15176,7 @@
 .5song.vip
 .5song.xyz
 .5specialij.blogspot.com
+.5spv.com
 .5ssdy.com
 .5ssexn.com
 .5st.biz
@@ -15159,6 +15228,7 @@
 .5u28.top
 .5u49.top
 .5u4l0hb.garden
+.5u98.top
 .5ue6g8.garden
 .5ug6eiwfi.garden
 .5ui7k9.cfd
@@ -15217,7 +15287,6 @@
 .5x5xyy4.autos
 .5x5xyy9.xyz
 .5x5xz.cc
-.5x756r.com
 .5x8s0e.garden
 .5x90.top
 .5xa6akv.garden
@@ -15278,6 +15347,7 @@
 .5z17.top
 .5z2c.com
 .5z72.top
+.5z75.top
 .5z7wws.garden
 .5zbg.com
 .5zc8.com
@@ -15288,12 +15358,12 @@
 .5zipai.gq
 .5znnnjl-v.garden
 .5zst1.com
+.5ztz.com
 .5zv.top
 .5zv9x14.garden
 .5zz.xyz
 .5zzs.com
 .6-4u.de
-.6-9.top
 .6-day.com.cn
 .6-escort.de
 .6-kontakt.cz
@@ -15386,6 +15456,7 @@
 .610456.com
 .610china.com
 .610w.com
+.6112567.com
 .611321.xyz
 .611sa.com
 .6123111.com
@@ -15483,6 +15554,7 @@
 .624nn.com
 .624r.com
 .625900.com
+.625993.com
 .625ku.com
 .626079.com
 .6262bb.com
@@ -15527,8 +15599,6 @@
 .632121.com
 .63224.com
 .63234.cc
-.632551.cc
-.632559.cc
 .632ku.com
 .632l.top
 .632o.top
@@ -15621,12 +15691,10 @@
 .64y6.top
 .64zzzyxs.com
 .650529721d52.com
-.6509.top
 .650q.com
 .6515cx.com
 .651h7gakt.garden
 .65220202.com
-.652317.cc
 .652a.top
 .653ku.com
 .654.xxx
@@ -15636,7 +15704,6 @@
 .654q.cn
 .654ss.com
 .655.fun
-.655236.cc
 .6555.fun
 .6555x.com
 .65566168.com
@@ -15681,7 +15748,6 @@
 .65xt.cc
 .65yin.com
 .66-62.review
-.66-k.top
 .66000.free.fr
 .66056.com.cn
 .6607111.com
@@ -15731,6 +15797,7 @@
 .666170.xyz
 .666240.com
 .66626.xyz
+.666267.com
 .6662xxx.com
 .666300.com
 .666320.com
@@ -15752,11 +15819,13 @@
 .666994.com
 .666999.com
 .6669995.shop
+.6669995.xyz
 .666asp.com
 .666books.com.cn
 .666bukkake.com
 .666cam.cf
 .666cams.top
+.666dianying.cc
 .666fanhao.site
 .666jili.me
 .666kav.vip
@@ -15786,7 +15855,6 @@
 .6688444.xyz
 .6688cbs.com
 .6688qq.com
-.668bu.com
 .668bxg.com.cn
 .668hui.com
 .668jb.com
@@ -15820,6 +15888,7 @@
 .66cg12.com
 .66cg19.com
 .66ck.xyz
+.66dsju.com
 .66e.nddtkril.com
 .66eljj.garden
 .66escort.com
@@ -15833,7 +15902,6 @@
 .66hub.com
 .66huobao.mom
 .66iia2.garden
-.66jjd.com
 .66l1uw.garden
 .66l2mz.garden
 .66lc.com
@@ -15900,7 +15968,6 @@
 .674u.com
 .67511.com
 .6752uk.cn
-.675782.com
 .67586.com
 .675oo.com
 .675pp.com
@@ -16032,7 +16099,6 @@
 .687sex.com
 .687xe.com
 .687yu.com
-.6882d.com
 .68868.com.cn
 .688717.com
 .6888x.com
@@ -16057,7 +16123,6 @@
 .68djj.com
 .68dm.com.cn
 .68f6.com
-.68g9rm.com
 .68gamebai.click
 .68gaopp.com
 .68green.com
@@ -16117,7 +16182,6 @@
 .695556.com.cn
 .6969movies.com
 .696vbh.garden
-.697238.cc
 .69760a.com
 .697uu.com
 .697yu.com
@@ -16267,6 +16331,7 @@
 .69movie96.blogspot.com
 .69movies.de
 .69movies.net
+.69naked.com
 .69nastymetotalkporn.pages.dev
 .69ner.blogspot.com
 .69newth.com
@@ -16298,6 +16363,7 @@
 .69qx.com
 .69qzj2rag.garden
 .69r.org
+.69re.cc
 .69re.net
 .69re.org
 .69red.com
@@ -16338,8 +16404,6 @@
 .69swing.com.br
 .69syd.rest
 .69t00.com
-.69t102.com
-.69t294.com
 .69t295.com
 .69t301.com
 .69t302.com
@@ -16394,7 +16458,7 @@
 .69y7.com
 .69yed.com
 .69yhy.com
-.69yw.xyz
+.69yw.cc
 .69yw2.xyz
 .69yx.cc
 .6a0.top
@@ -16425,7 +16489,6 @@
 .6b8njoe.garden
 .6b9vkj.garden
 .6bangs.com
-.6bbd.com
 .6bbgjs6.org.cn
 .6bc.me
 .6bd.net
@@ -16549,6 +16612,7 @@
 .6g702n.garden
 .6g96.top
 .6g99jv.com.cn
+.6gamesonline.com
 .6gaym.top
 .6gcgm83zc4b87f.xyz
 .6gdz.link
@@ -16599,6 +16663,7 @@
 .6htsp.xyz
 .6htxcb.com
 .6hu5sa.garden
+.6hw588.xyz
 .6hy.cc
 .6hz.cc
 .6hzl.wang
@@ -16612,6 +16677,7 @@
 .6inserate.ch
 .6inthecity.ch
 .6iprz3.garden
+.6is.cc
 .6isdgo.garden
 .6isu3cdh6.garden
 .6iwevx.garden
@@ -16624,9 +16690,9 @@
 .6j33.top
 .6j34.top
 .6j38.top
+.6j62.top
 .6j76.top
 .6ja.top
-.6jav.top
 .6jby90.garden
 .6jd80q.cfd
 .6jd80q.cyou
@@ -16705,6 +16771,7 @@
 .6mzt.com.cn
 .6n-z5tmtx.garden
 .6n.org.cn
+.6n17.top
 .6n2tos.garden
 .6n81.top
 .6n85.top
@@ -16725,6 +16792,7 @@
 .6nuj9b.com.cn
 .6nzdp4.garden
 .6o33.top
+.6o34.top
 .6o3gz.com
 .6o4mzy5.garden
 .6o71.top
@@ -16818,6 +16886,7 @@
 .6s0.top
 .6s14e.com
 .6s54.cc
+.6s55.top
 .6s59.top
 .6s98.com
 .6sac.com
@@ -16835,6 +16904,7 @@
 .6sexe9.1.free.fr
 .6sexe9.2.free.fr
 .6sexe9.free.fr
+.6sexgames.com
 .6sextube.net
 .6shop.dk
 .6sj5uxwfe.xyz
@@ -16846,7 +16916,6 @@
 .6spot.de
 .6srs.xyz
 .6ssdy.com
-.6st.top
 .6su074.garden
 .6sv9vcjoa.garden
 .6swg.com
@@ -16892,6 +16961,7 @@
 .6uuo6jj.garden
 .6uuwdx.garden
 .6uw.top
+.6uy9lsyvoh.cn
 .6v78.top
 .6v9bz.com
 .6va683q.garden
@@ -16914,7 +16984,6 @@
 .6w97.top
 .6webcam.ch
 .6webfind.com.cn
-.6wgcga.com
 .6wh7g1.garden
 .6wi.top
 .6wp.top
@@ -16970,13 +17039,12 @@
 .6zmp4w.garden
 .6zo2.top
 .6zogu7o.com
-.6zpan5.com
 .6zyc.org
 .6zz3.com
 .6zz47fs.garden
 .7-11hn.com.cn
 .7-80.com
-.7-k.top
+.7-elevencareers.com
 .7-w.top
 .7-yn.cn
 .70-s-28wmr5.blogspot.com
@@ -17036,7 +17104,6 @@
 .70766.cc
 .707a.top
 .707x.com
-.7080.us
 .708a.top
 .708bb.com
 .708j.com
@@ -17080,6 +17147,7 @@
 .711sex.com
 .711xe.com
 .712238.com
+.712588.com
 .712a.top
 .712sex.com
 .7134.top
@@ -17202,7 +17270,6 @@
 .723pp.com
 .723ss.com
 .723xx.com
-.7248.top
 .724bb.com
 .724ka.com
 .724mm.com
@@ -17306,7 +17373,6 @@
 .737tt.com
 .737vysj.garden
 .738153.com.cn
-.7384.top
 .73872.blogspot.com
 .738993.cc
 .738dd.com
@@ -17375,6 +17441,7 @@
 .743oo.com
 .74478.org.cn
 .744d.com
+.746a.top
 .746bb.com
 .746j.com
 .746z.com
@@ -17390,7 +17457,6 @@
 .747yy.com
 .747zwzaq.com
 .74908.cc
-.7492.top
 .749com.com
 .749inc.org.cn
 .749p.com
@@ -17445,7 +17511,6 @@
 .753uu.com
 .753yu.com
 .7542ck.cc
-.75478.cc
 .754dd.com
 .754uu.com
 .75529.cn
@@ -17535,6 +17600,7 @@
 .766ff.com
 .766g.com
 .766h.cn
+.766o.top
 .7671111.com
 .76756.com.cn
 .7677778.vip
@@ -17609,6 +17675,7 @@
 .774ll.com
 .774ngr.com
 .774ss.com
+.77521.cc
 .77527.top
 .77582.com
 .77583.com
@@ -17625,7 +17692,6 @@
 .77625.com
 .77631.com
 .7766hj.com
-.7766tv.com
 .776k.top
 .776l.top
 .776ll.com
@@ -17653,6 +17719,7 @@
 .777960.xyz
 .777amateurcams.com
 .777amateursex.com
+.777av.cc
 .777av.vip
 .777bilder.com
 .777cam.blogspot.com
@@ -17708,7 +17775,6 @@
 .777xxx.bet
 .777zai.cc
 .77831.com
-.778899.info
 .7788jsx.com
 .7788mall.top
 .778ll.com
@@ -17747,6 +17813,7 @@
 .77m7.com
 .77maott.com
 .77mvp.xyz
+.77niu.cn
 .77nuoq.sbs
 .77nvnv.com
 .77p2p.com
@@ -17859,6 +17926,7 @@
 .78shike.com
 .78smy47.lol
 .78ttt.com
+.78tu.cn
 .78vnvn.com
 .78winbox.life
 .78xxx.cc
@@ -17894,6 +17962,7 @@
 .79555.xyz
 .795b.top
 .795f385d2d96.com
+.795i.top
 .795m.com
 .795mm.com
 .795pp.com
@@ -17940,7 +18009,6 @@
 .79sm.ws
 .79sp.com
 .79t.xyz
-.79wt.cn
 .79xxx.com
 .79zfry.garden
 .7a09lz.garden
@@ -18015,6 +18083,7 @@
 .7cvzc9.garden
 .7cxy.com
 .7cy.net.cn
+.7d23.top
 .7d4d.cc
 .7d65.top
 .7d719a193501.com
@@ -18103,6 +18172,7 @@
 .7dakporno3.click
 .7dakporno3.shop
 .7dakporno30.click
+.7dakporno31.click
 .7dakporno31.shop
 .7dakporno33.shop
 .7dakporno34.life
@@ -18169,12 +18239,14 @@
 .7dwh3e.garden
 .7dxb.me
 .7dxd5xxx.cc
+.7e37.top
 .7e3c.com
 .7e3rjo.cfd
 .7e3rjo.cyou
 .7e3rjo.shop
 .7e3thl7.garden
 .7e4qba.garden
+.7e67.top
 .7e8jpt.cfd
 .7e8jpt.cyou
 .7e8jpt.shop
@@ -18188,7 +18260,6 @@
 .7ek2.com
 .7eo9.top
 .7eqw6o.garden
-.7era.ru
 .7eu2zv.xyz
 .7evjel.garden
 .7f0gta.cfd
@@ -18198,6 +18269,7 @@
 .7f5bcc.cfd
 .7f5bcc.cyou
 .7f5bcc.shop
+.7f86.top
 .7faw1x.garden
 .7fd19336bdfef041.pw
 .7fdwweicnsp92.click
@@ -18243,6 +18315,7 @@
 .7i4jqe1.garden
 .7i5hqoy.cn
 .7i61.top
+.7i66.top
 .7i6wawg.garden
 .7i99td.garden
 .7ici.fr.free.fr
@@ -18349,6 +18422,7 @@
 .7o1rvw8.garden
 .7o22.top
 .7o27.top
+.7o51.top
 .7o67.top
 .7o79pk.garden
 .7o7m.top
@@ -18366,6 +18440,7 @@
 .7p66.top
 .7p6rzi.garden
 .7p72.top
+.7p73.top
 .7p88.top
 .7papa.com
 .7pb.top
@@ -18394,6 +18469,7 @@
 .7pqw3m.garden
 .7pz4tq.garden
 .7pz61.com
+.7q24.top
 .7q39.top
 .7q56.top
 .7q63.top
@@ -18404,7 +18480,6 @@
 .7qishuo.com.cn
 .7qo.cc
 .7qwg3.live
-.7qxxx88g.com
 .7r.522027.xyz
 .7r.org.cn
 .7r0--6v0v.garden
@@ -18449,14 +18524,12 @@
 .7sexclips.com
 .7sexvideos.com
 .7sexvideos.pages.dev
-.7seyd.com
 .7sgkccq.garden
 .7she.com
 .7shuwu.cc
 .7shuwu.org
 .7sinsnet.blogspot.com
 .7sky.life
-.7smm.top
 .7srqn82.garden
 .7starau.com
 .7starhd.actor
@@ -18480,7 +18553,6 @@
 .7starhdpat.com
 .7starhdpro.xyz
 .7starhdweb.com
-.7starmv.info
 .7starmv.quest
 .7starmv.skin
 .7starmv.study
@@ -18504,11 +18576,13 @@
 .7t55.top
 .7t5uzu.garden
 .7t72.top
+.7t74.top
 .7t75.top
 .7t8j.com
 .7t98.top
 .7tage6.at
 .7tanhua.com
+.7tb.cc
 .7tcp.com.cn
 .7techart.com
 .7tesma.garden
@@ -18539,6 +18613,7 @@
 .7twwm9.garden
 .7txafiz.garden
 .7u-edu.com
+.7u17.top
 .7u2.com.cn
 .7u43.top
 .7u45.top
@@ -18633,7 +18708,6 @@
 .7y56j7.garden
 .7yan.com.cn
 .7ybp4.com
-.7ye.top
 .7yedy.com
 .7yg9nkp6u.garden
 .7ygvf8j.garden
@@ -18673,6 +18747,7 @@
 .80020.cn
 .800414.com
 .800524.com
+.800546.com
 .800900phonesex.com
 .800900phonesexnumbers.com
 .800amateurphonesex.com
@@ -18747,6 +18822,7 @@
 .80caofa.com
 .80caoka.com
 .80dm.cc
+.80ev.com
 .80fff.com
 .80gays.com
 .80h.cn
@@ -18795,6 +18871,7 @@
 .812oo.com
 .812ss.com
 .812xe.com
+.813131.lol
 .813269.cc
 .813betn.com
 .813ll.com
@@ -18843,6 +18920,7 @@
 .818ylw.com
 .819311.com
 .8193777.com
+.81985.cc
 .819dy.com
 .819jj.com
 .819oo.com
@@ -18907,9 +18985,9 @@
 .82293.homes
 .82293.xyz
 .822xe.com
-.8236.top
 .8238di.garden
 .823gg.com
+.823l.top
 .823rqveg.com
 .823rr.com
 .823sjgdm.com
@@ -18964,6 +19042,7 @@
 .82udov.garden
 .82xj6s.garden
 .82xnxx.com
+.82yk.com
 .830e.com
 .830k.com
 .830nn.com
@@ -18981,13 +19060,13 @@
 .832tt.com
 .832z.com
 .83310429.com
-.8332.top
 .833535.com
 .833ag.life
 .833h.top
 .833i.top
 .833wm.com
 .83442.com
+.834870.lol
 .834m.com
 .834qq.com
 .83534.com
@@ -19009,7 +19088,6 @@
 .837ll.com
 .837qq.com
 .837tt.com
-.8380.top
 .838888.net
 .83897593.com
 .838aa.com
@@ -19100,9 +19178,62 @@
 .848ll.com
 .848nn.com
 .848oo.com
+.849bb588.vip
+.849bb775.vip
+.849bb978.vip
+.849bb993.vip
+.849cc321.vip
+.849cc599.vip
+.849cc693.vip
 .849dd.com
+.849dd122.vip
+.849dd266.vip
+.849dd355.vip
+.849dd678.vip
+.849dd855.vip
+.849ee885.vip
+.849ff197.vip
+.849ff558.vip
+.849ff663.vip
+.849ff668.vip
+.849ff938.vip
+.849ff968.vip
+.849ff996.vip
+.849gg988.vip
+.849hh227.vip
+.849hh313.vip
+.849hh889.vip
+.849hh925.vip
+.849hh926.vip
+.849hh929.vip
+.849jj678.vip
+.849jj995.vip
+.849kk778.vip
 .849l.top
+.849mm898.vip
+.849mm969.vip
+.849mm977.vip
+.849mm998.vip
+.849nn889.vip
+.849nn998.vip
+.849pp579.vip
+.849pp688.vip
+.849qq776.vip
+.849qq873.vip
+.849qq875.vip
+.849qq876.vip
+.849qq996.vip
+.849rr887.vip
+.849rr995.vip
+.849uu558.vip
+.849uu567.vip
+.849uu665.vip
+.849ww985.vip
+.849ww987.vip
 .849xx.com
+.849yy996.vip
+.849yy997.vip
+.849zz699.vip
 .84caoab.com
 .84caofa.com
 .84dx.cc
@@ -19142,7 +19273,6 @@
 .851nn.com
 .851rr.com
 .851tt.com
-.852518.com
 .852hk.com
 .852x480.asia
 .853i.com
@@ -19166,7 +19296,6 @@
 .855n.com
 .855y.top
 .856192.com.cn
-.856591.cc
 .856592.cc
 .85668.com.cn
 .856qq.com
@@ -19198,14 +19327,13 @@
 .858r.top
 .858sex.com
 .85902.org.cn
-.859592.cc
 .859942.com
 .859a.top
 .859av.com
 .859dcd48h.garden
+.859f.top
 .859kk.com
 .859uu.com
-.859ww.com
 .859zz.com
 .85apput.com
 .85av.com.tw
@@ -19225,7 +19353,6 @@
 .85mpp.com
 .85mtly.garden
 .85nz.com
-.85p.top
 .85p3ar4us.garden
 .85po.com
 .85po.net
@@ -19270,7 +19397,6 @@
 .861yu.com
 .861zz.com
 .862cbr.garden
-.862cp55f.com
 .862ee.com
 .862ll.com
 .862mm.com
@@ -19328,7 +19454,6 @@
 .869jj.com
 .869qq.com
 .869rr.com
-.86b9a3.com
 .86bi.com
 .86cams.com
 .86cczo.garden
@@ -19357,7 +19482,6 @@
 .86p8t3.garden
 .86pass.com
 .86px.org.cn
-.86r.top
 .86sexn.net
 .86spv.com
 .86t8jar.garden
@@ -19448,13 +19572,11 @@
 .87u5gf.garden
 .87w.xyz
 .87webfind.com.cn
-.87x87.com
 .87x9t1.cfd
 .87x9t1.cyou
 .87x9t1.shop
 .87xv6l6al.garden
 .87zo.com
-.88-k.top
 .88-n.top
 .88-tv.com
 .8800493.xyz
@@ -19501,7 +19623,6 @@
 .882oo.com
 .883258.com
 .8833ks.com
-.8833uu.com
 .88352222.com
 .883743.com
 .883m87y.garden
@@ -19515,7 +19636,9 @@
 .885dd.com
 .885i.top
 .885ll.com
+.885o.top
 .885pq.com
+.886130.lol
 .8862a.com
 .8864w.com
 .8866659.com
@@ -19524,6 +19647,7 @@
 .8868y53.com
 .88768.blogspot.com
 .887719.xyz
+.887776.cc
 .887789.top
 .887791.xyz
 .88789.pw
@@ -19566,7 +19690,6 @@
 .88889966.com
 .8888ln.com
 .8888vm.com
-.8888xc.com
 .8888xnxx.com
 .888944.com
 .8889mm.com
@@ -19621,6 +19744,7 @@
 .88ck.life
 .88diamond.com.cn
 .88dkw.com
+.88dusu.com
 .88ezez.com
 .88ff.pw
 .88ff.top
@@ -19659,7 +19783,6 @@
 .88porn.quest
 .88porn.site
 .88porn.space
-.88pornhub.com
 .88pron.beauty
 .88pron.homes
 .88pussy.vip
@@ -19686,6 +19809,7 @@
 .88xxx.info
 .88yun.net
 .88yunpan.com
+.88zzys.com
 .89-melayuboleh.blogspot.com
 .89.eu
 .89.vc
@@ -19709,7 +19833,6 @@
 .891uu.com
 .891yy.com
 .8926av.com
-.892c.com
 .892i.top
 .892rr.com
 .892tt.com
@@ -19744,6 +19867,7 @@
 .897rr.com
 .897uu.com
 .8980.com.cn
+.89833.cc
 .898463.com
 .8987654.xyz
 .8988gm.com
@@ -19782,11 +19906,9 @@
 .89xxx89.blogspot.com
 .89yiku.xyz
 .89zhbr.garden
-.8a1.top
 .8a11.top
 .8a1alx.garden
 .8a1l5l.com.cn
-.8a2.top
 .8a3a93.garden
 .8a73.top
 .8ac31u0.garden
@@ -19798,6 +19920,7 @@
 .8amvt6f.garden
 .8animal.com
 .8antwm.garden
+.8ast.com
 .8auc.com
 .8av.club
 .8b0prh.garden
@@ -19876,7 +19999,6 @@
 .8dqh2z.garden
 .8ds.cc
 .8dv.xyz
-.8dw3n.com
 .8dw7kf.garden
 .8e3158.cn
 .8e35.top
@@ -19884,6 +20006,7 @@
 .8e5lpj3.garden
 .8e61.top
 .8e89.top
+.8e98.top
 .8eh75l.garden
 .8ehwx0.garden
 .8erotica.com
@@ -19900,6 +20023,7 @@
 .8freeav.com
 .8freecams.com
 .8freeporn.com
+.8fuckmilf.com
 .8fw0rg0.garden
 .8fwzf3ky3.garden
 .8fxdqr.garden
@@ -19942,6 +20066,7 @@
 .8hp9zu.garden
 .8huanxiang.com.cn
 .8i2x77.garden
+.8i68.top
 .8icpp.com
 .8idy.com
 .8if5zg.garden
@@ -19956,14 +20081,16 @@
 .8ip28hc.garden
 .8it68q.garden
 .8izmoh.garden
+.8j28.top
+.8j95.top
 .8j9z7k.garden
-.8jav.top
 .8jdkh.cn
 .8jfbt5va3r.com
 .8jh2c6.garden
 .8jj.xyz
 .8jj961.garden
 .8jl.top
+.8joac.a.swagporn.xyz
 .8jsyhy9.dizhi22.com
 .8jw16o.garden
 .8jx62g.garden
@@ -19971,8 +20098,10 @@
 .8k-gay-porn.com
 .8k00.com
 .8k15.top
+.8k25.top
 .8k3xqu.garden
 .8k4z7s.garden
+.8k56.top
 .8k62.top
 .8kanjw.garden
 .8kavav.com
@@ -20028,6 +20157,7 @@
 .8m13mb.garden
 .8m23.cc
 .8m26x68.garden
+.8m54.top
 .8maoaq.com
 .8maobt.com
 .8maryjane-johnson5.blogspot.com
@@ -20091,7 +20221,6 @@
 .8p23.top
 .8p2p.com
 .8p3.top
-.8p7.top
 .8p71.top
 .8p73.top
 .8p75.top
@@ -20133,7 +20262,6 @@
 .8r4jr5.garden
 .8r6.top
 .8r96.top
-.8rbdu3rzz.com
 .8rc.top
 .8rdrke.garden
 .8redchili.blogspot.com
@@ -20162,6 +20290,7 @@
 .8sex.co
 .8sex.life
 .8sex.live
+.8sex.me
 .8sex.net
 .8sex.online
 .8sex.pro
@@ -20183,6 +20312,7 @@
 .8t5d0b.garden
 .8t7-xrlcr.garden
 .8t8.top
+.8t91.top
 .8ta.top
 .8tanhua.com
 .8teen.de
@@ -20238,10 +20368,10 @@
 .8v30.top
 .8v3yv8.garden
 .8v4.top
+.8v61.top
 .8v76.top
 .8v8507.garden
 .8vb2jc.garden
-.8vbfxxx.9se4.cc
 .8vcc.cc
 .8ve1wn.garden
 .8veali0j9.garden
@@ -20288,7 +20418,6 @@
 .8x89.top
 .8x8x.com
 .8x8x.io
-.8x8x.net
 .8x8x.one
 .8x8x.pro
 .8x8x.vip
@@ -20364,7 +20493,6 @@
 .8xxxt449.top
 .8xxxtube.com
 .8xxxtuber.com
-.8xxxuu.com
 .8xyy0.xyz
 .8xz6l.xyz
 .8y.net
@@ -20373,7 +20501,6 @@
 .8y13.top
 .8y15.top
 .8y3hro.garden
-.8y5.top
 .8y89.top
 .8y8rjr.garden
 .8y99.top
@@ -20386,8 +20513,6 @@
 .8yrm9d.garden
 .8yrntel.cyou
 .8ysex001.icu
-.8ytop001.xyz
-.8ytop002.xyz
 .8ytop01.icu
 .8ytop02.icu
 .8ytop03.icu
@@ -20396,6 +20521,7 @@
 .8yy1yk.garden
 .8yyx.com
 .8z-example-keyword-2-ol.blogspot.com
+.8z13.top
 .8z2xi49.garden
 .8z32.top
 .8z58.top
@@ -20412,15 +20538,15 @@
 .8zs.com.cn
 .8zt.cc
 .8zt36a.garden
-.8zu.top
 .8zvj.top
 .8zxik5ja0.garden
 .9-11truthbds.org
 .9-ba.cn
 .9-eyes.com
 .9-m.top
+.9-m04wix2.garden
 .9-mobile.com
-.9-n.top
+.9-t7rbumg.garden
 .9-teens.com
 .90-57.at
 .90002222.com
@@ -20468,7 +20594,6 @@
 .904ss.com
 .904uu.com
 .904wm.com
-.9052.top
 .905endo.com
 .905jj.com
 .905sf.com
@@ -20563,6 +20688,7 @@
 .91-wang-sexy.com
 .91-wang-xxx.com
 .91.porn
+.91.vin
 .91.xxx
 .910008.com.cn
 .91000xxx.com
@@ -20581,6 +20707,7 @@
 .910rr.com
 .910sky.com.cn
 .9111.buzz
+.911588.com
 .911asians.com
 .911bg1.com
 .911bl.com
@@ -20650,7 +20777,6 @@
 .911jerkoffphonesexkittens.blogspot.com
 .911jerkoffphonesexsluts.blogspot.com
 .911porn.cc
-.911porn.me
 .911porn.wiki
 .911tanhua.com
 .911xe.com
@@ -20669,6 +20795,7 @@
 .914uu.com
 .9152088.com
 .9152gx.garden
+.9156789.com
 .915858.org.cn
 .91593jh.garden
 .915dd.com
@@ -20686,7 +20813,6 @@
 .9171westcoast.com
 .9177tv.com
 .917gg.com
-.917kf.com
 .917yk.com
 .917zz.com
 .91807.clacdzqy.cc
@@ -20707,6 +20833,7 @@
 .9191bt.top
 .9191md.me
 .9191meiren.com
+.9191py.com
 .9191w.com
 .919416.xyz
 .9195a.com
@@ -20872,6 +20999,7 @@
 .91dhw.com
 .91dianyinghub.net
 .91dizhi8.com
+.91dn.cc
 .91dongdong.com.cn
 .91dscg.club
 .91dscg9.com
@@ -20891,6 +21019,7 @@
 .91ff.cc
 .91fl.cc
 .91fongpei.icu
+.91forum.com
 .91fqtv.com
 .91free.club
 .91free.tv
@@ -20935,7 +21064,6 @@
 .91haolaoshi.com
 .91haoyun.com
 .91hc.net
-.91hdav.net
 .91hdporn.shop
 .91hdsp2.lol
 .91heihei.xyz
@@ -21054,9 +21182,9 @@
 .91liangzhuang.com
 .91lmtv.com
 .91lol.im
-.91loli8.com
 .91loufeng.club
 .91lsj.com
+.91lsy.com
 .91lulukan.com
 .91madou.me
 .91madouwang.com
@@ -21149,37 +21277,113 @@
 .91porn-yuanc33.wiki
 .91porn.20082008-xyz8224.workers.dev
 .91porn.24x7.hk
+.91porn.ac
+.91porn.actor
+.91porn.adult
+.91porn.ai
+.91porn.art
 .91porn.asia
+.91porn.baby
+.91porn.band
 .91porn.bar
+.91porn.beauty
 .91porn.bid
+.91porn.bike
+.91porn.bingo
+.91porn.bio
+.91porn.black
+.91porn.blue
 .91porn.bond
+.91porn.boston
+.91porn.bot
+.91porn.build
+.91porn.bz
+.91porn.cab
+.91porn.cafe
+.91porn.cam
+.91porn.center
+.91porn.cfd
+.91porn.cheap
+.91porn.christmas
+.91porn.city
+.91porn.cloud
 .91porn.club
 .91porn.cm
+.91porn.cn.com
+.91porn.co.com
 .91porn.com
+.91porn.com.co
+.91porn.com.de
+.91porn.com.se
 .91porn.date
+.91porn.day
+.91porn.dev
+.91porn.digital
+.91porn.discount
 .91porn.diy
+.91porn.doctor
+.91porn.dog
+.91porn.domains
+.91porn.fan
+.91porn.film
+.91porn.fit
 .91porn.free
 .91porn.fun
+.91porn.gallery
+.91porn.gg
+.91porn.global
+.91porn.group
+.91porn.hair
 .91porn.hk
+.91porn.house
+.91porn.ing
 .91porn.ink
+.91porn.it.com
 .91porn.kafeidou.site
-.91porn.la
+.91porn.kiwi
+.91porn.land
+.91porn.legal
+.91porn.li
 .91porn.life
 .91porn.live
+.91porn.locker
 .91porn.lol
 .91porn.ltd
 .91porn.m3u8-download.com
 .91porn.makeup
+.91porn.market
 .91porn.mobi
 .91porn.monster
+.91porn.name
+.91porn.news
+.91porn.one
 .91porn.onework.workers.dev
 .91porn.onl
+.91porn.online
+.91porn.party
+.91porn.pe
+.91porn.pink
+.91porn.place
+.91porn.plus
+.91porn.porn
 .91porn.quest
+.91porn.red
+.91porn.run
+.91porn.sale
 .91porn.sbs
+.91porn.school
 .91porn.sex
+.91porn.sh
+.91porn.shop
+.91porn.show
+.91porn.skin
 .91porn.space
 .91porn.team
+.91porn.tel
+.91porn.today
+.91porn.trade
 .91porn.tv
+.91porn.uno
 .91porn.video
 .91porn.vip
 .91porn.wiki
@@ -21328,6 +21532,7 @@
 .91porna12.com
 .91porna13.com
 .91porna14.com
+.91porna15.com
 .91porna16.com
 .91porna17.com
 .91porna18.com
@@ -21343,6 +21548,7 @@
 .91porna25.com
 .91porna26.com
 .91porna27.com
+.91porna28.com
 .91porna29.com
 .91porna3.cc
 .91porna3.com
@@ -21383,7 +21589,6 @@
 .91porna6.cc
 .91porna6.com
 .91porna60.com
-.91porna60.top
 .91porna61.cc
 .91porna61.com
 .91porna62.com
@@ -21403,8 +21608,6 @@
 .91porna73.com
 .91porna8.com
 .91pornaa.com
-.91pornaa.info
-.91pornaa.me
 .91pornal.cc
 .91pornalaoer.pages.dev
 .91pornapp.cc
@@ -21416,6 +21619,7 @@
 .91pornav.wiki
 .91pornavx.com
 .91pornbbs.com
+.91pornbest.com
 .91pornc.cc
 .91porncg.com
 .91pornd.com
@@ -21428,13 +21632,13 @@
 .91porne.cc
 .91porne.com
 .91pornforum.com
+.91pornfun.com
 .91porngay.com
 .91porngg.com
 .91porngw5.wiki
 .91pornhot.com
 .91pornhot.net
 .91pornhub.me
-.91pornhub8.com
 .91pornhubs.cc
 .91porni.cc
 .91porni.com
@@ -21444,6 +21648,7 @@
 .91pornmt.buzz
 .91pornnav.cc
 .91pornnm.wiki
+.91pornny.com
 .91porno.com
 .91porno.org
 .91porno.vip
@@ -21463,13 +21668,15 @@
 .91pornplus.site
 .91pornplus.xyz
 .91pornpol.buzz
+.91pornpro.com
 .91pornq.com
 .91pornq.net
 .91pornr.com
+.91porns.com
+.91porns.org
 .91porns.vip
 .91porns.xyz
 .91pornse.com
-.91pornsex.cc
 .91pornsex.com
 .91pornshipin.com
 .91pornsm.pages.dev
@@ -21863,7 +22070,6 @@
 .92111.com.cn
 .9217k.com
 .92186h.xyz
-.921bb.com
 .921ny.com
 .921rr.com
 .921ss.com
@@ -21883,7 +22089,6 @@
 .92489.com
 .9248a.com
 .924pp.com
-.924xx.com
 .925c25.com
 .925hg.com
 .925i.top
@@ -21925,6 +22130,7 @@
 .92hm.top
 .92isim.com
 .92lll.com
+.92ly.cc
 .92maobk.com
 .92maogk.com
 .92mdm.com
@@ -21957,8 +22163,6 @@
 .930u.com
 .930vv.com
 .930ww.com
-.931915.cc
-.931955.cc
 .931983.com
 .931bz.com
 .931gg.com
@@ -21981,7 +22185,6 @@
 .933ii.com
 .933l.top
 .933yu.com
-.9340.top
 .93413.com.cn
 .93426.com.cn
 .93438.org.cn
@@ -22065,7 +22268,6 @@
 .944ll.com
 .9453.baby
 .9453tea.tw
-.9457.top
 .945dd.com
 .945diy.com
 .945ee.com
@@ -22205,7 +22407,6 @@
 .95centphonesex.net
 .95centsphonesex.com
 .95hhab.com
-.95jbuv.com
 .95ji2o.garden
 .95jvlh.garden
 .95jz.top
@@ -22217,6 +22418,7 @@
 .95mca9.garden
 .95mm.me
 .95moli.com
+.95mt.cc
 .95nddj.garden
 .95o1oyc.garden
 .95ooo.com
@@ -22228,13 +22430,13 @@
 .95uzo333.com
 .95wap.com
 .95wezi.garden
-.9607.top
 .960cjur.garden
 .960ff.com
 .960tt.com
 .961234.cc
 .9613it.com
 .961ff.com
+.961i.com
 .961jj.com
 .961ka.com
 .961zz.com
@@ -22256,11 +22458,9 @@
 .966680.com
 .9666av.com
 .9666x.com
-.966866.net
 .966bo.com
 .966u.top
 .9673uu.garden
-.968336.cc
 .96845.com
 .968901.com
 .968ll.com
@@ -22302,7 +22502,6 @@
 .970aa.com
 .970f.com
 .970f.fpxkwiigf.com
-.970h.cc
 .970jj.com
 .970vv.com
 .970zz.com
@@ -22373,7 +22572,6 @@
 .978b.com
 .978o.top
 .978plp.net.cn
-.9794.top
 .9797dy.com
 .979986.com
 .979ww.com
@@ -22402,9 +22600,6 @@
 .97pifa.com
 .97porn.site
 .97qkh23.com
-.97qqp.cc
-.97qqp.com
-.97qqp.info
 .97sbb.info
 .97sex.cc
 .97sexx.com
@@ -22452,7 +22647,6 @@
 .986ff.com
 .986uu6.top
 .98726.org.cn
-.987654.info
 .9876542.shop
 .9876542.xyz
 .987797.com
@@ -22513,16 +22707,12 @@
 .991639.com.cn
 .991789.cc
 .991oo.com
-.991porn.info
-.991porn.me
 .991yu.com
 .991zhenti.com.cn
-.9924.top
 .9929k.com
 .992ii.com
 .992kp.com
 .992mm.com
-.992tv6.boats
 .992tvp06.top
 .992tvp09.top
 .992tvp13.top
@@ -22530,7 +22720,6 @@
 .992tvp24.top
 .992tvp57.top
 .992tvp89.top
-.9933tv.cc
 .993737.com
 .993874.com
 .993f.top
@@ -22567,6 +22756,7 @@
 .997226.net.cn
 .997645.com
 .9977qp.com
+.997i.top
 .997ll.com
 .997xxxu.com
 .998.su
@@ -22880,6 +23070,7 @@
 .9avse.com
 .9awin.fun
 .9az.top
+.9b3jev.cyou
 .9b3jev.shop
 .9b478y.garden
 .9b49.top
@@ -22887,6 +23078,7 @@
 .9b7jil.garden
 .9baac.kibsbvpft.cc
 .9bav.com
+.9bavbh5bg.garden
 .9bax3r5.garden
 .9bays.net
 .9bbhhqngv.garden
@@ -22902,7 +23094,6 @@
 .9byr5z.garden
 .9c21.top
 .9c26.top
-.9c2s8e.com
 .9c3i1z.top
 .9c97.top
 .9ca.top
@@ -22915,11 +23106,13 @@
 .9ccbjkl.sbs
 .9chenyun.com
 .9chinapolicy.com
+.9ci04f.garden
 .9cnh151.gamedp.cc
 .9cr.top
 .9croilpipe.com
 .9cs9f86.xyz
 .9d2d.com
+.9d3l9vs.garden
 .9d4t.top
 .9daohang.org
 .9days.cc
@@ -22957,16 +23150,21 @@
 .9f68.top
 .9f71.top
 .9f8f.com
+.9faxr1.garden
 .9fbfd0.garden
 .9fcanaveral.com
 .9fd.udttcbmk.com
 .9fex.com.cn
+.9fi9j1udt.garden
+.9fmcr-o7f.garden
 .9freeav.com
 .9freeporntube.blogspot.com
 .9fvsgu.garden
 .9fyf7k.garden
+.9g6kl2.garden
 .9g88x.com
 .9g95.top
+.9game-home-official.com
 .9gameplay.com
 .9gangbang.com
 .9gfq95.lol
@@ -22974,6 +23172,7 @@
 .9ghy.com
 .9gifm5.shop
 .9gqm6t.garden
+.9gz2xo.garden
 .9h3.top
 .9h5tp.cn
 .9h7.xyz
@@ -22987,7 +23186,6 @@
 .9hao123.com.cn
 .9haocc.com
 .9hde.com
-.9heiliao.top
 .9hek.com
 .9hentai.com
 .9hentai.ru
@@ -22999,6 +23197,7 @@
 .9hhhh9.com
 .9holpd.shop
 .9hospital.net
+.9hsl3nmwb.garden
 .9hts.com
 .9hxqv.cc
 .9hxt.com
@@ -23008,6 +23207,7 @@
 .9i9ij2.garden
 .9iao.com
 .9icx1.top
+.9iecxm.garden
 .9imj5f.garden
 .9inchdicks.com
 .9isex.me
@@ -23023,6 +23223,8 @@
 .9j3k.com
 .9j43fd.lol
 .9j4n4k.garden
+.9j4qx1.garden
+.9j5hr7.garden
 .9j6m.top
 .9j6rjd.garden
 .9ja-file.tk
@@ -23034,7 +23236,6 @@
 .9jabusinesshub.com
 .9jaclue.tk
 .9jasexpost.mobie.in
-.9jav.top
 .9jawaplordz.tk
 .9jixdck.garden
 .9jj.xyz
@@ -23055,6 +23256,7 @@
 .9kdx.com
 .9kh5zz.cfd
 .9kh5zz.cyou
+.9kh5zz.shop
 .9kjx.com
 .9kkj.com
 .9kmovies.best
@@ -23073,6 +23275,7 @@
 .9ll.xyz
 .9lporn.com
 .9lurx7.garden
+.9lvgdm.garden
 .9m14.top
 .9m456com.cn
 .9m85.top
@@ -23113,6 +23316,7 @@
 .9p36.top
 .9p56.top
 .9p6p.cn
+.9p7pm9.garden
 .9pjaaemiss.xyz
 .9pjflyllcode.xyz
 .9pjhanjooa.xyz
@@ -23120,9 +23324,7 @@
 .9pjtoacto.xyz
 .9porn.info
 .9porn.pw
-.9pornfind.top
 .9pornhub.com
-.9pornlulu.top
 .9porno9.top
 .9porno9.xyz
 .9pornovideo.net
@@ -23132,13 +23334,14 @@
 .9ptea.com
 .9q0m4.com.cn
 .9q62.top
+.9qayjb7mr.garden
 .9qi451.garden
 .9qml.com
 .9qq.xyz
 .9qqq.cc
-.9qrxkeh.com
 .9qub.com
 .9qusesewan.com
+.9rb0ky.garden
 .9rc.org.cn
 .9reys.net
 .9rkok46.com
@@ -23164,7 +23367,6 @@
 .9sexy.cc
 .9sexyz.com
 .9splt.com
-.9supjav.top
 .9sw.top
 .9t.ee
 .9t45.top
@@ -23177,7 +23379,10 @@
 .9texs8.top
 .9thaxxx.com
 .9tt.xyz
+.9ttq1k.garden
 .9ttu.com
+.9tx8xb.garden
+.9txacz.garden
 .9txxx.top
 .9u2.top
 .9u21.top
@@ -23188,6 +23393,7 @@
 .9uan.com
 .9uedu.com
 .9ut1z.cc
+.9uublpl.garden
 .9uuu6.top
 .9uvj2zu3e.garden
 .9uyoo.com
@@ -23218,6 +23424,7 @@
 .9w8h49h.xyz
 .9ways.net
 .9whiqf.garden
+.9whs08.garden
 .9win.me
 .9wm9.info
 .9wm9ccc.xyz
@@ -23235,10 +23442,9 @@
 .9xbuddy.io
 .9xc.com.cn
 .9xdsz.com.cn
-.9xflix.chat
-.9xflix.io.in
 .9xh.top
 .9xii.com
+.9xkgu3.garden
 .9xkj.com
 .9xmovie.actor
 .9xmovie.beer
@@ -23336,7 +23542,6 @@
 .a-devki.ru
 .a-dultsgallery.blogspot.com
 .a-eroland.net
-.a-escort.com
 .a-esute.net
 .a-flock-of-cocks.blogspot.com
 .a-friend-for-life-with-you.blogspot.com
@@ -23388,7 +23593,6 @@
 .a-table.paris
 .a-tea.net
 .a-teens-shirtless.blogspot.com
-.a-to-sub-bee.com
 .a-tsuma.net
 .a-vajin098.club
 .a-vajin103.club
@@ -23442,6 +23646,8 @@
 .a0cf1q.cfd
 .a0cf1q.cyou
 .a0cf1q.shop
+.a0cm6g.garden
+.a0ujuw.garden
 .a1-13yo-lollita.best
 .a1-allphotos.best
 .a1-analingus.com
@@ -23458,9 +23664,9 @@
 .a10javhdfreevideoporn.blogspot.com
 .a116ambred197.free.fr
 .a12.mobile.wahas.com
+.a120.cc
 .a121.cc
 .a13706457531.com.cn
-.a14.top
 .a14games.com
 .a156.top
 .a15minute.blogspot.com
@@ -23508,7 +23714,6 @@
 .a292awe.top
 .a2a4uz.garden
 .a2aprotocol.net
-.a2b3c4.info
 .a2backup.bid
 .a2backup.pw
 .a2bellydeli.com
@@ -23541,10 +23746,10 @@
 .a306.top
 .a308.top
 .a310.top
+.a318zfu.garden
 .a32698.lol
 .a32eyz.garden
 .a349.info
-.a3606.top
 .a371058.com.cn
 .a373.top
 .a378.top
@@ -23571,7 +23776,6 @@
 .a3z.top
 .a402.top
 .a403.top
-.a41.top
 .a440.top
 .a45-ph.net
 .a45.app
@@ -23625,9 +23829,7 @@
 .a5s.top
 .a5zejg.garden
 .a6.neayo.com
-.a62.top
 .a63.top
-.a6412.top
 .a650.com
 .a663ca.garden
 .a67.top
@@ -23640,7 +23842,6 @@
 .a6xn5f3.xyz
 .a7-software.org
 .a713.com
-.a73.top
 .a75.top
 .a77715.com
 .a77a77.blogspot.com
@@ -23657,7 +23858,6 @@
 .a7mjosge.com
 .a7r.top
 .a7software.org
-.a7vrb52.com
 .a7xz.top
 .a7ztlibva.garden
 .a84pfn.cyou
@@ -23681,6 +23881,7 @@
 .a9274d289e1f.com
 .a928.top
 .a9333com.cn
+.a9513rw.garden
 .a988.com
 .a9996cc.sbs
 .a9a.org
@@ -23717,7 +23918,6 @@
 .aa102.com
 .aa12.idv.tw
 .aa135.com
-.aa138.top
 .aa144.com
 .aa19.cc
 .aa193.com
@@ -24063,7 +24263,6 @@
 .aagmaal1.live
 .aagmaal1.online
 .aagmaal2.com
-.aagmaal24.com
 .aagmaal3.com
 .aagmaal5.com
 .aagmaalhd.net
@@ -24073,10 +24272,10 @@
 .aagmaaltube.com
 .aagmaaluncut.com
 .aagmaalx.org
-.aagmaalx24.com
 .aagvdo.com
 .aagvdo.xyz
 .aah76.com
+.aahbzd.garden
 .aahdusexe.free.fr
 .aahhqq.com
 .aahllupato.blogspot.com
@@ -24150,7 +24349,6 @@
 .aarkeybabble.blogspot.com
 .aaromedicare.com
 .aaroninjections.com
-.aaronrietsema.com
 .aaronsextoys.com
 .aaronsgayinfo.com
 .aaronw.cn
@@ -24207,7 +24405,6 @@
 .aaxs5.xyz
 .aaxxasoft.com
 .aaxxx3.com
-.aaxxxaa.com
 .aaxy.cc
 .aay83.com
 .aayah.in
@@ -24517,7 +24714,6 @@
 .abgngangkang.blogspot.com
 .abgplusplus.blogspot.com
 .abgporno.pages.dev
-.abgraphics.cz
 .abgsakuratelanjag.blogspot.com
 .abgseksbebas.blogspot.com
 .abgseksiku.blogspot.com
@@ -25296,7 +25492,6 @@
 .ac1413.top
 .ac1414.top
 .ac1415.top
-.ac1416.top
 .ac1417.top
 .ac1418.top
 .ac1419.top
@@ -25963,7 +26158,6 @@
 .ac980.top
 .ac981.top
 .ac982.top
-.ac983.top
 .ac984.top
 .ac985.top
 .ac986.top
@@ -28056,7 +28250,6 @@
 .adult-zamurai.com
 .adult-zamurai.jp
 .adult-zone18.com
-.adult.16personalitles.com
 .adult.24sevenkhabar.com
 .adult.aaraglegal.com
 .adult.accesscorresctions.com
@@ -61104,7 +61297,6 @@
 .bdsm-zoznamka.com
 .bdsm-zu-hause-fkk-camping-frankreich-mittelmeer.pages.dev
 .bdsm.51xun.ren
-.bdsm.7-elevencareers.com
 .bdsm.aarpmedicaresuplement.com
 .bdsm.accesscrrection.com
 .bdsm.acrredo.com
@@ -130177,7 +130369,6 @@
 .ebonywebcamsex.nl
 .ebonywebcamworld.com
 .ebonywetpussy.com
-.ebonywhoresex.0outlook.com
 .ebonywomen.xxx
 .ebonyword.blogspot.com
 .ebonyworlderotica.com
@@ -166984,7 +167175,6 @@
 .g34bp.com
 .g356.com
 .g362.com
-.g36g.6669995.xyz
 .g370.com
 .g387.com
 .g38h.com
@@ -175504,7 +175694,6 @@
 .gcchain.com.cn
 .gcci4486.com
 .gcciysl.cn
-.gcdh.20278888.xyz
 .gcdqcq.com
 .gcdwyy120.com
 .gceexxx.top
@@ -232262,7 +232451,6 @@
 .k4xpnf.com
 .k4y.top
 .k4z.top
-.k5.0e8c2c0f.club
 .k548.com
 .k55.net
 .k576.com
@@ -280646,7 +280834,6 @@
 .msex7.shop
 .msex8.shop
 .msex9.shop
-.msexch2k13.0outlook.com
 .msexch2k13.abcdenver.com
 .msexch2k13.akashablog.net
 .msexch2k13.bbqislands.net

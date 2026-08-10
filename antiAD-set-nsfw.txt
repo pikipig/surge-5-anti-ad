@@ -1,9 +1,9 @@
-# Version: 202608101410
+# Version: 202608101841
 # Title: oisd nsfw
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 489344
-# Last modified: 2026-08-10T14:10:08+0000
+# Entries: 489411
+# Last modified: 2026-08-10T18:41:04+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -110,6 +110,7 @@
 .001zmr.com
 .001zuche.cn
 .002318.com
+.002322.com
 .002397.xyz
 .0029a.com
 .002sex.com
@@ -334,6 +335,7 @@
 .0210211.com
 .021078.com
 .021120.com.cn
+.021919.com
 .021blzj.com
 .021changliang.com
 .021cre.org.cn
@@ -404,6 +406,7 @@
 .025nb.com
 .025njedu.com
 .025npxyy.com
+.025school.com
 .025ss.com
 .025taxi.com
 .025xx.com
@@ -1367,7 +1370,9 @@
 .0b7l4j7.garden
 .0banglachoti.blogspot.com
 .0bb8n6.garden
+.0bc.xyz
 .0bc54h.garden
+.0bd.xyz
 .0bestever.com
 .0bf.cc
 .0bi.top
@@ -1450,6 +1455,7 @@
 .0gb.top
 .0gfz.top
 .0ggvm9.garden
+.0gj.xyz
 .0gjqn.cc
 .0gomovies.cat
 .0gqenm.garden
@@ -1630,6 +1636,7 @@
 .0u5mpi.garden
 .0u5zoj.garden
 .0u6.top
+.0u7.xyz
 .0uav8b.garden
 .0uch.com
 .0udcg1t.garden
@@ -3097,6 +3104,7 @@
 .13av6.one
 .13av8.xyz
 .13bm.cc
+.13c.xyz
 .13cams.com
 .13gi.com
 .13girls.blogspot.com
@@ -3340,7 +3348,6 @@
 .162xx.com
 .163-edu.com
 .1631635.com
-.16355t.com
 .163cdn.net
 .163cn.cc
 .163yp.com
@@ -3359,6 +3366,7 @@
 .1650331.cc
 .1650334.cc
 .1650336.cc
+.1650339.cc
 .1653216.cc
 .1653219.cc
 .1653221.cc
@@ -3629,6 +3637,7 @@
 .17co-porn.net
 .17co-sexy.net
 .17co-xxx.net
+.17coffee.cn
 .17cxxx.com
 .17daiyun.com
 .17dazi.com
@@ -4417,6 +4426,7 @@
 .18pornmovies.cc
 .18pornmovies.click
 .18porno.tv
+.18pornosex.com
 .18pornpic.com
 .18pornpros.com
 .18pornsex.com
@@ -5499,6 +5509,7 @@
 .1porno-365.fit
 .1porno-365.online
 .1porno-365.site
+.1porno-365.store
 .1porno.blog
 .1porno.media
 .1porno.net
@@ -5792,6 +5803,7 @@
 .1us.cc
 .1uu8e2m.garden
 .1uuu42.top
+.1uy.xyz
 .1v18.top
 .1v1go.com
 .1v2.xyz
@@ -5857,6 +5869,7 @@
 .1x3g.com.cn
 .1x43z.cc
 .1x7lbs.garden
+.1x8.xyz
 .1x86.top
 .1x881.com
 .1x91.top
@@ -6760,6 +6773,7 @@
 .233va.com
 .233vb.com
 .233xe.com
+.234210.com
 .2342d.com
 .234516.xyz
 .2345567.com
@@ -8483,6 +8497,7 @@
 .2soka.com
 .2sp2cm.garden
 .2su4rw.garden
+.2sw.xyz
 .2sxgfz.garden
 .2szr2k.garden
 .2t3.top
@@ -8852,6 +8867,7 @@
 .31nw.com
 .31oiwb.garden
 .31pj7z.garden
+.31sa.com
 .31sex.com
 .31uk.com
 .31vakti.com
@@ -10338,6 +10354,7 @@
 .3esktv.com
 .3esktv.today
 .3esktv.tv
+.3ex.xyz
 .3ezwm4.garden
 .3f-school.com
 .3f26.top
@@ -10628,6 +10645,7 @@
 .3pkd.com
 .3pkhj.com
 .3play5.com
+.3pn.xyz
 .3polexrated.blogspot.com
 .3porn-videos.com
 .3porn.beauty
@@ -10753,6 +10771,7 @@
 .3somewebsites.com
 .3sootsaz.com
 .3sp4y.com
+.3sqq.com
 .3stardating.blogspot.com
 .3sum4fun.blogspot.com
 .3sumfinder.com
@@ -10791,6 +10810,7 @@
 .3u6.xyz
 .3u66.top
 .3u89.top
+.3uc.xyz
 .3ue8c0.garden
 .3uf27wm.garden
 .3uo.top
@@ -10798,6 +10818,7 @@
 .3uzcj9f.garden
 .3v14.top
 .3v17.top
+.3v4.xyz
 .3v5h.com
 .3v619u.garden
 .3v6hlp1.garden
@@ -11385,6 +11406,7 @@
 .431rkqg.garden
 .431south.com
 .431x.com
+.432517.com
 .432ajn.garden
 .432gou.com
 .432oneness.blog
@@ -11964,6 +11986,7 @@
 .4b1sqg.garden
 .4b23.top
 .4b358b68895f.com
+.4b5.xyz
 .4ba3t-a2b.garden
 .4based.com
 .4bdb.com
@@ -12103,6 +12126,7 @@
 .4f6.xyz
 .4f6.yflveudu.cc
 .4f72.top
+.4f7a.com
 .4f8kq5.garden
 .4fakesex.top
 .4fap.net
@@ -12972,6 +12996,7 @@
 .4t15.top
 .4t1w6a.garden
 .4t75.top
+.4t9.xyz
 .4t97.top
 .4t9a.com
 .4t9qhp.top
@@ -14201,6 +14226,7 @@
 .52nbh.com
 .52orgsoft.com
 .52outang.com
+.52p.xyz
 .52papa.sbs
 .52papa.tv
 .52pg2025.cc
@@ -14819,6 +14845,7 @@
 .58win1go.com
 .58wx.com.cn
 .58wz.cc
+.58xindai.com
 .58xkel.garden
 .58xyz.xyz
 .58y.xyz
@@ -14946,6 +14973,7 @@
 .5bi.cc
 .5bjh.top
 .5bmzqe.garden
+.5bo.xyz
 .5brnl.com.cn
 .5btcs6.garden
 .5btsy.com
@@ -14994,6 +15022,7 @@
 .5dfanr.com
 .5dfem.gay
 .5dh.pw
+.5dh.xyz
 .5dhfz.net.cn
 .5dices.nl
 .5dlc.top
@@ -15028,6 +15057,7 @@
 .5fengys.com
 .5ff.xyz
 .5fg5x3.garden
+.5fl.xyz
 .5fmqpu.garden
 .5fmvw7.garden
 .5fp4d4.garden
@@ -15080,6 +15110,7 @@
 .5gsg785.a3x0msupc.vip
 .5gt.zavdh1.com
 .5gtraining.com.cn
+.5gu.xyz
 .5gugo.com
 .5guyschilling.blogspot.com
 .5gvra.xyz
@@ -15419,6 +15450,7 @@
 .5u49.top
 .5u4l0hb.garden
 .5u98.top
+.5ubz.com
 .5ue6g8.garden
 .5ug6eiwfi.garden
 .5ui7k9.cfd
@@ -16854,6 +16886,7 @@
 .6h4xrm.cfd
 .6h4xrm.cyou
 .6h4xrm.shop
+.6h5.xyz
 .6h559.pw
 .6h559.top
 .6h5c.com
@@ -20316,6 +20349,7 @@
 .8ghh.com
 .8ghl.com
 .8gjfsv.garden
+.8gq.xyz
 .8gr.com.cn
 .8gw8.com
 .8gw8.net
@@ -20383,6 +20417,7 @@
 .8kavav.vip
 .8kcosplay.com
 .8kfreeporn.com
+.8kg.xyz
 .8kizle.com
 .8kk2.com
 .8kkcv7.garden
@@ -20433,6 +20468,7 @@
 .8m23.cc
 .8m26x68.garden
 .8m54.top
+.8m9.xyz
 .8maoaq.com
 .8maobt.com
 .8maryjane-johnson5.blogspot.com
@@ -23197,7 +23233,6 @@
 .99bayuporno0.site
 .99bokep.blogspot.com
 .99bu1h.garden
-.99ca88.com
 .99cams.eu
 .99cams.tk
 .99cao224.xyz
@@ -23766,6 +23801,7 @@
 .9pornovideo.top
 .9pornsitive.blogspot.com
 .9porntube.blogspot.com
+.9pq.xyz
 .9ptea.com
 .9q0m4.com.cn
 .9q2bo7.garden
@@ -23873,6 +23909,7 @@
 .9vir.top
 .9vopxr.garden
 .9vp.com.cn
+.9vr.xyz
 .9vsoft.com
 .9vu2.com
 .9vur.tk
@@ -23979,6 +24016,7 @@
 .9y59.top
 .9y69.top
 .9yb2b.cn
+.9ybs.com
 .9ydh.com
 .9yehckh.garden
 .9yespn.cyou
@@ -23994,6 +24032,7 @@
 .9z23.top
 .9z29.top
 .9z37.com
+.9z4.xyz
 .9z58.top
 .9z6.xyz
 .9za.top
@@ -24680,6 +24719,7 @@
 .aaetnaseniorproducts.com
 .aaewrold.com.cn
 .aaf491.sbs
+.aaffw.com
 .aafitnessstudio.co.uk
 .aafreenkhan.com
 .aafuck.xyz
@@ -30633,6 +30673,7 @@
 .adulthubtr.shop
 .adulthubtrv.shop
 .adulthubtube.com
+.adulthubvault.com
 .adulthumor.nl
 .adulthump.com
 .adulthunter.net
@@ -30951,7 +30992,6 @@
 .adultmediaportal.com
 .adultmediasearch.icu
 .adultmediastream.blogspot.com
-.adultmeetme.com
 .adultmegalist.top
 .adultmegaporn.blogspot.com
 .adultmegastar.com
@@ -31129,6 +31169,7 @@
 .adultomayorecuador.terceraedadecuador.com
 .adultomayorpuebla.com
 .adultomdzs29.site
+.adultome.com
 .adultondemand.blogspot.com
 .adultondemand.com
 .adultonestop.com
@@ -34043,6 +34084,7 @@
 .ahzdedu.com
 .ahzdm.com.cn
 .ahzh.cc
+.ahzhongkai.com
 .ahzhuori.cn
 .ahzjcb.org
 .ahzunshu.com
@@ -38525,13 +38567,7 @@
 .alxnxxsex.cc
 .alxxnxxsex.cam
 .alxxnxxsex.com
-.alxxnxxsex.fun
-.alxxnxxsex.monster
 .alxxnxxsex.net
-.alxxnxxsex.tattoo
-.alxxnxxsex.website
-.alxxnxxsex.yachts
-.alxxnxxxsex.art
 .alxxnxxxsex.autos
 .alxxnxxxsex.beauty
 .alxxnxxxsex.boats
@@ -43827,7 +43863,6 @@
 .anfisapotapov6769.blogspot.com
 .anfisaurukfok.blogspot.com
 .anfun.cc
-.ang360.cn
 .ang3lsukisextape.pages.dev
 .ang6.net
 .ang6666.blogspot.com
@@ -44174,6 +44209,7 @@
 .anhthaivip.blogspot.com
 .anhuidazu.com
 .anhuihyjx.com
+.anhuijianyou.com
 .anhuiljb.com.cn
 .anhuipm.com
 .anhuishengchao.com.cn
@@ -45429,6 +45465,7 @@
 .anrufsex.click
 .anrufsex.video
 .anrufundsex.com
+.anruibuy.com
 .anruizs.com
 .anrx5a.garden
 .ans120.com
@@ -50631,6 +50668,7 @@
 .asianpussyz.com
 .asianpvideos.click
 .asianpxxnx.click
+.asianpzone.click
 .asianqmschoolgirlqmsluts.blogspot.com
 .asianqueens.com
 .asianrape.net
@@ -51376,6 +51414,7 @@
 .asiaporntube.blogspot.com
 .asiaporntube.pro
 .asiaprofessionals.net
+.asiaptv.click
 .asiapussy.blogspot.com
 .asiapussy.homes
 .asiapussy.lat
@@ -51506,6 +51545,7 @@
 .asisexamenonline.cl
 .asivp.com
 .asiye.net
+.asjcollege.com.cn
 .asjsp.com
 .ask-2018.blogspot.com
 .ask21.jp
@@ -52179,7 +52219,6 @@
 .asswingers.com
 .assworship.porn
 .assworship.vip
-.assworship.wtf
 .assworship.xxx
 .assworship4k.com
 .assworshipmovies.com
@@ -59955,14 +59994,12 @@
 .bbcpievideos.com
 .bbcporn.pro
 .bbcporn.vip
-.bbcporn.wtf
 .bbcporncenter.digicakes.com
 .bbcporncenter.net
 .bbcporngames.com
 .bbcporngames.pages.dev
 .bbcpornonly.com
 .bbcpov.com
-.bbcpov.wtf
 .bbcraw.com
 .bbcrec.com
 .bbcrgate.com
@@ -60380,7 +60417,6 @@
 .bbwdreams.com
 .bbwebony.blogspot.com
 .bbwebonyfindom.wordpress.com
-.bbwebonygrannyporn.com
 .bbwencounters.com
 .bbwerp.com
 .bbweye.com
@@ -62130,6 +62166,7 @@
 .bdsmonlinedating.com
 .bdsmonly.org
 .bdsmonthebit.blogspot.com
+.bdsmorgy.vip
 .bdsmotube.com
 .bdsmp.com
 .bdsmpaddle.com
@@ -66559,7 +66596,6 @@
 .bestteenpussy.com
 .bestteenrapeporn.com
 .bestteensex.net
-.bestteensex.pro
 .bestteensexgames.com
 .bestteenxxx.com
 .bestteenxxx.pages.dev
@@ -68433,6 +68469,7 @@
 .bigbootycreampie.com
 .bigbootycutie.blogspot.com
 .bigbootydiscounts.com
+.bigbootyebony.vip
 .bigbootyebonypornstar.com
 .bigbootyfeed.com
 .bigbootyfetish.com
@@ -71067,6 +71104,7 @@
 .bj-cert.com
 .bj-dzx.com
 .bj-ehotel.com
+.bj-feilong.com
 .bj-hanbo.com
 .bj-htvision.com
 .bj-huiai.com
@@ -71138,7 +71176,6 @@
 .bjbspt.com
 .bjbtlt.com
 .bjbz999.top
-.bjbzfx.com
 .bjbzw.cc
 .bjcag.org.cn
 .bjcaptain.com
@@ -76348,6 +76385,7 @@
 .bondage-box.pages.dev
 .bondage-brste-escortservice-dsseldorf.pages.dev
 .bondage-brust-dicke-mnner-porno.pages.dev
+.bondage-cam.com
 .bondage-cams.com
 .bondage-cideos-pornostars-frei.pages.dev
 .bondage-clipvas.blogspot.com
@@ -77547,6 +77585,7 @@
 .book.qidian.com
 .book.sfacg.com
 .book0668.com
+.book1314.com
 .book18.fans
 .book18.me
 .book18.org
@@ -78416,6 +78455,7 @@
 .boyafimpg.blogspot.com
 .boyalert.com
 .boyalone88.blogspot.com
+.boyamax.com
 .boyamusic.net.cn
 .boyandtoy.com
 .boyangedu.com
@@ -78677,6 +78717,7 @@
 .boys-smoking.com
 .boys-try-moms.com
 .boys.ch
+.boys.kim
 .boys.xyz
 .boys18.net
 .boys18net.blogspot.com
@@ -80356,7 +80397,6 @@
 .britishmaturesex.uk
 .britishmaturesluts.bestfemdom.net
 .britishmilf.co.uk
-.britishmilf.wtf
 .britishmilfalbum.blogspot.com
 .britishmilfcams.com
 .britishmilfs.co.uk
@@ -84205,6 +84245,7 @@
 .c77.xyz
 .c7739b5000.mjedge.net
 .c7765bb21a.mjedge.net
+.c79.xyz
 .c794.info
 .c79q7un65.garden
 .c7a7.top
@@ -84227,6 +84268,7 @@
 .c883.info
 .c88x.top
 .c8a2r2.garden
+.c8bbs.com
 .c8ce6ac4bc.mjedge.net
 .c8ehkux.garden
 .c8fqtm.garden
@@ -89765,7 +89807,6 @@
 .cartoonporn.shop
 .cartoonporn.to
 .cartoonporn.tv
-.cartoonporn.wtf
 .cartoonporn24.com
 .cartoonporn24.roccosteele.net
 .cartoonporn3x.blogspot.com
@@ -90046,6 +90087,7 @@
 .cascadeheart.com
 .cascademag.com
 .cascavelquente.com.br
+.cascosporn.com
 .case-des-hommes.blogspot.com
 .case.yxrmdodp.cc
 .case12.net.cn
@@ -91662,6 +91704,7 @@
 .cdxxx.com
 .cdxxxx.buzz
 .cdxxxx.com
+.cdxxxx.cyou
 .cdxxxx.live
 .cdxxxx.shop
 .cdxxxxxd.pages.dev
@@ -93287,6 +93330,7 @@
 .cft819.sbs
 .cftgroupe.com
 .cftx.cc
+.cftxx.com
 .cfvedu.com
 .cfvmarket.com
 .cfw562.sbs
@@ -93312,7 +93356,6 @@
 .cgay.net
 .cgay423.com
 .cgaya.club
-.cgayoqzw.users.davisvisoin.com
 .cgbangalore.in
 .cgbb20.com
 .cgbchinazh.com
@@ -94603,6 +94646,7 @@
 .chatplay.live
 .chatporn.club
 .chatporn.net
+.chatporn.site
 .chatporno-xxx.com
 .chatporno.cam
 .chatporno.com
@@ -99386,6 +99430,7 @@
 .chinesematuresex.cc
 .chinesematuresex.click
 .chinesematuresex.shop
+.chinesematurevideo.com
 .chinesematurexxx.click
 .chinesematurexxx.shop
 .chinesemidgetsexdate.blogspot.com
@@ -103745,6 +103790,7 @@
 .cn10086.fun
 .cn11.org
 .cn18h.top
+.cn2.xyz
 .cn200051743.com.cn
 .cn2026.gay
 .cn2nine.com
@@ -107679,6 +107725,7 @@
 .coxporn.blogspot.com
 .coxpreschool.com
 .coxray.com.cn
+.coxvideos.com
 .coxxx.org
 .coxxxclips.com
 .coxxxvids.com
@@ -108026,6 +108073,7 @@
 .cqypds.com
 .cqypyzc.com
 .cqyutian.com
+.cqyxjcj.com
 .cqyygou.com.cn
 .cqyyjg.com
 .cqyzwz.com
@@ -112104,6 +112152,7 @@
 .cx9.cn
 .cxacjl.cfd
 .cxacjl.cyou
+.cxbdml.com
 .cxbgchina.com
 .cxbip.com
 .cxbnzfgewqr.blogspot.com
@@ -112787,6 +112836,7 @@
 .czfhzm.com
 .czfhzs.com
 .czfhzzlj.com.cn
+.czfyz.com
 .czgccc.com
 .czgdchina.com
 .czgwux.cyou
@@ -113033,6 +113083,7 @@
 .d2oe42quo1ygps.cloudfront.net
 .d2pass.com
 .d2pbyjw.garden
+.d2pze58033phdr.cloudfront.net
 .d2uwej7yt46y7g.cloudfront.net
 .d2vhmldzr8fb9t.cloudfront.net
 .d2w6vmwxe1hmvw.cloudfront.net
@@ -114691,6 +114742,7 @@
 .daoeraidi.com
 .daoeredu.com
 .daoguidz.com
+.daoguodapian.shop
 .daoguox.com
 .daohang51.com
 .daohangdizhi.com
@@ -115999,6 +116051,7 @@
 .db431.sbs
 .db5.pw
 .db51.org.cn
+.db5318.com
 .db58.com.cn
 .db6.pw
 .db67.buzz
@@ -116463,6 +116516,7 @@
 .ddfpinkpages.com
 .ddfporn.blogspot.com
 .ddfporn.com
+.ddfporn.vip
 .ddfpornlive.com
 .ddfpornstars.com
 .ddfprod.com
@@ -117786,6 +117840,7 @@
 .denizliasilnakliyat.com.tr
 .denizliavm.com
 .denizliayapart.com
+.denizlibayanescortsitesi.com
 .denizlibeyazesyaservisi.com
 .denizlibilet.com
 .denizliburada.com
@@ -117807,10 +117862,13 @@
 .denizliescortarama.com
 .denizliescortbayan.com
 .denizliescortbayan.org
+.denizliescortbayanbiz.com
 .denizliescortbayanservisi.com
 .denizliescortbayi.com
 .denizliescortbu.com
 .denizliescortcum.com
+.denizliescortcuyuz.com
+.denizliescortekibi.com
 .denizliescortelden.com
 .denizliescortevi.com
 .denizliescortevim.com
@@ -117828,6 +117886,8 @@
 .denizliescortsfirst.click
 .denizliescortsitem.com
 .denizliescortsitesi.com
+.denizliescortsorgulama.com
+.denizliescortturkey.com
 .denizliescortu.org
 .denizliescortvitrin.com
 .denizliesnafrehberi.com
@@ -117836,6 +117896,7 @@
 .denizlifrm.com
 .denizligenclik.com
 .denizligenelescort.com
+.denizligercekescorts.com
 .denizliglbt.blogspot.com
 .denizligo.com
 .denizlihasar.com
@@ -117869,6 +117930,7 @@
 .denizliplatformu.com
 .denizlipumanakliyat.com.tr
 .denizlirehberim.com
+.denizlisaatlikescort.com
 .denizlisactasarim.com
 .denizlisanat.net
 .denizlisecim.com
@@ -117884,6 +117946,7 @@
 .denizlitoshiba.com
 .denizlitrade.com
 .denizliulkuocaklari.com
+.denizlivipescorts.com
 .denizliyilmaznakliyat.com.tr
 .denizliyirmi.net
 .denizliyurt.com
@@ -121803,6 +121866,7 @@
 .dirty.fyi
 .dirty.game
 .dirty.games
+.dirty.kim
 .dirty.kzjzu.com
 .dirty.lat
 .dirty.mcb7.org
@@ -124935,6 +124999,7 @@
 .domina-x.de
 .domina.atw.hu
 .domina.directory
+.domina.fans
 .domina.lap.hu
 .domina.ms
 .domina.sk
@@ -128193,7 +128258,6 @@
 .dudethatslewdporn.pages.dev
 .dudethedog.net
 .dudethrill.com
-.dudethrills.ru
 .dudett.com
 .dudetube.blogspot.com
 .dudetubeonline.com
@@ -129128,6 +129192,7 @@
 .dyjpnuwn1112.blogspot.com
 .dyjxjob.com
 .dyjxlt.com.cn
+.dyjzgcgs.com
 .dyjzgd.com
 .dyk19.com
 .dyk749.sbs
@@ -129268,6 +129333,7 @@
 .dyxxx.com
 .dyy520.com.cn
 .dyy572.sbs
+.dyyhhg.com
 .dyyuesao.com
 .dyyunlong.com
 .dyyunyang.com
@@ -129530,7 +129596,6 @@
 .e18zty.garden
 .e194.com
 .e194.top
-.e1b3.com
 .e1g.cc
 .e1hsoft.com
 .e1ln.top
@@ -130021,6 +130086,7 @@
 .eatmyjizz.com
 .eatmymom.com
 .eatout.xxx
+.eatpussy.vip
 .eatrightpro.org
 .eatrightstore.org
 .eatshit.org
@@ -134850,7 +134916,6 @@
 .eosao.com
 .eoscolorstudio.com
 .eosfans.com.cn
-.eosfitneaa.com
 .eosipov4402.blogspot.com
 .eotsge.com.cn
 .eow740.sbs
@@ -135666,6 +135731,7 @@
 .ero-navi.net
 .ero-navi18.jp
 .ero-niji.com
+.ero-nudes.com
 .ero-paro.com
 .ero-pedia.net
 .ero-peg.com
@@ -136877,6 +136943,7 @@
 .erotic.autos
 .erotic.be
 .erotic.beer
+.erotic.chat
 .erotic.co
 .erotic.de
 .erotic.deutschepornoseiten.com
@@ -139532,6 +139599,7 @@
 .esarabe.com
 .esaret.net
 .esauextravaganc.blogspot.com
+.esav49.cc
 .esaypass.com.cn
 .esayporn.blogspot.com
 .esbabes.com
@@ -141077,6 +141145,7 @@
 .esearchpoint.com
 .esec-edu.com
 .esecure-transaction.com
+.eseecon.com
 .esen-china.com
 .esen.gay
 .esend.com.au
@@ -143160,6 +143229,7 @@
 .exotic-tgirl.blogspot.com
 .exotic-video-chat.ru
 .exotic-xxx.com
+.exotic.kim
 .exotic4k.com
 .exotic4k.info
 .exotic4kfan.com
@@ -143733,7 +143803,6 @@
 .extremefeetsex.com
 .extremefeetvideos.com
 .extremefemdomsadism.blogspot.com
-.extremefetish.net
 .extremefetishclips.com
 .extremefetishes.com
 .extremefetishs.com
@@ -144267,6 +144336,7 @@
 .f429.com
 .f435.com
 .f435.top
+.f44.xyz
 .f473.com
 .f4773.com
 .f479.com
@@ -146632,6 +146702,7 @@
 .fapista.net
 .fapit.org
 .fapix.cc
+.fapix.me
 .fapix.net
 .fapix.online
 .fapix.porn
@@ -148696,6 +148767,7 @@
 .femaleejaculationvideo.net
 .femaleescortbnagalore.com
 .femaleescortgurugram.com
+.femaleescorting.com
 .femaleescortinsuratcallgirl.blogspot.com
 .femaleescortmodel.blogspot.com
 .femaleescorts.com
@@ -148984,6 +149056,7 @@
 .femdom.com
 .femdom.dating
 .femdom.free-xxx-porn.org
+.femdom.kim
 .femdom.live
 .femdom.my1.ru
 .femdom.name
@@ -150691,6 +150764,7 @@
 .fetishgods.com
 .fetishgonewild.com
 .fetishgossip.com
+.fetishhaus.com
 .fetishhd.net
 .fetishhell.com
 .fetishhitsgallery.com
@@ -152641,7 +152715,6 @@
 .filmizlehdfilmcehennem.com
 .filmizlehdizle.com
 .filmizlehdizle.live
-.filmizleimdb1.cc
 .filmizleimdb5.cc
 .filmizleimdb6.cc
 .filmizlejet.com
@@ -153144,7 +153217,6 @@
 .financialdomme.com
 .financialmanagementguru.com
 .financiei.com.br
-.finapattar.biz
 .finapattar.eu
 .finasexbloggen.blogspot.com
 .finca-milf.com
@@ -156081,6 +156153,7 @@
 .footjob-pics-123.com
 .footjob-pics.com
 .footjob-video-123.com
+.footjob.cc
 .footjob.com
 .footjob.photos
 .footjob123.com
@@ -156362,7 +156435,6 @@
 .forcedfootjobs.xxx
 .forcedfootworship.com
 .forcedfucksite.com
-.forcedgay.com
 .forcedgayanal.com
 .forcedgayporn.com
 .forcedgayporn.net
@@ -160983,7 +161055,6 @@
 .freepornemperor.com
 .freepornemporium.blogspot.com
 .freepornenergy.com
-.freepornenjoy.com
 .freeporner.net
 .freepornerotic.com
 .freepornerotica.com
@@ -161123,6 +161194,7 @@
 .freepornmod.com
 .freepornmother.pages.dev
 .freepornmove.com
+.freepornmovie.help
 .freepornmovie.homes
 .freepornmovie.lat
 .freepornmovie.lol
@@ -163999,6 +164071,7 @@
 .fuck-ass-blow-jobb.blogspot.com
 .fuck-beeg.com
 .fuck-black-girl.blogspot.com
+.fuck-buddies.com
 .fuck-buddies.net
 .fuck-buddy.club
 .fuck-cam.com
@@ -164385,6 +164458,7 @@
 .fuckdildomachines.blogspot.com
 .fuckdirectory.top
 .fuckdirtyd.com
+.fuckdoll.me
 .fuckdolls.com
 .fuckdolltube.com
 .fuckdonut.com
@@ -171055,6 +171129,7 @@
 .gaycowboydating.com
 .gaycowboypersonals.com
 .gaycowboys.com
+.gaycreampie.cc
 .gaycreampie.net
 .gaycreampie.porn
 .gaycreampie.vip
@@ -171302,7 +171377,6 @@
 .gaydonis.com
 .gaydonis.net
 .gaydorado.devdorado.co
-.gaydotcum.com
 .gaydouga-heaven.com
 .gaydouga-ikemen-rush.com
 .gaydoujinshi.com
@@ -172928,6 +173002,7 @@
 .gayonlinehookup.com
 .gayonlinehookups.com
 .gayonlinesex.com
+.gayonlyfriends.click
 .gayonlygay.link
 .gayonnet.com
 .gayonthenet.net
@@ -173493,6 +173568,7 @@
 .gaypornhd.cc
 .gaypornhd.club
 .gaypornhd.com
+.gaypornhd.net
 .gaypornhd.xxx
 .gaypornhdfre.pages.dev
 .gaypornhdfree.com
@@ -173643,6 +173719,7 @@
 .gayporno.onrender.com
 .gayporno.rest
 .gayporno.ru
+.gayporno.surf
 .gayporno.team
 .gayporno.today
 .gayporno.top
@@ -173943,6 +174020,7 @@
 .gayproducts.com
 .gayprofessionaldating.com
 .gayprofile.com
+.gayprohub.com
 .gaypromocode.com
 .gayptube.site
 .gayptubes.click
@@ -174227,6 +174305,7 @@
 .gayseoul.com
 .gayserbia.org
 .gayservicemen.com
+.gayservids.click
 .gaysespanol.com
 .gaysessomovie.info
 .gayseven.com
@@ -175384,6 +175463,8 @@
 .gayvids4k.com
 .gayvidsclub.com
 .gayvidshop.net
+.gayvidsporn.online
+.gayvidster.cc
 .gayvidster.com
 .gayvidsxnxx.com
 .gayvidsxxx.click
@@ -176255,6 +176336,7 @@
 .gdyuemei.com.cn
 .gdyushang.com
 .gdywjgc.com
+.gdyylr.com
 .gdz675.sbs
 .gdzc688.com
 .gdzhanwei.com
@@ -181499,7 +181581,6 @@
 .glroute69quadrinhos.blogspot.com
 .glroutefit.blogspot.com
 .glrsq.com
-.glrtw.com
 .gls-glass.com
 .glschool.org
 .glshrf.com.cn
@@ -182508,6 +182589,7 @@
 .goldmaturexxx.cc
 .goldmaturexxx.click
 .goldmaturexxxx.shop
+.goldmigrationhk.com
 .goldmilf.com
 .goldmrnr.com
 .goldn-soft.com
@@ -182769,7 +182851,6 @@
 .gonzo.com
 .gonzo.nu
 .gonzo.org
-.gonzo.wtf
 .gonzo2000.com
 .gonzoben.com
 .gonzobizarro.blogspot.com
@@ -183729,6 +183810,7 @@
 .gpornx.lol
 .gpouros.com
 .gpoussinet.free.fr
+.gpq001.cfd
 .gpq722.com
 .gpq979.sbs
 .gpqkl.com.cn
@@ -186236,6 +186318,7 @@
 .gtwww.com.cn
 .gtxe.com.cn
 .gtxxxtreme.blogspot.com
+.gty2.com
 .gtyb834.com
 .gtycl.com
 .gtyu22.com
@@ -186860,6 +186943,7 @@
 .guoti6ai.xyz
 .guotiai-6.xyz
 .guotiai.cc
+.guotiai2.cc
 .guotiai666.com
 .guotiai6666.xyz
 .guotouchina.com
@@ -187840,6 +187924,7 @@
 .gzrocket.com
 .gzrohua.com
 .gzrqn.com.cn
+.gzruiqidz.com
 .gzsandiego.com
 .gzsanyo.com.cn
 .gzsbdc.com
@@ -187958,6 +188043,7 @@
 .gzzsqp.net.cn
 .gzztdj.com
 .gzzwit.com
+.gzzxsy.com
 .gzzxxx.com
 .gzzybio.com
 .gzzyc.net
@@ -188029,7 +188115,6 @@
 .h18av.com
 .h18av.net
 .h1919.site
-.h1s.top
 .h2-plus.net
 .h20-just-add-water-porn.pages.dev
 .h2008.com
@@ -189728,6 +189813,7 @@
 .hanskorea.cn
 .hansochina.com
 .hansondds.org
+.hansongliang.com
 .hansporn.com
 .hansthehornygrandpa.com
 .hansunchina.com
@@ -189875,6 +189961,7 @@
 .haosehub.com
 .haosehub.net
 .haoseke.info
+.haoseman.com
 .haosenliying.com
 .haosentec.com
 .haosex.sbs
@@ -191082,6 +191169,7 @@
 .hardxxxporn.com
 .hardxxxporncollection.blogspot.com
 .hardxxxtube.com
+.hardxxxtube.ru
 .hardxxxtube4k.com
 .hardxxxtubehd.com
 .hardxxxtubeprem.com
@@ -191874,6 +191962,7 @@
 .hbshengyun.com
 .hbshundi.com.cn
 .hbsjn.com
+.hbsjsy.com
 .hbsjyl.com
 .hbsmtyss.com
 .hbsole.com
@@ -192185,6 +192274,7 @@
 .hd-sexporn.rodeo
 .hd-sextube.blogspot.com
 .hd-sexx.biz
+.hd-sexx.buzz
 .hd-sexx.help
 .hd-sexx.homes
 .hd-sexx.lat
@@ -193352,6 +193442,7 @@
 .hdpornoizle.xxx
 .hdpornoizlehot.com
 .hdpornoizlet.online
+.hdpornoizlex8.online
 .hdpornoizlex9.online
 .hdpornolar.com
 .hdpornolarxxx.online
@@ -193693,6 +193784,7 @@
 .hdsikis80sx.shop
 .hdsikis80zv.shop
 .hdsikis80zz.shop
+.hdsikispornoizle.online
 .hdsikisresimleri.blogspot.com
 .hdsin2.cyou
 .hdsluts.blogspot.com
@@ -193901,6 +193993,7 @@
 .hdxporno30.lat
 .hdxporno32.lat
 .hdxporno4.cfd
+.hdxporno40.lat
 .hdxporno5.lat
 .hdxporno6.lat
 .hdxporno7.lat
@@ -196329,7 +196422,6 @@
 .hentaivideoworld.com
 .hentaivideoworld.org
 .hentaivids.net
-.hentaivids.wtf
 .hentaividsfh.com
 .hentaiviet.link
 .hentaiviet.lol
@@ -197253,6 +197345,7 @@
 .hga11.vip
 .hga118888.com
 .hgalore.blogspot.com
+.hgame1.com
 .hgame9.com
 .hgameartman.itch.io
 .hgamebounty.blogspot.com
@@ -197318,6 +197411,7 @@
 .hgtlog.com
 .hgudhqhg.org.cn
 .hguptm.com.cn
+.hgvideo.cc
 .hgw715.sbs
 .hgwmh.com
 .hgwxx.net
@@ -198241,6 +198335,7 @@
 .hindisexstories.xyz
 .hindisexstories2.com
 .hindisexstory.best
+.hindisexstory.center
 .hindisexstory.net
 .hindisexstory.tv
 .hindisexstory69.blogspot.com
@@ -198593,6 +198688,7 @@
 .hiring.porn
 .hiring.sex
 .hiring.xxx
+.hirmb.com
 .hiro-school.com
 .hiroaki-gay-porn.pages.dev
 .hiroinet.com
@@ -201443,6 +201539,7 @@
 .hongjie55.life
 .hongjinqixi.com
 .hongjiu1900.com
+.hongjiukong.com
 .hongjun5.com.cn
 .hongkangyijia.com
 .hongkong-aosi.com
@@ -201555,6 +201652,7 @@
 .honorpass.com
 .honwahflower.com
 .honwaytech.com.cn
+.honxxx.buzz
 .honxxx.com
 .honxxx.shop
 .honxxx.xyz
@@ -201975,6 +202073,7 @@
 .hornyasians.org
 .hornyasiansex.com
 .hornyasiansluts.com
+.hornyasianwomen.click
 .hornyasianxxx.click
 .hornyasianxxx.shop
 .hornyauckland.co.nz
@@ -202214,6 +202313,7 @@
 .hornygaytube.com
 .hornygayvideos.com
 .hornygayxxx.click
+.hornygayxxx.com
 .hornygf.net
 .hornygfs.com
 .hornygingers.com
@@ -203186,6 +203286,7 @@
 .hot-girls-pics-meso.blogspot.com
 .hot-girls-pics-ydcj.blogspot.com
 .hot-girls-pics.blogspot.com
+.hot-girls-porn.com
 .hot-girls-sexy-pictures.blogspot.com
 .hot-girls-squirting.com
 .hot-girls-wallpapers-sexy.blogspot.com
@@ -207972,7 +208073,6 @@
 .hqporner.info
 .hqporner.nl
 .hqporner.plus
-.hqporner.porntrexporn.com
 .hqporner.rocks
 .hqporner.ru
 .hqporner.sex
@@ -208306,6 +208406,7 @@
 .hs-qx.com
 .hs-scm.com
 .hs-sex-chat-porno-kostenlos-de.pages.dev
+.hs-trade.com.cn
 .hs018.com
 .hs05.com
 .hs1.top
@@ -208400,6 +208501,7 @@
 .hsexpress.cn
 .hsexs.cc
 .hsexs.sbs
+.hsexsh0.wiki
 .hsextemail.develop5.mbudo.com
 .hsextv1.com
 .hsexx.sbs
@@ -208946,6 +209048,7 @@
 .huaxion.com
 .huaxitravel.com
 .huaxunnc.com
+.huaxxx.buzz
 .huaxxx.com
 .huaxxx.shop
 .huayanjx.com
@@ -209093,6 +209196,7 @@
 .hudisoft.com
 .hudongbad.top
 .hudongsoft.com
+.hudporn.cc
 .hudsonent.icu
 .hudsonpunch.com
 .huduchina.com
@@ -209241,6 +209345,7 @@
 .hugegaybodybuilders.com
 .hugegaycock.blogspot.com
 .hugegaycocks.com
+.hugegaypass.com
 .hugegaypass.mobi
 .hugegayxxxvideos.click
 .hugegirls.com
@@ -209503,6 +209608,7 @@
 .huiwiton.com
 .huiwosi.com
 .huixgo.com.cn
+.huixingtejiao.com
 .huixishop.com
 .huixueschool.com
 .huiyangfangshui.com
@@ -209547,6 +209653,7 @@
 .hulah.co
 .hulahulawhores.com
 .hulali.net
+.hulan2.com
 .hulanpeijian.com
 .huli.itch.io
 .huli100.com
@@ -209938,6 +210045,7 @@
 .huptyzv.info
 .huqkj.cn
 .hur283.sbs
+.hurag.com
 .hurakanno.itch.io
 .hurdleolk.blogspot.com
 .hure-sex.ch
@@ -210202,6 +210310,7 @@
 .huzhoussylj.com
 .huzzycams.blogspot.com
 .hv12375.com
+.hv13.com
 .hv537.top
 .hv5vt6.com.cn
 .hv75.sbs
@@ -210642,6 +210751,7 @@
 .hymeilin.com
 .hymen-sex-photo.blogspot.com
 .hymenhunters.blogspot.com
+.hymmw.com
 .hymoedu.com
 .hymparhub.com.br
 .hymrkj.com
@@ -211277,6 +211387,7 @@
 .i575.com
 .i578.net
 .i57u.xxggcc.shop
+.i584.com
 .i596.info
 .i5jia.com.cn
 .i5xb.xyz
@@ -211657,11 +211768,13 @@
 .ibm542.top
 .ibm550.top
 .ibm565.top
+.ibm572.top
 .ibm59.top
 .ibm592.top
 .ibm60.top
 .ibm62.top
 .ibm622.top
+.ibm626.top
 .ibm671.top
 .ibm681.top
 .ibm686.top
@@ -211895,6 +212008,7 @@
 .iccon.com.cn
 .iccreations.itch.io
 .iccset.com
+.icczz.gr
 .icdcforum.com
 .ice-droid.ru
 .ice-fetish.com
@@ -211916,6 +212030,7 @@
 .icegayasian.com
 .icegayporn.com
 .icegaysporn.com
+.icegaytube.click
 .icegaytube.com
 .icegaytube.net
 .icegaytube.tv
@@ -212719,6 +212834,7 @@
 .iglives.tv
 .igm199.com
 .igmchina.com
+.ign231.sbs
 .ign875.com
 .ignipotent.com
 .igniteadultflix.hair
@@ -213192,6 +213308,7 @@
 .ilangosh.com
 .ilanqiuka.com
 .ilanvefat.com
+.ilanyerin.com
 .ilarionk8348.blogspot.com
 .ilaw.com.au
 .ilb393.sbs
@@ -213201,6 +213318,7 @@
 .ilbertchina.com
 .ilboss.net
 .ilcams.com
+.ilcbeup.cn
 .ilclubdeitrans.com
 .ilclubdeitrans.it
 .ilculo.it
@@ -213590,6 +213708,7 @@
 .im2hot4u.com
 .im3d.com
 .im44.top
+.im58.sbs
 .im6.itch.io
 .im8wifi.life
 .im977.xyz
@@ -214858,6 +214977,7 @@
 .indiancamgirl.net
 .indiancamgirls.net
 .indiancamgirls.org
+.indiancamsex-frontend.pages.dev
 .indiancamsguide.com
 .indiancamsplus.com
 .indiancamwhores.com
@@ -217445,6 +217565,7 @@
 .intimcity.top
 .intimcity.world
 .intimclub.free.fr
+.intimclub.net
 .intimdating.de
 .intimdating.tv
 .intimdnr.me
@@ -217678,8 +217799,6 @@
 .iod-770sfsf.menpu.cfd
 .iod-770sfsf.ny001.cfd
 .iod501.sbs
-.ioddof0sfsf.gpq001.cfd
-.iodfpsoifps.gpq001.cfd
 .iodine4health.com
 .iodp.cn
 .ioe473.sbs
@@ -217805,6 +217924,7 @@
 .iperporno.it
 .iperversion.com
 .ipet365.com
+.ipev.net
 .ipexpay.com.cn
 .ipfree.com.cn
 .ipfree.icu
@@ -219093,6 +219213,7 @@
 .istanbulokur.com
 .istanbulorkestrasi.com
 .istanbulparcaesyatasimaa.com.tr
+.istanbulpcservis.com
 .istanbulpendiknakliyat.com.tr
 .istanbulpert.com
 .istanbulprincess77.xyz
@@ -219451,6 +219572,7 @@
 .itmedia.org.cn
 .itn4.com
 .itnaked.com
+.itnewsun.com
 .itntrah.cn
 .itoapyruliku.blogspot.com
 .itoauto.com
@@ -220133,6 +220255,7 @@
 .ixxx.es
 .ixxx.fit
 .ixxx.fr
+.ixxx.fun
 .ixxx.gg
 .ixxx.gold
 .ixxx.help
@@ -220321,6 +220444,7 @@
 .izle.live
 .izle.uz
 .izleadultizle.blogspot.com
+.izlebedavasikisporno.online
 .izlebox.live
 .izledimfilmccx29.shop
 .izlegec.com
@@ -220369,6 +220493,7 @@
 .izmirantalyanakliye.com.tr
 .izmirasilnakliyat.com.tr
 .izmirbalcovaescort.net
+.izmirbayanescort.net
 .izmirbayaneskort.org
 .izmirboschservisim.com
 .izmirbyescort.com
@@ -220625,6 +220750,7 @@
 .j442.com
 .j447.com
 .j453.com
+.j465.com
 .j46k746dkx.com
 .j472.com
 .j473.com
@@ -220650,6 +220776,7 @@
 .j56.top
 .j576.com
 .j584.com
+.j591.com
 .j5fdv.com.cn
 .j5g.top
 .j5r5.top
@@ -222888,6 +223015,7 @@
 .jav-subthai.net
 .jav-subtitles.com
 .jav-teen-tube.com
+.jav-th.cc
 .jav-uncen.net
 .jav-uncensored.org
 .jav-unduh.blogspot.com
@@ -223648,7 +223776,6 @@
 .javhd.icu
 .javhd.im
 .javhd.info
-.javhd.ink
 .javhd.lat
 .javhd.life
 .javhd.limited
@@ -223709,7 +223836,6 @@
 .javhdcollection.blogspot.com
 .javhdd.net
 .javhddiscount.com
-.javhdero.com
 .javhdfree.net
 .javhdfree2016.blogspot.com
 .javhdfreeonline.blogspot.com
@@ -225088,6 +225214,7 @@
 .jb069bj-cumonherface.blogspot.com
 .jb12.sbs
 .jb128.com.cn
+.jb24.sbs
 .jb519.sbs
 .jb55.top
 .jb577.com
@@ -225248,6 +225375,7 @@
 .jchrd.com
 .jchs88.com
 .jcic-china.com
+.jcil.cn
 .jcj979.com
 .jcjc163.com
 .jcjsd888.com
@@ -225336,6 +225464,7 @@
 .jdbianli.com.cn
 .jdbird.cc
 .jdbkk95.com
+.jdbszz.com
 .jdbyg89.com
 .jdc916.sbs
 .jdd6688.com
@@ -225410,6 +225539,7 @@
 .jdxhuanwei.com
 .jdxxx.net
 .jdxyjt88.com.cn
+.jdy-1a.com
 .jdy0511.com
 .jdy668899.com
 .jdyoyo.com.cn
@@ -225637,6 +225767,7 @@
 .jennahazeporn.blogspot.com
 .jennahot.atw.hu
 .jennahunt.net
+.jennajameson.com
 .jennajameson69.blogspot.com
 .jennajamesonsexscene.pages.dev
 .jennajamesonsexy.blogspot.com
@@ -226020,6 +226151,7 @@
 .jessaminelive.com
 .jessaminlive.com
 .jessb.gay
+.jessber.com
 .jesscrossdress.blogspot.com
 .jessdugan.com
 .jessdxxx-leaked-video-and-images.pages.dev
@@ -226358,6 +226490,7 @@
 .jezfornications.blogspot.com
 .jezzasmilez.blogspot.com
 .jf-girls.com
+.jf-sino.com
 .jf10010.com
 .jf1318.com
 .jf70.top
@@ -226404,6 +226537,7 @@
 .jfshi.com
 .jfsslp.cn
 .jft232.sbs
+.jft68.com
 .jfti888.com.cn
 .jfulibl.net
 .jfvz.com.cn
@@ -226526,6 +226660,7 @@
 .jhgzgs.com
 .jhh349.sbs
 .jhhc-oil.com
+.jhhenghui.com
 .jhhs2.buzz
 .jhhs6.boats
 .jhhs7.ink
@@ -226778,6 +226913,7 @@
 .jiaotong168.com.cn
 .jiaotongbakercentre.org
 .jiaotonghotel.com
+.jiaotongyo.com
 .jiaoyanger.com
 .jiaoyuandanbai.org.cn
 .jiaoyuchaoshi.com
@@ -226857,6 +226993,7 @@
 .jichulietou.com
 .jicuang.com
 .jicypigra.com
+.jida668.com
 .jidai3.com.cn
 .jidamotor.com
 .jiddischwoordenboek.nl
@@ -226912,6 +227049,7 @@
 .jieli0.com.cn
 .jieli88.com
 .jieligao.com
+.jielihang.com
 .jieluint-sh.com
 .jielunla.com.cn
 .jiemapingtai.com
@@ -227247,6 +227385,7 @@
 .jinghuimenye.com
 .jingji8.com.cn
 .jingjiangwangfu.com
+.jingjie520.com
 .jingkang.net
 .jingkanghouse.com
 .jinglamps.com
@@ -227320,6 +227459,7 @@
 .jinjier.art
 .jinjinan.com
 .jinkaihuagong.com
+.jinkerack.com
 .jinlanjz.com.cn
 .jinle0.com.cn
 .jinleyuan917.club
@@ -227439,8 +227579,10 @@
 .jinzhesoft.com
 .jinzhiji.com
 .jinzhikeji.com
+.jinzhizhuzh.com
 .jinzhoujixie.cn
 .jinzixing.com
+.jinzuanbaojie.com
 .jio979.sbs
 .jiofetish.com
 .jiomaal.cc
@@ -227466,6 +227608,7 @@
 .jipinxiaoyz1.top
 .jipis.free.fr
 .jiqingshipin.com
+.jiqingwm3.sbs
 .jiriyou.com.cn
 .jirkazz.gzk.cz
 .jirunjx.com
@@ -227482,6 +227625,7 @@
 .jishi3.com
 .jishu8.com.cn
 .jishuge.one
+.jishustudy.com
 .jisisoftware.com
 .jism.com
 .jisne.com.cn
@@ -227943,6 +228087,7 @@
 .jjbjt.com.cn
 .jjblvbs.cn
 .jjbsprot.com
+.jjc2.com
 .jjcahill.com
 .jjccjdyp.com
 .jjccxn.com
@@ -227992,6 +228137,7 @@
 .jjjnu.com
 .jjjp.cc
 .jjjpan888.com
+.jjjskkfl.xyz
 .jjjszh.com
 .jjjwgc.net.cn
 .jjjxxx.playacg.com
@@ -228165,6 +228311,7 @@
 .jkxtm.best
 .jkxxx.cc
 .jkxxx.com
+.jkyhxx.buzz
 .jkylu.com
 .jkz.sh
 .jkzf22.buzz
@@ -228198,6 +228345,7 @@
 .jlborui.com
 .jlcdz.com
 .jlchain.com.cn
+.jldaxin.com
 .jldrdc.com
 .jldsy.com
 .jldxedu.com
@@ -228239,6 +228387,7 @@
 .jllvyuan.com
 .jlm1.cc
 .jlm174.cc
+.jlm2.xyz
 .jlmmb.com
 .jlmszqh.com
 .jlmweb.com
@@ -228288,6 +228437,7 @@
 .jlyhedu.com
 .jlyjdfw.com
 .jlyongchi.com
+.jlyr2.com
 .jlystone.com
 .jlywq.com
 .jlyy.uk
@@ -228391,9 +228541,9 @@
 .jmp.awempire.com
 .jmpbbai.com
 .jmptfb.com
-.jmpzxohlvey1i92t.xyz
 .jmq160.sbs
 .jmq424.sbs
+.jmqczl.com
 .jmqdky.com.cn
 .jmqqy.com
 .jmqxsl.com
@@ -228443,6 +228593,7 @@
 .jmyatai.com.cn
 .jmyechou.com
 .jmyqf.com
+.jmyuoxi.com
 .jmzj.me
 .jmzj.xyz
 .jmzk.org
@@ -228452,6 +228603,7 @@
 .jn0571.cn
 .jn2me5.cc
 .jn43.com
+.jn47.sbs
 .jn650.top
 .jn7.top
 .jn7158.com
@@ -228507,6 +228659,7 @@
 .jnjxbwjc.com
 .jnjzx.com.cn
 .jnkjyy.com
+.jnkunfeng.com
 .jnlcsnzp.com
 .jnlhmm.com
 .jnliyuan.com.cn
@@ -229246,6 +229399,7 @@
 .joqlyn.blogspot.com
 .joqoo.com.cn
 .jorasextoys.com
+.jordan-capri-1.com
 .jordan-capri.szm.com
 .jordan-fox-porn.pages.dev
 .jordan-lacey.com
@@ -229479,6 +229633,7 @@
 .joyclub.com
 .joyclub.org
 .joyclub.tv
+.joycod.com
 .joydabangonline.com
 .joyeedu.com
 .joyesite.com.cn
@@ -229965,6 +230120,7 @@
 .js18388.com
 .js18588.com
 .js23288.com
+.js33t.com
 .js360.net.cn
 .js36188.com
 .js37188.com
@@ -229983,6 +230139,7 @@
 .jsazy.com
 .jsbex.com.cn
 .jsblby.com
+.jsblorh.com
 .jsbn01.xyz
 .jsbxkj888.cn
 .jsbydq.com.cn
@@ -230005,6 +230162,7 @@
 .jscpda.org.cn
 .jscredu.com
 .jscs56.com
+.jscsjbw.com
 .jscwgk.com
 .jscxty.com
 .jscyc.cn
@@ -230065,6 +230223,7 @@
 .jsjrdy.com
 .jsjygf.com
 .jsjyjt.com.cn
+.jsjytz.net
 .jsjzyj.cn
 .jsjzzy.com
 .jsk1.top
@@ -230417,6 +230576,7 @@
 .juemiw.cc
 .juen.org.cn
 .jueran6.com.cn
+.juesedhxxx.sbs
 .juesposasafada.com
 .juetuzhi.com
 .juewo8.net.cn
@@ -230704,6 +230864,7 @@
 .jukutuma.net
 .jukuyome.net
 .julav.top
+.juldez.com
 .julea-london.com
 .julealondon.com
 .julealondon.net
@@ -230743,6 +230904,7 @@
 .juliac.top
 .juliacarelax.com
 .juliaepiphany.ca
+.juliaescorts.com
 .juliaetlesautres.free.fr
 .juliaevangelineuniteporn.pages.dev
 .juliafilippo.vip
@@ -230923,6 +231085,7 @@
 .junge-sexfilme-nackte-amateurfrauen.pages.dev
 .junge-weiber-pornos-gratos-porno.pages.dev
 .junge-weiber-vgeln-frauen-xxx.pages.dev
+.jungedh.com
 .jungeherrin.com
 .jungekontakte.com
 .jungeladies.net
@@ -231090,6 +231253,7 @@
 .just4adult.net
 .just4funcams.com
 .just4men.com
+.just4phone.com
 .just4porno.com
 .just4pussy.com
 .just4sex.com
@@ -231442,6 +231606,7 @@
 .justthegays.tube
 .justthegays.uk
 .justthegays.xxx
+.justthegayslive.com
 .justthegaysporn.pages.dev
 .justthemannextdoor.theydirty.com
 .justtherightphonegirl.com
@@ -231506,6 +231671,7 @@
 .juyemov.cc
 .juyetv.cc
 .juyi1.net.cn
+.juyijiang.com
 .juyinmeifuke.com
 .juyiqi.cn
 .juyispace.com
@@ -231535,6 +231701,7 @@
 .juzzy.fun
 .jv.pornoyukle.sbs
 .jv0.cc
+.jv00.sbs
 .jv048.sbs
 .jv250.sbs
 .jv28.sbs
@@ -231660,6 +231827,7 @@
 .jxdaiyu.com.cn
 .jxdeschool.com
 .jxdivine.com.cn
+.jxdxbs.com
 .jxdxddm.com
 .jxdycrj.com
 .jxeduzx.com
@@ -231702,6 +231870,7 @@
 .jxjhsqc.com
 .jxjmedu.org
 .jxjsmy.com.cn
+.jxjxhl.com
 .jxjxzl.com
 .jxjypxedu.com
 .jxjyxxw.com
@@ -231731,12 +231900,10 @@
 .jxnas.net
 .jxnd.org
 .jxngupvvo.blogspot.com
-.jxnjy.top
 .jxnkjsty.com
 .jxnlgh.com
 .jxnvgas.com
 .jxnxx.com
-.jxny3.click
 .jxporn.net
 .jxq995.com
 .jxqc99.com
@@ -231784,6 +231951,7 @@
 .jxxxzqm.com
 .jxxzb.com.cn
 .jxxzgd.com
+.jxyanghu.com
 .jxyat.com
 .jxydyy.com
 .jxylw888.org.cn
@@ -231805,6 +231973,7 @@
 .jxzxgs.com.cn
 .jxzzc.com.cn
 .jy-fuding.com.cn
+.jy-sjtool.com
 .jy006.com.cn
 .jy019.com
 .jy021.com
@@ -231832,6 +232001,7 @@
 .jydongrun.com
 .jydoor.com
 .jydsg.com.cn
+.jydynfpr.xyz
 .jydzgc.com
 .jye.one
 .jyeb.com.cn
@@ -231842,6 +232012,7 @@
 .jyfchina.com
 .jyfj.com.cn
 .jyfns.com
+.jyfs168.com
 .jyfsy.com
 .jyg072.sbs
 .jygcjl.com
@@ -231850,6 +232021,7 @@
 .jygtjd.com
 .jyh711122.com.cn
 .jyh99.com
+.jyhjgc.com
 .jyhulusi.com
 .jyjhdz.com
 .jyjianghai.com.cn
@@ -231894,6 +232066,7 @@
 .jyroa.com
 .jyrrpq.com.cn
 .jys572.sbs
+.jyscgj.com
 .jyscrews.com
 .jysdcl.com
 .jyslgs.com
@@ -231958,6 +232131,7 @@
 .jz2221.top
 .jz32.top
 .jz48.top
+.jz6.xyz
 .jzaan.com
 .jzan.net.cn
 .jzbfqh.com
@@ -232003,6 +232177,7 @@
 .jzi633.com
 .jzisp.com
 .jzj-edu.com
+.jzjagyzl.xyz
 .jzjav.com
 .jzjin.com
 .jzjscw.com
@@ -232020,6 +232195,7 @@
 .jzrdsp.com
 .jzs736.sbs
 .jzsbmall.com.cn
+.jzshjj.com
 .jzslpw.com
 .jzsxedu.cn
 .jzterp.com
@@ -232076,7 +232252,7 @@
 .k-x-x-x-k-awaii12.blogspot.com
 .k.redboda.com
 .k009comics.com
-.k086.top
+.k076.top
 .k087.top
 .k097.cc
 .k0g.top
@@ -232162,7 +232338,6 @@
 .k5x5n5g8.ssl.hwcdn.net
 .k607.com
 .k61w.top
-.k622uym.com
 .k6969.cc
 .k6981.top
 .k6dm.com
@@ -232192,6 +232367,7 @@
 .k94.net
 .k96.top
 .k9771.top
+.k98.xyz
 .k999.xyz
 .k9a2x8m6q.com
 .k9dog.net.cn
@@ -232239,6 +232415,7 @@
 .kaansexhikaye.com
 .kaaww.com
 .kaazanyilmaznakliyat.com.tr
+.kababox.com
 .kabachok.com
 .kabamsoft.com
 .kabar28.com
@@ -232296,6 +232473,7 @@
 .kadikoyescortbul.com
 .kadikoyescortfirst.click
 .kadikoyescortgo.xyz
+.kadikoyescorthatun.com
 .kadikoyescorthatunlar.com
 .kadikoyescortking.com
 .kadikoyescortkiz.com
@@ -232382,6 +232560,7 @@
 .kaerlikemushroom.com
 .kaessbohrerstrasse9.de
 .kaeuc.com
+.kafabuna.com
 .kafe-kampus.ru
 .kafeboard.com
 .kafporno.com
@@ -232448,9 +232627,9 @@
 .kaiche190.cc
 .kaidineng.com
 .kaiduan3.com.cn
+.kaierkouqiang.com
 .kaifang369.com
 .kaigestudy.top
-.kaigo-net.com
 .kaigooo.com
 .kaiguangtongxin.com
 .kaihe3.com.cn
@@ -232651,6 +232830,7 @@
 .kaloni.gay
 .kalosex.com
 .kalp-escort.com
+.kalpescort.com
 .kalratri.com
 .kaltern.org
 .kaltokan.cc
@@ -232969,6 +233149,7 @@
 .kangmei.org.cn
 .kangmey.com
 .kangning-china.com
+.kangningbao.com
 .kangningmedical.com
 .kangrongedu.com
 .kangtya.com
@@ -233381,6 +233562,7 @@
 .karliki.com
 .karliki.top
 .karlikporno.com
+.karlikporno.top
 .karlsruhe-pornokino-bondage-and-bdsm.pages.dev
 .karlsruhe-sex-club-knutschfleck-brust.pages.dev
 .karlsruhe-stundenhotel-sexromane-probelesen.pages.dev
@@ -233612,6 +233794,7 @@
 .kasubad31.shop
 .kasumi-hardcoree.blogspot.com
 .kasurbokep.com
+.kasuri.shop
 .kasut.org
 .kasutusjuhend.com
 .kaszanova.hu
@@ -234102,10 +234285,12 @@
 .kazakhporno.club
 .kazakhporno.com
 .kazakhporno.link
+.kazakhporno.net
 .kazakhporno.xyz
 .kazakhskiy.cc
 .kazakhskoe-porno.top
 .kazakhskoe-porno1.top
+.kazakhskoeporno.com
 .kazakshaporno.link
 .kazaldevassos.blogspot.com
 .kazami-you.itch.io
@@ -234237,7 +234422,6 @@
 .kcf403.sbs
 .kcfeishuichuli.com
 .kcft.net
-.kcfu.top
 .kcfuzhuang.com
 .kchechina.com
 .kcjjfjj.cc
@@ -234305,6 +234489,7 @@
 .kds-edu.com
 .kds570.sbs
 .kdsexxxx.site
+.kdsjtlhs888.com
 .kdslolacs.online
 .kdslotidn.com
 .kdslotsxxx.site
@@ -234715,6 +234900,7 @@
 .kempten-models.sexmodels24.com
 .kemptenladies.com
 .kemptenmodels.net
+.kemuwu.com
 .kenafchina.com
 .kenalirangkaipakai.blogspot.com
 .kenan.org.cn
@@ -235090,6 +235276,7 @@
 .kfi066.icu
 .kfirsun.com
 .kfjdeniuvrokeyzh12.blogspot.com
+.kfjdwx.com
 .kfk758.com
 .kfk950.com
 .kfkp.org.cn
@@ -235458,7 +235645,6 @@
 .kh792.top
 .kh793.top
 .kh795.top
-.kh796.top
 .kh797.top
 .kh80.top
 .kh800.top
@@ -235522,7 +235708,6 @@
 .kh943.top
 .kh946.top
 .kh948.top
-.kh949.top
 .kh953.top
 .kh957.top
 .kh958.top
@@ -235557,6 +235742,7 @@
 .kharid68.tk
 .kharonkft.hu
 .kharrhadawn.blogspot.com
+.khaspal.in
 .khatemoqadam.com
 .khatwh-le7lmk.com
 .khayannpyar.blogspot.com
@@ -235656,6 +235842,7 @@
 .khorpornhub.com
 .khosex.cam
 .khosex.cc
+.khosex.pages.dev
 .khosex.pro
 .khosex.shop
 .khosex.xyz
@@ -235817,6 +236004,7 @@
 .kieunuviet.pro
 .kieunuviet.xyz
 .kiev-escorts.info
+.kievescortangels.com
 .kieveskort.net
 .kievpravda.com
 .kievrelax.net
@@ -236165,7 +236353,6 @@
 .king-kristi-porn.pages.dev
 .king-sky.com
 .king-solar.com.cn
-.king-xxx.com
 .king0575.com
 .king170.com
 .king186.com
@@ -237480,6 +237667,7 @@
 .kittycyberstarfacialabuse.com
 .kittydesiresporn.pages.dev
 .kittyfights.com
+.kittyfireball.writeas.com
 .kittygirls.dad
 .kittygirls.link
 .kittygirls.work
@@ -237586,6 +237774,7 @@
 .kizlakonus.blogspot.com
 .kizlan-hentai.blogspot.com
 .kizlikbozmapornosu.blogspot.com
+.kizw.net
 .kizzy.com
 .kj-services.com
 .kj18hk.crdh886.com
@@ -237638,7 +237827,6 @@
 .kjzw.pics
 .kk-bc.com
 .kk-h.blogspot.com
-.kk-pro.com
 .kk016.com
 .kk029.sbs
 .kk030.com
@@ -237747,23 +237935,16 @@
 .kkan.top
 .kkapp99.com
 .kkav02.com
-.kkav03.com
 .kkav05.com
 .kkav06.com
 .kkav08.com
 .kkav10.com
-.kkav13.top
 .kkav15.top
 .kkav19.com
-.kkav20.com
-.kkav22.com
-.kkav22.top
 .kkav23.com
 .kkav23.top
 .kkav24.com
 .kkav24.top
-.kkav27.com
-.kkav29.com
 .kkav3.top
 .kkav35.com
 .kkav4.top
@@ -237772,15 +237953,11 @@
 .kkav43.top
 .kkav44.top
 .kkav55.top
-.kkav6.top
 .kkav60.top
 .kkav63.top
 .kkav64.top
-.kkav65.top
 .kkav75.top
-.kkav88.top
 .kkav899.com
-.kkav99.top
 .kkavxx.top
 .kkbaby-8.com
 .kkbb.org.cn
@@ -237877,13 +238054,10 @@
 .kkx222.com
 .kkx555.com
 .kkxo.com.cn
-.kkxx10.top
-.kkxx12.top
 .kkxx15.top
 .kkxx3.top
 .kkxx4.top
 .kkxx61.top
-.kkxx7.top
 .kky079.sbs
 .kky773.com
 .kkyh56.com
@@ -237985,6 +238159,7 @@
 .klgirlmodel.com
 .klgirls6.com
 .klh752.sbs
+.klhgkh898.com
 .klhotelgirl.com
 .klhotmassage.com
 .klhotmassage.klbeutysexgirl.com
@@ -238122,6 +238297,7 @@
 .kmarchastity.blogspot.com
 .kmastercross.itch.io
 .kmasutra.com
+.kmatc.com
 .kmb898.com
 .kmbdfyy.com
 .kmbeilei.com
@@ -238185,6 +238361,7 @@
 .kmmovie.cn
 .kmmqfs.com
 .kmnbhg33.cc
+.kmnykdyy.cn
 .kmo156.sbs
 .kmobchod.cz
 .kmodels.com.ua
@@ -238232,7 +238409,6 @@
 .kn1688.com
 .kn17.sbs
 .kn302.sbs
-.kn5.top
 .kn916.sbs
 .kna778.com
 .knaapjesgezocht.nl
@@ -238402,7 +238578,6 @@
 .ko.sexdoma.net
 .ko28.sbs
 .ko29.sbs
-.ko293.xyz
 .ko516.com
 .ko53.top
 .ko584.com
@@ -238847,7 +239022,6 @@
 .kongshizhaoming.com
 .kongtiaocool.com
 .konguschools.com
-.kongxxx6.info
 .kongyun88.com
 .kongzcollections.blogspot.com
 .kongzichina.com
@@ -239055,7 +239229,6 @@
 .kopro.top
 .kopro.vip
 .kopro4.top
-.kopro5.top
 .kopro6.top
 .koptim-sami.ru
 .koq630.sbs
@@ -239729,13 +239902,10 @@
 .kpipx.com
 .kpiss.net
 .kpj5eh.cc
-.kpjav12.top
 .kpjav15.top
 .kpjav20.top
 .kpjav3.top
 .kpjav4.top
-.kpjav6.top
-.kpjav7.top
 .kpk538.sbs
 .kpk706.sbs
 .kpkpl.com.cn
@@ -243721,7 +243891,6 @@
 .latex-sex-single-stammtisch-mnchen.pages.dev
 .latex-sex-videos.blogspot.com
 .latex-shemales.com
-.latex-slut-show.com
 .latex.bestelinks.nl
 .latex.com.au
 .latex.eu
@@ -261711,6 +261880,7 @@
 .maome3.net.cn
 .maomi-porn.wiki
 .maomi.vu
+.maomi0.vip
 .maomi1055.cyou
 .maomi10f.com
 .maomi14b.com
@@ -271701,7 +271871,6 @@
 .milfporn.sexy
 .milfporn.tube
 .milfporn.tv
-.milfporn.wtf
 .milfporn12fanatic.blogspot.com
 .milfporn2019.blogspot.com
 .milfporn3x.com
@@ -277052,7 +277221,6 @@
 .mommysgirl.info
 .mommysgirl.me
 .mommysgirl.net
-.mommysgirlporn.com
 .mommysgrannysandtrannysphonesex.com
 .mommysnude.com
 .mommysonporn.com
@@ -277660,7 +277828,6 @@
 .moneysextube.com
 .moneyshot.com
 .moneyshotblog.blogspot.com
-.moneyshotporn.com
 .moneyshots.com
 .moneyshotxxx.com
 .moneyslave.lol
@@ -297153,7 +297320,6 @@
 .nvt-soft.com
 .nvtus.com
 .nvu391.sbs
-.nvv.jkyhxx.buzz
 .nvv166.sbs
 .nvwang.icu
 .nvwang.org
@@ -311640,7 +311806,6 @@
 .picsz.com
 .pict-ai.com
 .picthumbs.com
-.pictoa.backroomcastingcouchporn.com
 .pictoa.com
 .pictoa.spanksex.org
 .pictocum.com
@@ -317542,7 +317707,6 @@
 .pornandsex.com
 .pornandsex.info
 .pornandsexdownload.blogspot.com
-.pornandsexgallery.com
 .pornandsexlinks.blogspot.com
 .pornandstuff.com
 .pornandstuff.vincentdesiree.com
@@ -318023,7 +318187,6 @@
 .pornblackedgif.pages.dev
 .pornblackfriday.com
 .pornblackgays.com
-.pornblacksonboys.com
 .pornblackwife.com
 .pornblade.com
 .pornblast.vip
@@ -318136,7 +318299,6 @@
 .pornbrandi.com
 .pornbrandi.info
 .pornbrandibraids.pages.dev
-.pornbrandilove.com
 .pornbrands.com
 .pornbrandzio.com
 .pornbrandzio.org
@@ -318187,7 +318349,6 @@
 .pornbunnyfarm.com
 .pornburda.vip
 .pornburrito.com
-.pornburst-xxx.studentsexpartiesporn.com
 .pornburst.mobi
 .pornburst.ru
 .pornbus.com
@@ -319461,7 +319622,6 @@
 .pornfamhd.com
 .pornfamily.org
 .pornfamilyguyparody.com
-.pornfamilysinners.com
 .pornfamilytaboo.com
 .pornfamousryleigh.pages.dev
 .pornfams18.com
@@ -320274,7 +320434,6 @@
 .porngoeshd.com
 .porngoespro.com
 .porngofs.com
-.porngoi.com
 .porngold18.com
 .porngolden.com
 .porngoliath.com
@@ -322758,7 +322917,6 @@
 .pornme.pm
 .pornme.site
 .pornmeadow.com
-.pornmeamelone.com
 .pornmechanic.com
 .pornmedia.click
 .pornmedia.net
@@ -326061,7 +326219,6 @@
 .pornodeutsch.biz
 .pornodeutsch.me
 .pornodeutsch.pages.dev
-.pornodeutsch.xxx
 .pornodeutscher.com
 .pornodevil.ru
 .pornodevki.com
@@ -327060,7 +327217,6 @@
 .pornohirsch.pornamateur2.com
 .pornohirsch.straightguys.org
 .pornohirsch.supershemale.net
-.pornohirsch1.com
 .pornohirschcams.com
 .pornohirschlive.com
 .pornohirschsex.de
@@ -331568,7 +331724,6 @@
 .pornshop.one
 .pornshop.vip
 .pornshopconfess.blogspot.com
-.pornshoplyfter.com
 .pornshort.com
 .pornshorts.net
 .pornshorts.xyz
@@ -346226,8 +346381,6 @@
 .pussylickeroflondon.blogspot.com
 .pussylickers.com
 .pussylicking.com
-.pussylicking.pro
-.pussylicking.wtf
 .pussylicking4u.blogspot.com
 .pussylickinggif.com
 .pussylickinggood.com
@@ -346880,6 +347033,7 @@
 .pxne.com.cn
 .pxo209.sbs
 .pxohub.com
+.pxp.bar
 .pxp.codes
 .pxp.cool
 .pxp.farm
@@ -349630,7 +349784,6 @@
 .r18hub.com
 .r18manga.com
 .r18mikoda.blogspot.com
-.r18porn.com
 .r18show.com
 .r18vr.com
 .r1etb.com
@@ -355610,7 +355763,6 @@
 .rikamateur.blogspot.com
 .rikamov.cc
 .rikazecn.com
-.rike1vg82q7upd6c.cyou
 .riki2riki.com
 .rikichina.com
 .rikikai.com
@@ -360742,7 +360894,6 @@
 .sambaporno.pages.dev
 .sambaporno.ws
 .sambapornobr.com
-.sambapornogratis.com
 .sambapornogratis.com.br
 .sambapornox.blogspot.com
 .sambapornoxxx.sbs
@@ -363548,7 +363699,6 @@
 .sdqzyph.com
 .sdqzzz.com
 .sdrbc.cn
-.sdrcmy.com
 .sdridong.com
 .sdrkd.com
 .sdrlm.com.cn
@@ -368485,8 +368635,6 @@
 .sex-porn.cloud
 .sex-porn.pro
 .sex-porn.site
-.sex-porn156.website
-.sex-porn167.website
 .sex-porn69.blogspot.com
 .sex-porn69.net
 .sex-porne-cams.blogspot.com
@@ -370132,7 +370280,6 @@
 .sexaaa.icu
 .sexaalen.eu
 .sexaankondigingen.nl
-.sexaanrader.nl
 .sexaargau.ch
 .sexaargau.net
 .sexabc.ch
@@ -379069,7 +379216,6 @@
 .sexpornochat.site
 .sexpornocu.me
 .sexpornoebigeldverdienenmitcamsex.blogspot.com
-.sexpornofk.com
 .sexpornogon.top
 .sexpornohd.com
 .sexpornohikaye.com
@@ -380940,7 +381086,6 @@
 .sextinggirls.com
 .sextingladies.com
 .sextingles.co.uk
-.sextinglive.cam
 .sextingmate.com
 .sextingnumbers.net
 .sextingo.com
@@ -381049,7 +381194,6 @@
 .sextop.xxx
 .sextop01.blog
 .sextop1-tv.blog
-.sextop1.beauty
 .sextop1.bio
 .sextop1.casa
 .sextop1.cfd
@@ -381085,8 +381229,6 @@
 .sextop11.com
 .sextop11.xyz
 .sextop123.buzz
-.sextop123.gay
-.sextop123.skin
 .sextop18.blog
 .sextop18.ink
 .sextop18.lol
@@ -382391,7 +382533,6 @@
 .sexvideo.it.com
 .sexvideo.kim
 .sexvideo.lat
-.sexvideo.makeup
 .sexvideo.moscow
 .sexvideo.nu
 .sexvideo.one
@@ -382435,7 +382576,6 @@
 .sexvideocalls.com
 .sexvideocams.com
 .sexvideocasting.com
-.sexvideochat.blog
 .sexvideochat.co.uk
 .sexvideochat.hu
 .sexvideochat.it
@@ -387692,7 +387832,6 @@
 .sexyteensclips.com
 .sexyteensclub.com
 .sexyteensex.net
-.sexyteensfucking.net
 .sexyteenshare.blogspot.com
 .sexyteenshoplifters.com
 .sexyteensnude.com
@@ -387794,7 +387933,6 @@
 .sexytrans.free.fr
 .sexytranse18.com
 .sexytransexuals.com
-.sexytransgirl.net
 .sexytranssexy.it
 .sexytransxhub.com
 .sexytraum.com
@@ -393120,7 +393258,6 @@
 .shzsy.com
 .shzuanj.com.cn
 .si-33.com
-.si-gnif-i1i.daoguodapian.shop
 .si10.top
 .si1000.blogspot.com
 .si168.cn
@@ -394800,7 +394937,6 @@
 .sissyphoneplay.blogspot.com
 .sissyphoneplay.com
 .sissyphonesexhq.com
-.sissyphonesexxx.com
 .sissypics.com
 .sissyplayground.com
 .sissyplaything.blogspot.com
@@ -396984,7 +397120,6 @@
 .sluttyvid.info
 .sluttyvid.online
 .sluttyvidd.online
-.sluttyvideo.online
 .sluttyvideos.com
 .sluttyviolet.live
 .sluttywetporn.com
@@ -402586,7 +402721,6 @@
 .ssexnhat.xyz
 .ssexsky.blogspot.com
 .ssextape.com
-.ssextoys.com
 .ssexviet.pro
 .ssexvn.com
 .ssexvn.xyz
@@ -402819,6 +402953,7 @@
 .ssyq.buzz
 .ssyxx.com
 .ssz008.com
+.ssza34.top
 .sszx-china.com
 .st-av-china.com
 .st-dysz.com
@@ -405504,6 +405639,7 @@
 .studentsexfriends.com
 .studentsexparties.com
 .studentsexparties.net
+.studentsexpartiesporn.com
 .studentsextv.blogspot.com
 .studentsexvideos.com
 .studentsluts.com
@@ -407319,7 +407455,6 @@
 .superporn.sbs
 .superporn.top
 .superporn.vip
-.superporn1.com
 .superporn1.sbs
 .superporn1.top
 .superporn10.sbs
@@ -413706,7 +413841,6 @@
 .teen-sex.lol
 .teen-sex.me
 .teen-sex.quest
-.teen-sex.site
 .teen-sex.tv
 .teen-sex3.com
 .teen-sexcam.net
@@ -413859,7 +413993,6 @@
 .teenage-phonesex.com
 .teenage-playmates.com
 .teenage-porn.us
-.teenage-porno-videos.com
 .teenage-sex-ruc.blogspot.com
 .teenage-sex-tube.com
 .teenage-sex-with-animals.pages.dev
@@ -414868,7 +415001,6 @@
 .teenpureporn.com
 .teenpussy.com
 .teenpussy.me
-.teenpussy.name
 .teenpussy.online
 .teenpussycam.com
 .teenpussycam.net
@@ -415368,7 +415500,6 @@
 .teensporner.com
 .teenspornhd.com
 .teenspornmovie.com
-.teensporno.net
 .teenspornography.blogspot.com
 .teenspornonlone.blogspot.com
 .teenspornovideos.com
@@ -415495,7 +415626,6 @@
 .teentube.com
 .teentube.fr
 .teentube.fun
-.teentube.info
 .teentube.xxx
 .teentube1.com
 .teentube1.net
@@ -416033,7 +416163,6 @@
 .telefonsex-alessandra.com
 .telefonsex-alexandra.de
 .telefonsex-amateur.de
-.telefonsex-amateure.com
 .telefonsex-andrea.de
 .telefonsex-angelina.com
 .telefonsex-angie.com
@@ -419696,7 +419825,6 @@
 .thegay.ing
 .thegay.makeup
 .thegay.porn
-.thegay.porntrexporn.com
 .thegay.pro
 .thegay.tube
 .thegay.yachts
@@ -420153,7 +420281,6 @@
 .themaleside.blogspot.com
 .themalika.free.fr
 .themall.sexy
-.themanchesterescorts.com
 .themandawg.blogspot.com
 .themandingo.club
 .themanuniverse.club
@@ -422848,7 +422975,6 @@
 .tikhot.xyz
 .tikhub.net
 .tikhub.pro
-.tikhub.to
 .tiki-toki.org
 .tiklaescort.com
 .tikonly.net
@@ -423462,7 +423588,6 @@
 .titfuck.blogspot.com
 .titfuck.com
 .titfuck.fun
-.titfuck.wtf
 .titfuckfun.blogspot.com
 .titfucking.blogspot.com
 .titfuckingmilfs.blogspot.com
@@ -423556,7 +423681,6 @@
 .titsensation.com
 .titsex.blogspot.com
 .titsexpert.cyou
-.titsexy.com
 .titsfan.com
 .titsfarm.com
 .titsfinder.com
@@ -424011,7 +424135,6 @@
 .tjyongfeng.com
 .tjyrpm.net
 .tjysf.com
-.tjyxfg.com
 .tjyxtgt.com
 .tjyyd.com
 .tjzejun.com
@@ -426727,7 +426850,6 @@
 .touchmyself.com
 .touchmywife.com
 .touchmywifecams.com
-.touchmywifeporn.com
 .touchofgracepantego.com
 .touchselfie.com
 .touchthebody.com
@@ -428674,7 +428796,6 @@
 .transhot.com
 .transhot.free.fr
 .transhub.to
-.transi-sex.com
 .transidol.com
 .transienttheatre.com
 .transiki.cv
@@ -430591,6 +430712,7 @@
 .tsmovies.com
 .tsmoxieporn.pages.dev
 .tsmssy.com.cn
+.tsn256.xyz
 .tsn72ksc.cn
 .tsnadia.com
 .tsnaomichi.com
@@ -432497,7 +432619,6 @@
 .turkifsaporn.online
 .turkifsaporno.com
 .turkifsaporno1.blogspot.com
-.turkifsatube.biz
 .turkifsatube.com
 .turkifsaus4.site
 .turkifsavideoizle.blogspot.com
@@ -432720,7 +432841,6 @@
 .turkpornocu.vip
 .turkpornocunuz.icu
 .turkpornocusu.bar
-.turkpornofk.com
 .turkpornohd.net
 .turkpornohd.pro
 .turkpornohikayem.blogspot.com
@@ -433251,7 +433371,6 @@
 .twentyfoursevends.blogspot.com
 .twentyone.com
 .tweor.com
-.twerk.wtf
 .twerkcam.com
 .twerkdessert.com
 .twerkfucking.com
@@ -433382,7 +433501,6 @@
 .twinkgay.net
 .twinkgay.online
 .twinkgayboy.com
-.twinkgayboysnude.com
 .twinkgaypics.com
 .twinkgaypictures.com
 .twinkgayporn.com
@@ -438023,7 +438141,6 @@
 .uusspp.com
 .uutoanet.xyz
 .uutoon.com
-.uutree.com
 .uuttae.com
 .uuttuu.com
 .uutun.cc
@@ -438346,7 +438463,6 @@
 .uzbporno.org
 .uzbporno.ru
 .uzbporno.site
-.uzbseks.fun
 .uzbseks.su
 .uzbsex.ru
 .uzbsex.top
@@ -439678,7 +439794,6 @@
 .verdorben.net
 .verdorbenehausfrauen.com
 .veredala.com.ng
-.vereena.gay
 .verel.app
 .verfickt.de
 .vergacaliente9.blogspot.com
@@ -439959,19 +440074,16 @@
 .verytinyteens.com
 .verytranny.com
 .verytwink.com
+.veryuc.com
 .veryverysexygrils.blogspot.com
 .veryviolet.com
 .veryvirgin.com
 .verywetpussy.com
 .veryxxxhd.autos
-.veryxxxhd.boats
 .veryxxxhd.com
 .veryxxxhd.gay
 .veryxxxhd.hair
-.veryxxxhd.live
-.veryxxxhd.lol
 .veryxxxhd.makeup
-.veryxxxhd.mom
 .veryxxxhd.monster
 .veryxxxhd.motorcycles
 .veryxxxhd.online
@@ -440701,7 +440813,6 @@
 .video-porn-webcam.blogspot.com
 .video-porn-xnxx.blogspot.com
 .video-porn.blogspot.com
-.video-porn.pro
 .video-pornhd.blogspot.com
 .video-porno-blog.com
 .video-porno-de-lesbienne.blogspot.com
@@ -441415,7 +441526,6 @@
 .videopornohdstreaming.com
 .videopornohot.blogspot.com
 .videopornoinceste.xxx
-.videopornoindo.biz.id
 .videopornoindo.fun
 .videopornoindo.my.id
 .videopornoindo.sbs
@@ -443425,7 +443535,6 @@
 .vipfubon.com.cn
 .vipfuck.com
 .vipgalleries.net
-.vipgaytube.gay
 .vipgfs.com
 .vipgirlfriend.com
 .vipgirlstr.net
@@ -444555,7 +444664,6 @@
 .vivthomas.com
 .vivthomaslive.com
 .vivudhd.blogspot.com
-.vivusporn.com
 .viwap.blog
 .viwing.net.cn
 .vixamour.com
@@ -444679,7 +444787,6 @@
 .vjghq3.net.cn
 .vjh619.com
 .vjjba.com
-.vjopu.cc
 .vjopu.xyz
 .vjosd.cn
 .vjsyboh.cn
@@ -444991,12 +445098,9 @@
 .vlxxx.one
 .vlxxx.org
 .vlxxx.vieon.space
-.vlxxxvn.art
-.vlxxxvn.autos
 .vlxxxvn.beauty
 .vlxxxvn.boats
 .vlxxxvn.bond
-.vlxxxvn.cam
 .vlxxxvn.click
 .vlxxxvn.cloud
 .vlxxxvn.cyou
@@ -445067,7 +445171,6 @@
 .vmige.com
 .vmihail2772.blogspot.com
 .vmilfporn.com
-.vmilfshop.dminionenergy.com
 .vmingli.com
 .vminudfc.sbs
 .vmj71edg.cn
@@ -449903,7 +450006,6 @@
 .webcampornostar.com
 .webcampornostar.it
 .webcampornostars.blogspot.com
-.webcampornov.com
 .webcampornovip.com
 .webcampornox.es
 .webcampornoxxx.net
@@ -451216,7 +451318,6 @@
 .wellieswonderland.com
 .wellikprinting.com
 .wellindianporn.com
-.wellknownpornstars.com
 .wellmaturetube.com
 .wellness-escort.com
 .wellness-renomme-porno-am-strand.pages.dev
@@ -456358,7 +456459,6 @@
 .www-xnxx-com.tattoo
 .www-xnxx-com.top
 .www-xnxx-com.us
-.www-xnxx-com.watch
 .www-xnxx-com.website
 .www-xnxx-com.work
 .www-xnxx-com.world
@@ -461642,7 +461742,6 @@
 .xiaocaovideo.com
 .xiaocaovideo.net
 .xiaochengxu18.com
-.xiaochijishuwang.com
 .xiaochuanedu.com
 .xiaochuanwu.com
 .xiaodejiac.com
@@ -465500,7 +465599,6 @@
 .xnxxadulte.blogspot.com
 .xnxxadultxxx.net
 .xnxxalarab.org
-.xnxxamateur.com
 .xnxxamateurvideo.blogspot.com
 .xnxxamatorialeporno.blogspot.com
 .xnxxan.com
@@ -466022,12 +466120,9 @@
 .xnxxxarab.click
 .xnxxxarab.cloud
 .xnxxxarab.cyou
-.xnxxxarab.digital
 .xnxxxarab.fun
 .xnxxxarab.gay
-.xnxxxarab.guru
 .xnxxxarab.hair
-.xnxxxarab.homes
 .xnxxxarab.icu
 .xnxxxarab.ink
 .xnxxxarab.life
@@ -466801,7 +466896,6 @@
 .xporno666.ru
 .xporno69.ru
 .xpornoatom.xyz
-.xpornobrasil.site
 .xpornoclub.blogspot.com
 .xpornogirls.com
 .xpornoizleme.blogspot.com
@@ -467144,6 +467238,7 @@
 .xrump.blogspot.com
 .xruniversity.com
 .xruporn.com
+.xruv84.xyz
 .xrw035.top
 .xrw6.xyz
 .xrwww.com.cn
@@ -468401,8 +468496,6 @@
 .xvideos.co.hu
 .xvideos.co.il
 .xvideos.co.uk
-.xvideos.codes
-.xvideos.coffee
 .xvideos.com
 .xvideos.com.ar
 .xvideos.com.au
@@ -468441,7 +468534,6 @@
 .xvideos.garden
 .xvideos.gen.in
 .xvideos.getter.cc
-.xvideos.gives
 .xvideos.giving
 .xvideos.gl
 .xvideos.golf
@@ -468472,7 +468564,6 @@
 .xvideos.jp
 .xvideos.kr
 .xvideos.lc
-.xvideos.living
 .xvideos.lu
 .xvideos.lv
 .xvideos.me
@@ -468516,7 +468607,6 @@
 .xvideos.properties
 .xvideos.pt
 .xvideos.re
-.xvideos.recipes
 .xvideos.red
 .xvideos.rest
 .xvideos.ro
@@ -468535,8 +468625,6 @@
 .xvideos.surf
 .xvideos.sv
 .xvideos.sx
-.xvideos.taxi
-.xvideos.technology
 .xvideos.tf
 .xvideos.tienda
 .xvideos.tl
@@ -468553,8 +468641,6 @@
 .xvideos.wales
 .xvideos.wapka.cc
 .xvideos.wiki
-.xvideos.wine
-.xvideos.works
 .xvideos.xn--3ds443g
 .xvideos.xn--6frz82g
 .xvideos.xn--fiq228c5hs
@@ -468936,7 +469022,6 @@
 .xvideox.club
 .xvideox.com
 .xvideox.me
-.xvideox.mobi
 .xvideoxnxx.blogspot.com
 .xvideoy.com
 .xvideoz.cloud
@@ -469024,7 +469109,6 @@
 .xvintageporntube.com
 .xvintagetube.com
 .xvios.com
-.xviral.baby
 .xviralmonsters.net
 .xvirgin.org
 .xvirtual.com
@@ -469729,8 +469813,6 @@
 .xxnxx2018.net
 .xxnxx2018.org
 .xxnxxcom.pro
-.xxnxxhd.motorcycles
-.xxnxxhd.skin
 .xxnxxhd.tattoo
 .xxnxxhd.top
 .xxnxxhindi.com
@@ -469749,10 +469831,8 @@
 .xxnxxx.org
 .xxnxxx.pages.dev
 .xxnxxx.vip
-.xxnxxxhd.art
 .xxnxxxhd.autos
 .xxnxxxhd.beauty
-.xxnxxxhd.bond
 .xxnxxxhd.cfd
 .xxnxxxhd.click
 .xxnxxxhd.cloud
@@ -470724,11 +470804,9 @@
 .xxx-tube-videos.net
 .xxx-tube.blogspot.com
 .xxx-tube.cc
-.xxx-tube.cfd
 .xxx-tube.com
 .xxx-tube.fun
 .xxx-tube.monster
-.xxx-tube.pro
 .xxx-tube.su
 .xxx-tube.wtf
 .xxx-tube.xyz
@@ -470808,7 +470886,6 @@
 .xxx-webcam-chat.com
 .xxx-webcam-shows.com
 .xxx-webcam-xxx.com
-.xxx-webcam.camchats.top
 .xxx-webcamsex.nl
 .xxx-wife.com
 .xxx-winner.com
@@ -473780,7 +473857,6 @@
 .xxxplaces.com
 .xxxplant.com
 .xxxplatinumescorts.com
-.xxxplay.online
 .xxxplay.video
 .xxxplayer.com
 .xxxplaygirl.com
@@ -474897,7 +474973,6 @@
 .xxxtube.online
 .xxxtube.org
 .xxxtube.red
-.xxxtube.rodeo
 .xxxtube.sbs
 .xxxtube.space
 .xxxtube.today
@@ -475594,7 +475669,6 @@
 .xxxwikidb.top
 .xxxwings.com
 .xxxwis.com
-.xxxwithin.com
 .xxxwives.com
 .xxxwn.com
 .xxxwomen.com
@@ -475721,9 +475795,6 @@
 .xxxxdy.com
 .xxxxdyw199.vip
 .xxxxdyw7.com
-.xxxxelarab.gay
-.xxxxelarab.tattoo
-.xxxxelarab.website
 .xxxxez.com
 .xxxxfans.beauty
 .xxxxfans.buzz
@@ -475879,11 +475950,9 @@
 .xxxxxcams.com
 .xxxxxcollegevideos.blogspot.com
 .xxxxxcom.com
-.xxxxxelarab.art
 .xxxxxelarab.autos
 .xxxxxelarab.beauty
 .xxxxxelarab.boats
-.xxxxxelarab.cam
 .xxxxxelarab.cfd
 .xxxxxelarab.click
 .xxxxxelarab.cloud
@@ -482898,6 +482967,7 @@
 .yurinime.com
 .yuriscenes.com
 .yurishoujoecchihime.blogspot.com
+.yurivan.com
 .yurixparty.blogspot.com
 .yurizan-beltran1.com
 .yurizanbeltran.co.uk
@@ -483271,7 +483341,6 @@
 .yy-ax.com
 .yy-de.com
 .yy-soft.net
-.yy.youtiao15.top
 .yy.youtiao22.top
 .yy.youtiao24.top
 .yy.youtiao31.top
@@ -483680,7 +483749,6 @@
 .z3fl.top
 .z3m.cc
 .z3n8.ca
-.z3nb0voiujkt5aw7.club
 .z3wackc.mom
 .z3z.idv.tw
 .z44v.top
@@ -484096,7 +484164,6 @@
 .zbjiaxiu.cn
 .zbjjr.com.cn
 .zbjl.org.cn
-.zbjy-expo.com
 .zbjzw.cn
 .zbkdty.com
 .zbkhd.com

@@ -1,9 +1,9 @@
-# Version: 202608200852
+# Version: 202608201207
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 58254
-# Last modified: 2026-08-20T08:52:47+0000
+# Entries: 58201
+# Last modified: 2026-08-20T12:07:13+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -430,7 +430,6 @@
 .1fd27fc99f.com
 .1fd92n6t8.de
 .1fe6b5ca5a.5ea748c035.com
-.1fh2eyefthjqvizll1g4.cfd
 .1fp9k4zrm.com
 .1futnsio0.com
 .1fwjpdwguvqs.com
@@ -933,8 +932,6 @@
 .359z66txb.com
 .35a92e241c.30ea3091fb.com
 .35f95a147d.com
-.35i23gb77vkhxekq9i9igq2wfk8xp1hlef.cfd
-.35jh3kue65rib8.cfd
 .35kjurwwb6.com
 .35lnvz97cg.com
 .35wo96wkjs.com
@@ -1165,7 +1162,6 @@
 .48c5089fa7.com
 .48cc0c0e07.com
 .48dswtxkw.com
-.48q1m7qfh4c4cr195g8fhrpv1.cfd
 .48r3l2u5l2.com
 .492plugins.com
 .492tracker.net
@@ -1223,7 +1219,6 @@
 .4jh1le34m.com
 .4l.vlgtgclmpk95tbf.cyou
 .4l5bbkug99.com
-.4lzp96zzyenhkrqbe.cfd
 .4mlhn1ocg4.com
 .4mp.xewp5et8izo2eq.cyou
 .4mvkxs0o0.com
@@ -1835,7 +1830,6 @@
 .7g761j2nc.com
 .7gc5.9227giuzyg11g4jg9xy71vqrywopkpi5tulk.cyou
 .7ho8oc3svg.com
-.7i3zqc25nbij9yr.cfd
 .7ijflv7lomrlifjhxhobopq7.cfd
 .7imgl76f9cgpbgnh7ik.fxc5fklv2b43juz3hr35h.cyou
 .7imz0d5nay.com
@@ -1941,7 +1935,6 @@
 .85a30cce17.com
 .85d6890e34.0ed35fac92.com
 .85dcec5317.b8763ae795.com
-.85k4t1xzc9c8rzn3.cfd
 .860technologies.com
 .862ace.com
 .864feb57ruary.com
@@ -2177,7 +2170,6 @@
 .98d4403b02.com
 .98k0ocqaf6.com
 .98kuyjnohfr2f9.2zqq8yne1r3nv4g954vnik.cyou
-.98ufpen6j96mbk785ty.cfd
 .98withalt.net
 .990ir3zfu.com
 .993d52a9bd.com
@@ -8018,7 +8010,6 @@
 .b4c73f11d0.com
 .b58ncoa1c07f.com
 .b5e17bdf06.com
-.b5g4fogm33xg9yg.cfd
 .b607.dailylocal.com
 .b60756935f.com
 .b61d99a212.4cf2957bbe.com
@@ -8892,7 +8883,6 @@
 .bf7472b795.com
 .bf7a65c961.3632ca5b41.com
 .bf80c2fe1a.com
-.bf88vyyuigm35zb5x.cfd
 .bfaubcoezrihe.site
 .bfblyaqvcnaat.space
 .bfbrnlmnspugt.online
@@ -9148,7 +9138,6 @@
 .bjatrfmfcxdsne.com
 .bjdgzffnutlqs.site
 .bjdnqdbmktbhm.website
-.bje14qlhiwvmlnr27fmxgu5fek3.cfd
 .bjgjunljwykym.space
 .bjhpnzkjyibyx.site
 .bjhybbatjwimu.website
@@ -10492,7 +10481,6 @@
 .c80cc4bf23.69c3736082.com
 .c81.ipanocloud.com
 .c815mg3lrb6646kl.cfd
-.c81mm9t4tkxxk815n2kgwi1twl8.cfd
 .c83ff46cc3.com
 .c84c10fe3d.com
 .c8841fd6e9.com
@@ -11573,7 +11561,6 @@
 .chipnarrativefatherinlaw.com
 .chipspasteprowl.com
 .chiq-cloud.com
-.chirubeauish.shop
 .chitika.net
 .chivalrouscalmlymexican.com
 .chloro.trip.com
@@ -11747,7 +11734,6 @@
 .ckiqxrqwnavqt.website
 .ckjjxjpoxhebx.site
 .ckkoabgjgzzcl.website
-.ckm8ow5ek9pkw66.cfd
 .ckmghmpfmdfvk.online
 .ckndisjiwbc.com
 .ckogfgjeuxixw.online
@@ -13219,7 +13205,6 @@
 .cqvxrmwcwyvad.site
 .cqwtmfcibhaoo.com
 .cqxfpeudfzhoe.website
-.cqyitlvpkvyzf.site
 .cqzddfxybkwcw.online
 .cr-brands.net
 .cr.adsappier.com
@@ -15294,7 +15279,6 @@
 .damiaevilest.shop
 .dampdock.com
 .dampedvisored.com
-.dampratio.pro
 .damselfly.vegenook.com
 .danaidehomes.com
 .dandiewealful.com
@@ -15586,7 +15570,6 @@
 .dd1.diymianmo.com
 .dd133.com
 .dd1xbevqx.com
-.dd268fdaa5.com
 .dd56f6c93d.415f764d57.com
 .dd6ym5in4ovm3.cloudfront.net
 .dd81bp3qbj.com
@@ -18750,7 +18733,6 @@
 .eqxygxmutzlep.online
 .eqymqcjqoeaxj.site
 .eqzehklvqlcjl.site
-.er.5ykj.com
 .er.search.naver.com
 .era.easyvoyage.com
 .era67hfo92w.com
@@ -20841,7 +20823,6 @@
 .fontdeterminer.com
 .foo.cosmocode.de
 .foodieblogroll.com
-.foojeshoops.xyz
 .foolhardy-wall.com
 .foomaque.net
 .foot.wiki
@@ -21037,7 +21018,6 @@
 .fqoybwos7f.com
 .fqpwvcgctwjlo.online
 .fqpyypqsklxar.site
-.fqqljzlrnlp1ry.cfd
 .fqrukpjaahukp.com
 .fqtag.com
 .fqtmnnxabkkud.space
@@ -21558,7 +21538,6 @@
 .g650.delcotimes.com
 .g66ryy88z.com
 .g679.t27ozz9gomomctb4t9wo28ib.cyou
-.g6ghlogvlj3mmyb6.cfd
 .g6ird1tez2.com
 .g6nmrcqlx.qvq6kkeobmqunp4etfg.cyou
 .g6x2uvza37.com
@@ -21776,7 +21755,6 @@
 .gbizxljbrlhjf.space
 .gblpemzjjjyiy.online
 .gbmgmqjppwabsa.com
-.gbmgukyvlwhgy.site
 .gbnfaehebroyq.online
 .gbpmiboyasz.com
 .gbquersgilgpf.space
@@ -22117,7 +22095,6 @@
 .ghabovethecityon.com
 .ghawbdktdopmt.online
 .ghdvmofvjgnhr.store
-.ghdwowvotygjw.website
 .ghettoformed.com
 .ghghgf.51dongshi.com
 .ghghgf.xuexiwa.com
@@ -22136,7 +22113,6 @@
 .ghoqnanthfges.site
 .ghostnewz.com
 .ghostsinstance.com
-.ghqi3w7cvun8q314h.cfd
 .ghsnhdmwjklks.website
 .ghswqnoilsxuj.store
 .ght2bvin1.com
@@ -22212,7 +22188,6 @@
 .gipsydeceivedepoch.com
 .gipsyharryparasite.com
 .giqepofa.com
-.gir1p8pqbbt12xkx25xk8ib5.cfd
 .giraffe.viatorci.com
 .giraffemaintained.com
 .girlieturtle.com
@@ -22733,7 +22708,6 @@
 .govrrobif.com
 .govtax.com
 .govzzpzvfwctr.site
-.gowhougru.net
 .gownbea.icu
 .gowofhdmdtdhi.online
 .goxuptilts.cyou
@@ -23141,7 +23115,6 @@
 .guezvffghyoso.online
 .gugent.xyz
 .gughkbhwynapy.website
-.guguv7zwqm2th5oorkjwvvjo.cfd
 .guhmzgbwilvst.space
 .guhwatazr.in
 .guid.tpns.sgp.tencent.com
@@ -23203,7 +23176,6 @@
 .gutickyum.com
 .gutpartite.cfd
 .guttldzqtedhr.space
-.gutuymfvnw1bvpeg.cfd
 .guu0bfmpf5.com
 .guuia6hxf.com
 .guuulmhvdijwj.space
@@ -23371,10 +23343,8 @@
 .h1883c5wn.com
 .h1cn8nwng.com
 .h1no26ftnb9ucf1fovk4p.cfd
-.h23l8rb5nme3k41ixmepeetqwkkgvjevcl.cfd
 .h27aq0mc6.com
 .h2tcbox.baidu.com
-.h345iggp8og961j2.cfd
 .h353.ncadvertiser.com
 .h3f1fccgc.wlj9l6yziu8etr2euq1ktqv9q8.cyou
 .h40q9nv18.com
@@ -24195,7 +24165,6 @@
 .hkpjnieraypcn.site
 .hkplevgpqjwrn.site
 .hkplzozwl.com
-.hkq1b3v4wiwzo9zi77.cfd
 .hkrpg-log-upload-os.hoyoverse.com
 .hkrpg-log-upload.mihoyo.com
 .hkrpmavrbw.com
@@ -24980,7 +24949,6 @@
 .i7mfm1hl44.com
 .i7xkqmhjw.com
 .i83.mp5wyw11hyuzx82.cyou
-.i84g1yziwtzbxlox.cfd
 .i867.journal-advocate.com
 .i8xkjci7nd.com
 .i953.greeleytribune.com
@@ -26407,7 +26375,6 @@
 .itfarm.com
 .itfzjvpvyclgu.space
 .itgb.kiuyrsebgrjythyt.today
-.itgv2p14ixtfhroge341pp1mzh5o8.cfd
 .ithandpyemia.qpon
 .itiicjkzfggic.site
 .itinerarymonarchy.com
@@ -27096,7 +27063,6 @@
 .jkmawumzebcim.space
 .jkmdfnarliyun.website
 .jkmjjjlah.com
-.jkotxmc5j1iwji5muk9xxwmjvjcc2.cfd
 .jkpzthxjt.com
 .jktrnmllgenlb.online
 .jktuulfyqhkxw.site
@@ -27684,7 +27650,6 @@
 .jxdyk65ay.com
 .jxelkzydvftdn.space
 .jxexzw.ryj696m5t9u85b8q7g.cyou
-.jxhytrgxvybqb.online
 .jxiiwldewtdql.online
 .jxiqoaszcfxve.website
 .jxkfydhfaeyf.com
@@ -27769,7 +27734,6 @@
 .k22svnk2.xyz
 .k2bividyt.com
 .k2oez6.om7jm29izqk8wtfp2uzgiecxe2o.cyou
-.k34313oxo4vhx48c.cfd
 .k3on.com
 .k3vgy6hf7.com
 .k4jf249qq1.ynx1f66v5trpiumu1orcbcm.cyou
@@ -28833,7 +28797,6 @@
 .l6906qxga.com
 .l6h17ybxe.com
 .l7xk21bftn2imgt.rest
-.l8o4vnlul7oq6wg7882g95hruhx4rv.cfd
 .l936.expressnews.com
 .l997.lmtonline.com
 .l9moubljmc.com
@@ -29405,7 +29368,6 @@
 .lht8yhbbl.com
 .lhuvxiezozkjg.online
 .lhvavsdsnhxgz.website
-.lhvduqlahiakt.site
 .lhvptjkotfnkm.website
 .lhwmkhspqb.com
 .lhxqfxhqwoiiq.site
@@ -29817,7 +29779,6 @@
 .lm1.wkpcw.cn
 .lm1668.com
 .lm4u6e80f.com
-.lm62z6ixx7opro5uug1xpbg1br2lm7.cfd
 .lmaowukrqnyiu.site
 .lmapbcyewdaog.space
 .lmavfuplmvhbq.space
@@ -30900,7 +30861,6 @@
 .lychnisscopone.com
 .lycopusunsteck.com
 .lycuhejheahrr.store
-.lycykqrnprxjc.site
 .lydfpyoaexlvq.site
 .lydialoopful.shop
 .lydiz.com
@@ -31932,7 +31892,6 @@
 .mgpl5pqg29.com
 .mgrafmxbsgjma.store
 .mgreyouth.cfd
-.mgrwaui4.top
 .mgs.instacart.com
 .mgs123.com
 .mgsnicqdeydae.space
@@ -33076,7 +33035,6 @@
 .mutinedgunster.com
 .mutinousburyquestionable.com
 .mutipugly.com
-.muuxrbdsheuhg.space
 .muwmedia.com
 .muxc8wxhv.com
 .muxzipacympze.website
@@ -36231,7 +36189,6 @@
 .ozmbrfwzfreie.space
 .ozmmzgezcybxp.website
 .ozmwpmwfujjmv.site
-.ozmynffxynt95mepx2.cfd
 .ozoj.com
 .ozonemedia.com
 .ozonerrebuoy.com
@@ -39284,7 +39241,6 @@
 .q3ei4f.rophim10.cx
 .q3rlg1flo.com
 .q4173l5op.com
-.q46rwqubuywumq1q3pfqyibgu4vj4w.cfd
 .q47u5jeg.x5qjv9hxu7eugfueezpfk.cyou
 .q4n81cffibrmcimlirmnoli65gwh9i7ty.cfd
 .q511.wpbf.com
@@ -39351,7 +39307,6 @@
 .qbmjjkpngef.com
 .qbmxmuaifmpol.website
 .qbnnnuvnoxmqgc.com
-.qbnvdctsmxqhr.website
 .qbnyheznoeglk.space
 .qbpkyvtnxslrk.website
 .qbrfvxzvhmyvh.space
@@ -40179,7 +40134,6 @@
 .r1.ati.su
 .r1jprcr42.com
 .r255.wmtw.com
-.r2c3i9f6v82nj9.cfd
 .r2d2.aotter.net
 .r3n3cy9l4wi6k7.cfd
 .r40xff8q48.com
@@ -40188,7 +40142,6 @@
 .r4uws5iu3g.com
 .r541.houstonchronicle.com
 .r566.timescall.com
-.r582cmkwklbyb4v7.cfd
 .r5g13d8py3.com
 .r5n8ic3on.com
 .r6m5lqwgjvtbjzoleirl3t.q1mb27ixttgn9jpq.cyou
@@ -42615,7 +42568,6 @@
 .rz38db915.com
 .rz56vu65.q1bpm4qck5wqbx8nfgekz8kv81fk.cyou
 .rz6jf5oqz.com
-.rz87p863q8upfqpn2pn247xgh28jg.cfd
 .rza.pmu.fr
 .rzbbqovsrrugf.space
 .rzbjehkgfkpuv8zhr1j.fmkqwuw1v2ynmbgkt.cyou
@@ -47834,7 +47786,6 @@
 .tepid-gather.pro
 .tepid-permission.com
 .tepidpolicy.com
-.tept2u94cwki42.cfd
 .teracreative.com
 .teralog.techhub.co.kr
 .teraticsquelch.cyou
@@ -52401,7 +52352,6 @@
 .vmj428qvi4.com
 .vmjanoicaljna.online
 .vmjyqupzwl.com
-.vmk6e9phjbfilui.cfd
 .vmkcgpjvhfifb.space
 .vmkcrlvtprhfa.online
 .vmkebqorunsod.site
@@ -54305,7 +54255,6 @@
 .wpfc.ml
 .wph2zu9rlb.com
 .wphefiaictrsr.space
-.wphqb1lqv89gh6l.cfd
 .wphsxltcceyjn.site
 .wphwblykxoiia.online
 .wpjplnykjopdp.online
@@ -54511,7 +54460,6 @@
 .wuvudpywmvqoo.online
 .wuvukvmntfarm.website
 .wuwogyfkwifph.site
-.wuwx8qwml6vwi54j.cfd
 .wuxhettgdwgfe.online
 .wuyjtew.icu
 .wuytk.com
@@ -54712,7 +54660,6 @@
 .x455.dailybreeze.com
 .x4bxnav4g.com
 .x4hu95mh0t.com
-.x4mw3x96nwxnwf1b.cfd
 .x5x.uxf6gkki26h8hx8p49885e.cyou
 .x6.yakiuchi.com
 .x680.sgvtribune.com

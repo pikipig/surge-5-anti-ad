@@ -1,9 +1,9 @@
-# Version: 202608231023
+# Version: 202608231734
 # Title: oisd nsfw
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 494603
-# Last modified: 2026-08-23T10:23:55+0000
+# Entries: 494605
+# Last modified: 2026-08-23T17:34:52+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -56048,7 +56048,6 @@
 .ayokagay.com
 .ayongentot.blogspot.com
 .ayootrading.com
-.ayopramuka-kwarnas.id
 .ayor.com.cn
 .ayorboys.com
 .ayorcams.com
@@ -164467,6 +164466,7 @@
 .fsiblog.club
 .fsiblog.com
 .fsiblog.desi
+.fsiblog.fyi
 .fsiblog.gives
 .fsiblog.hot
 .fsiblog.icu
@@ -256099,6 +256099,7 @@
 .lolpiccs.blogspot.com
 .lolpol.com
 .lolpol2.com
+.lolpol3.com
 .lolproducciones.itch.io
 .lolsex.eu
 .lolsh.com
@@ -260514,6 +260515,7 @@
 .maal69.com
 .maal69.hot
 .maal69.in
+.maal69.nl
 .maal69.org
 .maal69.party
 .maal69.to

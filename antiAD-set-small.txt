@@ -1,9 +1,9 @@
-# Version: 202609020205
+# Version: 202609020705
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
 # Entries: 62792
-# Last modified: 2026-09-02T02:05:42+0000
+# Last modified: 2026-09-02T07:05:04+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth

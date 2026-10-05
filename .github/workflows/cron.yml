@@ -2,36 +2,61 @@ name: Update and Push Domainswild Files
 
 on:
   schedule:
-    - cron: '0 */3 * * *'
-  workflow_dispatch: 
+    # 避開整點:整點是 GitHub Actions 最擁擠的時段,排程容易延遲或被略過
+    - cron: '17 */3 * * *'
+  workflow_dispatch:
+
+# 只開放 push commit 所需的最小權限
+permissions:
+  contents: write
+
+# 排程與手動觸發不會同時執行,避免 push 衝突
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
 
 jobs:
   update-files:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v6
 
       - name: Download and process domain files
         run: |
-          declare -A files=(
-            ["antiAD-set-small.txt"]="https://raw.githubusercontent.com/sjhgvr/oisd/main/domainswild_small.txt"
-            ["antiAD-set-big.txt"]="https://raw.githubusercontent.com/sjhgvr/oisd/main/domainswild_big.txt"
-            ["antiAD-set-nsfw.txt"]="https://raw.githubusercontent.com/sjhgvr/oisd/main/domainswild_nsfw.txt"
-          )
+          set -euo pipefail
 
-          for file in "${!files[@]}"; do
-            curl -o "$file" "${files[$file]}"
-            sed -i 's/\*\./\./g' "$file"
+          BASE_URL="https://raw.githubusercontent.com/sjhgvr/oisd/main"
+
+          for name in small big nsfw; do
+            out="antiAD-set-${name}.txt"
+
+            # -f:HTTP 錯誤(404/5xx)直接視為失敗,不會把錯誤頁面寫進檔案
+            curl -fsSL --retry 3 --retry-delay 5 \
+              -o "$out" "${BASE_URL}/domainswild_${name}.txt"
+
+            # 內容為空也視為失敗,避免把空檔案 commit 上去
+            if [ ! -s "$out" ]; then
+              echo "::error::${out} 下載內容為空,中止更新"
+              exit 1
+            fi
+
+            sed -i 's/\*\./\./g' "$out"
+            echo "${out}: $(wc -l < "$out") lines"
           done
 
       - name: Commit and push changes
-        uses: EndBug/add-and-commit@v5
-        with:
-          add: '*.txt'  
-          author_name: pikipig
-          author_email: qaqa45194541@gmail.com
-          message: 'Auto update'
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add antiAD-set-*.txt
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Auto update"
+            git push
+          fi

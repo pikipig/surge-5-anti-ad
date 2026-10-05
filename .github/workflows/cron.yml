@@ -54,6 +54,7 @@ jobs:
 
           git add antiAD-set-*.txt
 
+          # 沒有變更就不 commit
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else

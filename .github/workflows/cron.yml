@@ -47,6 +47,65 @@ jobs:
             echo "${out}: $(wc -l < "$out") lines"
           done
 
+      - name: Merge anti-AD list into big list
+        run: |
+          set -euo pipefail
+
+          ANTI_AD_URL="https://raw.githubusercontent.com/privacy-protection-tools/anti-ad/master/anti-ad-surge2.txt"
+          ANTI_AD_FILE="${RUNNER_TEMP}/anti-ad-surge2.txt"
+          MERGED_FILE="antiAD-set-merged.txt"   # 想直接覆蓋 big 的話,改成 antiAD-set-big.txt
+
+          curl -fsSL --retry 3 --retry-delay 5 -o "$ANTI_AD_FILE" "$ANTI_AD_URL"
+          if [ ! -s "$ANTI_AD_FILE" ]; then
+            echo "::error::anti-AD 下載內容為空,中止更新"
+            exit 1
+          fi
+
+          # 合併「已轉成 .domain 格式的 oisd big」與 anti-AD,去重後輸出
+          python3 - antiAD-set-big.txt "$ANTI_AD_FILE" "$MERGED_FILE" <<'PY'
+          import sys
+
+          *sources, out = sys.argv[1:]
+
+          # 行首 "." = 該網域及所有子網域(Surge DOMAIN-SET 語意);無 "." = 完全比對
+          suffix, exact = set(), set()
+          for path in sources:
+              with open(path, encoding="utf-8-sig", errors="ignore") as f:
+                  for line in f:
+                      s = line.strip().lower()
+                      if not s or s[0] in "#!;":      # 註解與空行
+                          continue
+                      if s.startswith("*."):          # 保險:殘留的 *.example.com
+                          s = s[1:]
+                      is_suffix = s.startswith(".")
+                      d = s[1:] if is_suffix else s
+                      if d:
+                          (suffix if is_suffix else exact).add(d)
+
+          def covered(d):
+              """d 的任一上層網域(不含自己)已在 suffix 清單內?"""
+              while "." in d:
+                  d = d.split(".", 1)[1]
+                  if d in suffix:
+                      return True
+              return False
+
+          before = len(suffix) + len(exact)
+          merged = [f".{d}" for d in suffix if not covered(d)]
+          merged += [d for d in exact if d not in suffix and not covered(d)]
+          merged.sort()
+
+          if not merged:
+              sys.exit("merge result is empty")
+
+          with open(out, "w", encoding="utf-8", newline="\n") as f:
+              f.write("#TITLE=antiAD-set-merged (oisd big + anti-AD)\n")
+              f.write(f"#TOTAL_LINES={len(merged)}\n\n")
+              f.write("\n".join(merged) + "\n")
+
+          print(f"unique entries: {before}, after pruning: {len(merged)}")
+          PY
+
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"

@@ -1,9 +1,9 @@
-# Version: 202610202306
+# Version: 202610210410
 # Title: oisd nsfw
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 475427
-# Last modified: 2026-10-20T23:06:48+0000
+# Entries: 475765
+# Last modified: 2026-10-21T04:10:11+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -320,6 +320,7 @@
 .0210211.com
 .021078.com
 .0215868.com
+.02160442811.com
 .021919.com
 .021bst.com
 .021changliang.com
@@ -337,6 +338,7 @@
 .021scg.com
 .021sex.net
 .021tengfeng.com
+.021xihuang.com
 .0221telefonsex.xyz
 .02231355.com
 .022438.com
@@ -804,6 +806,7 @@
 .0731yuqi.com
 .0734auto.com
 .0734ls.com
+.0735cp.com
 .0736sw.com
 .0737cdc.com
 .0743hl.com
@@ -833,6 +836,7 @@
 .0769bts.com
 .0769cst.com
 .0769info.com
+.0769jyw.com
 .0769xinli.com
 .0769yite.com
 .077123.vip
@@ -1764,6 +1768,7 @@
 .1007-live173.com
 .10086.click
 .100863.com
+.10086call.com
 .10086pj.com
 .10086wan.com
 .1008h.com
@@ -2162,6 +2167,7 @@
 .10porn.cc
 .10q.xyz
 .10r.nl
+.10rrr.com
 .10sad-kursk.ru
 .10sebk.com
 .10sexdating.com
@@ -2253,6 +2259,7 @@
 .112688.com.cn
 .11270.com.cn
 .112ap.com
+.112aw.com
 .112ax.com
 .112bd.com
 .112bh.com
@@ -2266,6 +2273,8 @@
 .112gf.com
 .112gh.com
 .112gk.com
+.112gt.com
+.112gw.com
 .112gx.com
 .112gy.com
 .112ha.com
@@ -2274,6 +2283,7 @@
 .112pd.com
 .112pm.com
 .112porn.com
+.112sd.com
 .112sex.de
 .112sexshop.com
 .112sh.com
@@ -2306,6 +2316,7 @@
 .113oo.com
 .113vv.app
 .114089.com
+.114200.org
 .114235222xxx.sbs
 .1144.la
 .1144.net
@@ -2326,15 +2337,20 @@
 .1153x.com
 .1155mu.com
 .11566.cn
+.115xe.com
 .115zz.com
 .1161av.com
 .1165xxx.com
 .1165xxxx.com
 .116816.com.cn
+.116845.com
 .116988.com.cn
 .116delta.lol
+.116ii.com
 .116km.cn
+.116ll.com
 .116mm.com
+.116ts.com
 .116ys.com
 .11755.top
 .117700.xyz
@@ -4656,6 +4672,7 @@
 .19teensex.tv
 .19teentube.com
 .19tension.blogspot.com
+.19tv.shop
 .19webfind.com.cn
 .19wo.top
 .19x55056.blogspot.com
@@ -7003,6 +7020,7 @@
 .272rum.com.cn
 .272sa.com
 .272ww.com
+.27309683.com
 .2730vip.blogspot.com
 .273555.vip
 .273bb.com
@@ -8185,6 +8203,7 @@
 .31vktiadultaww.cfd
 .31vktiadultaz.cyou
 .31vktiadulttrk.cyou
+.31vktipornoalt.cyou
 .31vktipornoalt.shop
 .31vktipornoalty.cyou
 .31vktipornoaww.cfd
@@ -8714,6 +8733,7 @@
 .36612.com
 .36640ee2f614.com
 .366614.xyz
+.3666666.com
 .3668.org.cn
 .3669120.com
 .366porno.net
@@ -13318,6 +13338,7 @@
 .565zz.com
 .5665xxnr.icu
 .566880.com
+.566bb.com
 .566r.com
 .566vv.com
 .567.gay
@@ -13345,6 +13366,7 @@
 .569ku.com
 .569ll.com
 .569un3ils.garden
+.569ww.com
 .56anqing.com
 .56b.xyz
 .56caoaa.com
@@ -13613,6 +13635,7 @@
 .58xkel.garden
 .58xyz.xyz
 .58y.xyz
+.58ybz.com
 .58ydy.cc
 .58yimen.com
 .58zhikao.com
@@ -13642,6 +13665,7 @@
 .591sex.com
 .591topshow.cn
 .591vr.com
+.591vv.com
 .591xe.com
 .591yy.com
 .591zs.com
@@ -13758,6 +13782,7 @@
 .5btsy.com
 .5buckgaydvd.ecrater.com
 .5buu.com
+.5c-limited.com
 .5c3.org
 .5c34.xyz
 .5c66i0.garden
@@ -14532,6 +14557,7 @@
 .642nn.com
 .642tt.com
 .643pp.com
+.643qs.com
 .643tv.com
 .643y5.xyz
 .64410.com
@@ -14558,6 +14584,7 @@
 .64840.top
 .6488u.com
 .648mm.com
+.648oo.com
 .6499a.com
 .649aa.com
 .649kk.com
@@ -14699,6 +14726,7 @@
 .66368.com
 .6636z432.blogspot.com
 .663jjj.com
+.663ll.com
 .663qk.com
 .663qs.com
 .663sp.com
@@ -14912,8 +14940,10 @@
 .674tt.com
 .67511.com
 .675cc.com
+.675ff.com
 .675jj.com
 .675kk.com
+.675ll.com
 .675oo.com
 .675pp.com
 .675xe.com
@@ -15089,6 +15119,7 @@
 .69.ms
 .69.net
 .69001.cc
+.690hh.com
 .690hs.com
 .690tnm.top
 .690ts.com
@@ -15099,6 +15130,7 @@
 .691hs.com
 .691ku.com
 .691ll.com
+.691oo.com
 .691tt.com
 .691yu.com
 .691yy.com
@@ -15106,16 +15138,21 @@
 .6925.info
 .692hs.com
 .692mm.com
+.692qs.com
 .692tt.com
 .692yu.com
 .693785.com
 .693dd.com
+.693ee.com
+.693ff.com
+.693hs.com
 .693ku.com
 .693uu.com
 .693yu.com
 .6942.info
 .694hs.com
 .694j.com
+.694oo.com
 .695hs.com
 .695jj.com
 .695ll.com
@@ -15124,8 +15161,13 @@
 .6969bt.com
 .6969movies.com
 .696vbh.garden
+.696xe.com
 .697238.cc
+.697bb.com
+.697ff.com
+.697hs.com
 .697ku.com
+.697oo.com
 .697uu.com
 .697xe.com
 .697yu.com
@@ -15137,9 +15179,11 @@
 .698999.com.cn
 .698car.com
 .698mm.com
+.698oo.com
 .698pp.com
 .698ss.com
 .698xx.com
+.698yu.com
 .699160.xyz
 .699170.xyz
 .699200.xyz
@@ -15319,6 +15363,7 @@
 .69sextv.net
 .69sexus.com
 .69sexvideos.com
+.69seyu.cc
 .69shadesofsexy.com
 .69shenlan01.com
 .69shenlan02.com
@@ -15795,6 +15840,7 @@
 .6vp.cc
 .6vr2rb.garden
 .6vxe7864y.garden
+.6vxlj.com
 .6w93.top
 .6web.ch
 .6webcam.ch
@@ -16183,6 +16229,7 @@
 .74s0s.com
 .74schools.com
 .74snyr.cfd
+.74tc.com
 .74ub4it.garden
 .74webfind.com.cn
 .74x1.com
@@ -17407,6 +17454,7 @@
 .816o.top
 .816qs.com
 .81750008.com
+.8177xxx.com
 .817ai.com
 .817dd.com
 .817nn.com
@@ -17442,6 +17490,7 @@
 .818hlw2.com
 .818hlw3.com
 .818story.com
+.818sucai.com
 .818ylw.com
 .818yyx.com
 .819042.com
@@ -18378,6 +18427,7 @@
 .89rlm7j53.garden
 .89seaa.com
 .89tm.cc
+.89toto.lol
 .89xxx89.blogspot.com
 .89ybyb.com
 .89yiku.xyz
@@ -19001,6 +19051,7 @@
 .90spornhub.com
 .90w.xyz
 .90webfind.com.cn
+.90xe.com
 .90xiaochu.com
 .90xxx.com
 .90xxxx.com
@@ -19937,6 +19988,7 @@
 .91porn3.xyz
 .91porn30.xyz
 .91porn32.xyz
+.91porn33.com
 .91porn4.co
 .91porn4.com
 .91porn4.love
@@ -21477,6 +21529,7 @@
 .99xj.cc
 .99xnxx.com
 .99xse.com
+.99xsmf.com
 .99xturkporno.site
 .99xxn1.com
 .99xxx.cc
@@ -21775,6 +21828,7 @@
 .9pjflyllcode.xyz
 .9pjhanjooa.xyz
 .9pm.top
+.9poker.lol
 .9porn.com
 .9porn.info
 .9porn.lat
@@ -22780,6 +22834,7 @@
 .aamesco.com
 .aamhw.com
 .aamhw.top
+.aamirm.org
 .aammhh.com
 .aammss.com
 .aamodel.site
@@ -23054,6 +23109,7 @@
 .abceibicii9.blogspot.com
 .abcfrigs.com
 .abcfvq.garden
+.abcgames.store
 .abcgay.free.fr
 .abcglobalfund.com
 .abcherbs.ru
@@ -24940,6 +24996,7 @@
 .acgnsns.com
 .acgnw.top
 .acgooo.com
+.acgsu.net
 .acgsu.vip
 .acgsu1888.xyz
 .acgsu3610.xyz
@@ -24953,6 +25010,8 @@
 .acgsu5700.xyz
 .acgsu5800.xyz
 .acgsu6000.xyz
+.acgsu6100.xyz
+.acgsu6200.xyz
 .acgsu6300.xyz
 .acgsu6400.xyz
 .acgsu6500.xyz
@@ -26176,6 +26235,7 @@
 .adult-china.com
 .adult-china.net
 .adult-chocolate.com
+.adult-cinema-l5l.hsyyw.link
 .adult-cinema-network.net
 .adult-cinemas.com
 .adult-classified.com
@@ -31212,6 +31272,7 @@
 .afpsuncoast.org
 .afq517.com
 .afr698.sbs
+.afr888.com
 .afraid.tjecfkte.cc
 .afraop.com.cn
 .afreedatabase.blogspot.com
@@ -31670,6 +31731,7 @@
 .aglaeagroupfetishandxxx.com
 .aglaeaproductions.com
 .agldq.com
+.aglh-adult-icon.pages.dev
 .agm393.sbs
 .agm548.top
 .agma.lol
@@ -32048,6 +32110,7 @@
 .ahsappanjur.com
 .ahsascool.com
 .ahscrah.com
+.ahsdbtl.com
 .ahsex.top
 .ahsexfilme.com
 .ahshysbz.com
@@ -32635,6 +32698,7 @@
 .ain919.sbs
 .aina.vip
 .ainaguiye.com
+.ainamov.cc
 .ainanhome.com
 .ainbaby.com
 .aincest.com
@@ -32644,6 +32708,7 @@
 .ainijiu.cfd
 .ainijiu.sbs
 .ainiqwu.sbs
+.ainite.com
 .ainiuge.com
 .ainiyagsww.com
 .ainizpl.org.cn
@@ -33026,6 +33091,7 @@
 .airporn.net
 .airportbust.com
 .airportcare11.life
+.airportsterminalsinfo.com
 .airporttransfer.lat
 .airpowerexpo.com
 .airpurifiersspot.com
@@ -33070,6 +33136,7 @@
 .aischepervers.org
 .aischepervers.rocks
 .aischeperversporno.de
+.aise3058.cc
 .aisearches.xyz
 .aiseclub.com
 .aisee-edu.com
@@ -33574,6 +33641,7 @@
 .akiraone.free.fr
 .akirashentai.com
 .akisgrup.online
+.akitacn.cn
 .akitemtudo.blogspot.com
 .akitube-blog.com
 .akiwebcam.blogspot.com
@@ -33697,6 +33765,7 @@
 .akusukalancap.blogspot.com
 .akutten.com
 .akv628.com.cn
+.akvjxr.com.cn
 .akw311.sbs
 .akway.com.cn
 .akwi.top
@@ -34893,6 +34962,7 @@
 .allcompressed-air.blogspot.com
 .allcosplayporn.blogspot.com
 .allcountyescorts.com
+.allcountyservicesnj.com
 .allcourse.online
 .allcoursex.ru
 .allcrackedaccount.blogspot.com
@@ -35608,17 +35678,23 @@
 .allsexdolls.com
 .allsexhub.com
 .allsexinhere.asia
+.allsexinhere.beer
+.allsexinhere.buzz
 .allsexinhereapp.beauty
 .allsexinhereapp.boats
 .allsexinhereapp.bond
+.allsexinhereapp.buzz
 .allsexinherehq.baby
 .allsexinherehq.boats
 .allsexinherehub.baby
 .allsexinherehub.beauty
 .allsexinherehub.bond
+.allsexinherelabs.beauty
 .allsexinherelabs.beer
+.allsexinherelabs.bond
 .allsexinherely.baby
 .allsexinherely.beer
+.allsexinherely.buzz
 .allsexlife.com
 .allsexmoviess.blogspot.com
 .allsexpages.com
@@ -36423,6 +36499,7 @@
 .altyazilimbgr101.shop
 .altyazilipke20.shop
 .altyaziliporno.cfd
+.altyaziliporno.click
 .altyaziliporno.cyou
 .altyaziliporno.org
 .altyaziliporno.sbs
@@ -39963,6 +40040,7 @@
 .amorfilial.com
 .amorhiltonfacialabuse.com
 .amorhot.com
+.amoridealsevilla.com
 .amorlb.com
 .amornofeminino.blogspot.com
 .amornsolar.com
@@ -40086,6 +40164,7 @@
 .amsterdamcash.com
 .amsterdamdorm.com
 .amsterdamdorm.eu
+.amsterdamescort.agency
 .amsterdamescort24.nl
 .amsterdamescorte.com
 .amsterdamescorts.org
@@ -41434,6 +41513,7 @@
 .andayiyuan.com
 .andbeautiespariencias.blogspot.com
 .andchubby.com
+.andeanencounters.com
 .andeesc2.blogspot.com
 .andegy.com.cn
 .andehp.itch.io
@@ -41596,6 +41676,7 @@
 .aneifu.com
 .anekainfo77.blogspot.com
 .anekamalam88.blogspot.com
+.anellapants.xxx
 .anelsex.com
 .anelyslatinaabuse.com
 .aneros.com
@@ -41949,6 +42030,7 @@
 .anhuipm.com
 .anhuishengchao.com.cn
 .anhuixianhua.com
+.anhuoh.com
 .anhydridyasa.blogspot.com
 .anhz30.com.cn
 .ani-chat.net
@@ -42697,6 +42779,7 @@
 .ankora.gg
 .ankosclassroom.blogspot.com
 .ankulo.com
+.anlanhome.com
 .anlatv.cc
 .anleitung-bondage-akt-fotoshooting-video.pages.dev
 .anlemon.cn
@@ -43301,6 +43384,7 @@
 .antalyaescorthatun.xyz
 .antalyaescorthot.com
 .antalyaescorthot2.com
+.antalyaescortla.com
 .antalyaescorto.com
 .antalyaescortportal.com
 .antalyaescorttx.com
@@ -43880,6 +43964,7 @@
 .aodn.top
 .aoduanctdq.com
 .aoe029.sbs
+.aoedgfl.com.cn
 .aoemy.com
 .aoephotos.com
 .aoermasi.com
@@ -44189,6 +44274,7 @@
 .apkgameandroid247.blogspot.com
 .apkgzao.cn
 .apklink9.xyz
+.apkseal.com
 .apksign.org.cn
 .apkstorex.com
 .apktorrent.com
@@ -44344,6 +44430,7 @@
 .appcasa.online
 .appchoice.info
 .appci.info
+.appcjg.com
 .appco.info
 .appcumshot.pages.dev
 .appdsoft.com
@@ -44351,6 +44438,7 @@
 .appealphotography.com
 .appearanceofcomets.com
 .appearemplacp.blogspot.com
+.appearino.lol
 .appearsappod.blogspot.com
 .appedugroup.com
 .appee33.com
@@ -44931,6 +45019,7 @@
 .arabsex1.lat
 .arabsex1.life
 .arabsex1.lol
+.arabsex18xnxx.top
 .arabsex2.click
 .arabsex2.lat
 .arabsex3.click
@@ -44987,6 +45076,7 @@
 .arabsnude.com
 .arabspornsex.com
 .arabssexporn.net
+.arabstore.store
 .arabstraightboys.com
 .arabstreethookers.co.uk
 .arabsx.icu
@@ -45083,6 +45173,7 @@
 .aramax.com.cn
 .aramdotcom.com
 .aramhentai.blogspot.com
+.aramzo.com
 .aran-art.com
 .araneid.cn
 .aranrhod9.blogspot.com
@@ -45166,6 +45257,7 @@
 .archiporno.com
 .archisexy.com
 .architects.ph
+.architecttouser.blog
 .archive-adulte.com
 .archive-dvd.org
 .archive-free-porn.blogspot.com
@@ -45211,6 +45303,7 @@
 .arctica-sk.ru
 .arcticcatparts1st.com
 .arcticcongress.ru
+.arcticpublications.com
 .arcumshot.com
 .arcumshots.com
 .ard271.sbs
@@ -45287,6 +45380,7 @@
 .aremiru-koremiru.com
 .arena-cerita.blogspot.com
 .arena-gay.com
+.arena333.lat
 .arena338.lol
 .arena889.lol
 .arenabokep.com
@@ -45321,6 +45415,7 @@
 .areyougay-zxv43.kinsta.page
 .areyougay.pages.dev
 .areyousorryyet.com
+.areytur.ru
 .arezzochina.com
 .arfandrunning.com
 .arfasoft.com
@@ -45504,6 +45599,7 @@
 .ark064.sbs
 .ark168.com.cn
 .arkabdsm.blogspot.com
+.arkada-casino.lat
 .arkada37.casino
 .arkada7772.lol
 .arkadak.ru
@@ -45979,6 +46075,7 @@
 .artofpleasuringwomen.com
 .artofpunishment.blogspot.com
 .artofscat.com
+.artofscatporn.com
 .artofsex-gallery.blogspot.com
 .artofthebricks.ru
 .artofthegrid.com
@@ -46385,11 +46482,13 @@
 .asblog.biz
 .asbofoot.xyz
 .asbvip.com
+.asce-sacto.org
 .ascend.garden
 .ascendanh.blogspot.com
 .ascertain.garden
 .aschaffenburg-sex-porno-gang-bang.pages.dev
 .aschmannxxx.ru
+.aschxnb.org.cn
 .aschyj.cn
 .asciirange.com
 .asclube.com
@@ -49044,6 +49143,7 @@
 .asiporno5.top
 .asirimp3.com
 .asirvia.com
+.asitopool.com
 .asjcollege.com.cn
 .asjsp.com
 .asjydq.com.cn
@@ -49292,6 +49392,7 @@
 .asrabudasbrazil.blogspot.com
 .asrd6qtqf.garden
 .asrecatadas.com.br
+.asredas.com
 .asrpremium.com
 .asrrt.com
 .asrui.com
@@ -50014,6 +50115,7 @@
 .ateslidusler.blogspot.com
 .ateslihikayee.blogspot.com
 .ateslimaltepeescortkzlar.com
+.atesliporno.click
 .atesliporno.cyou
 .atesliporno.shop
 .ateslipornoaci.cfd
@@ -50218,6 +50320,7 @@
 .atlantweic.garden
 .atlapm.com
 .atlaportal.com
+.atlargexxx.com
 .atlas-security.site
 .atlas79.lol
 .atlas98.uno
@@ -50259,6 +50362,7 @@
 .atom-buy.online
 .atom-casino.gay
 .atom-node.xyz
+.atom138.mom
 .atom138tasmania.lat
 .atomage.co.uk
 .atomanggelturue.blogspot.com
@@ -50354,6 +50458,7 @@
 .attention.garden
 .attention.porn
 .attentionsingles.com
+.attentionuk.org
 .atthelakebandb.com
 .atticuszcurrie1997.blogspot.com
 .attilathemistress.blogspot.com
@@ -50486,6 +50591,7 @@
 .auditingchina.com
 .audition.garden
 .auditionporn.com
+.auditorium.garden
 .audoluv.blogspot.com
 .audreewilhelmy.com
 .audrey-bitoni1.com
@@ -50916,6 +51022,7 @@
 .autobusovenoviny.cz
 .autocard.net.cn
 .autochannelone.com
+.autocrinternational.com
 .autocrot.blogspot.com
 .autodesj.com
 .autodiscover.paidporn.com
@@ -51094,6 +51201,7 @@
 .av-otakara.info
 .av-photograph.com
 .av-porn.cc
+.av-production.jp
 .av-rank.com
 .av-real-review.blogspot.com
 .av-reco.net
@@ -51263,6 +51371,7 @@
 .av524.com
 .av53.top
 .av55-new.com
+.av555.club
 .av555.tv
 .av56.cc
 .av564.com
@@ -51313,9 +51422,11 @@
 .av759.com
 .av77.com
 .av77.idv.tw
+.av777.club
 .av777.me
 .av777.tv
 .av780av.com
+.av789.net
 .av789xx.com
 .av790.xyz
 .av798.com
@@ -51412,6 +51523,7 @@
 .avanicks.com
 .avannaijo.com
 .avanosescort.cfd
+.avanta-financial.site
 .avantajadas.com.br
 .avantajadasbrazil.com
 .avantajados.com
@@ -51919,6 +52031,7 @@
 .avhot47.top
 .avhot48.top
 .avhot49.top
+.avhot5.com
 .avhot5.top
 .avhot50.top
 .avhot51.top
@@ -52081,6 +52194,7 @@
 .avivudiya.com
 .aviwmv.com
 .avizoone.com
+.avj-th.com
 .avj3.com
 .avjapan-uncensored.blogspot.com
 .avjapanhub.com
@@ -52396,13 +52510,23 @@
 .avporn.online
 .avporn.pages.dev
 .avporn1.vip
+.avporn10.vip
+.avporn11.vip
+.avporn12.vip
+.avporn13.vip
+.avporn14.vip
+.avporn15.vip
 .avporn16.vip
+.avporn17.vip
 .avporn18.vip
+.avporn19.vip
 .avporn2.vip
 .avporn20.vip
+.avporn3.vip
 .avporn4.vip
 .avporn5.vip
 .avporn6.vip
+.avporn7.vip
 .avporn8.vip
 .avporn9.pages.dev
 .avporn9.vip
@@ -52535,6 +52659,7 @@
 .avs9.top
 .avsaescort.cfd
 .avsagasu.com
+.avsagasu.jp
 .avsample.jp
 .avsamples.com
 .avsanpuru.com
@@ -52929,6 +53054,7 @@
 .avxtha.com
 .avxtt.com
 .avxwow.com
+.avxx.club
 .avxx.xyz
 .avxx1.top
 .avxx10.top
@@ -53210,6 +53336,7 @@
 .awujb.cn
 .awuqi9612008.blogspot.com
 .aww129.sbs
+.awwyysl.com
 .awxwicp.cn
 .awxxsvb.xyz
 .awxxsvort.forum
@@ -53397,6 +53524,7 @@
 .aybu.net
 .aycdhmjj.com
 .aychastinet.blogspot.com
+.aycicegi.online
 .aycocktail.com
 .ayd4.com
 .aydcqn.net.cn
@@ -53441,6 +53569,7 @@
 .ayfvod.com
 .aygatsss.blogspot.com
 .aygir.org
+.aygqt.com
 .aygxt.com
 .ayh005.sbs
 .ayh195.sbs
@@ -53471,6 +53600,7 @@
 .ayoffice.com
 .ayohanif.blogspot.com
 .ayokagay.com
+.ayongcn.com
 .ayongentot.blogspot.com
 .ayor.com.cn
 .ayorboys.com
@@ -53568,6 +53698,7 @@
 .azbukamusic.ru
 .azbukaporno.net
 .azc8mne3v.garden
+.azclassicjazz.org
 .azcorts.com
 .azcriminaldefenseattorney.com
 .azcuqyz.net.cn
@@ -53667,6 +53798,7 @@
 .aziatskoe-porno.top
 .aziatskoe-porno1.top
 .aziatskoe2.top
+.azikj.com
 .azimutelematika.ru
 .azirfootfetish.blogspot.com
 .azirin.blogspot.com
@@ -53776,6 +53908,7 @@
 .azurproduction.free.fr
 .azuruhx.top
 .azve3timeline.blogspot.com
+.azvkj.com
 .azvspcnc.club
 .azwakeboardassoc.com
 .azwallpapers4u.blogspot.com
@@ -54056,6 +54189,7 @@
 .b99m.com
 .b99njob.com
 .b9aa.com
+.b9ee.com
 .b9gy2f.garden
 .b9k.xyz
 .b9oafr.garden
@@ -54108,6 +54242,7 @@
 .baba7.top
 .baba77.top
 .baba88.top
+.baba89.lol
 .baba9.top
 .babab.xyz
 .babab6.shop
@@ -54122,6 +54257,7 @@
 .babaevlat.site
 .babafilmizlet.com
 .babagay.com
+.babagounverbiqugetxtxiazai.cn
 .babahbcd.cn
 .babajantrd.com
 .babajiaowociaomamaxiaoxinwaipohanyi.org.cn
@@ -54630,6 +54766,7 @@
 .babitasen.com
 .babki.mobi
 .babki.vip
+.babkj.com
 .babkoeb.top
 .babkoeb0.top
 .babliciousbabes.blogspot.com
@@ -55235,6 +55372,7 @@
 .bahanfap.blogspot.com
 .baharain.com
 .bahasalomboktengah.blogspot.com
+.bahcelievlercelikkapitamiri.com.tr
 .bahcelievleregzoz.com
 .bahcelievlerescort.online
 .bahcelievlerescort.org
@@ -55373,6 +55511,7 @@
 .baihehealth.cn
 .baihengzx.com
 .baiheporn66.cc
+.baihua365.com
 .baihuahu.com.cn
 .baihuavideo.com
 .baihuavideo.net
@@ -55418,6 +55557,7 @@
 .baileyraefacialabuse.com
 .baileyrayne.com
 .baileysroom.com
+.bailianxin.com
 .bailinghay.blogspot.com
 .bailingoops.blogspot.com
 .bailingphoto.blogspot.com
@@ -55509,6 +55649,7 @@
 .baishichangkeji.com
 .baishijian.com
 .baishu100.cn
+.baishuang.gay
 .baishuizhou.itch.io
 .baisi.sbs
 .baisorama.com.free.fr
@@ -55527,6 +55668,7 @@
 .baitjhbi.com
 .baitouwong.com
 .baituochuanshangyingfengtongxueyugao.org.cn
+.baituoqingchuanshangdongmanmianfei.cn
 .baiwangzhuangshi.com
 .baiwantui.cn
 .baiwatv.com
@@ -55635,6 +55777,7 @@
 .bakirkoyescortlari.com
 .bakirkoyescorto.com
 .bakirkoyescortportal.com
+.bakirkoyescorts.org
 .bakirkoyescortsitesi.com
 .bakirkoyescortve.com
 .bakirkoyeskort.net
@@ -55932,6 +56075,7 @@
 .bamasiancams.com
 .bamateur.com
 .bamateurs.com
+.bambalinastore.com
 .bambangprie67.blogspot.com
 .bambbwcams.com
 .bamberry01.com
@@ -55940,6 +56084,7 @@
 .bambibimbodoll.com
 .bambiblacks.com
 .bambisleep.blogspot.com
+.bambisleep.chat
 .bambisnowxxx.com
 .bambiwoodsxxx.com
 .bamboogodsandbionicboys.blogspot.com
@@ -56055,6 +56200,7 @@
 .banei6.net.cn
 .banerator.net
 .banetaurus.top
+.banffbride.com
 .banflix.com
 .bang-boat-pics.info
 .bang-boss.net
@@ -56111,6 +56257,7 @@
 .bangamidget.com
 .bangassets.com
 .bangateen.com
+.bangayi.pages.dev
 .bangbabe.live
 .bangbangbang69.blogspot.com
 .bangbangblog.info
@@ -56651,6 +56798,7 @@
 .baoba8.net.cn
 .baobao520.com
 .baobaolianmeng.com
+.baobaoqushi.com
 .baobei.buzz
 .baobei88a.com
 .baobeizou.com
@@ -56658,6 +56806,7 @@
 .baobinhuaheaven.com
 .baobiphuongviet.com
 .baobowang.com
+.baoboydumpling.com
 .baockp.garden
 .baodanb.com
 .baodiqiyuan.com
@@ -56670,6 +56819,7 @@
 .baohu44.com
 .baohushanzhuang.com
 .baoji100.com
+.baojie5856.com
 .baojiexian.com
 .baojiled.com
 .baojuls.com
@@ -56698,6 +56848,7 @@
 .baoruihe.com
 .baoshanparking.cn
 .baoshijiechina.com
+.baoshoudelaopodoubeipianlezenmeban.cn
 .baoshuso.com
 .baossro.com
 .baosujiedianzi.com
@@ -56754,6 +56905,7 @@
 .baralicious-comics.blogspot.com
 .baramaki.xyz
 .baranamezon.com
+.barangay.life
 .baraosports.net
 .baratbokep.com
 .baratisimosexshop.com.ec
@@ -57066,6 +57218,7 @@
 .barginglogistics.com
 .bargirlchat.com
 .bargirlchat.net
+.barhamsoftware.com
 .bari.lol
 .bariatricsurgerycoaching.com
 .barieros.com
@@ -57195,6 +57348,7 @@
 .baserdesires.blogspot.com
 .basevids.com
 .bashable.art
+.bashful.garden
 .bashfulbrittany.com
 .bashfulgirl.com
 .bashgranit.ru
@@ -57210,6 +57364,7 @@
 .basiskeleescortnomad.xyz
 .basiskeleevdenevenakliye.com.tr
 .basiskelenakliye.com.tr
+.basispoint.life
 .basisv.com
 .basitti.com
 .baskaerkeklerlesikisenkadinlar.blogspot.com
@@ -57251,6 +57406,7 @@
 .batangpanjang.forum
 .batangpanjang.store
 .batangtoto88.mom
+.batatoto.lol
 .bataysk-dd.com
 .bataysklust.com
 .bataysksm.com
@@ -57303,6 +57459,7 @@
 .batikentescort.com
 .batiya1.com
 .batman-porno-waldhaus-sprockhvel.pages.dev
+.batman333.lol
 .batman69.lol
 .batmanescort.cfd
 .batmanescort.click
@@ -57335,6 +57492,7 @@
 .battalgaziescortgo.xyz
 .batterbt.com
 .batterupgoodies.com
+.battery.garden
 .battle-golf.site
 .battlebang.com
 .battlebang.net
@@ -57358,6 +57516,7 @@
 .bau724.com
 .baudocearanewsi9.blogspot.com
 .baudodewnloadsi9.blogspot.com
+.bauerleonard.lol
 .bauernkalender.net
 .bauhaus.gay
 .bav146.xyz
@@ -57367,7 +57526,9 @@
 .bav50.cc
 .bav51.cc
 .bav521.xyz
+.bav522.xyz
 .bav524.xyz
+.bav528.xyz
 .bav54.cc
 .bav61.cc
 .bav66.cc
@@ -57401,6 +57562,7 @@
 .baxterhardxxx.com
 .baxzywr.cn
 .bayan.biz
+.bayan06.com
 .bayanarkadasarayanlar.com
 .bayanchat.net
 .bayandenizli.com
@@ -57433,6 +57595,7 @@
 .bayanur.net
 .bayanur.vip
 .bayareadate.net
+.bayareamonitor.org
 .bayatbayen.xyz
 .baybell.cn
 .bayburtescort.cfd
@@ -57483,6 +57646,7 @@
 .bayrampasasrc.com
 .bayreuth-sex-liebesschaukel-stellungen.pages.dev
 .bayreuth-sex-windelfetisch-filme.pages.dev
+.bays5.cn
 .baysalziraialetler.com
 .baysarov.ru
 .baysitesexx.pages.dev
@@ -57510,6 +57674,7 @@
 .bazarparadise.blogspot.com
 .bazhejie.com
 .bazhouchina.com
+.bazhoulongxin.com
 .bazhukovaemiwo.blogspot.com
 .bazilevaicoxydas.blogspot.com
 .bazingacams.com
@@ -57753,6 +57918,7 @@
 .bbagay.com
 .bbaitv.com
 .bbaka.moe
+.bbakj.com
 .bbanglachoti.blogspot.com
 .bbaodai.com
 .bbaporn.com
@@ -57774,6 +57940,7 @@
 .bbav2.top
 .bbav20.com
 .bbav20.top
+.bbav200.com
 .bbav21.top
 .bbav22.top
 .bbav23.top
@@ -57950,6 +58117,7 @@
 .bbdfsw7.xyz
 .bbdh.site
 .bbdingtai.com
+.bbdn6i.garden
 .bbdoll.co.uk
 .bbdoy.cn
 .bbdqg.com
@@ -57994,6 +58162,7 @@
 .bbgfxmx.com
 .bbgm.buzz
 .bbgotoelektrik.com
+.bbgshoe.com
 .bbgxrc.com
 .bbh70.com
 .bbhanman.com
@@ -58003,6 +58172,7 @@
 .bbhwomck.com.cn
 .bbibbiu.com
 .bbin99.net.cn
+.bbjevt.org.cn
 .bbjfjc.com
 .bbjjav.cyou
 .bbjpqrtk.lol
@@ -58039,6 +58209,7 @@
 .bbondage.com
 .bboydany18.blogspot.com
 .bbp880.com
+.bbpoj.cn
 .bbpornteen.com
 .bbppv.com
 .bbpschina.com
@@ -58048,6 +58219,7 @@
 .bbqqgg.com
 .bbqterrorist.blogspot.com
 .bbqzwl.cn
+.bbr86.com
 .bbrazilianporn.blogspot.com
 .bbrdbr.com
 .bbrosex.blogspot.com
@@ -58799,6 +58971,7 @@
 .bcc-china.com
 .bcc1.com.cn
 .bcc9u1n.com
+.bccdeps.com
 .bcchunqiao.com
 .bcckc.org
 .bccporn.com
@@ -58810,7 +58983,9 @@
 .bce848.garden
 .bcebo.com
 .bceif.org
+.bcem8l8ah.garden
 .bcescort.com
+.bcfensuiji.com
 .bcff.cc
 .bcfmzkcctszm367.blogspot.com
 .bcftcwu.cn
@@ -58876,6 +59051,7 @@
 .bctkqtm.garden
 .bctserver.com
 .bctwbzxl.com
+.bcu81v.garden
 .bcukj.cn
 .bcuttr.com
 .bcv005.com
@@ -58932,6 +59108,7 @@
 .bddssm.com
 .bddwz.cn
 .bdenlgf.cn
+.bdeqf7x.garden
 .bdern.com
 .bdescorts.net
 .bdesiree.free.fr
@@ -58958,6 +59135,7 @@
 .bdhousecleaner.com
 .bdhtznkj.com
 .bdhuali.com
+.bdhydp.com
 .bdiizz.com
 .bdimwfporn.pages.dev
 .bdinfernal.blogspot.com
@@ -58997,6 +59175,7 @@
 .bdpsgp.cn
 .bdqinshi.com
 .bdqnbz.com
+.bdqndjxx.com
 .bdr304.sbs
 .bdrxglv.cn
 .bdsex-x.blogspot.com
@@ -59009,6 +59188,7 @@
 .bdsexstory.org
 .bdsextube24.blogspot.com
 .bdsexvideo.com
+.bdsexvideo.site
 .bdsexxvideo.com
 .bdsexyhotphoto.blogspot.com
 .bdsexzone.site
@@ -59409,6 +59589,7 @@
 .bdsm.linkx.club
 .bdsm.lv
 .bdsm.monster
+.bdsm.name
 .bdsm.nl
 .bdsm.one
 .bdsm.pt
@@ -59532,11 +59713,13 @@
 .bdsmay.com
 .bdsmaz.com
 .bdsmb.com
+.bdsmba.com
 .bdsmbadia.com
 .bdsmbang.com
 .bdsmbank.com
 .bdsmbase.com
 .bdsmbay.com
+.bdsmbb.com
 .bdsmbc.com
 .bdsmbd.cn
 .bdsmbd.com
@@ -59551,6 +59734,9 @@
 .bdsmbibliothek.net
 .bdsmbitch.com
 .bdsmblackbook.com
+.bdsmblco.xyz
+.bdsmblco1.xyz
+.bdsmblco6.xyz
 .bdsmbloc.club
 .bdsmbloc.com
 .bdsmbloc.cyou
@@ -60516,6 +60702,7 @@
 .beach-porno-kostenlose-pornos-de.pages.dev
 .beach-public-fuckk.blogspot.com
 .beach-sex25.blogspot.com
+.beach-sound.com
 .beach-spy-eye.com
 .beach-voyeur-nude.blogspot.com
 .beach-watch.blogspot.com
@@ -60930,6 +61117,7 @@
 .beauty-korean-porn.pages.dev
 .beauty-of-american.blogspot.com
 .beauty-pleasure-belarusian.blogspot.com
+.beauty-video8.online
 .beauty-within21.blogspot.com
 .beauty.atw.hu
 .beauty.beer
@@ -61193,6 +61381,7 @@
 .bedavasikispornosux.online
 .bedavasikisxxx.cc
 .bedavaturkceporn.blogspot.com
+.bedavaturkceporno.click
 .bedavaturkceporno.cyou
 .bedavaturkceporno.shop
 .bedavaturkcepornoaci.cfd
@@ -61665,12 +61854,14 @@
 .behavedurls.com
 .behaving-badly-sex-scenes.pages.dev
 .behavior.garden
+.behavizxor.garden
 .beheadedart.com
 .beheader007.blogspot.com
 .beheading.net
 .behind-the-porn.com
 .behind-the-scenes.fr
 .behind-the-scenes1.blogspot.com
+.behind.garden
 .behindcloseddoors.us
 .behindcloseddoorsbybrie.blogspot.com
 .behindelisabethscurtains.blogspot.com
@@ -61741,6 +61932,7 @@
 .beihaibank.com
 .beihaichina.com
 .beihaiguphoto.com
+.beiheihuatiangouredaokuzuixinzhangjie.cn
 .beihuanduanzao.com
 .beijing-mistress-jane.blogspot.com
 .beijing56.cn
@@ -61898,6 +62090,7 @@
 .belamixxx-rated.blogspot.com
 .belang.cn
 .belanova.org
+.belapage.site
 .belas-mulheres-japonesas.blogspot.com
 .belasbh.com
 .belasbucetas.blogspot.com
@@ -61960,6 +62153,8 @@
 .beliar-cos.blogspot.com
 .beliberteen.blogspot.com
 .beliebtewirklichnettblick.blogspot.com
+.believcved.garden
+.believe.garden
 .believed.garden
 .belindanohemysextape.pages.dev
 .belindatv.blogspot.com
@@ -62141,6 +62336,7 @@
 .belly-button-fetish.net
 .belly-stuffing-weight-gain-porn.pages.dev
 .belly.wtf
+.belly1.site
 .bellybutcher.blogspot.com
 .bellyfetish.blogspot.com
 .bellypain.com
@@ -62234,6 +62430,7 @@
 .bendan1.com
 .bendangwu.com.cn
 .bendaotech.com.cn
+.bendery-ga.org
 .bendescort.com
 .bendeshangmeng.com
 .bendi7.net.cn
@@ -62321,6 +62518,7 @@
 .bengdidj.com
 .bengirl.com
 .bengkelbokep.com
+.bengkulutotomacau.lol
 .benglahotchoti.blogspot.com
 .bengojet.com
 .bengou.co
@@ -62328,7 +62526,9 @@
 .beni.xxx
 .beni168.lol
 .beni55.lol
+.beniaminoforestiere.com
 .benidormhotmale.com
+.benign.garden
 .benimsekshikayelerim.blogspot.com
 .benimsexxhikayem.blogspot.com
 .benjamin-porn.org
@@ -62397,6 +62597,7 @@
 .benzbrownxxx.pages.dev
 .benzogeil.nl
 .beoamekeek.sbs
+.beoekdn.net.cn
 .beonweb.ru
 .beoschina.com
 .beosex.com
@@ -63219,6 +63420,7 @@
 .besterotiksite3.life
 .besterotiksite4.blog
 .besterotiksite4.life
+.besterotiksite5.blog
 .besterotiksite5.life
 .besterotiksite6.life
 .besterotiksite7.life
@@ -64113,6 +64315,8 @@
 .bestruporn.com
 .bestscat.com
 .bestscatporn.com
+.bestscatpornsite.com
+.bestscatpornsites.com
 .bestscatpornwebsites.com
 .bestsex.free.fr
 .bestsex.party
@@ -64450,6 +64654,9 @@
 .beszik.hu
 .beszolberserc.blogspot.com
 .bet33.com
+.bet365-th-casino.college
+.bet365-th-casino.institute
+.bet365-th-casino.live
 .bet365-th-casino.wiki
 .bet500.com.cn
 .bet5377.com
@@ -64491,6 +64698,8 @@
 .beteer.net
 .betephp.com
 .betfier.com
+.betflixsathu88.com
+.betflixzoo.com
 .betgaranti2026.com
 .betgit1215.com
 .betgooadres.com
@@ -64521,7 +64730,9 @@
 .beton-sever.ru
 .betonpolitics.financial
 .betonpolitics.media
+.betpasadres1.icu
 .betquick.com
+.betray.garden
 .betsaguncelgiris.com
 .betsbul.com
 .betsdota.net
@@ -64587,6 +64798,7 @@
 .bettystoybox.com
 .betvictor.hs-edge.net
 .betvisa-168porn.online
+.betvisa0.org
 .betwaymoney.co.ke
 .betwaymoney.co.uk
 .betwaymoney.com.ng
@@ -64642,6 +64854,7 @@
 .beurettes.cam
 .beurettes.me
 .beurettes.onlc.fr
+.beurettescatporn.com
 .beurettescoquines.fr
 .beurettessexy.free.fr
 .beurettesvicieuses.free.fr
@@ -64676,6 +64889,7 @@
 .bewarespray.com
 .bewaycare.com
 .bewdfj.com.cn
+.bewilder.garden
 .bewitcheddifference.blogspot.com
 .bewithmilf.com
 .bewlldaosp1dw.buzz
@@ -64700,6 +64914,7 @@
 .beydagescort.cfd
 .beydagescort.com
 .beyerotik.shop
+.beykentescort.com
 .beykentescortatings.online
 .beykentsexshop.com
 .beykoz-escort.com
@@ -64882,7 +65097,9 @@
 .bf495.com
 .bf4you.blogspot.com
 .bf627.sbs
+.bf6cj0e.garden
 .bf8c8a.garden
+.bf8duz2.garden
 .bf954.top
 .bf980.com
 .bfa672.com
@@ -64978,6 +65195,7 @@
 .bfvideo.site
 .bfvideos.cam
 .bfvideos.mom
+.bfvkj.com
 .bfvlrrq.cn
 .bfw6sp.garden
 .bfw907.com
@@ -65039,6 +65257,7 @@
 .bgayshop.com
 .bgbbs.info
 .bgbcnd.top
+.bgbgsbo.cc
 .bgbonusex.co
 .bgbxcx.com
 .bgci.xyz
@@ -65083,6 +65302,7 @@
 .bgporn.com
 .bgporno.net
 .bgpwall.com
+.bgpxjf.garden
 .bgpzblog.blogspot.com
 .bgpzblog.com
 .bgqnc.com
@@ -65110,6 +65330,7 @@
 .bgyfc.cn
 .bgyfdc.com
 .bgyg6q.mom
+.bgyhxa.garden
 .bgylsb.com
 .bgyrc.com
 .bgyxyh.com
@@ -65127,6 +65348,7 @@
 .bh5k5l.garden
 .bh632.sbs
 .bh69.cc
+.bh6uum.garden
 .bh798.com
 .bh991.top
 .bhabhi-centre.blogspot.com
@@ -65250,6 +65472,7 @@
 .bhrxj.com
 .bhsdbbu.cn
 .bhsexo.com.br
+.bhslaughter.com
 .bhsyyxgs.com
 .bhsyzx.org
 .bht468.sbs
@@ -65261,6 +65484,7 @@
 .bhushegwhocenk.blogspot.com
 .bhv947.sbs
 .bhwaco.com
+.bhwbjd.garden
 .bhwomensclub.org
 .bhx798.com
 .bhxghm.com
@@ -65308,6 +65532,8 @@
 .bi03.top
 .bi05.sbs
 .bi23.sbs
+.bi36pb.cfd
+.bi36pb.cyou
 .bi390.sbs
 .bi60.top
 .bi69.com
@@ -65353,7 +65579,9 @@
 .biaomiangaolengshiyouyouxishenyitang.cn
 .biaoqingb.com
 .biaoshop.com.cn
+.biaoyingdz.com
 .biaozhengjichuang.com
+.bias.garden
 .biasedunfair.blogspot.com
 .biasp.net
 .biaspencerpreciosa.blogspot.com
@@ -65463,6 +65691,7 @@
 .bienen-beuten.de
 .bienenstock-heidelberg.de
 .bieni4.net.cn
+.biennial.garden
 .bienvenido696969.blogspot.com
 .bienzorras.com
 .bieqi9.net.cn
@@ -67387,10 +67616,12 @@
 .bii57.com
 .biifedu.com
 .bij2ww.cfd
+.bij2ww.cyou
 .bijiajing.com
 .bijianchuanqi.com
 .bijianjian.com
 .bijiaoba.com.cn
+.bijieren.com
 .bijin1059.com
 .bijinewss.pro
 .bijintim.free.fr
@@ -67653,6 +67884,7 @@
 .bimbolive.com
 .bimbos.se
 .bimbosarebest.blogspot.com
+.bimboscatporn.com
 .bimboseeder.com
 .bimbosexy.free.fr
 .bimboslut.nl
@@ -67746,6 +67978,7 @@
 .bingunion.com
 .bingxiong.vip
 .bingxuangw.com
+.bingzhuzhileng.com
 .binhaicf.com
 .binhailianmeng-bhq.com
 .binhailianmeng-hcq.com
@@ -67764,6 +67997,7 @@
 .binorsemok.net
 .binporn.com
 .binsexy.de
+.bintang68link.lol
 .bintangbokeps.blogspot.com
 .bintangmalam69.blogspot.com
 .bintangpanas.blogspot.com
@@ -67811,6 +68045,7 @@
 .biohazarduncensored.com
 .biohost.info
 .biohoy.xyz
+.biological.garden
 .biologydna-baalajin.blogspot.com
 .biolotem.cn
 .biolux-pro.ru
@@ -67822,6 +68057,7 @@
 .bioncle.com
 .bionicwomanporn.blogspot.com
 .bionixxx.com
+.biopediamedic.com
 .biopetco.com
 .biopixxx.pages.dev
 .bioporno.com
@@ -67855,6 +68091,7 @@
 .bip492.sbs
 .bipapermasalamasti.blogspot.com
 .biparoioeblowzk.blogspot.com
+.bipartisan.garden
 .bipashaa-boobs.blogspot.com
 .bipashabasunaked.blogspot.com
 .bipashabasupic.blogspot.com
@@ -68177,6 +68414,7 @@
 .bisexvideochat.com
 .bisexxx.over-blog.com
 .bisexy.cam
+.bisfhouse.com
 .bishejingxuan7109168.buzz
 .bishibaike.cn
 .bishobisho-manga.com
@@ -68320,6 +68558,7 @@
 .bitcoins.xxx
 .bitcoinsforporn.com
 .bitcoinspost.com
+.bitcoinvip.com
 .bitcoinwebcamsex.com
 .bitcorp.info
 .bite-crado-merde.blogspot.com
@@ -68378,6 +68617,7 @@
 .bitstrix.com
 .bitte-fick-mich.com
 .bitteficken.eu
+.bitter.garden
 .bitterland.hu
 .bitterporn.com
 .bittesex.com
@@ -68566,8 +68806,11 @@
 .bj-feilong.com
 .bj-htvision.com
 .bj-hxhy888.com
+.bj-hytj.com
 .bj-jlc.com.cn
 .bj-jmwy.com
+.bj-mould.com
+.bj-rc.com
 .bj-rzd.com.cn
 .bj-scl.com
 .bj-sjdq.com
@@ -68579,6 +68822,7 @@
 .bj198.com.cn
 .bj1trf.garden
 .bj246.com
+.bj2onz.garden
 .bj2so.com
 .bj3963.com.cn
 .bj3tc3e.com
@@ -68605,6 +68849,7 @@
 .bjasedu.com
 .bjasset.com.cn
 .bjazxr.com
+.bjbaqianmi.com
 .bjbchx.com.cn
 .bjbet88.com
 .bjbhsd.com
@@ -68615,6 +68860,7 @@
 .bjbqzy.com
 .bjbspt.com
 .bjbsq.com
+.bjbyyt.com
 .bjbz999.top
 .bjbzikao.com
 .bjbzw.cc
@@ -68638,6 +68884,7 @@
 .bjczym.com
 .bjd706.sbs
 .bjdbdk.cn
+.bjdclt.com
 .bjdcpawn.com.cn
 .bjddfc.com
 .bjddpf.com
@@ -68680,6 +68927,7 @@
 .bjgcgledu.com
 .bjgdhf.com.cn
 .bjgxb120.com
+.bjgxk.com
 .bjgytf.com
 .bjgz-edu.com
 .bjhamigua.com
@@ -68737,6 +68985,7 @@
 .bjjiruisi.cn
 .bjjiuhuche.com
 .bjjlgyzs.com
+.bjjlljt.com
 .bjjlnk.com
 .bjjqbus.com
 .bjjscm.com
@@ -68744,6 +68993,7 @@
 .bjjtbs.com
 .bjjtwj.com
 .bjjuhejz.com
+.bjjxgd.com
 .bjjxjg.com
 .bjjxrh.com
 .bjjzbx.com
@@ -68799,6 +69049,7 @@
 .bjnej.com
 .bjninghua.com
 .bjnsk.net.cn
+.bjnyaw.com
 .bjolly.com.cn
 .bjouhui.com
 .bjozone.com
@@ -68812,7 +69063,9 @@
 .bjppx.com
 .bjpsp.com
 .bjqasr.com.cn
+.bjqcbf6868.com
 .bjqcl.org
+.bjqd65.cn
 .bjqdht.com
 .bjqggxw.com
 .bjqhfc.com
@@ -68850,6 +69103,7 @@
 .bjsgwqzyls.com
 .bjshenghe.com
 .bjshuai.com.cn
+.bjshunqing.com
 .bjshxt.cn
 .bjshys.com
 .bjslcxx.net
@@ -68862,6 +69116,7 @@
 .bjsupere.com.cn
 .bjswallow.com
 .bjswfgg.com
+.bjswzy.cn
 .bjsy-edu.com
 .bjsydzkj.com
 .bjsyhbjs.com
@@ -68925,14 +69180,18 @@
 .bjxxjjedu.com
 .bjxxmc.net
 .bjxy009.com
+.bjxywxs.com
 .bjxzmxw.com
 .bjxzy.com
 .bjy515.com
+.bjyaotian.com
 .bjyayy.com
 .bjybch.com
 .bjycrh.com
 .bjyfyzs.com
+.bjyhss.com
 .bjyihua.com
+.bjyiyuan55.com
 .bjyjjd.com
 .bjylzy.com
 .bjymw.com
@@ -68963,6 +69222,7 @@
 .bjzhonghan.com
 .bjzjcy.cn
 .bjzjys.com
+.bjzkhj.net.cn
 .bjzks.com
 .bjzmxydk.com
 .bjzrq.com.cn
@@ -68977,6 +69237,7 @@
 .bk1234.com
 .bk296.sbs
 .bk30.sbs
+.bk3meef1y.garden
 .bk3p.baby
 .bk49.top
 .bk4uva.garden
@@ -69028,6 +69289,7 @@
 .bkla1.top
 .bklf3397.xyz
 .bklsd.com
+.bkm.net
 .bknacg.com
 .bkp249.sbs
 .bkpdw757.blogspot.com
@@ -69074,6 +69336,7 @@
 .bl278.top
 .bl338.sbs
 .bl496.sbs
+.bl4cv4p.garden
 .bl613.sbs
 .bl69.net
 .bl78.sbs
@@ -69563,6 +69826,7 @@
 .blackfoxbound.net
 .blackfree.net
 .blackfreepass.com
+.blackfridaydailydealsfontana.com
 .blackfridayporn.com
 .blackfridayporn.fun
 .blackfridayporndeals.club
@@ -69628,6 +69892,7 @@
 .blackgaypornzone.blogspot.com
 .blackgaypower.com
 .blackgays.com
+.blackgayscatporn.com
 .blackgaysex.click
 .blackgaysex.com
 .blackgayshardcore.com
@@ -70064,6 +70329,7 @@
 .blackpussyx.com
 .blackpynk.com
 .blackrasbabyscatporn.com
+.blackraven.org.uk
 .blackrawed.com
 .blackredtube.com
 .blackreignxxx.com
@@ -70514,6 +70780,7 @@
 .blesoyhot25.blogspot.com
 .blessedbeatsmusic.com
 .blessicab.com
+.blessing.garden
 .bletill.com
 .bleuboys.blogspot.com
 .bleuvif.free.fr
@@ -70573,6 +70840,7 @@
 .blissboxlive.com
 .blissbucks.com
 .blissdulcelive.com
+.blissed.biz
 .blissextoys.net
 .blissexy.com
 .blissfullyopen.blogspot.com
@@ -70664,6 +70932,7 @@
 .blockyard.info
 .blocporno.com
 .blocsexe.com
+.bloeddruk.net
 .bloedgeil.blogspot.com
 .blofffs.blogspot.com
 .blog-abg-bugil.blogspot.com
@@ -70904,6 +71173,7 @@
 .blogsforporn.com
 .blogshemale.com
 .blogspotbokep.blogspot.com
+.blogssport.com
 .blogsu.org
 .blogtelenovelas.com
 .blogtesaog.blogspot.com
@@ -71052,6 +71322,7 @@
 .blondesarebest.com
 .blondesbanged.blogspot.com
 .blondesbikinis.blogspot.com
+.blondescatporn.com
 .blondeschick.blogspot.com
 .blondeschicksfucked.blogspot.com
 .blondeschlampe.com
@@ -71349,6 +71620,7 @@
 .blowjobsandfacials.blogspot.com
 .blowjobsbabes.com
 .blowjobscams.com
+.blowjobscatporn.com
 .blowjobscylipstick.blogspot.com
 .blowjobsex.cc
 .blowjobsexfilme.net
@@ -71403,6 +71675,7 @@
 .blowtoons.com
 .blowupsexdolls.com
 .blowvr.com
+.blowxtube.com
 .blowxxx.com
 .blowxxxblog.blogspot.com
 .blowxxxjob.com
@@ -71416,6 +71689,7 @@
 .blq860.sbs
 .blqai.cn
 .blqau.cn
+.blqglue.com
 .blr718.com
 .blresourcesfree.online
 .blrmqti.cn
@@ -71852,6 +72126,7 @@
 .bnulaw.com
 .bnuy.gay
 .bnvrtxzmwpjk.garden
+.bnvrtxzmwpq.garden
 .bnw219.sbs
 .bnwdjn.cn
 .bnwfashion.blogspot.com
@@ -71915,6 +72190,7 @@
 .boarporn.com
 .boasas.com
 .boasegostosassoasmelhores.blogspot.com
+.boast.garden
 .boat77.com
 .boatblowjob.blogspot.com
 .boathd.com
@@ -71981,6 +72257,8 @@
 .bobspornreview.blogspot.com
 .bobstgirls.com
 .bobvision.net
+.bobw82.cfd
+.bobw82.cyou
 .boby114.com
 .bobysexstory.blogspot.com
 .bocadebode.blogspot.com
@@ -72061,6 +72339,7 @@
 .bodrum1x1cdn.shop
 .bodrumacil.com
 .bodrumaft.com
+.bodrumagents.com
 .bodrumalfa.com
 .bodrumambar.org
 .bodrumambarr.com
@@ -72272,6 +72551,7 @@
 .bohaifang.com
 .bohang100.com
 .bohaokeji.top
+.bohcamanti.online
 .bohecha.com
 .bohemiaescort.blogspot.com
 .bohemiaescorts.blogspot.com
@@ -72290,6 +72570,7 @@
 .boibrothel.blogspot.com
 .boicotasp.com.br
 .boil.garden
+.boiler.garden
 .boilergy.co.uk
 .boin.pink
 .boink69.com
@@ -72558,6 +72839,7 @@
 .bokepceritasex.blogspot.com
 .bokepcewek.net
 .bokepchannel.com.de
+.bokepchill.com
 .bokepchina.top
 .bokepchina.vip
 .bokepchinese.blogspot.com
@@ -72848,6 +73130,7 @@
 .bokepindoh.space
 .bokepindoh.study
 .bokepindoh.surf
+.bokepindoh.team
 .bokepindoh.win
 .bokepindoh.world
 .bokepindoh.wtf
@@ -73681,6 +73964,7 @@
 .bomgacams.webcam
 .bomhcs.com
 .bomidoll.com
+.bomlomck.com
 .bomomov.cc
 .bomotv.cc
 .bompornohd.blogspot.com
@@ -74091,6 +74375,7 @@
 .bondageroulette.com
 .bondageryan.com
 .bondagescape.com
+.bondagescatporn.com
 .bondageschool.blogspot.com
 .bondageschweiz.com
 .bondagescreams.com
@@ -74219,6 +74504,7 @@
 .bonedathome.com
 .bonednstoned.blogspot.com
 .boneduc.com
+.bonehfj.freesite.vip
 .bonekan.net
 .bonekanathalia.blogspot.com
 .bonelab-sex-mods.pages.dev
@@ -74902,6 +75188,7 @@
 .bookingmysexx.pages.dev
 .bookingpornstars.com
 .bookitonline.co.uk
+.bookju.com
 .bookmark-tools.com
 .bookmark.cam
 .bookmark.porn
@@ -75135,7 +75422,9 @@
 .boqiledtv.cyou
 .boquetinho.com
 .boraca.com.cn
+.boranzx.com
 .borat2024.lol
+.bordadosexpress.es
 .bordeelsletjes.nl
 .bordel-chat.com
 .bordel-online.com
@@ -75238,6 +75527,7 @@
 .boruihuishou.com
 .boruiqiye.com
 .borum.com.cn
+.boruntuliao.com
 .borutohentai.xyz
 .boruvw.blogspot.com
 .borvar.art
@@ -75263,6 +75553,7 @@
 .bosarchina.com
 .bosboyz.com
 .bosc.adrien.free.fr
+.boscj.cn
 .boseins.over-blog.com
 .bosgoogling.blogspot.com
 .boshancnc.com
@@ -75393,6 +75684,7 @@
 .bother.garden
 .bothersoeeg.blogspot.com
 .bothhandscajon.com
+.bothsides.now
 .bothsidesofcoin.blogspot.com
 .bothyellowanimals.blogspot.com
 .botian-china.com
@@ -75417,11 +75709,13 @@
 .bottle.qmwukgcby.cc
 .bottledream.com
 .bottleguy.com
+.bottlememarket.com
 .bottleporn.net
 .bottlongbouc.blogspot.com
 .bottom-all-the-way.itch.io
 .bottom-pantied-spanked.blogspot.com
 .bottom-sore-spanked.blogspot.com
+.bottom.garden
 .bottomaris.lol
 .bottomclips.com
 .bottomgames.com
@@ -75619,6 +75913,7 @@
 .boxjav.blogspot.com
 .boxjav.com
 .boxjav.net
+.boxktrp.cc
 .boxmap.com.cn
 .boxnude.blogspot.com
 .boxnxx.com
@@ -75838,6 +76133,7 @@
 .boyinginseks1.blogspot.com
 .boyingle.cn
 .boyinschool.com
+.boyiyikao.com
 .boyjackpot.com
 .boyjocks.com
 .boykakke.org
@@ -75941,6 +76237,7 @@
 .boyscamshows.com
 .boyscash.com
 .boyscat.tv
+.boyscatporn.com
 .boysclub2.blogspot.com
 .boyscocksucked.blogspot.com
 .boyscollection.net
@@ -76097,6 +76394,7 @@
 .boyuchuanmei.com
 .boyudfrm.bond
 .boyudianzi.cn
+.boyuezidonghua.com
 .boyutsalnefes.com
 .boyvideotube.com
 .boywankblog.com
@@ -76164,6 +76462,7 @@
 .bpdsoftgel.com
 .bpe.net.cn
 .bpe378.sbs
+.bpelab.com
 .bpf611.sbs
 .bpfcsexv.pages.dev
 .bpfunzq.cn
@@ -76461,6 +76760,7 @@
 .bradyredus.com
 .bradysbbblog.blogspot.com
 .braedenqw.blogspot.com
+.brag.garden
 .bragasexy.es
 .bragx.com
 .braiiz.com
@@ -76570,6 +76870,7 @@
 .brandtsboys.com
 .brandtsboysjordanporn.pages.dev
 .brandvalue.blog
+.brandxarts.com
 .brandxthrive.com
 .brandy-blair.com
 .brandy-cute.blogspot.com
@@ -76577,6 +76878,7 @@
 .brandy-escort.com
 .brandy-ledford-wir.blogspot.com
 .brandy-snifters.blogspot.com
+.brandy.garden
 .brandyddd.blogspot.com
 .brandygames.blogspot.com
 .brandyku.blogspot.com
@@ -76672,6 +76974,7 @@
 .brasilporno.tv
 .brasilpornvideos.com
 .brasilputaria.blogspot.com
+.brasilscatporn.com
 .brasilvr.com
 .brass.garden
 .brasserielouarn.com
@@ -77351,6 +77654,7 @@
 .breastyfunwithterrymental.blogspot.com
 .breath-takers.com
 .breath.agvibdto.cc
+.breath.garden
 .breathless-fetish.tonight-okazu.net
 .breathtakingmales.blogspot.com
 .brech-dd.com
@@ -77389,6 +77693,7 @@
 .breeguildford.blogspot.com
 .breeolson.blogspot.com
 .breeswmkmdgpuyz.blogspot.com
+.breeze.garden
 .breezeexy.blogspot.com
 .breezerslet.nl
 .breezymail.lol
@@ -77488,6 +77793,7 @@
 .brianwilson.net
 .briarrileyporn.pages.dev
 .briarrosesboudoir.com
+.bribe.garden
 .briblossom.com
 .briblossomvipporn.pages.dev
 .bribri27-porn.pages.dev
@@ -77541,6 +77847,7 @@
 .brightcoolpussies.org
 .brightdesire.com
 .brightedge.co
+.brighten.garden
 .brighterdates.com
 .brightescorts.com
 .brightime-wu.com
@@ -77561,6 +77868,7 @@
 .briljantnaporno.com
 .brilliance.college
 .brilliant.ro
+.brim.garden
 .brimindsoft.com
 .brimvale.xyz
 .brinacam.de
@@ -77581,6 +77889,7 @@
 .brinkers.com.cn
 .brinquedos.com.cn
 .brinquedossexuais.pt
+.brinyuk.ru
 .briqwf.blogspot.com
 .bris99.com.au
 .brisaxwillis1999.blogspot.com
@@ -77702,6 +78011,7 @@
 .britishporntubehd.com
 .britishpornvideos.blogspot.com
 .britishpussy.com
+.britishscatporn.com
 .britishsex.com
 .britishsexcams.blogspot.com
 .britishsexchat.com
@@ -77776,6 +78086,7 @@
 .brittanyaporn.pages.dev
 .brittanybakeerporn.pages.dev
 .brittanybardot.com
+.brittanybardotscatporn.com
 .brittanybardotwholepornmovies.pages.dev
 .brittanyblackxxx.com
 .brittanyedwards.net
@@ -77904,6 +78215,7 @@
 .bronnicylust.com
 .bronnicysm.com
 .bronnikovaixewu.blogspot.com
+.bronplan.uno
 .brontobox.com
 .bronwin-aurora-nurse-sex-video-leaked.pages.dev
 .bronwin-aurora-sex-tape.pages.dev
@@ -77916,6 +78228,7 @@
 .bronzeparty.com
 .bronzeporn.com
 .brooch.garden
+.brood.garden
 .brook.garden
 .brooke-ladyofthenight.blogspot.com
 .brooke-marks.blogspot.com
@@ -77951,6 +78264,7 @@
 .brookstonemorganfarm.com
 .brookultrafacialabuse.com
 .brookvbdeaorn.blogspot.com
+.broom.garden
 .brop.com.cn
 .broporn.com
 .broporno.com
@@ -78042,7 +78356,9 @@
 .brownsugarsc1.blogspot.com
 .brownsugarxxx.blogspot.com
 .browntubeporn.com
+.brownwifescatporn.com
 .brownxxx.top
+.browse.garden
 .browse.xxx
 .browseaway.com
 .browsenepal.com
@@ -78483,14 +78799,17 @@
 .btcltt102.com
 .btcltt103.com
 .btcoin.net.cn
+.btcpapu.cc
 .btcporn.blogspot.com
 .btcsexy.xyz
 .btcwebcams.com
 .btcxchina.com
+.btdgsb.com
 .btdtzs.com
 .bteizn.asia
 .btemplate.ru
 .btf093.sbs
+.btff88.com
 .btfox.cyou
 .btfox.icu
 .btfox.one
@@ -78590,6 +78909,7 @@
 .bu798.sbs
 .bu878.com
 .bu879.com
+.bu994fv.garden
 .buah-dada-diremas.blogspot.com
 .buahlel.baby
 .buahlil.forum
@@ -78968,6 +79288,7 @@
 .bukavuonline.com
 .bukbee.com
 .bukbuddies.org
+.bukcwul.top
 .bukeela.com
 .bukeeni.com
 .bukekspogroup.com
@@ -79222,6 +79543,7 @@
 .bumjr.com
 .bumkiss.com
 .bump-around-the-penis.blogspot.com
+.bump.garden
 .bumpcacgov.blogspot.com
 .bumper.lv
 .bumperbuttnjspeue.blogspot.com
@@ -79420,6 +79742,7 @@
 .buracodetatudalayla.blogspot.com
 .buradanbulsana.com
 .buradayenigiris.online
+.burasca.com
 .burasibalikesir.net
 .buratski143.blogspot.com
 .burbankbomber.com
@@ -79494,6 +79817,7 @@
 .burningpornstars.free.fr
 .burningpussy.com
 .burningquestionsaboutbms.com
+.burnish.garden
 .burnmonkey.com
 .burnsex.com
 .burnsporn.com
@@ -79600,6 +79924,7 @@
 .bus756.sbs
 .busanpilates.com
 .busanuhcool.com
+.busawlahventures.com
 .buscadorporno.net
 .buscalobasxxx.blogspot.com
 .buscamujeres.es
@@ -80380,6 +80705,7 @@
 .buttdare.com
 .buttdickandpussy.blogspot.com
 .buttdrops.com
+.butteaters.com
 .butterdog.xyz
 .butterfacegirls.blogspot.com
 .butterfly-tattoos-designsq.blogspot.com
@@ -80719,6 +81045,7 @@
 .bvpci.cn
 .bvphqw.garden
 .bvporno.shop
+.bvqeb1g.garden
 .bvqnjtr.cn
 .bvr3lk.garden
 .bvsexa.sbs
@@ -80933,6 +81260,7 @@
 .bybek.online
 .byblzp.com
 .bybpfhw.com
+.byby1200.com
 .bycasino.film
 .byceecbw.top
 .bycgsru.com.cn
@@ -81107,6 +81435,7 @@
 .bzgzesc.com
 .bzh005.sbs
 .bzhjwy.com
+.bzhksk.com
 .bzhotporns.com
 .bzhzc.com
 .bzhztdd.cn
@@ -81130,6 +81459,7 @@
 .bzpdh.com
 .bzpijhw.cn
 .bzporn.com
+.bzpq0w.garden
 .bzpuoje.org.cn
 .bzq016.sbs
 .bzq035.sbs
@@ -81166,6 +81496,7 @@
 .bzzeb.com
 .bzznws.asia
 .bzzsvideos.blogspot.com
+.c-3investmentcorp.com
 .c-6128.blogspot.com
 .c-a.cc
 .c-ast.com
@@ -81180,6 +81511,7 @@
 .c-fetish.com
 .c-fu.com
 .c-hsoftball.com
+.c-mnsyagg.garden
 .c-mycam.com
 .c-nikki.com
 .c-s-netsuche.de
@@ -81245,6 +81577,7 @@
 .c3oju3.garden
 .c3porn.com
 .c3pp.com
+.c3v26c.garden
 .c416m1emsdq.xyz
 .c4275.xyz
 .c4554.com
@@ -81254,6 +81587,7 @@
 .c4c8.top
 .c4cab.kmexvuoz.cc
 .c4djia.com
+.c4e47ae9j.garden
 .c4fonline.com
 .c4jw7p.info
 .c4malehomemadesextoy.blogspot.com
@@ -81312,6 +81646,7 @@
 .c55i11u.garden
 .c55s.com
 .c561.info
+.c5b7i3.garden
 .c5frc.com
 .c5rq8t.garden
 .c5tcf1.garden
@@ -81441,6 +81776,7 @@
 .cableedu.com
 .cableguysex.com
 .cableng.com
+.cablerush.com
 .cablevideo.nl
 .cabotagecaageg.blogspot.com
 .cabporn.com
@@ -85319,6 +85655,7 @@
 .canadagayrealestateagent.com
 .canadagoosejacka123.blogspot.com
 .canadagottgirls.com
+.canadanena.com
 .canadapornhub.blogspot.com
 .canadasexdate.com
 .canadasexdating.com
@@ -85438,6 +85775,7 @@
 .candacemoon.blogspot.com
 .candacenkraft2006.blogspot.com
 .candacevonvideos.blogspot.com
+.candascompeticion.com
 .candaulisme-libertinage.blogspot.com
 .candauliste.free.fr
 .candeeappleghettogaggers.com
@@ -86559,6 +86897,7 @@
 .cartoonregistry.com
 .cartoons-homo.blogspot.com
 .cartoons-sex.com
+.cartoonscatporn.com
 .cartoonsex.club
 .cartoonsex.com
 .cartoonsex.name
@@ -87841,6 +88180,7 @@
 .ccmillworks.com
 .ccminfo.newdosug.eu
 .ccmonein.com
+.ccmov.cc
 .ccmtu.sbs
 .ccnc.top
 .ccncxw4k.sbs
@@ -367676,7 +368016,6 @@
 .sexkontaktewuppertal.eu
 .sexkontaktex.at
 .sexkontaktfinden.blogspot.com
-.sexkontaktflatrate.ch
 .sexkontaktflatrate.com
 .sexkontaktforum.de
 .sexkontaktgratis.com
@@ -427256,7 +427595,6 @@
 .uuhkd.com
 .uuhr472.com
 .uuhz.top
-.uuieud.org.cn
 .uuii.com.cn
 .uuj65.com
 .uujh4.com
